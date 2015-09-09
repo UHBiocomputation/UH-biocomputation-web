@@ -19,6 +19,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['tag_cloud']
+
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+
 # Blogroll
 #LINKS = (('Disclaimer', 'http://homepages.stca.herts.ac.uk/~nngroup/disclaimer.php'),
 #        )
@@ -32,3 +40,7 @@ THEME = "./pelican-theme-gum"
 
 RELATIVE_URLS = False
 INDEX_SAVE_AS = 'blog_index.html'
+
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 10
+TAG_CLOUD_SORTING = 'random'
