@@ -1,3 +1,4 @@
+""" Settings file. """
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -5,6 +6,7 @@ AUTHOR = u'Dr. Volker Steuber'
 SITENAME = u'UH Biocomputation Group'
 
 PATH = 'content'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -26,6 +28,6 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+THEME = "./pelican-themes/gum"
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
