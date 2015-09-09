@@ -6,7 +6,7 @@ AUTHOR = u'Dr. Volker Steuber'
 SITENAME = u'UH Biocomputation Group'
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images','files']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -31,3 +31,4 @@ DEFAULT_PAGINATION = 10
 THEME = "./pelican-theme-gum"
 
 RELATIVE_URLS = False
+INDEX_SAVE_AS = 'blog_index.html'
