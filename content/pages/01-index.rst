@@ -7,17 +7,20 @@ Biocomputation Group
 
 The Biocomputation Research Group forms part of the Centre for Computer Science and Informatics Research (CCSIR), which is based within the Science and Technology Research Institute (STRI). Research in the Biocomputation Research Group involves the development of computational models to study biological systems, and the application of biologically-inspired machine learning algorithms for the analysis of real-world data. Members of the Biocomputation Group analyse and simulate computational models at different levels of complexity, and collaborate closely with leading experimentalists in the UK and abroad. 
 
-.. image:: ../images/assoc-small.gif
+.. image:: {filename}/images/assoc-small.gif
     :height: 200px
-    :target: ../images/assoc-small.gif
+    :target: {filename}/images/assoc-small.gif
+    :alt: Associative net
 
-.. image:: ../images/BoB.png
+.. image:: {filename}/images/BoB.png
     :height: 200px
-    :target: ../images/BoB.png
+    :target: {filename}/images/BoB.png
+    :alt: BoB
 
-.. image:: ../images/Purkinje_bw.png
+.. image:: {filename}/images/Purkinje_bw.png
     :height: 200px
-    :target: ../images/Purkinje_bw.png
+    :target: {filename}/images/Purkinje_bw.png
+    :alt: Purkinje cell
 
 |
 

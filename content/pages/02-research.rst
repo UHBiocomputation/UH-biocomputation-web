@@ -6,19 +6,21 @@ Research in the Biocomputation Laboratory involves the application of computatio
 
 Research in **Computational Neuroscience** (led by Dr Steuber, in collaboration with Dr Davey, Prof Adams and Dr Schilstra) focuses on the development, simulation and analysis of computational models of neurons and neuronal networks in order to understand information processing in the brain. To constrain and test the models, the Computational Neuroscience Team collaborates closely with world-leading neuroscientists in the UK, France, Japan, Israel, the Netherlands and the USA. The team applies a multi-scale systems biology approach, using models at scales ranging from biochemical processes to neuronal networks and behaviour, and interacting continuously with anatomists, neurophysiologists and biochemists that investigate neuronal systems at multiple levels of description.
 
-.. image:: ../images/2purk_calcium.jpg
+.. image:: {filename}/images/2purk_calcium.jpg
     :height: 200px
-    :target: ../images/2purk_calcium.jpg
+    :target: {filename}/images/2purk_calcium.jpg
     :align: center
+    :alt: Purkinje cell
 
 |
 
 Research in **Computational Systems Biology** is led by Dr Schilstra (in collaboration with Dr Steuber and Prof Nehaniv) and involves the development of visualization and mixed-mode stochastic simulation tools for biochemical reaction networks. Current and potential applications of these tools include basic medical research such as studying the effect of anti-cancer drugs, and the visualization of biological processes for education purposes (in collaboration with the School of Creative Arts at UH).
 
-.. image:: ../images/MoreBoB.png
+.. image:: {filename}/images/MoreBoB.png
     :height: 200px
-    :target: ../images/MoreBoB.png
+    :target: {filename}/images/MoreBoB.png
     :align: center
+    :alt: BoB2
 
 |
 
