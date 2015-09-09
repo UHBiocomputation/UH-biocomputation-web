@@ -20,12 +20,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Disclaimer', 'http://homepages.stca.herts.ac.uk/~nngroup/disclaimer.php'),
-        )
+#LINKS = (('Disclaimer', 'http://homepages.stca.herts.ac.uk/~nngroup/disclaimer.php'),
+#        )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 THEME = "./pelican-theme-gum"
