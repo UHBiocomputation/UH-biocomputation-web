@@ -28,6 +28,6 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
-THEME = "./pelican-themes/gum"
+THEME = "./pelican-theme-gum"
 
 RELATIVE_URLS = False
