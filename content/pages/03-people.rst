@@ -125,7 +125,12 @@ PhD Students
  
 - **Alexander Hocking** |br|
   **Research Interests:**  Machine learning and astronomy
- 
+
+- **Jean Petric** |br|
+  **Research Interests:**  Machine learning and software defect prediction
+
+- **Zaheed Mahmood** |br|
+  **Research Interests:**  Machine learning and software defect prediction
 
 Visiting Research Fellows
 -------------------------
