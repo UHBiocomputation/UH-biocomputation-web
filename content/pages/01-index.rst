@@ -1,5 +1,3 @@
-Biocomputation Group
-####################
 :save_as: index.html
 :URL: index.html
 :slug: 01-index
