@@ -44,6 +44,7 @@ Research in the Biocomputation Group concentrates on the following areas:
 - Algebraic Biology (led by Professor Chrystopher Nehaniv).
 
 Software developed by the group is made available at our `Github repository`_.
+Please do check the `news pages <blog_index.html>`_ for open positions and other updates from the group.
 
 Contact
 -------
@@ -57,8 +58,6 @@ College Lane, Hatfield, Herts AL10 9AB |br|
 Tel +44 (0)1707 284350 |br|
 Fax +44 (0)1707 284303 |br|
 v.steuber AT herts.ac.uk
-
-|
 
 Map
 ---
