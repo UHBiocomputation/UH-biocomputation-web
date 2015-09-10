@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Dr. Volker Steuber'
 SITENAME = u'UH Biocomputation Group'
+SITESUBTITLE = u'The Biocomputation group at the University of Hertfordshire, Hatfield, UK'
 
 PATH = 'content'
 STATIC_PATHS = ['images','files']
