@@ -33,6 +33,8 @@ Research in the Biocomputation Group concentrates on the following areas:
 - Development of Neural Controllers for Agents (led by Professor Rod Adams).
 - Algebraic Biology (led by Professor Chrystopher Nehaniv).
 
+Software developed by the group is made available at our `Github repository`_.
+
 Contact
 -------
 
@@ -50,3 +52,4 @@ Contact
 .. _Dr Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs
 .. _Dr Maria Schilstra: http://homepages.stca.herts.ac.uk/~erdqmjs
 .. _Dr Neil Davey: http://scholar.google.co.uk/citations?user=B64Q_HgAAAAJ&hl=en
+.. _Github repository: https://github.com/UHBiocomputation

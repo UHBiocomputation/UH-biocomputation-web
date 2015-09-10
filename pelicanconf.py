@@ -28,12 +28,13 @@ CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 # Blogroll
-#LINKS = (('Disclaimer', 'http://homepages.stca.herts.ac.uk/~nngroup/disclaimer.php'),
-#        )
+#LINKS = (('UHBiocomputation on Github', 'https://github.com/UHBiocomputation'),
+        #)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+GITHUB_URL = 'https://github.com/UHBiocomputation'
+SOCIAL = (('Github', 'https://github.com/UHBiocomputation'),)
+
 
 DEFAULT_PAGINATION = 10
 THEME = "./pelican-theme-gum"

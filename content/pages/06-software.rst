@@ -1,6 +1,6 @@
 Software
 ########
-:slug: 07-software
+:slug: 06-software
 
 .. image:: {filename}/images/NBprimeLogo.jpg
     :alt: NB prime logo
@@ -16,8 +16,6 @@ Software
 
 - `Competitive Learning Suite`_
     A Java tool that allows the exploration of a variety of competitive learning algorithms including SOMs and Neural Gas.
-
-- `Instructions for running UHNetSim and the competitve learning suite`_.
 
 - Animated Illustrations
     A set of animations created in Flash to illustrate selected neural network concepts.  
