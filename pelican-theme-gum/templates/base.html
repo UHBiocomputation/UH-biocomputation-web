@@ -86,7 +86,7 @@
 
             <div id="navigation" class="navbar row">
               <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
-             
+
               <ul class="columns">
                 <li><a href="{{ SITEURL }}/">Biocomputation Home</a></li>
                 <li><a href="{{ SITEURL }}/blog_index.html">News</a></li>
@@ -105,7 +105,6 @@
                 {% endfor %}
               {% endif %}
             {% endif %}
-
               </ul>
             </div>
 
@@ -119,7 +118,7 @@
 
        <div class="container.nopad bg">
 
-    
+
         <footer id="credits" class="row">
           <div class="seven columns left-center">
 
@@ -138,6 +137,8 @@
           <div class="seven columns">
             <div class="row">
               <ul class="socbtns">
+
+                <li><div class="btn primary"><a href="{{ SITEURL }}/feeds" target="_blank">Feeds</a></div></li>
 
                 {% if GITHUB_URL %}
                 <li><div class="btn primary"><a href="{{ GITHUB_URL }}" target="_blank">UHBiocomputation on Github</a></div></li>
