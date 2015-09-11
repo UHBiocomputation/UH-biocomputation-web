@@ -28,6 +28,14 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
+ARTICLE_PATHS = ['']
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+
+ARCHIVES_SAVE_AS = 'archives.html'
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
+
 # Blogroll
 #LINKS = (('UHBiocomputation on Github', 'https://github.com/UHBiocomputation'),
         #)
