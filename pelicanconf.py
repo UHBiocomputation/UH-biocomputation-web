@@ -9,7 +9,7 @@ SITENAME = u'UH Biocomputation Group'
 PATH = 'content'
 STATIC_PATHS = ['images','files']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
