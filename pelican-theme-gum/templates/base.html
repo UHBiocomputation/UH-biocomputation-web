@@ -3,7 +3,7 @@
 <head>
         {% block head %}
 
-        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <title>{% block title %}{{ SITENAME }} - News{% endblock title %}</title>
         <meta charset="utf-8" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
@@ -88,7 +88,7 @@
               <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
 
               <ul class="columns">
-                <li><a href="{{ SITEURL }}/">Biocomputation Home</a></li>
+                <li><a href="{{ SITEURL }}/"><i class="icon-home"></i></a></li>
                 <li><a href="{{ SITEURL }}/blog_index.html">News</a></li>
 
             {% for title, link in MENUITEMS %}
@@ -136,17 +136,18 @@
 
           <div class="seven columns">
             <div class="row">
-              <ul class="socbtns">
 
-                <li><div class="btn primary"><a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank">Mailing list</a></div></li>
-                <li><div class="btn primary"><a href="{{ SITEURL }}/feeds" target="_blank">Feeds</a></div></li>
+                <div class="btn primary"><a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank"><i class="icon-mail"></i></a></div>
+                <div class="btn primary"><a href="{{ SITEURL }}/feeds" target="_blank"><i class="icon-rss"></i></a></div>
 
                 {% if GITHUB_URL %}
-                <li><div class="btn primary"><a href="{{ GITHUB_URL }}" target="_blank">UHBiocomputation on Github</a></div></li>
+                <div class="btn primary"><a href="{{ GITHUB_URL }}" target="_blank"><i class="icon-github"></i></a></div>
                 {% endif %}
 
+                <!--
+
                 {% if TWITTER_URL %}
-                <li><div class="btn twitter"><a href="{{ TWITTER_URL }}" target="_blank">Twitter</a></div></li>
+                <div class="btn twitter"><a href="{{ TWITTER_URL }}" target="_blank">Twitter</a></div>
                 {% endif %}
 
                 {% if FACEBOOK_URL %}
@@ -156,6 +157,8 @@
                 {% if GOOGLEPLUS_URL %}
                 <li><div class="btn danger"><a href="{{ GOOGLEPLUS_URL }}" target="_blank">Google+</a></div></li>
                 {% endif %}
+
+                -->
 
               </ul>
             </div>

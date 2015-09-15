@@ -1,4 +1,5 @@
 {% extends "index.html" %}
+{% block title %}{{ SITENAME }} - Articles in the category "{{ category|e}}"{% endblock %}
 {% block content_title %}
 <h1><a href="{{ SITEURL }}/categories.html">Category:</a> {{ category|e }}</h1>
 {% endblock %}
