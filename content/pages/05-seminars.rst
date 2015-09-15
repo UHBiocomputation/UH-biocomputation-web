@@ -3,75 +3,37 @@ Seminars
 :slug: 05-seminars
 
 The group hosts a weekly journal club meeting. Please contact me at a.sinha2 AT herts.ac.uk if you have any queries. 
+This is the current rota:
 
-Completed sessions
-==================
-
-Sessions that happened in the past:
-
-+---------+--------------+----------------------------------------------------------------------------------------+----------+
-| **No.** | **Name**     | **Title**                                                                              | **Date** |
-+=========+==============+========================================================================================+==========+
-| 1       | Alex Hocking | `Analysing Hubble Space Telescope Images <{filename}/20150904-journal-club-alex.rst>`_ | 4/9/15   |
-+---------+--------------+----------------------------------------------------------------------------------------+----------+
-| 2       | Cancelled    | NA                                                                                     | 11/9/15  |
-+---------+--------------+----------------------------------------------------------------------------------------+----------+
-
-Future sessions
-================
-
-These are sessions that are planned in the future. The tables will be updated accordingly.
-
-+---------+---------------------------+-----------+-----------+
-| **No.** | **Name**                  | **Title** | **Date**  |
-+=========+===========================+===========+===========+
-| 1       | Ankur Sinha               | TBD       | 18/9/15   |
-+---------+---------------------------+-----------+-----------+
-| 2       | Christoph Metzner         | TBD       | 25/9/15   |
-+---------+---------------------------+-----------+-----------+
-| 3       | Neil Davey                | TBD       | 2/10/15   |
-+---------+---------------------------+-----------+-----------+
-| 4       | Volker Steuber            | TBD       | 9/10/15   |
-+---------+---------------------------+-----------+-----------+
-| 5       | Rene Boekhorst            | TBD       | 16/10/15  |
-+---------+---------------------------+-----------+-----------+
-| 6       | Stella Holtorf            | TBD       | 23/10/15  |
-+---------+---------------------------+-----------+-----------+
-| 7       | Iulia Goncharenko         | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 8       | Cordeiro De Amorim Renato | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 9       | Weam Binjumah             | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 10      | Zaheed Mahmood            | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 11      | Maria Psarrou             | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 12      | Yi Sun                    | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 13      | Kirsty Kidd               | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 14      | Dimitris Bampasakis       | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 15      | Alex Metaxas              | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 16      | Maria Schilstra           | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 17      | Edward Wakelam            | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 18      | Marco Craveiro            | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 19      | Jean Petric               | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 20      | Nathan Beka               | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 21      | Deepak Pandey             | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 22      | Roderick Adams            | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 23      | Parivash Ashrafi          | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 24      | Ronak Bhavsar             | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
-| 25      | Sylvia Beka               | TBD       | next week |
-+---------+---------------------------+-----------+-----------+
+.. csv-table::
+    :header: **#**, **Name**, **Title**, **Date**
+    :widths: 5, 40, 70, 10
+    
+    1, Alex Hocking, `Analysing Hubble Space Telescope Images <{filename}/20150904-journal-club-alex.rst>`_, 4/9/15
+    2, --, Cancelled, 11/9/15 
+    **--**, **--**, **--**, **--**
+    3, Ankur Sinha, --, 18/9/15
+    4, Christoph Metzner, --, 25/9/15
+    5, Neil Davey, --, 2/10/15
+    6, Volker Steuber, --, 9/10/15
+    7, Rene Boekhorst, --, 16/10/15
+    8, Stella Holtorf, --, 23/10/15
+    9, Iulia Goncharenko, --, --
+    10, Cordeiro De Amorim Renato, --, --
+    11, Weam Binjumah, --, --
+    12, Zaheed Mahmood, --, --
+    13, Maria Psarrou, --, --
+    14, Yi Sun, --, --
+    15, Kirsty Kidd, --, --
+    16, Dimitris Bampasakis, --, --
+    17, Alex Metaxas, --, --
+    18, Maria Schilstra, --, --
+    19, Edward Wakelam, --, --
+    20, Marco Craveiro, --, --
+    21, Jean Petric, --, --
+    22, Nathan Beka, --, --
+    23, Deepak Pandey, --, --
+    24, Roderick Adams, --, --
+    25, Parivash Ashrafi, --, --
+    26, Ronak Bhavsar, --, --
+    27, Sylvia Beka, --, --
