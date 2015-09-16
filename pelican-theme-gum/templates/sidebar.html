@@ -33,11 +33,11 @@
 
 {% if tags %}
 <h4>Tags</h4>
-	<ul class="blank">
+	<p class="tagcloud">
 	{% for tag in tag_cloud %}
-	    <li class="tag-{{ tag.1 }}">&nbsp;&nbsp;<a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0|e }}</a></li>
+        <span class="tag-{{ tag.1 }}"><i class="icon-tag icon-large"></i><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></span>
 	{% endfor %}
-</ul>
+</p>
 {% endif %}
 
 

@@ -220,3 +220,24 @@ ul.blank {
 @media only screen and (max-width: 600px) {
   #banner h1 a {font-size:22px!important; line-height:24px;}
 }
+
+.tagcloud {
+  list-style: none;
+    padding: 0;
+}
+
+.tag-1 {
+    font-size: 160%;
+}
+
+.tag-2 {
+    font-size: 130%;
+}
+
+.tag-3 {
+    font-size: 120%;
+}
+
+.tag-4 {
+    font-size: 100%;
+}
