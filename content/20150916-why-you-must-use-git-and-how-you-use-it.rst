@@ -1,4 +1,4 @@
-Why you must use git and how you use it
+Why you must use Git and how you use it
 #######################################
 :date: 2015-09-16 18:55:19
 :author: Ankur Sinha

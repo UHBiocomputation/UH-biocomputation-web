@@ -9,10 +9,10 @@ This is the current rota:
     :header: **#**, **Name**, **Title**, **Date**
     :widths: 5, 40, 70, 10
     
-    1, Alex Hocking, `Analysing Hubble Space Telescope Images <{filename}/20150904-journal-club-alex.rst>`_, 4/9/15
+    1, Alex Hocking, `Analysing hubble space telescope images <{filename}/20150904-journal-club-alex.rst>`_, 4/9/15
     2, --, Cancelled, 11/9/15 
+    3, Ankur Sinha, `Why you must use Git and how you use it <{filename}/20150916-why-you-must-use-git-and-how-you-use-it.rst>`_, 18/9/15
     **--**, **--**, **--**, **--**
-    3, Ankur Sinha, --, 18/9/15
     4, Christoph Metzner, --, 25/9/15
     5, Neil Davey, --, 2/10/15
     6, Volker Steuber, --, 9/10/15
