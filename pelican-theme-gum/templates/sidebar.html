@@ -46,7 +46,7 @@
 <h4>Social</h4>
   <ul class="blank">
   {% for name, url in SOCIAL %}
-    <li>&nbsp;&nbsp;<a href="{{ url|e }}">{{ name }}</a></li>
+  <li><i class="icon-{{ name|lower }}"></i><a href="{{ url|e }}">{{ name }}</a></li>
   {% endfor %}
   </ul>
 </nav>
