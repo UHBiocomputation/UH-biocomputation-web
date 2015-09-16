@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Dr. Volker Steuber'
+AUTHOR = u'Volker Steuber'
 SITENAME = u'UH Biocomputation Group'
 #SITESUBTITLE = u'University of Hertfordshire, Hatfield, UK'
 
