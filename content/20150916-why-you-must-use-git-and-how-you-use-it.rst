@@ -2,7 +2,7 @@ Why you must use Git and how you use it
 #######################################
 :date: 2015-09-16 18:55:19
 :author: Ankur Sinha
-:category: Seminar
+:category: Seminars
 :tags: Git, Software development
 :slug: why-you-must-use-git-and-how-you-use-it
 :summary: Ankur Sinha's journal club session on Git.

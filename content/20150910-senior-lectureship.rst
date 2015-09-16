@@ -1,6 +1,6 @@
 Open Position: Senior Lecturer in Computer Science
 ##################################################
-:author: Dr. Volker Steuber
+:author: Volker Steuber
 :category: Vacancies
 :tags: Open positions
 :date: 2015-09-10 10:00
