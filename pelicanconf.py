@@ -43,7 +43,7 @@ MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 # Social widget
 GITHUB_URL = 'https://github.com/UHBiocomputation'
 SOCIAL = (('Github', 'https://github.com/UHBiocomputation'),
-          ('Mailing list', 'http://lists.herts.ac.uk/mailman/listinfo/com-bio'),)
+         )
 
 
 DEFAULT_PAGINATION = 10
