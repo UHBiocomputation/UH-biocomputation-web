@@ -38,9 +38,14 @@ Research in the Biocomputation Group concentrates on the following areas:
 - Computational Neuroscience (led by `Dr. Volker Steuber`_).
 - Quantitative Modelling in Systems Biology (led by `Dr. Maria Schilstra`_).
 - Neural Networks and Machine Learning (led by `Dr. Neil Davey`_).
-- Bioinformatics (led by Dr. Rene te Boekhorst).
-- Development of Neural Controllers for Agents (led by Professor Rod Adams).
-- Algebraic Biology (led by Professor Chrystopher Nehaniv).
+- Bioinformatics (led by `Dr. Rene te Boekhorst`_).
+- Algebraic Biology (led by `Professor Chrystopher Nehaniv`_).
+
+.. _Dr. Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
+.. _Dr. Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
+.. _Dr. Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
+.. _Dr. Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
+.. _Professor Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
 
 Software developed by the group is made available at our `Github repository`_.
 Please do check the `news pages <blog_index.html>`_ for open positions and other updates from the group.
@@ -72,7 +77,4 @@ Map
 
     <br />
 
-.. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs
-.. _Dr. Maria Schilstra: http://homepages.stca.herts.ac.uk/~erdqmjs
-.. _Dr. Neil Davey: http://scholar.google.co.uk/citations?user=B64Q_HgAAAAJ&hl=en
 .. _Github repository: https://github.com/UHBiocomputation
