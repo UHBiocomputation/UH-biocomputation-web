@@ -2,11 +2,21 @@ Collaborators
 ##############
 :slug: 06-collaborators
 
+*This page is not up to date yet.*
+
 - `Borys Wróbel`_ |br|
   Evolutionary Systems Laboratory |br|
   Institute of Molecular Biology and Biotechnology |br|
   Adam Mickiewicz University |br|
   Poznań, Poland
+
+.. _Borys Wróbel: http://www.evosys.org/
+
+- `Padraig Gleeson`_ |br|
+  Department of Physiology, |br|
+  University College London
+
+.. _Padraig Gleeson: https://iris.ucl.ac.uk/iris/browse/profile?upi=PGLEE72
 
 Software Developed in Collaboration with Other Institutions
 ------------------------------------------------------------
@@ -20,7 +30,6 @@ Software Developed in Collaboration with Other Institutions
     :alt: simple cerebellar network model in neuroConstruct (P. Gleeson) 
 
 .. _neuroConstruct: http://www.neuroconstruct.org/
-.. _Borys Wróbel: http://www.evosys.org/
 
 .. |br| raw:: html
 
