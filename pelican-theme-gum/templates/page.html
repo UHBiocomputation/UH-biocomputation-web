@@ -2,22 +2,20 @@
 {% block title %}{{ SITENAME }} - {{ page.title }}{%endblock%}
 {% block content %}
     <div class="row ">
-        <div class="one column">
-            <ul class="blank center-text ">
-                <li></li>
-                <li></li>
-                <li></li>
-                <li><a href="http://localhost:8000/feeds" target="_blank"><i class="icon-rss"></i></a></li>
-                <li><a href="https://github.com/UHBiocomputation" target="_blank"><i class="icon-github"></i></a></li>
-                <li><a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank"><i class="icon-mail"></i></a></li>
-            </ul>
-        </div>
-        <div class="thirteen columns">
+        <div class="twelve columns">
             <h1><a href="#">{{ page.title }}</a></h1>
         </div>
-            {% import 'translations.html' as translations with context %} 
-            {{ translations.translations_for(page) }}
+        <h3>
+            <div class="two columns column omega">
+                <br />
+                <a href="http://localhost:8000/feeds" target="_blank"><i class="icon-rss"></i></a>
+                <a href="https://github.com/UHBiocomputation" target="_blank"><i class="icon-github"></i></a>
+                <a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank"><i class="icon-mail"></i></a>
+            </div>
+        </h3>
     </div>
 
+    {% import 'translations.html' as translations with context %} 
+    {{ translations.translations_for(page) }}
     {{ page.content }}
 {% endblock %}
