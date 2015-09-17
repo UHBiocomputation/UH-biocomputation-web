@@ -2,8 +2,8 @@ Seminars
 ########
 :slug: 05-seminars
 
-The group hosts a weekly journal club meeting. Please contact me at a.sinha2 AT herts.ac.uk if you have any queries. 
-This is the current rota:
+The biocomputation group hosts a weekly journal club meeting. Please contact Ankur Sinha at a.sinha2 AT herts.ac.uk if you have any queries. 
+Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
 .. csv-table::
     :header: **#**, **Name**, **Title**, **Date**
