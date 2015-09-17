@@ -238,7 +238,7 @@ Previous Group Members
 - `Dimitris Bampasakis`_ |br|
   Research Interests:  Computations performed by cerebellar nucleus neurons
 
-.. _Dimitris Bampasakis: #
+.. _Dimitris Bampasakis: http://www.researchgate.net/profile/Dimitris_Bampasakis
  
 - `Ahmed Otman Abdelmotaleb (with University of Poznan)`_ |br|
   Research Interests:  Evolution of spiking neural networks
