@@ -46,11 +46,6 @@ Core Faculty and Research Staff
 
 .. _Ray Frank: #
  
-- `Steve Hunt`_ |br|
-  Research Interests:  computational neuroscience, neural computation, cognitive science, associative memory, biological models
-
-.. _Steve Hunt: #
- 
 - `Chrystopher Nehaniv`_ |br|
   Research Interests:  algebraic biology, constructive biology, bioinformatics, evolution
 
