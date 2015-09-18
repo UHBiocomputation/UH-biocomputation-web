@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 #SITEURL = 'http://homepages.stca.herts.ac.uk/~nngroup/'
-SITEURL = 'http://ankursinha.in/uh-biocom-demo'
+SITEURL = 'http://biocomputation.herts.ac.uk'
 
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
