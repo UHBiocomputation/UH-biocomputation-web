@@ -2,13 +2,15 @@ SOP for administrators
 #######################
 :author: Ankur Sinha
 :date: 2015-09-19 11:26:14
-:status: hidden
+:category: SOP
+:tags: Git, Pelican 
 :slug: 07-SOP-admins
+:summary: The SOP (standard operating procedure) document for administrators of the website.
 
 Introduction
 -------------
 
-This purpose of this page is to document the steps required to update the UHBiocomputation website.  The steps here apply only to users that have write access to the repository. `There is a different SOP document for non admins <{filename}../pages/08-SOP-nonadmins.rst>`_. The website is generated using a Python tool called Pelican_ which converts the source files into HTML files with the required template design and so on. The sources are kept in the `Github repository`_ so that:
+This purpose of this page is to document the steps required to update the UHBiocomputation website.  The steps here apply only to users that have write access to the repository. `There is a different SOP document for non admins <20150919-SOP-non-admins.rst>`_. The website is generated using a Python tool called Pelican_ which converts the source files into HTML files with the required template design and so on. The sources are kept in the `Github repository`_ so that:
 
 .. _Pelican: http://docs.getpelican.com/en/3.6.3/quickstart.html
 .. _Github repository: https://github.com/UHBiocomputation/UH-biocomputation-web
