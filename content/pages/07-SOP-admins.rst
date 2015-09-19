@@ -44,8 +44,18 @@ You will also need Git installed to get the sources. On Linux variants, Git is a
 
 Git can also be installed on Windows and Mac systems using the `installers available here`_.  The default Git installation provides gitk, but there are `other graphical clients available for install too`_.
 
+To publish using FTP, the Makefile uses the lftp command. This can also be installed on Linux systems quite easily:
+
+.. code:: bash
+
+    $ sudo dnf install lftp #On Fedora
+    $ sudo apt-get install lftp #On Ubuntu variants.
+
+Filezilla_ is an excellent graphical FTP application that can also be used.
+
 .. _installers available here: https://git-scm.com/downloads
 .. _other graphical clients available for install too: https://git-scm.com/downloads/guis
+.. _Filezilla: https://filezilla-project.org/download.php?show_all=1
 
 There are three simple steps required to make updates to the website:
 
