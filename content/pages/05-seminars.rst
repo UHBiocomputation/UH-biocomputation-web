@@ -19,7 +19,7 @@ Abstracts and other material related to these sessions will feature in the `news
     7, Rene Boekhorst, --, 16/10/15
     8, Stella Holtorf, --, 23/10/15
     9, Iulia Goncharenko, --, --
-    10, Cordeiro De Amorim Renato, --, --
+    10, Renato Cordeiro de Amorim, --, --
     11, Weam Binjumah, --, --
     12, Zaheed Mahmood, --, --
     13, Maria Psarrou, --, --

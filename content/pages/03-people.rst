@@ -11,10 +11,10 @@ Core Faculty and Research Staff
 
 .. _Rod Adams: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/roderick-adams(b275ad07-733e-48c9-b71d-9fd70809843a).html
 
-- `Renato Amorim`_ |br|
-  Research Interests:  machine learning
+- `Renato Cordeiro de Amorim`_ |br|
+  Research Interests:  Machine learning. (Particularly problems involving unsupervised or semi-supervised learning, as well as feature weighting)
 
-.. _Renato Amorim: #
+.. _Renato Cordeiro de Amorim: http://homepages.herts.ac.uk/~comqra
 
 - `Rene te Boekhorst`_ |br|
   Research Interests:  bioinformatics, embodied artificial intelligence, biology, dynamical systems, primate social dynamics
