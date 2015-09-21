@@ -2,7 +2,7 @@ Computational psychiatry: bridging the gap between genes and symptoms
 #####################################################################
 :date: 2015-09-21 14:10:30
 :author: Christoph Metzner
-:category: Seminar
+:category: Seminars
 :tags: Computational psychiatry, Computational modelling, Audition, Schizophrenia
 :slug: computational-psychiatry-bridging-the-gap-between-genes-and-symptoms
 :summary: Christoph Metzner's journal club session discussing the field of computational psychiatry and his work on a model of auditory click entrainment deficits in shizophrenic patients. The model incorporates experimentally identified cellular and circuit abnormalities in patients and explores how their interaction might give rise to experimentally observed deficits.
