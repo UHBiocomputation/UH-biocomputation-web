@@ -14,14 +14,14 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=homepages.herts.ac.uk
-FTP_USER=biocom
-FTP_TARGET_DIR=/public_html/
+FTP_USER=biocomp
+FTP_TARGET_DIR=./public_html
 FTP_PORT=21
 
 SSH_HOST=homepages.herts.ac.uk
 SSH_PORT=22
-SSH_USER=biocom
-SSH_TARGET_DIR=./public_html/
+SSH_USER=biocomp
+SSH_TARGET_DIR=./public_html
 
 S3_BUCKET=my_s3_bucket
 
