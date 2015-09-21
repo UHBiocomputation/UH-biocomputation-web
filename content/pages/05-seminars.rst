@@ -7,13 +7,13 @@ Abstracts and other material related to these sessions will feature in the `news
 
 .. csv-table::
     :header: **#**, **Name**, **Title**, **Date**
-    :widths: 5, 40, 70, 10
+    :widths: 5, 35, 85, 10
     
     1, Alex Hocking, `Analysing hubble space telescope images <{filename}/20150904-journal-club-alex.rst>`_, 4/9/15
     2, --, Cancelled, 11/9/15 
     3, Ankur Sinha, `Why you must use Git and how you use it <{filename}/20150916-why-you-must-use-git-and-how-you-use-it.rst>`_, 18/9/15
     **--**, **--**, **--**, **--**
-    4, Christoph Metzner, --, 25/9/15
+    4, Christoph Metzner, `Computational psychiatry: bridging the gap between genes and symptoms <filename/20150921-computational-psychiatry-bridging-the-gap-between-genes-and-symptoms.rst>`_, 25/9/15
     5, Neil Davey, --, 2/10/15
     6, Volker Steuber, --, 9/10/15
     7, Rene Boekhorst, --, 16/10/15
