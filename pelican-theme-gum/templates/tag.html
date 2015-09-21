@@ -1,5 +1,17 @@
 {% extends "index.html" %}
 {% block title %}{{ SITENAME }} - Articles tagged "{{ tag|e }}"{% endblock %}
 {% block content_title %}
-<h1><a href="{{ SITEURL }}/tags.html">Tag:</a> {{ tag|e }}</h1>
+    <div class="row ">
+        <div class="twelve columns">
+            <h1><a href="{{ SITEURL }}/tags.html">Tag:</a> {{ tag|e }}</h1>
+        </div>
+        <h3>
+            <div class="two columns column omega">
+                <br />
+                <a href="{{ SITEURL }}/feeds/tags/{{ tag|lower|replace(' ','-') }}.atom.xml" target="_blank"><i class="icon-rss"></i></a>
+                <a href="https://github.com/UHBiocomputation" target="_blank"><i class="icon-github"></i></a>
+                <a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank"><i class="icon-mail"></i></a>
+            </div>
+        </h3>
+    </div>
 {% endblock %}

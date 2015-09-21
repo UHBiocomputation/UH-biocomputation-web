@@ -1,6 +1,18 @@
 {% extends "index.html" %}
 {% block title %}{{ SITENAME }} - Articles in the category "{{ category|e}}"{% endblock %}
 {% block content_title %}
-<h1><a href="{{ SITEURL }}/categories.html">Category:</a> {{ category|e }}</h1>
+    <div class="row ">
+        <div class="twelve columns">
+            <h1><a href="{{ SITEURL }}/categories.html">Category:</a> {{ category|e }}</h1>
+        </div>
+        <h3>
+            <div class="two columns column omega">
+                <br />
+                <a href="{{ SITEURL }}/feeds/categories/{{ category|lower }}.atom.xml" target="_blank"><i class="icon-rss"></i></a>
+                <a href="https://github.com/UHBiocomputation" target="_blank"><i class="icon-github"></i></a>
+                <a href="http://lists.herts.ac.uk/mailman/listinfo/com-bio" target="_blank"><i class="icon-mail"></i></a>
+            </div>
+        </h3>
+    </div>
 {% endblock %}
 
