@@ -9,8 +9,14 @@ Publications
 .. _BMC Neuroscience: http://www.biomedcentral.com/bmcneurosci
 .. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
 .. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
+.. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
 .. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
 .. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
+.. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
+.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
+.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
+.. _Nature: http://www.nature.com/nature/index.html
+.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 
 2015
 -----
@@ -55,7 +61,7 @@ Publications
 
 - `Synaptic plasticity and pattern recognition in cerebellar Purkinje cells <http://dx.doi.org/10.1007/978-1-4614-8094-5_26>`__ |br|
   De Sousa, G., Maex, R., Adams, R., Davey, N. & Steuber, V. |br|
-  2014 in The Computing Dendrite. Torben-Nielsen, B., Remme, M. & Cuntz, H. (eds.). Springer, p. 433-448 (Springer Series in Computational Neuroscience; vol. 11)
+  2014 in The Computing Dendrite. Torben-Nielsen, B., Remme, M. & Cuntz, H. (eds.). Springer, p. 433-448 (`Springer Series in Computational Neuroscience`_; vol. 11)
 
 
 2013
@@ -91,7 +97,7 @@ Publications
 
 - `Evolution of Dendritic Morphologies Using Deterministic and Nondeterministic Genotype to Phenotype Mapping <http://dx.doi.org/10.1007/978-3-642-40728-4_40>`__ |br|
   Alva, P., De Sousa, G., Torben-Nielsen, B., Maex, R., Adams, R., Davey, N. & Steuber, V. |br|
-  2013 Artificial `Neural Networks`_ and Machine Learning: ICANN 2013. Springer, p. 319-326 (Lecture Notes in Computer Science; vol. 8131)
+  2013 in Artificial Neural Networks and Machine Learning: ICANN 2013. Springer, p. 319-326 (`Lecture Notes in Computer Science`_; vol. 8131)
 
 - `Filamentous actin binding enables betaCaMKII to regulate bidirectional plasticity in cerebellar Purkinje cells <http://dx.doi.org/10.1186/1471-2202-14-S1-P375>`__  - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2836899/906601.pdf>`__ |br|
   Pinto, T. M., Schilstra, M. & Steuber, V. |br|
@@ -113,17 +119,108 @@ Publications
 2012
 ----
 
+- `Evolving dendritic morphology and parameters in biologically realistic model neurons for pattern recognition <http://dx.doi.org/10.1007/978-3-642-33269-2_45>`__ |br|
+  De Sousa, G., Maex, R., Adams, R., Davey, N. & Steuber, V. |br|
+  2012 in `Lecture Notes in Computer Science`_ (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Springer, Vol. 7552 LNCS, p. 355-362 8 p.
+
+- `NeuroML <#>`__  |br|
+  Gleeson, P., Steuber, V., Silver, A. & Crook, S. |br|
+  2012 in `Computational Systems Neurobiology`_. Le Novere, N. (ed.). Springer, p. 489-518
+
+- `The Open Source Brain Initiative: enabling collaborative modelling in computational neuroscience <http://dx.doi.org/10.1186/1471-2202-13-S1-O7>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837109/906609.pdf>`__ |br|
+  Gleeson, P., Piasini, E., Crook, S., Cannon, R., Steuber, V., Jaeger, D., Solinas, S., D'Angelo, E. & Silver, R. A. |br|
+  2012 in `BMC Neuroscience`_. 13, Supp 1, 2 p., O7
+
+- `The effect of different types of synaptic plasticity on the performance of associative memory networks with excitatory and inhibitory sub-populations <http://dx.doi.org/10.1007/978-3-642-28792-3_18>`__ |br|
+  Metaxas, A., Maex, R., Steuber, V., Adams, R. & Davey, N. |br|
+  2012 in `Lecture Notes in Computer Science`_ (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Springer, Vol. 7223 LNCS, p. 136-142 7 p.
+
+- `The effective calcium/calmodulin concentration determines the sensitivity of CaMKII to the frequency of calcium oscillations <http://dx.doi.org/10.1007/978-3-642-28792-3_17>`__ |br|
+  Pinto, T. M., Schilstra, M. & Steuber, V. |br|
+  2012 in `Lecture Notes in Computer Science`_ (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Vol. 7223 LNCS, p. 131-135 5 p.
 
 2011
 ----
+
+- `Clustering predicts memory performance in networks of spiking and non-spiking neurons <http://dx.doi.org/10.3389/fncom.2011.00014>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1416215/905361.pdf>`__ |br|
+  Chen, W., Maex, R., Adams, R. G., Steuber, V., Calcraft, L. & Davey, N. |br|
+  2011 in `Frontiers in Computational Neuroscience`_. 5, 14
+
+- `Determinants of synaptic integration and heterogeneity in rebound firing explored with data-driven models of deep cerebellar nucleus cells <http://dx.doi.org/10.1007/s10827-010-0282-z>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479719/904411.pdf>`__ |br|
+  Steuber, V., Schultheiss, N. W., Silver, R. A., De Schutter, E. & Jaeger, D. |br|
+  2011 in `Journal of Computational Neuroscience`_. 30, 3, p. 633-658
+
+- `Non-specific LTD at parallel fibre - Purkinje cell synapses in cerebellar cortex provides robustness against local spatial noise during pattern recognition <http://dx.doi.org/10.1186/1471-2202-12-S1-P314>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837861/906761.pdf>`__ |br|
+  Safaryan, K., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
+  2011 in `BMC Neuroscience`_. 12, Supp 1, 1 p., P314
+
+- `STD-dependent and independent encoding of input irregularity as spike rate in a computational model of a cerebellar nucleus neuron <http://dx.doi.org/10.1007/s12311-011-0295-9>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479875/LuthmanCerebellum2011.pdf>`__ |br|
+  Luthman, J., Hoebeek, F. E., Maex, R., Davey, N., Adams, R., De Zeeuw, C. I. & Steuber, V. |br|
+  2011 in Cerebellum. 10, 4, p. 667-682
+
+- `The Beneficial Effects of Non-specific Synaptic Plasticity for Pattern Recognition in Auto-associative Memory <http://dx.doi.org/10.1186/1471-2202-12-S1-P316>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837163/906611.pdf>`__ |br|
+  Calcraft, L., Maex, R., Davey, N. & Steuber, V. |br|
+  2011 in `BMC Neuroscience`_. 12, Supp 1, 2 p., P316
+
+- `The effect of dendritic morphology on pattern recognition in the presence of active conductances <http://dx.doi.org/10.1186/1471-2202-12-S1-P315>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837399/906759.pdf>`__ |br|
+  De Sousa, G., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
+  2011 in `BMC Neuroscience`_. 12, Supp 1, 2 p., P315
 
 
 2010
 ----
 
+- `Computer Simulation Environments <#>`__  |br|
+  Gleeson, P., Silver, A. & Steuber, V.  |br|
+  2010 in Hippocampal Microcircuits: A Computational Modeler's Resource Book. Cutsuridis, V., Graham, B., Cobb, S. & Vida, I. (eds.). Springer, p. 593-606 (`Springer Series in Computational Neuroscience`_)
+
+- `Evolution of bistable dynamics in spiking neural controllers for agents performing olfactory attraction and aversion <http://dx.doi.org/10.1186/1471-2202-11-S1-P92>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2838036/906764.pdf>`__ |br|
+  Oros, N., Steuber, V., Davey, N., Cañamero, L. & Adams, R. G. |br|
+  2010 in `BMC Neuroscience`_. 11, Supp 1, 1 p., P92
+
+- `Optimization of neuronal morphologies for pattern recognition <http://dx.doi.org/10.1186/1471-2202-11-S1-P80>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837977/906763.pdf>`__ |br|
+  De Sousa, G., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
+  2010 in `BMC Neuroscience`_. 11, Supp 1, 1 p., P80
+
+- `The effect of non-specific LTD on pattern recognition in cerebellar Purkinje cells <http://dx.doi.org/10.1186/1471-2202-11-S1-P118>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837911/906762.pdf>`__ |br|
+  Safaryan, K., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
+  2010 in `BMC Neuroscience`_. 11, Supp 1, 1 p., P118
 
 2009
 ----
+
+- `Connection Strategies in Associative Memory Models <http://dx.doi.org/10.1007/978-3-642-04921-7_5>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94384/903597.pdf>`__ |br|
+  Chen, W., Maex, R., Adams, R. G., Calcraft, L., Steuber, V. & Davey, N. |br|
+  2009 in `Lecture Notes in Computer Science`_. 5495, p. 42-51
+
+- `Decoding of Purkinje cell pauses by deep cerebellar nucleus neurons <http://dx.doi.org/10.1186/1471-2202-10-S1-P105>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1558108/904839.pdf>`__ |br|
+  Luthman, J., Adams, R., Davey, N., Maex, R. & Steuber, V. |br|
+  2009 in `BMC Neuroscience`_. Supp 1 ed. BioMed Central, Vol. 10, p. P105
+
+- `Evolution of bilateral symmetry in agents controlled by spiking neural networks <http://dx.doi.org/10.1109/ALIFE.2009.4937702>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/457405/903562.pdf>`__ |br|
+  Oros, N., Steuber, V., Davey, N., Cañamero, L. & Adams, R. G. |br|
+  2009 in Procs IEEE Symposium on Artificial Life: IEEE ALife '09. IEEE, p. 116-123
+
+- `Patterns and pauses in Purkinje cell simple spike trains: experiments, modeling and theory <http://dx.doi.org/10.1016/j.neuroscience.2009.02.040>`__  |br|
+  De Schutter, E. & Steuber, V. |br|
+  2009 in Neuroscience_. 162, 3, p. 816-826
+
+- `Synaptic depression enables neuronal gain control <http://dx.doi.org/10.1038/nature07604>`__ |br|
+  Rothman, J. S., Cathala, L., Steuber, V. & Silver, R. A. |br|
+  2009 in Nature_. 457, p. 1015-1018
+
+- `The Effect of Different Forms of Synaptic Plasticity on Pattern Recognition in the Cerebellar Cortex <http://dx.doi.org/10.1007/978-3-642-04921-7_42>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94098/903599.pdf>`__ |br|
+  de Sousa, G., Adams, R. G., Davey, N., Maex, R. & Steuber, V. |br|
+  2009 in `Lecture Notes in Computer Science`_. 5495, p. 413-422
+
+- `The first second: Models of short-term memory traces in the brain <http://dx.doi.org/10.1016/j.neunet.2009.07.022>`__ |br|
+  Maex, R. & Steuber, V. |br|
+  2009 in `Neural Networks`_. 22, 8, p. 1105-12
+
+- `The role of lateral inhibition in the sensory processing in a simulated spiking neural controller for a robot <http://dx.doi.org/10.1109/ALIFE.2009.4937710>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/100293/903561.pdf>`__ |br|
+  Bowes, D., Adams, R. G., Cañamero, L., Steuber, V. & Davey, N. |br|
+  2009 IEEE Symposium on Artificial Life, 2009, ALife '09. IEEE, p. 179-183
+
 
 .. |br| raw:: html
 
