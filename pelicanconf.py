@@ -7,7 +7,10 @@ SITENAME = u'UH Biocomputation Group'
 #SITESUBTITLE = u'University of Hertfordshire, Hatfield, UK'
 
 PATH = 'content'
-STATIC_PATHS = ['images','files']
+STATIC_PATHS = ['images','files', 'extras/favicon.ico']
+EXTRA_PATH_METADATA = {
+        'extras/favicon.ico': {'path':'favicon.ico'}
+}
 
 TIMEZONE = 'Europe/London'
 
