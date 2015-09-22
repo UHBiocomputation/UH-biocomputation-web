@@ -189,7 +189,7 @@ PhD Students
 - `Zaheed Mahmood`_ |br|
   Research Interests:  Machine learning and software defect prediction
 
-.. _Zaheed Mahmood: #
+.. _Zaheed Mahmood: http://www.openml.org/u/571
 
 - `Marco Craveiro`_ |br|
   Research Interests:  Computational modelling, computational neuroscience
