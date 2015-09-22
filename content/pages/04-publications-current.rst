@@ -17,6 +17,7 @@ Publications
 .. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
 .. _Nature: http://www.nature.com/nature/index.html
 .. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
+.. _Neuron: http://www.cell.com/neuron/home
 
 2015
 -----
@@ -79,7 +80,7 @@ Publications
   Bampasakis, D., Maex, R., Davey, N. & Steuber, V. |br|
   Jul 2013 in `BMC Neuroscience`_. 14, Supp 1, 2 p., P374
 
-- `A Defined Heteromeric KV1 Channel Stabilizes the Intrinsic Pacemaking and Regulates the Efferent Code of Deep Cerebellar Nuclear Neurons to Thalamic Targets <http://dx.doi.org/10.1113/jphysiol.2012.249706>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1604648/904854.pdf>`__ |br|
+- `A Defined Heteromeric KV1 Channel Stabilizes the Intrinsic Pacemaking and Regulates the Efferent Code of Deep Cerebellar Nuclear Neurons to Thalamic Targets <http://dx.doi.org/10.1113/jphysiol.2012.249706>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1604648/904854.pdf>`__ |br|
   Ovsepian, S., Steuber, V., Le Berre, M., O'Hara, L., O'Leary, V. & Dolly, O. |br|
   Apr 2013 in Journal of Physiology. 591, p. 1771-1791
 
@@ -142,11 +143,11 @@ Publications
 2011
 ----
 
-- `Clustering predicts memory performance in networks of spiking and non-spiking neurons <http://dx.doi.org/10.3389/fncom.2011.00014>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1416215/905361.pdf>`__ |br|
+- `Clustering predicts memory performance in networks of spiking and non-spiking neurons <http://dx.doi.org/10.3389/fncom.2011.00014>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1416215/905361.pdf>`__ |br|
   Chen, W., Maex, R., Adams, R. G., Steuber, V., Calcraft, L. & Davey, N. |br|
   2011 in `Frontiers in Computational Neuroscience`_. 5, 14
 
-- `Determinants of synaptic integration and heterogeneity in rebound firing explored with data-driven models of deep cerebellar nucleus cells <http://dx.doi.org/10.1007/s10827-010-0282-z>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479719/904411.pdf>`__ |br|
+- `Determinants of synaptic integration and heterogeneity in rebound firing explored with data-driven models of deep cerebellar nucleus cells <http://dx.doi.org/10.1007/s10827-010-0282-z>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479719/904411.pdf>`__ |br|
   Steuber, V., Schultheiss, N. W., Silver, R. A., De Schutter, E. & Jaeger, D. |br|
   2011 in `Journal of Computational Neuroscience`_. 30, 3, p. 633-658
 
@@ -154,7 +155,7 @@ Publications
   Safaryan, K., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
   2011 in `BMC Neuroscience`_. 12, Supp 1, 1 p., P314
 
-- `STD-dependent and independent encoding of input irregularity as spike rate in a computational model of a cerebellar nucleus neuron <http://dx.doi.org/10.1007/s12311-011-0295-9>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479875/LuthmanCerebellum2011.pdf>`__ |br|
+- `STD-dependent and independent encoding of input irregularity as spike rate in a computational model of a cerebellar nucleus neuron <http://dx.doi.org/10.1007/s12311-011-0295-9>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1479875/LuthmanCerebellum2011.pdf>`__ |br|
   Luthman, J., Hoebeek, F. E., Maex, R., Davey, N., Adams, R., De Zeeuw, C. I. & Steuber, V. |br|
   2011 in Cerebellum. 10, 4, p. 667-682
 
@@ -189,7 +190,7 @@ Publications
 2009
 ----
 
-- `Connection Strategies in Associative Memory Models <http://dx.doi.org/10.1007/978-3-642-04921-7_5>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94384/903597.pdf>`__ |br|
+- `Connection Strategies in Associative Memory Models <http://dx.doi.org/10.1007/978-3-642-04921-7_5>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94384/903597.pdf>`__ |br|
   Chen, W., Maex, R., Adams, R. G., Calcraft, L., Steuber, V. & Davey, N. |br|
   2009 in `Lecture Notes in Computer Science`_. 5495, p. 42-51
 
@@ -197,7 +198,7 @@ Publications
   Luthman, J., Adams, R., Davey, N., Maex, R. & Steuber, V. |br|
   2009 in `BMC Neuroscience`_. Supp 1 ed. BioMed Central, Vol. 10, p. P105
 
-- `Evolution of bilateral symmetry in agents controlled by spiking neural networks <http://dx.doi.org/10.1109/ALIFE.2009.4937702>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/457405/903562.pdf>`__ |br|
+- `Evolution of bilateral symmetry in agents controlled by spiking neural networks <http://dx.doi.org/10.1109/ALIFE.2009.4937702>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/457405/903562.pdf>`__ |br|
   Oros, N., Steuber, V., Davey, N., Cañamero, L. & Adams, R. G. |br|
   2009 in Procs IEEE Symposium on Artificial Life: IEEE ALife '09. IEEE, p. 116-123
 
@@ -209,7 +210,7 @@ Publications
   Rothman, J. S., Cathala, L., Steuber, V. & Silver, R. A. |br|
   2009 in Nature_. 457, p. 1015-1018
 
-- `The Effect of Different Forms of Synaptic Plasticity on Pattern Recognition in the Cerebellar Cortex <http://dx.doi.org/10.1007/978-3-642-04921-7_42>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94098/903599.pdf>`__ |br|
+- `The Effect of Different Forms of Synaptic Plasticity on Pattern Recognition in the Cerebellar Cortex <http://dx.doi.org/10.1007/978-3-642-04921-7_42>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94098/903599.pdf>`__ |br|
   de Sousa, G., Adams, R. G., Davey, N., Maex, R. & Steuber, V. |br|
   2009 in `Lecture Notes in Computer Science`_. 5495, p. 413-422
 
@@ -217,7 +218,7 @@ Publications
   Maex, R. & Steuber, V. |br|
   2009 in `Neural Networks`_. 22, 8, p. 1105-12
 
-- `The role of lateral inhibition in the sensory processing in a simulated spiking neural controller for a robot <http://dx.doi.org/10.1109/ALIFE.2009.4937710>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/100293/903561.pdf>`__ |br|
+- `The role of lateral inhibition in the sensory processing in a simulated spiking neural controller for a robot <http://dx.doi.org/10.1109/ALIFE.2009.4937710>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/100293/903561.pdf>`__ |br|
   Bowes, D., Adams, R. G., Cañamero, L., Steuber, V. & Davey, N. |br|
   2009 IEEE Symposium on Artificial Life, 2009, ALife '09. IEEE, p. 179-183
 

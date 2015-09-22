@@ -5,13 +5,71 @@ Publications - Archive
 
 **Note**: `Work that was published after 2009 can be found here. <{filename}/pages/04-publications-current.rst>`_
 
+.. Defining the most frequent journals so we can link to their homepages. Please see the other entries and add yours accordingly (this is a comment)
+
+.. _BMC Neuroscience: http://www.biomedcentral.com/bmcneurosci
+.. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
+.. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
+.. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
+.. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
+.. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
+.. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
+.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
+.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
+.. _Nature: http://www.nature.com/nature/index.html
+.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
+.. _Neuron: http://www.cell.com/neuron/home
+
 2008
 ----
+
+- `Computational Intelligence in Electrophysiology: Trends and Open Problems <http://dx.doi.org/10.1007/978-3-540-78534-7_14>`__ |br|
+  Gunay, C., Smolinski, T. G., Lytton, W. W., Morse, T. M., Gleeson, P., Crook, S., Steuber, V., Silver, R. A., Voicu, H., Andrews, P., Bokil, H., Maniar, H., Loader, C., Mehta, S., Kleinfeld, D., Thomson, D., Mitra, P. P., Aaron, G. & Fellous, J-M. |br|
+  2008 Studies in Computational Intelligence Vol.122 : Applications of Computational Intelligence in Biology. Springer, p. 325-359
+
+- `Connectivity graphs and the performance of sparse associative memory models <http://dx.doi.org/10.1109/IJCNN.2008.4634183>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/456966/902638.pdf>`__ |br|
+  Chen, W., Adams, R. G., Calcraft, L., Steuber, V. & Davey, N. |br|
+  2008 Procs IEEE Int Joint Conf on Neural Networks: IJCNN 2008. IEEE, p. 2742-2749
+
+- `Determinants of pattern recognition by cerebellar Purkinje cells <http://dx.doi.org/10.1186/1471-2202-9-S1-P67>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2838088/906765.pdf>`__ |br|
+  De Sousa, G., Adams, R. G., Davey, N. & Steuber, V. |br|
+  2008 in `BMC Neuroscience`_. 9, Supp 1, 2 p., P67
+
+- `Encoding sensory information in spiking neural network for the control of autonomous agents <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1481016/903602.pdf>`__ |br|
+  Oros, N., Adams, R. G., Davey, N., Cañamero, L. & Steuber, V. |br|
+  2008
+
+- `Optimal noise in spiking neural networks for the detection of chemicals by simulated agents <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1481110/902636.pdf>`__ |br|
+  Oros, N., Steuber, V., Davey, N., Cañamero, L. & Adams, R. G. |br|
+  2008 Artificial Life XI: Procs of the 11th Int Conf on the Simulation and Synthesis of Living Systems. Bullock, S., Jason, N., Watson, R. & Bedau, M. A. (eds.). MIT Press, p. 443-449
+
+- `Receptor response and soma leakiness in a simulated spiking neural controller for a robot <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/432544/902630.pdf>`__ |br|
+  Bowes, D., Adams, R. G., Canamero, L., Steuber, V. & Davey, N. |br|
+  2008 Procs of Artificial Neural Networks and Intelligent Information Processing Workshop (ANNIP 2008). INSTICC (Inst. Syst. Technologies Information Control and Communication), Vol. 2008, p. 100-106
+
+- `Using neuroConstruct to develop and modify biologically detailed 3D neuronal network models in health and disease <#>`__ |br|
+  Gleeson, P., Steuber, V. & Silver, R. A. |br|
+  2008 Computational Neuroscience in Epilepsy. Soltesz, I. & Staley, K. (eds.). Academic Press, p. 48-70
 
 
 2007
 ----
 
+- `Cerebellar LTD and pattern recognition by Purkinje cells <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/86231/900777.pdf>`__ |br|
+  Steuber, V., Mittmann, W., Hoebeek, F. E., Silver, R. A., De Zeeuw, C. I., Hausser, M. & De Schutter, E. |br|
+  2007 in Neuron_. 54, p. 121-136
+
+- `High capacity associative memory with bipolar and binary, biased patterns <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/102577/900839.pdf>`__ |br|
+  Chen, W., Adams, R. G., Calcraft, L., Davey, N. & Steuber, V. |br|
+  2007 in Proceedings of UKCI, London. 2007, 5 p.
+
+- `Using NeuroML and neuroConstruct to build neuronal network models for multiple simulators <#>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2838142/906766.pdf>`__ |br|
+  Gleeson, P., Crook, S., Steuber, V. & Silver, R. A. |br|
+  2007 in `BMC Neuroscience`_. 8, Supp 2, 1 p., P1
+
+- `neuroConstruct: a tool for modeling networks of neurons in 3D space <#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/97132/900778.pdf>`__ |br|
+  Gleeson, P., Steuber, V. & Silver, R. A. |br|
+  2007 in Neuron_. 54, p. 219-235
 
 2006
 ----
@@ -44,6 +102,6 @@ Publications - Archive
 
 
 
+.. |br| raw:: html
 
-
-
+    <br />
