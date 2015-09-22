@@ -98,11 +98,6 @@ Research Fellows
 
 .. _Yi Sun: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/yi-sun(0ea48521-5ead-4285-929c-8db4b2aef1f0).html
  
-- `Amir Jabbari (with University of Poznan)`_ |br|
-  Research Interests:  evolution of spiking neural networks (EvoSN)
-
-.. _Amir Jabbari (with University of Poznan): #
- 
 - `Paolo Dini`_ |br|
   Research Interests:  algebraic biology (BIOMICS)
 
