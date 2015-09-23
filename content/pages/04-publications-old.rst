@@ -19,6 +19,7 @@ Publications - Archive
 .. _Nature: http://www.nature.com/nature/index.html
 .. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 .. _Neuron: http://www.cell.com/neuron/home
+.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
 
 2008
 ----
@@ -74,6 +75,9 @@ Publications - Archive
 2006
 ----
 
+- `Generation of time delays: simplified models of intracellular signalling in cerebellar Purkinje cells <http://www.tandfonline.com/doi/abs/10.1080/09548980500520328?journalCode=inet20#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/97075/900780.pdf>`__ |br|
+  Steuber, V., Willshaw, D. & van Ooyen, A. |br|
+  2006 in Network: Computation in Neural Systems. 17, 2, p. 173-191
 
 2005
 ----
@@ -81,6 +85,14 @@ Publications - Archive
 
 2004
 ----
+
+- `Passive models of neurons in the deep cerebellar nuclei: the effect of reconstruction errors <http://dx.doi.org/10.1016/j.neucom.2004.01.095>`__  |br|
+  Steuber, V., De Schutter, E. & Jaeger, D. |br|
+  Jun 2004 in Neurocomputing_. 58-60, p. 563-568 6 p.
+
+- `A biophysical model of synaptic delay learning and temporal pattern recognition in a cerebellar Purkinje cell <http://dx.doi.org/10.1023/B:JCNS.0000037678.26155.b5>`__  |br|
+  Steuber, V. & Willshaw, D. |br|
+  2004 in `Journal of Computational Neuroscience`_. 17, 2, p. 149-164 16 p.
 
 
 2003

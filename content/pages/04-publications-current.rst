@@ -18,6 +18,7 @@ Publications
 .. _Nature: http://www.nature.com/nature/index.html
 .. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 .. _Neuron: http://www.cell.com/neuron/home
+.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
 
 2015
 -----
@@ -116,6 +117,17 @@ Publications
   Kidd, K., Cornelis, H., Bower, J. M., Polani, D., Davey, N. & Steuber, V. |br|
   2013 in `BMC Neuroscience`_. 14, Supp 1, 1 p., P373
 
+- `Recognizing facial expressions: Computational models and humans <http://dx.doi.org/10.1109/UKCI.2013.6651305>`__  |br|
+  Shenoy, A., Davey, N. & Frank, R. |br|
+  31 Dec 2013 2013 13th UK Workshop on Computational Intelligence, UKCI 2013. IEEE, p. 191-198 8 p. 6651305
+
+- `Biologically plausible computational models for facial expression recognition <http://dx.doi.org/10.1109/CEEC.2013.6659442>`__  |br|
+  Shenoy, A., Davey, N. & Frank, R. |br|
+  1 Dec 2013 2013 5th Computer Science and Electronic Engineering Conference, CEEC 2013 - Conference Proceedings. p. 39-44 6 p. 6659442
+
+- `Linear Support Vector Machines for Error Correction in Optical Data Transmission <http://dx.doi.org/10.1007/978-3-642-37213-1_45>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2051738/Ray_Frank_4.pdf>`__ |br|
+  Metaxas, A., Redyuk, A., Sun, Y., Shafarenko, A., Davey, N. & Adams, R. |br|
+  2013 ICANNGA 2013, Procs 11th Int Conf. Springer, p. 438-445 (`Lecture Notes in Computer Science`_; vol. 7824)
 
 2012
 ----
