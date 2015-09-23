@@ -168,15 +168,20 @@ Masters Students
 Affiliated Faculty
 ------------------
 
--  `Dr. Farshid Amirabdollahian`_ |br|
+- `Farshid Amirabdollahian`_ |br|
   Research Interests: human-robot interaction, adaptive systems
 
-.. _Dr. Farshid Amirabdollahian: http://homepages.stca.herts.ac.uk/~fa08aap/wordpress/
+.. _Farshid Amirabdollahian: http://homepages.stca.herts.ac.uk/~fa08aap/wordpress/
 
-- `Dr. Chris Stopford`_ |br|
-  Research interests: 
+- `Chris Stopford`_ |br|
+  Research Interests: 
 
-.. _Dr. Chris Stopford: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chris-stopford(257ec99a-564f-4fbf-985f-8189cc31ce12).html
+.. _Chris Stopford: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chris-stopford(257ec99a-564f-4fbf-985f-8189cc31ce12).html
+
+- `James Geach`_ |br|
+  Research Interests: evolution of galaxies, with a special emphasis on obscured activity, the role of environment, and the properties and evolution of cold gas in and around galaxies
+
+.. _James Geach: http://www.jamesgeach.com/
 
 - `Ray Frank`_ |br|
   Research Interests: neural computation, cognitive science, evolutionary neural networks, developmental neural networks
