@@ -2,8 +2,6 @@ Collaborators
 ##############
 :slug: 06-collaborators
 
-*This page is not up to date yet.*
-
 - `Borys Wróbel`_ |br|
   Evolutionary Systems Laboratory |br|
   Institute of Molecular Biology and Biotechnology |br|
