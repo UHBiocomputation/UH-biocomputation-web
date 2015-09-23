@@ -13,7 +13,7 @@ Collaborators
 .. _Borys Wróbel: http://www.evosys.org/
 
 - `Padraig Gleeson`_ |br|
-  Department of Physiology, |br|
+  Department of Neuroscience, Physiology, and Pharmacology |br|
   University College London
 
 .. _Padraig Gleeson: https://iris.ucl.ac.uk/iris/browse/profile?upi=PGLEE72
