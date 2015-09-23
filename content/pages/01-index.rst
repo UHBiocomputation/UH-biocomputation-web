@@ -37,7 +37,7 @@ Research in the Biocomputation Group concentrates on the following areas:
 
 - Computational Neuroscience (led by `Dr. Volker Steuber`_).
 - Machine Learning (led by `Dr. Neil Davey`_).
-- Dendritic Morphologies (Led by `Dr. Benjamin Torben-Nielsen`_)
+- Dendritic Morphologies (led by `Dr. Benjamin Torben-Nielsen`_)
 - Quantitative Modelling in Systems Biology (led by `Dr. Maria Schilstra`_).
 - Bioinformatics (led by `Dr. Rene te Boekhorst`_).
 - Algebraic Biology (led by `Professor Chrystopher Nehaniv`_).

@@ -173,6 +173,11 @@ Affiliated Faculty
 
 .. _Farshid Amirabdollahian: http://homepages.stca.herts.ac.uk/~fa08aap/wordpress/
 
+- `Amanda Jeffries`_ |br|
+  Research Interests:
+
+.. _Amanda Jeffries: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/amanda-jefferies(55e02c7a-94e7-4929-8bf5-3d6f4bf9b704).html
+
 - `Chris Stopford`_ |br|
   Research Interests: 
 
