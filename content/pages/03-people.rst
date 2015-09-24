@@ -47,7 +47,7 @@ Core Faculty and Research Staff
 .. _Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
 
 - `Benjamin Torben-Nielsen`_ |br|
-  Research Interests: dendritic morphology
+  Research Interests: dendritic morphology and computation
 
 .. _Benjamin Torben-Nielsen: #
  
