@@ -2,6 +2,8 @@ Collaborators
 ##############
 :slug: 06-collaborators
 
+.. _Silver Lab: http://www.ucl.ac.uk/silverlab/index.html
+
 - `Borys Wróbel`_ |br|
   Evolutionary Systems Laboratory |br|
   Institute of Molecular Biology and Biotechnology |br|
@@ -12,10 +14,25 @@ Collaborators
 
 - `Padraig Gleeson`_ |br|
   `Open Source Brain <http://opensourcebrain.org/>`__ |br|
+  `Silver Lab`_ |br|
   Department of Neuroscience, Physiology, and Pharmacology |br|
   University College London
 
 .. _Padraig Gleeson: https://iris.ucl.ac.uk/iris/browse/profile?upi=PGLEE72
+
+- `Angus Silver`_ |br|
+  `Silver Lab`_ |br|
+  Department of Neuroscience, Physiology, and Pharmacology |br|
+  University College London
+
+.. _Angus Silver: http://www.ucl.ac.uk/npp/research/as
+
+- `Jason Rothman`_ |br|
+  `Silver Lab`_ |br|
+  Department of Neuroscience, Physiology, and Pharmacology |br|
+  University College London
+
+.. _Jason Rothman: https://iris.ucl.ac.uk/iris/browse/profile?upi=JROTH16
 
 - `Freek Hoebeek`_ |br|
   Erasmus MC |br|
@@ -33,32 +50,32 @@ Collaborators
 
 - `Saak Ovsepian`_ |br|
   German Center for Neurodegenerative Diseases |br|
-  Munich, Germany.
+  Munich, Germany
 
 .. _Saak Ovsepian: #
 
 - `Stephane Dieudonne`_ |br|
   Ecole Normale Superieure |br|
-  Paris.
+  Paris
 
 .. _Stephane Dieudonne: #
 
-- `Angus Silver`_ |br|
-  Department of Neuroscience, Physiology, and Pharmacology |br|
-  University College London
-
-.. _Angus Silver: http://www.ucl.ac.uk/npp/research/as
-
 - `Erik De Schutter`_ |br|
-  University of Antwerp, Belgium, and Okinawa Institute of Science and Technology, Japan.
+  University of Antwerp, Belgium, and Okinawa Institute of Science and Technology, Japan
 
 .. _Erik De Schutter: http://www.tnb.ua.ac.be/aboutus/directory/view.php?UID=UID008
 
 - `Dieter Jaeger`_ |br|
-  Emory University, Atlanta, USA.
+  Emory University |br|
+  Atlanta, USA
 
 .. _Dieter Jaeger: http://www.biology.emory.edu/research/Jaeger/
 
+- `Aruna Shenoy`_ |br|
+  National Physical Laboratory |br|
+  UK
+
+.. _Aruna Shenoy: #
 
 Software Developed in Collaboration with Other Institutions
 ------------------------------------------------------------

@@ -2,6 +2,9 @@ People
 ######
 :slug: 03-people
 
+.. _Adaptive Systems: http://adapsys.stca.herts.ac.uk/
+.. _Technology Supported Learning: #
+
 
 Core Faculty and Research Staff
 --------------------------------
@@ -12,7 +15,7 @@ Core Faculty and Research Staff
 .. _Rod Adams: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/roderick-adams(b275ad07-733e-48c9-b71d-9fd70809843a).html
 
 - `Renato Cordeiro de Amorim`_ |br|
-  Research Interests: machine learning. (Particularly problems involving unsupervised or semi-supervised learning, as well as feature weighting)
+  Research Interests: machine learning
 
 .. _Renato Cordeiro de Amorim: http://homepages.herts.ac.uk/~comqra
 
@@ -22,7 +25,7 @@ Core Faculty and Research Staff
 .. _Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
  
 - `David Bowes`_ |br|
-  Research Interests: machine Learning, Software defect prediction
+  Research Interests: machine learning, software defect prediction
 
 .. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
  
@@ -102,10 +105,10 @@ PhD Students
 
 .. _Weam Binjuma: #
  
-- `Udeshika Dissanayake (with Adaptive Systems)`_ |br|
+- `Udeshika Dissanayake`_ (with `Adaptive Systems`_) |br|
   Research Interests: EEG analysis and rehabilitation robotics
 
-.. _Udeshika Dissanayake (with Adaptive Systems): #
+.. _Udeshika Dissanayake: #
  
 - `Julia Goncharenko`_ |br|
   Research Interests: dynamics of thalamo-cortical networks
@@ -137,8 +140,8 @@ PhD Students
 
 .. _Alexander Hocking: #
 
-- `Edward Wakelam`_ |br|
-  Research Interests: 
+- `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
+  Research Interests: artificial intelligence and technology supported learning
 
 .. _Edward Wakelam: #
 
@@ -157,6 +160,16 @@ PhD Students
 
 .. _Marco Craveiro: http://mcraveiro.blogspot.co.uk/
 
+- `Sudhir Sharma`_ (with `Adaptive Systems`_) |br|
+  Research Interests: 
+
+.. _Sudhir Sharma: #
+
+- `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
+  Research Interests: 
+
+.. _Azeemsha Poyil: #
+
 Masters Students
 -----------------
 
@@ -174,12 +187,12 @@ Affiliated Faculty
 .. _Farshid Amirabdollahian: http://homepages.stca.herts.ac.uk/~fa08aap/wordpress/
 
 - `Amanda Jeffries`_ |br|
-  Research Interests:
+  Research Interests: technology supported learning
 
 .. _Amanda Jeffries: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/amanda-jefferies(55e02c7a-94e7-4929-8bf5-3d6f4bf9b704).html
 
 - `Chris Stopford`_ |br|
-  Research Interests: 
+  Research Interests: light scattering and radiative processes
 
 .. _Chris Stopford: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chris-stopford(257ec99a-564f-4fbf-985f-8189cc31ce12).html
 
