@@ -3,7 +3,7 @@ People
 :slug: 03-people
 
 .. _Adaptive Systems: http://adapsys.stca.herts.ac.uk/
-.. _Technology Supported Learning: #
+.. _Technology Supported Learning: http://www.herts.ac.uk/apply/schools-of-study/computer-science/our-research/technology-supported-learning-research-group
 
 
 Core Faculty and Research Staff
