@@ -143,7 +143,7 @@ PhD Students
 - `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
   Research Interests: artificial intelligence and technology supported learning
 
-.. _Edward Wakelam: #
+.. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
 
 - `Jean Petric`_ |br|
   Research Interests: machine learning and software defect prediction
