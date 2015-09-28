@@ -73,9 +73,16 @@ Collaborators
 
 - `Aruna Shenoy`_ |br|
   National Physical Laboratory |br|
-  UK
+  United Kingdom
 
 .. _Aruna Shenoy: #
+
+- `Gary Moss`_ |br|
+  The School of Pharmacy |br|
+  Keele University |br|
+  United Kingdom
+
+.. _Gary Moss: http://www.keele.ac.uk/pharmacy/staff/garymoss
 
 Software Developed in Collaboration with Other Institutions
 ------------------------------------------------------------
