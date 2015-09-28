@@ -161,12 +161,12 @@ PhD Students
 .. _Marco Craveiro: http://mcraveiro.blogspot.co.uk/
 
 - `Sudhir Sharma`_ (with `Adaptive Systems`_) |br|
-  Research Interests: 
+  Research Interests: rehabilitation robotics
 
 .. _Sudhir Sharma: #
 
 - `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
-  Research Interests: 
+  Research Interests: rehabilitation robotics
 
 .. _Azeemsha Poyil: #
 
