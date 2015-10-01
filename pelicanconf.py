@@ -24,7 +24,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['tag_cloud']
+#PLUGINS = ['tag_cloud']
+PLUGINS = ['tag_cloud', 'share_post',]
 
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
