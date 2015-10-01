@@ -22,6 +22,7 @@ Publications
 
 2015
 -----
+
 - `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
   Steuber, V. |br|
   Nov 2015 The neuronal codes of the cerebellum. Heck, D. (ed.). Elsevier
@@ -36,6 +37,10 @@ Publications
 
 2014
 ----
+
+- `Feature Selection Modelling for Percutaneous Absorption across Synthetic Membranes <http://dx.doi.org/10.1109/ICTAI.2014.155>`__ - `(full paper) <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6984591>`__ |br|
+  Weam M. Binjumah, Yi Sun, Mark Hewitt, Rod Adams, Neil Davey, Darren R. Gullick, Simon C. Wilkinson, Mark Cronin and Gary P. Moss |br|
+  10-12 November 2014 in the `26th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) <http://ictai2014.cs.ucy.ac.cy/>`__, pp.1021-1025
 
 - `Combining machine learning and simulations of a morphologically realistic model to study modulation of neuronal activity in cerebellar nuclei <http://dx.doi.org/10.1186/1471-2202-15-S1-P39>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7718875/P39.pdf>`__ |br|
   Alva, P., Kroos, L., Eelkman Rooda, O., De Zeeuw, C. I., Adams, R. G., Davey, N., Hoebeek, F. E. & Steuber, V. |br|
