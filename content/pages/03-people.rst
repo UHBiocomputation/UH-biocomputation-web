@@ -100,10 +100,10 @@ PhD Students
 
 .. _Ronak Bhavsar: #
  
-- `Weam Binjuma`_ |br|
+- `Weam Binjumah`_ |br|
   Research Interests: machine learning and optical data transmission
 
-.. _Weam Binjuma: #
+.. _Weam Binjumah: #
  
 - `Udeshika Dissanayake`_ (with `Adaptive Systems`_) |br|
   Research Interests: EEG analysis and rehabilitation robotics
