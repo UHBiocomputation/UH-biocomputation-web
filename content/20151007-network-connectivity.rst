@@ -16,3 +16,13 @@ networks, lattices and the interesting in between connectivity of a
 small world network.  We will also play the Kevin Bacon game.  Finally
 I will discuss our own research on network connectivity effects
 performance and what this might be for cortical connectivity.
+
+**Date:** 09/10/2015 |br|
+**Time:** 16:00 |br|
+**Location**: LB252
+
+
+.. |br| raw:: html
+
+    <br />
+

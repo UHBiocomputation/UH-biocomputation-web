@@ -49,6 +49,15 @@ it from here: http://git-scm.com/download/mac
 If you do have any questions about installing Git, please feel free to
 e-mail me off-list. 
 
+**Date:** 18/09/2015 |br|
+**Time:** 16:00 |br|
+**Location**: LB252
+
+
+.. |br| raw:: html
+
+    <br />
+
 .. _Github: http://github.com
 .. _Bitbucket: http://bitbucket.com
 .. _Open Source Brain project: http://opensourcebrain.org/

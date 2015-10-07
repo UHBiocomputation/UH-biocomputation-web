@@ -13,6 +13,14 @@ In order to overcome these limitations, the use of biophysically detailed comput
 
 In this talk I present some of my efforts to contribute to this new computational psychiatry effort. I will describe a model of auditory click entrainment deficits in schizophrenic patients which incorporates experimentally identified cellular and circuit abnormalities in patients and explores how their interaction might give rise to experimentally observed deficits. Furthermore, I will point out the limitations of the presented approach, especially the crucial influence of the 'illness metric' (i.e. which deficits are incorporated in the analysis and which are not) on the results. I will then generally discuss how to overcome these limitations and briefly present the next steps in the above project (focusing on a new collaboration with the labs of `Gaute Einevoll`_ and `Ole Andreassen`_ from Oslo and Os, respectively).
 
+**Date:** 25/09/2015 |br|
+**Time:** 16:00 |br|
+**Location**: LB252
+
+.. |br| raw:: html
+
+    <br />
+
 .. _Gaute Einevoll: http://arken.umb.no/~gautei/index_english.html
 .. _Ole Andreassen: http://www.med.uio.no/klinmed/english/people/aca/olean/
 
