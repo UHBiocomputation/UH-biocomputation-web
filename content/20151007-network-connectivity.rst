@@ -7,9 +7,6 @@ Network Connectivity
 :slug: network-connectivity
 :summary: Neil Davey's journal club session on Network Connectivity.
 
-Network connectivity
-====================
-
 I will discuss how a network (for example a neural network) can be
 characterized using Graph Theory.  In particular I will discuss random
 networks, lattices and the interesting in between connectivity of a
