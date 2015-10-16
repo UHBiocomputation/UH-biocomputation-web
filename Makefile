@@ -5,7 +5,7 @@ DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 DATEYYMMDD := $(shell date +'%Y%m%d')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= rst
-AUTHOR := Dr Volker Steuber
+AUTHOR := Volker Steuber
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
