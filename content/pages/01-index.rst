@@ -12,6 +12,11 @@ The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer
 
     <center>
 
+.. image:: {filename}/images/dna-sequence-1570578-639x427.jpg
+    :height: 200px
+    :target: {filename}/images/dna-sequence-1570578-639x427.jpg
+    :alt: DNA sequence from Freeimages.com under the FreeImages.com content license.
+
 .. image:: {filename}/images/assoc-small.gif
     :height: 200px
     :target: {filename}/images/assoc-small.gif
