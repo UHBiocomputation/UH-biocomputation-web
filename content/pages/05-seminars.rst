@@ -15,25 +15,26 @@ Abstracts and other material related to these sessions will feature in the `news
     4, Christoph Metzner, `Computational psychiatry: bridging the gap between genes and symptoms <{filename}/20150921-computational-psychiatry-bridging-the-gap-between-genes-and-symptoms.rst>`_, 25/9/15
     5, Neil Davey, `Network Connectivity <{filename}/20151007-network-connectivity.rst>`_, 9/10/15
     6, Volker Steuber, `Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks <{filename}/20151013-inhibitory-plasticity-balances-excitation-and-inhibition-in-sensory-pathways-and-memory-networks.rst>`_, 16/10/15
+    7, Stella Holtorf, `Memory performance of plastic spiking neural networks <{filename}/20151021-memory-performance-of-plastic-spiking-neural-networks.rst>`_ , 23/10/15
     **-----**, **-----**, **-----**, **-----**
-    7, Rene Boekhorst, --, 23/10/15
-    8, Stella Holtorf, --, 30/10/15
-    9, Iulia Goncharenko, --, --
-    10, Renato Cordeiro de Amorim, --, --
-    11, Weam Binjumah, --, --
-    12, Zaheed Mahmood, --, --
-    13, Maria Psarrou, --, --
-    14, Yi Sun, --, --
-    15, Kirsty Kidd, --, --
-    16, Dimitris Bampasakis, --, --
-    17, Alex Metaxas, --, --
-    18, Maria Schilstra, --, --
-    19, Edward Wakelam, --, --
-    20, Marco Craveiro, --, --
-    21, Jean Petric, --, --
-    22, Nathan Beka, --, --
-    23, Deepak Pandey, --, --
-    24, Roderick Adams, --, --
-    25, Parivash Ashrafi, --, --
-    26, Ronak Bhavsar, --, --
-    27, Sylvia Beka, --, --
+    8, Rene Boekhorst, --, 30/10/15
+    9, Benjamin Torben-Nielsen, -- , 06/11/2015
+    10, Iulia Goncharenko, --, 13/11/2015
+    11, Renato Cordeiro de Amorim, --, --
+    12, Weam Binjumah, --, --
+    13, Zaheed Mahmood, --, --
+    14, Maria Psarrou, --, --
+    15, Yi Sun, --, --
+    16, Kirsty Kidd, --, --
+    17, Dimitris Bampasakis, --, --
+    18, Alex Metaxas, --, --
+    19, Maria Schilstra, --, --
+    20, Edward Wakelam, --, --
+    21, Marco Craveiro, --, --
+    22, Jean Petric, --, --
+    23, Nathan Beka, --, --
+    24, Deepak Pandey, --, --
+    25, Roderick Adams, --, --
+    26, Parivash Ashrafi, --, --
+    27, Ronak Bhavsar, --, --
+    28, Sylvia Beka, --, --
