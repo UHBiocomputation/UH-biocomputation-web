@@ -1,11 +1,11 @@
-Artificial Life: Insights in Simplicity and Complexity
+Artificial Life: Insights in Simplexity and Complicity
 ######################################################
 :date: 2015-10-27 19:52:02
 :author: Rene Te Boekhorst
 :category: Seminars
 :tags: Artificial Life
 :slug: artificial-life-insights-in-simplexity-and-complicity
-:summary: Rene Te Boekhorst's jounal club session on simplicity and complexity in artificial life
+:summary: Rene Te Boekhorst's journal club session on simplexity and complicity in artificial life.
 
 In the nineties mathematician Ian Stewart and biologist Jack Cohen
 teamed up to write "The Collapse of Chaos" (Penguin, 1994). This

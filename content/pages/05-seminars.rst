@@ -16,8 +16,8 @@ Abstracts and other material related to these sessions will feature in the `news
     5, Neil Davey, `Network Connectivity <{filename}/20151007-network-connectivity.rst>`_, 9/10/15
     6, Volker Steuber, `Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks <{filename}/20151013-inhibitory-plasticity-balances-excitation-and-inhibition-in-sensory-pathways-and-memory-networks.rst>`_, 16/10/15
     7, Stella Holtorf, `Memory performance of plastic spiking neural networks <{filename}/20151021-memory-performance-of-plastic-spiking-neural-networks.rst>`_ , 23/10/15
+    8, Rene Boekhorst, `Artificial life: Insights in Simplexity and Complicity <{filename}/20151027-artificial-life-insights-in-simplexity-and-complicity.rst>`_ , 30/10/15
     **-----**, **-----**, **-----**, **-----**
-    8, Rene Boekhorst, --, 30/10/15
     9, Benjamin Torben-Nielsen, -- , 06/11/2015
     10, Iulia Goncharenko, --, 13/11/2015
     11, Renato Cordeiro de Amorim, --, --
