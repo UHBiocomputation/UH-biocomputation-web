@@ -30,16 +30,18 @@ simulation by Chris Langton called "Langton's Ant".
 These and other topics concerning complexity and simplicity are
 important themes of the Artificial Life module taught by me and Neil
 Davey for undergraduate students at the UH. I will use some of the
-practicals (NetLogo simulations, including Langton's Ant) of the module
+practicals (NetLogo_ simulations, including Langton's Ant) of the module
 and final year projects inspired by them to instigate a discussion
 about complex systems.
 
 
-`Attachement <{filename}/files/20151027-attachment.pdf>`_
+`(Attachment) <{filename}/files/20151027-attachment.pdf>`__
 
 **Date:** 30/10/2015 |br|
 **Time:** 16:00 |br|
 **Location**: LB252
+
+.. _Netlogo: https://ccl.northwestern.edu/netlogo/
 
 
 .. |br| raw:: html
