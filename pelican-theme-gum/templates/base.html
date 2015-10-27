@@ -5,6 +5,7 @@
 
         <title>{% block title %}{{ SITENAME }} - News{% endblock title %}</title>
         <meta charset="utf-8" />
+        <meta name="og:image" property="og:image" content="{{ SITEURL }}/images/Purkinje_bw.png"/>
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
@@ -69,6 +70,7 @@
             </script>
             <noscript><p><img src="http://{{ PIWIK_URL }}/piwik.php?idsite={{ PIWIK_ID }}" style="border:0;" alt="" /></p></noscript>
           {% endif %}
+
 
         {% endblock head %}
 </head>
