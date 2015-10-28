@@ -44,7 +44,7 @@ Research in the Biocomputation Group concentrates on the following areas:
 
 .. _Dr. Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
 .. _Dr. Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
-.. _Dr. Benjamin Torben-Nielsen: #
+.. _Dr. Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
 .. _Dr. Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
 .. _Dr. Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
 .. _Professor Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
