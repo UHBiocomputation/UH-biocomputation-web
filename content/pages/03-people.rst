@@ -52,7 +52,7 @@ Core Faculty and Research Staff
 - `Benjamin Torben-Nielsen`_ |br|
   Research Interests: dendritic morphology and computation
 
-.. _Benjamin Torben-Nielsen: #
+.. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
  
 - `Volker Steuber`_ |br|
   Research Interests: biocomputation, computational neuroscience, systems biology

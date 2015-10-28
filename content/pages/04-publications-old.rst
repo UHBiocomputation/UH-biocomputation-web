@@ -11,6 +11,8 @@ Publications - Archive
 .. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
 .. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
 .. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
+.. _Frontiers in Neuroscience: http://journal.frontiersin.org/journal/neuroscience
+.. _Frontiers in Neuroinformatics: http://journal.frontiersin.org/journal/neuroinformatics
 .. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
 .. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
 .. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
@@ -20,6 +22,9 @@ Publications - Archive
 .. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 .. _Neuron: http://www.cell.com/neuron/home
 .. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
+.. _Nature Neuroscience: http://www.nature.com/neuro/index.html
+.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
+.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
 
 2008
 ----
@@ -54,7 +59,7 @@ Publications - Archive
 
 - `Non-parametric algorithmic generation of neuronal morphologies <http://link.springer.com/article/10.1007/s12021-008-9026-x>`__ `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_kde.pdf>`__ |br|
   Torben-Nielsen B., Vanderlooy S., Postma E.O., |br|
-  2008 in Neuroinformatics 6:257--277
+  2008 in Neuroinformatics_ 6:257--277
 
 - `EvOL-Neuron: virtual neuron generation <http://www.sciencedirect.com/science/article/pii/S0925231207000689>`__ - `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_evol.pdf>`__ |br|
   Torben-Nielsen, B., Tuyls, K. , Postma E.O., |br|
