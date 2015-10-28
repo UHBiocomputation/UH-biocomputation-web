@@ -52,6 +52,14 @@ Publications - Archive
   Gleeson, P., Steuber, V. & Silver, R. A. |br|
   2008 Computational Neuroscience in Epilepsy. Soltesz, I. & Staley, K. (eds.). Academic Press, p. 48-70
 
+- `Non-parametric algorithmic generation of neuronal morphologies <http://link.springer.com/article/10.1007/s12021-008-9026-x>`__ `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_kde.pdf>`__ |br|
+  Torben-Nielsen B., Vanderlooy S., Postma E.O., |br|
+  2008 in Neuroinformatics 6:257--277
+
+- `EvOL-Neuron: virtual neuron generation <http://www.sciencedirect.com/science/article/pii/S0925231207000689>`__ - `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_evol.pdf>`__ |br|
+  Torben-Nielsen, B., Tuyls, K. , Postma E.O., |br|
+  2008 in Neurocomputing_ 71(4-6): 963-972
+
 
 2007
 ----
@@ -78,6 +86,10 @@ Publications - Archive
 - `Generation of time delays: simplified models of intracellular signalling in cerebellar Purkinje cells <http://www.tandfonline.com/doi/abs/10.1080/09548980500520328?journalCode=inet20#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/97075/900780.pdf>`__ |br|
   Steuber, V., Willshaw, D. & van Ooyen, A. |br|
   2006 in Network: Computation in Neural Systems. 17, 2, p. 173-191
+
+- `Directional hearing in a silicon cricket <http://www.ncbi.nlm.nih.gov/pubmed/17034935>`__ - `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/reeve_cricket.pdf>`__ |br|,
+  Reeve, R., van Schaik, A., Jin, C., Hamilton, T., Torben-Nielsen, B., Webb, B., |br|
+  2006 in BioSystems 87(2-3):307--313
 
 2005
 ----

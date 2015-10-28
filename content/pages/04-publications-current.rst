@@ -10,6 +10,8 @@ Publications
 .. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
 .. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
 .. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
+.. _Frontiers in Neuroscience: http://journal.frontiersin.org/journal/neuroscience
+.. _Frontiers in Neuroinformatics: http://journal.frontiersin.org/journal/neuroinformatics
 .. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
 .. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
 .. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
@@ -19,6 +21,9 @@ Publications
 .. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 .. _Neuron: http://www.cell.com/neuron/home
 .. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
+.. _Nature Neuroscience: http://www.nature.com/neuro/index.html
+.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
+.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
 
 2015
 -----
@@ -34,6 +39,14 @@ Publications
 - `Dendritic Morphology Predicts Pattern Recognition Performance in Multi-compartmental Model Neurons with and without Active Conductances <http://dx.doi.org/10.1007/s10827-014-0537-1>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7739515/DeSousaJCNS2014.pdf>`__ |br|
   De Sousa, G., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
   1 Apr 2015 in `Journal of Computational Neuroscience`_. 38, 2, p. 221-234
+
+- `Centrosomin represses dendrite branching by orienting microtubule nucleation <http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4099.html>`__ |br|
+  Yalgin C., Ebrahimi S., Delandre C., Li F.Y., Akimoto S., Tran H., Amikura R., Spokony R., Torben-Nielsen B., White K.P., Moore A.W., |br|
+  2015 in `Nature Neuroscience`_, Advance online publication.
+
+- `A sparse reformulation of the Green's function formalism allows efficient simulations of morphological neuron models <#>`__ |br|
+  Wybo, W., Boccalini, D., Torben-Nielsen, B., Gewaltig M-O., |br|
+  2015 in Neural computation (in press)
 
 2014
 ----
@@ -66,10 +79,26 @@ Publications
   Bampasakis, D., Maex, R., Davey, N. & Steuber, V. |br|
   2014 in `Frontiers in Systems Neuroscience`_.
 
-- `Synaptic plasticity and pattern recognition in cerebellar Purkinje cells <http://dx.doi.org/10.1007/978-1-4614-8094-5_26>`__ |br|
+- `Synaptic plasticity and pattern recognition in cerebellar Purkinje cells (full paper) <http://dx.doi.org/10.1007/978-1-4614-8094-5_26>`__ |br|
   De Sousa, G., Maex, R., Adams, R., Davey, N. & Steuber, V. |br|
   2014 in The Computing Dendrite. Torben-Nielsen, B., Remme, M. & Cuntz, H. (eds.). Springer, p. 433-448 (`Springer Series in Computational Neuroscience`_; vol. 11)
 
+- `Context-aware modeling of neuronal morphologies <http://dx.doi.org/10.3389/fnana.2014.00092>`__ - `(full paper) <http://journal.frontiersin.org/Journal/10.3389/fnana.2014.00092/full>`__ |br|
+  Torben-Nielsen, B., De Schutter, E., |br|
+  2014 in Frontiers in neuroanatomy, 8:92. 
+
+- `Spatially distributed dendritic resonance selectively filters synaptic input. <http://dx.doi.org/10.1371/journal.pcbi.1003775>`__  - `(full paper) <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003775>`__ |br| 
+  In memory of Jonathan Laudanski. |br|
+  Laudanski, J.*, Torben-Nielsen, B.*, Segev, I., Shamma, S., |br|
+  2014 in `PLoS Computational Biology`_, 10(8): e1003775. 
+
+- `An efficient and extendable Python library to analyze neuronal morphologies <http://dx.doi.org/10.1007/s12021-014-9232-7>`__ |br|
+  Torben-Nielsen, B., |br|
+  2014 in Neuroinformatics_, 12:4
+
+- `Synthetic neuronal morphology <http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-7320-6_238-2>`__ |br|
+  Torben-Nielsen, B., |br|
+  2014 in `Encyclopedia of Computational neuroscience <http://www.springerreference.com/docs/html/chapterdbid/348303.html>`__ |br|
 
 2013
 ----
@@ -134,6 +163,22 @@ Publications
   Metaxas, A., Redyuk, A., Sun, Y., Shafarenko, A., Davey, N. & Adams, R. |br|
   2013 ICANNGA 2013, Procs 11th Int Conf. Springer, p. 438-445 (`Lecture Notes in Computer Science`_; vol. 7824)
 
+- `The Green's function formalism as a bridge between single and multi-compartmental modeling <#>`__ - `(ArXiv) <http://arxiv.org/abs/1309.2382>`__ |br| 
+  Wybo, W., Stiefel, K.M., Torben-Nielsen, B., |br|
+  2013 in Biological Cybernetics (in press)
+
+- `Oscillatory activity, phase differences and phase resetting in the inferior olivary nucleus <#>`__ - `(full paper) <http://journal.frontiersin.org/article/10.3389/fnins.2013.00202/full>`__ |br|
+  Lefler Y., Torben-Nielsen B., Yarom Y, |br|
+  2013 in Frontiers in Systems Neuroscience. 7:22
+
+- `Self-referential forces are sufficient to explain different dendritic morphologies <#>`__ - `(full paper) <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00001/abstract>`__ - `(commentary) <http://www.frontiersin.org/Journal/10.3389/fninf.2013.00017/full>`__ |br| 
+  Memelli H.*, Torben-Nielsen B.*, Kozloski J. |br|
+  2013 in `Frontiers in Neuroinformatics`_ 7:1
+
+- `Proposed evolutionary changes in the role of myelin. <http://dx.doi.org/10.3389/fnins.2013.00202>`__ - `(full text) <http://journal.frontiersin.org/article/10.3389/fnins.2013.00202/full>`__ |br| 
+  Stiefel K.M., Torben-Nielsen, B., Coggan, J.S.,  |br|
+  2013 in `Frontiers in Neuroscience`_. 7:202
+
 2012
 ----
 
@@ -156,6 +201,10 @@ Publications
 - `The effective calcium/calmodulin concentration determines the sensitivity of CaMKII to the frequency of calcium oscillations <http://dx.doi.org/10.1007/978-3-642-28792-3_17>`__ |br|
   Pinto, T. M., Schilstra, M. & Steuber, V. |br|
   2012 in `Lecture Notes in Computer Science`_ (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Vol. 7223 LNCS, p. 131-135 5 p.
+
+- `The generation of phase differences and frequency changes in a network model of Inferior Olive subthreshold oscillations <#>`__ - `(full paper) <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002580>`__ |br|
+  Torben-Nielsen B., Segev I., Yarom, Y., |br|
+  2012 in `PLoS Computational Biology`_, 8(7): e1002580.
 
 2011
 ----
@@ -188,6 +237,10 @@ Publications
 2010
 ----
 
+- `Wide-field motion integration in fly VS cells: insights from an inverse approach <#>`__ - `(full paper) <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000932>`__ |br|
+  Torben-Nielsen B., Stiefel K.M., |br|
+  2010 in  `PLoS Computational Biology`_ 6(9): e1000932.
+
 - `Computer Simulation Environments <#>`__  |br|
   Gleeson, P., Silver, A. & Steuber, V.  |br|
   2010 in Hippocampal Microcircuits: A Computational Modeler's Resource Book. Cutsuridis, V., Graham, B., Cobb, S. & Vida, I. (eds.). Springer, p. 593-606 (`Springer Series in Computational Neuroscience`_)
@@ -203,6 +256,14 @@ Publications
 - `The effect of non-specific LTD on pattern recognition in cerebellar Purkinje cells <http://dx.doi.org/10.1186/1471-2202-11-S1-P118>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/2837911/906762.pdf>`__ |br|
   Safaryan, K., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
   2010 in `BMC Neuroscience`_. 11, Supp 1, 1 p., P118
+
+- `An inverse approach for elucidating dendritic function <http://dx.doi.org/10.3389/fncom.2010.00128>`__ - `(full paper) <http://journal.frontiersin.org/article/10.3389/fncom.2010.00128/abstract>`__ |br|
+  Torben-Nielsen B., Stiefel K.M., |br|
+  2010 in  Frontiers Computational Neuroscience 4:128
+
+- `A comparison of methods to determine neuronal phase-response curves <http://dx.doi.org/10.3389/fninf.2010.00006>`__ - `(full paper) <http://journal.frontiersin.org/article/10.3389/fninf.2010.00006/abstract>`__ |br|
+  Torben-Nielsen B., Marylka Uusisaari, Stiefel K.M., |br|
+  2010 in `Frontiers in Neuroinformatics`_ 4:6
 
 2009
 ----
@@ -238,6 +299,10 @@ Publications
 - `The role of lateral inhibition in the sensory processing in a simulated spiking neural controller for a robot <http://dx.doi.org/10.1109/ALIFE.2009.4937710>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/100293/903561.pdf>`__ |br|
   Bowes, D., Adams, R. G., Cañamero, L., Steuber, V. & Davey, N. |br|
   2009 IEEE Symposium on Artificial Life, 2009, ALife '09. IEEE, p. 179-183
+
+- `Systematic mapping between dendritic function and structure <http://www.tandfonline.com/doi/abs/10.1080/09548980902984833?journalCode=inet20>`__ - `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_network2009.pdf>`__ |br|
+  Torben-Nielsen B., Stiefel K.M., |br|
+  2009 in Network: Computation in Neural Systems, 20(2): 69 - 105
 
 
 .. |br| raw:: html
