@@ -4,6 +4,8 @@ UH-biocomputation-web
 .. image:: https://travis-ci.org/UHBiocomputation/UH-biocomputation-web.svg?branch=master
     :target: https://travis-ci.org/UHBiocomputation/UH-biocomputation-web
 
+|
+
 This repository hosts the source code used to generate the UHBiocomputation group's website at http://biocomputation.herts.ac.uk.
 
 SOP documents on maintaining the website are available in the content/pages directory:
