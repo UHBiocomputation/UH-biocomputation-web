@@ -1,4 +1,4 @@
-Reconstruction and Simulation of Neocortical Microcircuitry
+Reconstruction and simulation of neocortical microcircuitry
 ###########################################################
 :date: 2015-11-05 09:38:27
 :author: Benjamin Torben-Nielsen
