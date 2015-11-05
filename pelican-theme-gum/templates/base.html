@@ -10,7 +10,7 @@
         <meta name="og:type" content="website" />
         {% if article %}
         <meta name="og:title" content="{{ article.title|striptags|escape }}" />
-        <meta name="og:description" content="{{ article.content|escape }}" />
+        <meta name="og:description" content="{{ article.content|striptags|escape }}" />
         <meta name="og:url" content="{{ SITEURL }}/{{ article.url }}" />
         {% endif %}
 
