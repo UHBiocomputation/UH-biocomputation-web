@@ -75,7 +75,7 @@ Research Fellows
 - `Christoph Metzner`_ |br|
   Research Interests: computational neuroscience, olfaction
 
-.. _Christoph Metzner: #
+.. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
 
 PhD Students
 ------------
