@@ -18,10 +18,10 @@ Abstracts and other material related to these sessions will feature in the `news
     7, Stella Holtorf, `Memory performance of plastic spiking neural networks <{filename}/20151021-memory-performance-of-plastic-spiking-neural-networks.rst>`_ , 23/10/15
     8, Rene Boekhorst, `Artificial life: Insights in Simplexity and Complicity <{filename}/20151027-artificial-life-insights-in-simplexity-and-complicity.rst>`_ , 30/10/15
     9, Benjamin Torben-Nielsen, `Reconstruction and simulation of neocortical microcircuitry <{filename}/20151105-reconstruction-and-simulation-of-neocortical-microcircuitry.rst>`_ , 06/11/2015
+    10, Julia Goncharenko, `The effect of regularity synchrony and STD on deep cerebellar nuclei in physiological conditions and during downbeat nystagmus <{filename}/20151111-the-effect-of-regularity-synchrony-and-std-on-deep-cerebellar-nuclei-in-physiological-conditions-and-during-downbeat-nystagmus.rst>`_ , 13/11/2015
     **-----**, **-----**, **-----**, **-----**
-    10, Iulia Goncharenko, --, 13/11/2015
-    11, Renato Cordeiro de Amorim, --, --
-    12, Weam Binjumah, --, --
+    11, Renato Cordeiro de Amorim, --, 20/11/2015
+    12, Weam Binjumah, --, 27/11/2015
     13, Zaheed Mahmood, --, --
     14, Maria Psarrou, --, --
     15, Yi Sun, --, --
