@@ -80,6 +80,11 @@ Research Fellows
 PhD Students
 ------------
 
+- `Anuradha Sulane`_ |br| 
+  Research Interests: machine learning, neural networks and audio recognition
+
+.. _Anuradha Sulane: #
+
 - `Parimala Alva`_ |br|
   Research Interests: neuronal mechanisms of epileptic activity
 
