@@ -55,7 +55,7 @@ Core Faculty and Research Staff
 .. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
  
 - `Volker Steuber`_ |br|
-  Research Interests: biocomputation, computational neuroscience, systems biology
+  Research Interests: biocomputation, computational neuroscience, systems biology, machine learning
 
 .. _Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
 
