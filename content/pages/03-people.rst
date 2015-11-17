@@ -29,11 +29,6 @@ Core Faculty and Research Staff
 
 .. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
  
-- `William Clocksin`_ |br|
-  Research Interests: machine learning, optical character recognition, autonomous vehicles
-
-.. _William Clocksin: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/william-clocksin(03529872-f654-4e70-a76c-3cc790d188ce).html
- 
 - `Neil Davey`_ |br|
   Research Interests: computational neuroscience, machine learning, cognitive science, artificial intelligence
 
@@ -191,10 +186,15 @@ Affiliated Faculty
 
 .. _Farshid Amirabdollahian: http://homepages.stca.herts.ac.uk/~fa08aap/wordpress/
 
-- `Amanda Jeffries`_ |br|
+- `William Clocksin`_ |br|
+  Research Interests: machine learning, optical character recognition, autonomous vehicles
+
+.. _William Clocksin: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/william-clocksin(03529872-f654-4e70-a76c-3cc790d188ce).html
+
+- `Amanda Jefferies`_ |br|
   Research Interests: technology supported learning
 
-.. _Amanda Jeffries: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/amanda-jefferies(55e02c7a-94e7-4929-8bf5-3d6f4bf9b704).html
+.. _Amanda Jefferies: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/amanda-jefferies(55e02c7a-94e7-4929-8bf5-3d6f4bf9b704).html
 
 - `Chris Stopford`_ |br|
   Research Interests: light scattering and radiative processes
