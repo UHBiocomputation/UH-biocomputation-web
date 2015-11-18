@@ -19,21 +19,21 @@ Abstracts and other material related to these sessions will feature in the `news
     8, Rene Boekhorst, `Artificial life: Insights in Simplexity and Complicity <{filename}/20151027-artificial-life-insights-in-simplexity-and-complicity.rst>`_ , 30/10/15
     9, Benjamin Torben-Nielsen, `Reconstruction and simulation of neocortical microcircuitry <{filename}/20151105-reconstruction-and-simulation-of-neocortical-microcircuitry.rst>`_ , 06/11/2015
     10, Julia Goncharenko, `The effect of regularity synchrony and STD on deep cerebellar nuclei in physiological conditions and during downbeat nystagmus <{filename}/20151111-the-effect-of-regularity-synchrony-and-std-on-deep-cerebellar-nuclei-in-physiological-conditions-and-during-downbeat-nystagmus.rst>`_ , 13/11/2015
+    11, Ankur Sinha, `Homoeostatic structural plasticity and cortical reorganization after focal retinal lesions <{filename}/20151118-homoeostatic-structural-plasticity-and-cortical-reorganization-after-focal-retinal-lesions.rst>`_ , 20/11/2015
     **-----**, **-----**, **-----**, **-----**
-    11, Renato Cordeiro de Amorim, --, 20/11/2015
     12, Weam Binjumah, --, 27/11/2015
-    13, Zaheed Mahmood, --, --
-    14, Maria Psarrou, --, --
-    15, Yi Sun, --, --
-    16, Kirsty Kidd, --, --
-    17, Dimitris Bampasakis, --, --
-    18, Alex Metaxas, --, --
-    19, Maria Schilstra, --, --
-    20, Edward Wakelam, --, --
+    13, Maria Psarrou, --, 04/12/2015
+    14, Kirsty Kidd, --, 11/12/2015
+    15, Dimitris Bampasakis, --, 18/12/2015
+    16, Alex Metaxas, --, 08/01/2016
+    17, Yi Sun, --, 15/01/2016
+    18, Maria Schilstra, --, 22/01/2016
+    19, Edward Wakelam, --, 29/01/2016
+    21, Zaheed Mahmood, --, 05/02/2016
     21, Marco Craveiro, --, --
     22, Jean Petric, --, --
     23, Nathan Beka, --, --
-    24, Deepak Pandey, --, --
+    24, Deepak Panday, --, --
     25, Roderick Adams, --, --
     26, Parivash Ashrafi, --, --
     27, Ronak Bhavsar, --, --

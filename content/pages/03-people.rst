@@ -153,7 +153,7 @@ PhD Students
 - `Zaheed Mahmood`_ |br|
   Research Interests: machine learning and software defect prediction
 
-.. _Zaheed Mahmood: http://www.openml.org/u/571
+.. _Zaheed Mahmood: https://uk.linkedin.com/in/zaheedmahmood
 
 - `Marco Craveiro`_ |br|
   Research Interests: computational modelling, computational neuroscience
@@ -169,6 +169,11 @@ PhD Students
   Research Interests: rehabilitation robotics
 
 .. _Azeemsha Poyil: #
+
+- `Deepak Panday`_ |br|
+  Research Interests: machine learning
+
+.. _Deepak Panday: #
 
 Masters Students
 -----------------
