@@ -15,7 +15,7 @@ effect of changing the cerebellar output of Purkinje cells (PC, class of GABAerg
 Neither the population level model [Glasauer et al, 2008] nor the conductance-based model of a single neuron [Glasauer et al, 2011] appeared able to explain the electrophysiological findings.
 
 The main assumption is that their model didn't give the correct results due to not taking into an account the effect of short-term depression (STD). In my findings, there is no significant difference in data with the presence or absence of STD. But difference in firing rate with the presence and absence of STD becomes significant for higher noise levels. I assume, that such a small difference in noise levels between wild-type and tg/tg could be explained taking into account the way, how known CV values for wild-type and tg/tg mice were converted to noise. Noise levels were obtained after building a dependency graph of CV form
-noise. This dependency is linear, and it is not the case for real cells, because current model is simplified.
+noise.
 
 **Date:** 13/11/2015 |br|
 **Time:** 16:00 |br|
