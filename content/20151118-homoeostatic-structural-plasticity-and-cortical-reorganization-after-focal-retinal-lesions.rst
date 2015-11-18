@@ -11,7 +11,7 @@ The brain, even though it seems hard wired, is not really so.
 
 Similar to synaptic plasticity, where the strength of synapses between sets of neurons changes to perform various functions (memory, for example), it has been observed that synapses between neurons also continuously disappear and reform resulting in alterations to the structure of brain networks.
 
-In `their paper <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003259>`__, Markus Butz and Arjen van Ooyen propose a computation model where structural plasticity is driven by the need for homoeostasis - the need to maintain a certain state. They show that the reorganisation of the brain network as simulated by this model is very similar to biological findings.
+In `their paper <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003259>`__, Markus Butz and Arjen van Ooyen propose a computational model where structural plasticity is driven by the need for homoeostasis - the need to maintain a certain state. They show that the reorganisation of the brain network as simulated by this model is very similar to biological findings.
 
 In this journal club session, I will discuss this paper and explain how it relates to my PhD thesis.
 
