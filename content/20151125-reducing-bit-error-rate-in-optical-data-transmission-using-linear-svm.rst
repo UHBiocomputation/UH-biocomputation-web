@@ -3,7 +3,7 @@ Reducing bit error rate in optical data transmission using linear SVM
 :date: 2015-11-25 16:59:45
 :author: Weam Binjumah
 :category: Seminars
-:tags: Machine learning, SVM, Optical transmission
+:tags: Machine learning, SVM, Signal processing
 :slug: reducing-bit-error-rate-in-optical-data-transmission-using-linear-svm
 :summary: Weam Binjumah's journal club session on reducing bit error rate in optical data transmission using linear SVMs.
 
