@@ -30,7 +30,7 @@ Core Faculty and Research Staff
 .. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
  
 - `Neil Davey`_ |br|
-  Research Interests: computational neuroscience, machine learning, cognitive science, artificial intelligence
+  Research Interests: computational neuroscience, machine learning, artificial intelligence
 
 .. _Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
  
