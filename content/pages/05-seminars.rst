@@ -20,8 +20,8 @@ Abstracts and other material related to these sessions will feature in the `news
     9, Benjamin Torben-Nielsen, `Reconstruction and simulation of neocortical microcircuitry <{filename}/20151105-reconstruction-and-simulation-of-neocortical-microcircuitry.rst>`_ , 06/11/2015
     10, Julia Goncharenko, `The effect of regularity synchrony and STD on deep cerebellar nuclei in physiological conditions and during downbeat nystagmus <{filename}/20151111-the-effect-of-regularity-synchrony-and-std-on-deep-cerebellar-nuclei-in-physiological-conditions-and-during-downbeat-nystagmus.rst>`_ , 13/11/2015
     11, Ankur Sinha, `Homoeostatic structural plasticity and cortical reorganization after focal retinal lesions <{filename}/20151118-homoeostatic-structural-plasticity-and-cortical-reorganization-after-focal-retinal-lesions.rst>`_ , 20/11/2015
+    12, Weam Binjumah, `Reducing bit error rate in optical data transmission using linear SVM <{filename}/20151125-reducing-bit-error-rate-in-optical-data-transmission-using-linear-svm.rst>`_ , 27/11/2015
     **-----**, **-----**, **-----**, **-----**
-    12, Weam Binjumah, --, 27/11/2015
     13, Maria Psarrou, --, 04/12/2015
     14, Kirsty Kidd, --, 11/12/2015
     15, Dimitris Bampasakis, --, 18/12/2015
