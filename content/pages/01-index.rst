@@ -4,6 +4,8 @@
 :slug: 01-index
 :status: hidden
 
+Note: please check the `news pages <blog_index.html>`_ for open positions and other updates from the group.
+
 The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer Science and Informatics Research (CCSIR)`_, which is based within the `Science and Technology Research Institute (STRI)`_ at the `University of Hertfordshire`_. Research in the Biocomputation Research Group involves the development of computational models to study biological systems, and the application of biologically-inspired machine learning algorithms for the analysis of real-world data. Members of the Biocomputation Group analyse and simulate computational models at different levels of complexity, and collaborate closely with leading experimentalists in the UK and abroad. 
 
 |
@@ -53,7 +55,6 @@ Research in the Biocomputation Group concentrates on the following areas:
 .. _Centre for Computer Science and Informatics Research (CCSIR): http://www.herts.ac.uk/research/stri/research-areas/ccsir
 
 Software developed by the group is made available at our `Github repository`_.
-Please do check the `news pages <blog_index.html>`_ for open positions and other updates from the group.
 
 Contact
 -------
