@@ -5,7 +5,7 @@ PhD studentship in Computational Neuroscience
 :category: Vacancies
 :tags: Open positions, Studentship
 :slug: phd-studentship-in-computational-neuroscience
-:summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins on December 28, 2015. Please see the complete post for details.
+:summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins on December 28, 2015. Details within.
 
 We welcome applications for a funded PhD position in the Biocomputation Group at the University of Hertfordshire. The successful applicant will work on a project related to modeling the structure and physiological function of the inferior olive. The inferior olive is an important part of the olivo-cerebellar circuitry as its axons, the climbing fibers, play a central role in all theories of cerebellar learning. Further, the inferior olive has been postulated to act as a clock for the brain. In this project, we aim to use an accurate structural model of the inferior olive to investigate, in silico, recent hypotheses related to the generation and maintenance of timing signals. An integral part of this project involves the further development of the NeuroMac software to generate structural models of the inferior olive. Please refer to `the publication list on the website <http://biocomputation.herts.ac.uk/pages/04-publications-current.html>`__ for recent publications.
 
