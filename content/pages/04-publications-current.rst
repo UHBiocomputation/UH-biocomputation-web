@@ -77,8 +77,8 @@ Publications
   21 Jul 2014 in `BMC Neuroscience`_. 14, Supp 1, O11
 
 - `βCaMKII regulates bidirectional long-term plasticity in cerebellar Purkinje cells by a CaMKII/PP2B switch mechanism <http://dx.doi.org/10.1186/1471-2202-15-S1-P58>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7706509/steuber_p58.pdf>`__ |br|
-  Matos Pinto, T., Schilstra, M., Steuber, V. & Roque, A. 21  |br|
-  21 Jul 2014 in `BMC Neuroscience`_. 15, Supp 1, p. P58 2 p.
+  Matos Pinto, T., Schilstra, M., Steuber, V. & Roque, A. |br|
+  21 Jul 2014 in `BMC Neuroscience`_. 15, Supp 1, P58
 
 - `Information theoretical analysis of differences in information transmission in cerebellar Purkinje cells across species <http://dx.doi.org/10.1186/1471-2202-15-S1-P40>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7718822/P40.pdf>`__ |br|
   Kidd, K., Bower, J. M., Polani, D., Davey, N. & Steuber, V.  |br|
