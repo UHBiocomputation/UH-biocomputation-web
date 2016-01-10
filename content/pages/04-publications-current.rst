@@ -29,6 +29,11 @@ Publications
 2015
 -----
 
+- `The importance of hyperparameters selection within small datasets <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7280645>`__ |br|
+  Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
+  12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
+
+
 - `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
   Steuber, V. |br|
   Nov 2015 The neuronal codes of the cerebellum. Heck, D. (ed.). Elsevier
