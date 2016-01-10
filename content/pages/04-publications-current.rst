@@ -33,6 +33,10 @@ Publications
   Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
   12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
 
+- `Modelling impairment of evoked gamma range oscillations in schizophrenia <http://www.biomedcentral.com/1471-2202/16/S1/P305>`__ |br|
+  Metzner, C., Schweikard, A., & Bartosz Z. |br|
+  18 July 2015 in `BMC Neuroscience`_. 16, Supp 1, P305
+
 - `Structural plasticity and associative memory in balanced neural networks with spike-time dependent inhibitory plasticity <http://www.biomedcentral.com/1471-2202/16/S1/P235>`__ |br|
   Sinha, A., Davey, N., Adams, R. & Steuber, V. |br|
   18 July 2015 in `BMC Neuroscience`_. 16, Supp 1, P235
