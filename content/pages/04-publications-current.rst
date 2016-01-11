@@ -1,6 +1,7 @@
 Publications
 ############
 :slug: 04-publications-current
+:date: 2016-01-11 10:01:10
 
 **Note**: `Work that was published before 2009 can be found here. <{filename}/pages/04-publications-old.rst>`_
 
@@ -32,6 +33,10 @@ Publications
 - `The importance of hyperparameters selection within small datasets <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7280645>`__ |br|
   Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
   12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
+
+- `Unsupervised image analysis & galaxy categorisation in multi-wavelength Hubble Space Telescope images <#>`__ - `(Proceedings pdf) <https://aaltodoc.aalto.fi/handle/123456789/18224>`__ |br|
+  Alex Hocking, Geach, J.E., Yi Sun, Davey, N. & Hine, N. |br|
+  7 September 2015 in Proceedings of `ECMLPKDD 2015 Doctoral Consortium <http://research.ics.aalto.fi/events/ecml-pkdd-2015-doctoral-consortium/>`__
 
 - `Modelling impairment of evoked gamma range oscillations in schizophrenia <http://www.biomedcentral.com/1471-2202/16/S1/P305>`__ |br|
   Metzner, C., Schweikard, A., & Bartosz, Z. |br|
