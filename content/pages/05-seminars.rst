@@ -24,12 +24,12 @@ Abstracts and other material related to these sessions will feature in the `news
     13, Sylvia Beka, `Characteristics of Type 1 Diabetes Susceptibility Regions <{filename}/20151221-characteristics-of-type-1-diabetes-susceptibility-regions.rst>`__, 04/12/2015
     **-----**, **-----**, **-----**, **-----**
     14, Willem Wybo, `Capturing dendritic computation with the Green’s function formalism <{filename}/20160106-capturing-dendritic-computation-with-the-green-s-function-formalism.rst>`__ , 15/01/2016
-    15, Maria Psarrou, --, 22/01/2016
-    16, Kirsty Kidd, --, 29/01/2016
+    15, Yi Sun, --, 22/01/2016
+    16, Maria Psarrou, --, 29/01/2016
     17, Zaheed Mahmood, --, 05/02/2016
-    18, Dimitris Bampasakis, --, --
-    19, Alex Metaxas, --, --
-    20, Yi Sun, --, --
+    18, Kirsty Kidd, --, 12/02/2016
+    19, Dimitris Bampasakis, --, --
+    20, Alex Metaxas, --, --
     21, Maria Schilstra, --, --
     22, Edward Wakelam, --, --
     23, Marco Craveiro, --, --
