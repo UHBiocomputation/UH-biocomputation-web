@@ -1,6 +1,7 @@
 Seminars
 ########
 :slug: 05-seminars
+:date: 2016-01-12 15:10:34
 
 The biocomputation group hosts a weekly journal club meeting. Please contact Ankur Sinha at a.sinha2 AT herts.ac.uk if you have any queries. 
 Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
@@ -27,15 +28,16 @@ Abstracts and other material related to these sessions will feature in the `news
     15, Yi Sun, --, 22/01/2016
     16, Maria Psarrou, --, 29/01/2016
     17, Zaheed Mahmood, --, 05/02/2016
-    18, Kirsty Kidd, --, 12/02/2016
-    19, Dimitris Bampasakis, --, --
-    20, Alex Metaxas, --, --
-    21, Maria Schilstra, --, --
-    22, Edward Wakelam, --, --
-    23, Marco Craveiro, --, --
-    24, Jean Petric, --, --
-    25, Nathan Beka, --, --
-    26, Deepak Panday, --, --
-    27, Roderick Adams, --, --
-    28, Parivash Ashrafi, --, --
-    29, Ronak Bhavsar, --, --
+    18, Michael Schmuker, --, 12/02/2016
+    19, Kirsty Kidd, --, --
+    20, Dimitris Bampasakis, --, --
+    21, Alex Metaxas, --, --
+    22, Maria Schilstra, --, --
+    23, Edward Wakelam, --, --
+    24, Marco Craveiro, --, --
+    25, Jean Petric, --, --
+    26, Nathan Beka, --, --
+    27, Deepak Panday, --, --
+    28, Roderick Adams, --, --
+    29, Parivash Ashrafi, --, --
+    30, Ronak Bhavsar, --, --
