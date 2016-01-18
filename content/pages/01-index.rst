@@ -35,12 +35,12 @@ The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer
 
 Research in the Biocomputation Group concentrates on the following areas:
 
-- Computational Neuroscience (led by `Dr. Volker Steuber`_).
-- Machine Learning (led by `Dr. Neil Davey`_).
-- Dendritic Morphology and Computation (led by `Dr. Benjamin Torben-Nielsen`_).
-- Quantitative Modelling in Systems Biology (led by `Dr. Maria Schilstra`_).
-- Bioinformatics (led by `Dr. Rene te Boekhorst`_).
-- Algebraic Biology (led by `Professor Chrystopher Nehaniv`_).
+- `Computational Neuroscience <#>`__ (led by `Dr. Volker Steuber`_).
+- `Machine Learning <#>`__ (led by `Dr. Neil Davey`_).
+- `Dendritic Morphology and Computation <http://dendrites.club>`__ (led by `Dr. Benjamin Torben-Nielsen`_).
+- `Quantitative Modelling in Systems Biology <#>`__ (led by `Dr. Maria Schilstra`_).
+- `Bioinformatics <#>`__ (led by `Dr. Rene te Boekhorst`_).
+- `Algebraic Biology <#>`__ (led by `Professor Chrystopher Nehaniv`_).
 
 .. _Dr. Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
 .. _Dr. Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
