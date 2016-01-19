@@ -23,9 +23,9 @@ Abstracts and other material related to these sessions will feature in the `news
     11, Ankur Sinha, `Homoeostatic structural plasticity and cortical reorganization after focal retinal lesions <{filename}/20151118-homoeostatic-structural-plasticity-and-cortical-reorganization-after-focal-retinal-lesions.rst>`_ , 20/11/2015
     12, Weam Binjumah, `Reducing bit error rate in optical data transmission using linear SVM <{filename}/20151125-reducing-bit-error-rate-in-optical-data-transmission-using-linear-svm.rst>`_ , 27/11/2015
     13, Sylvia Beka, `Characteristics of Type 1 Diabetes Susceptibility Regions <{filename}/20151221-characteristics-of-type-1-diabetes-susceptibility-regions.rst>`__, 04/12/2015
-    **-----**, **-----**, **-----**, **-----**
     14, Willem Wybo, `Capturing dendritic computation with the Green’s function formalism <{filename}/20160106-capturing-dendritic-computation-with-the-green-s-function-formalism.rst>`__ , 15/01/2016
-    15, Yi Sun, --, 22/01/2016
+    15, Yi Sun,`Development of computational models for characterizing small ice particles based on their two-dimensional light scattering patterns <{filename}/20160119-development-of-computational-models-for-characterizing-small-ice-particles-based-on-their-two-dimensional-light-scattering-patterns.rst>`__, 22/01/2016
+    **-----**, **-----**, **-----**, **-----**
     16, Maria Psarrou, --, 29/01/2016
     17, Zaheed Mahmood, --, 05/02/2016
     18, Michael Schmuker, --, 12/02/2016
