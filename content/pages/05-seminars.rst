@@ -27,17 +27,17 @@ Abstracts and other material related to these sessions will feature in the `news
     15, Yi Sun,`Development of computational models for characterizing small ice particles based on their two-dimensional light scattering patterns <{filename}/20160119-development-of-computational-models-for-characterizing-small-ice-particles-based-on-their-two-dimensional-light-scattering-patterns.rst>`__, 22/01/2016
     **-----**, **-----**, **-----**, **-----**
     16, Maria Psarrou, --, 29/01/2016
-    17, Zaheed Mahmood, --, 05/02/2016
+    17, Kirsty Kidd , --, 05/02/2016
     18, Michael Schmuker, --, 12/02/2016
-    19, Kirsty Kidd, --, --
-    20, Dimitris Bampasakis, --, --
-    21, Alex Metaxas, --, --
-    22, Maria Schilstra, --, --
-    23, Edward Wakelam, --, --
-    24, Marco Craveiro, --, --
-    25, Jean Petric, --, --
-    26, Nathan Beka, --, --
-    27, Deepak Panday, --, --
-    28, Roderick Adams, --, --
-    29, Parivash Ashrafi, --, --
-    30, Ronak Bhavsar, --, --
+    19, Jean Petrić, --, 19/02/2016
+    20, Maria Schilstra, --, --
+    21, Edward Wakelam, --, --
+    22, Marco Craveiro, --, --
+    23, Nathan Beka, --, --
+    24, Deepak Panday, --, --
+    25, Roderick Adams, --, --
+    26, Ronak Bhavsar, --, --
+    27, Zaheed Mahmood, --, --
+    28, Dimitris Bampasakis, --, --
+    29, Alex Metaxas, --, --
+    30, Parivash Ashrafi, --, --
