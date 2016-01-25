@@ -145,10 +145,10 @@ PhD Students
 
 .. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
 
-- `Jean Petric`_ |br|
-  Research Interests: machine learning and software defect prediction
+.. His last name requires a different character - can't use the standard linking way for it
 
-.. _Jean Petric: http://jeanpetric.github.io
+- `Jean Petrić <http://jeanpetric.github.io>`_ |br|
+  Research Interests: machine learning and software defect prediction
 
 - `Zaheed Mahmood`_ |br|
   Research Interests: machine learning and software defect prediction
