@@ -12,7 +12,7 @@ behaving animals, but the mechanism by which it occurs is unknown. By
 introducing a barrage of excitatory and inhibitory synaptic conductances that
 mimics conditions encountered in vivo into pyramidal neurons in slices of rat
 somatosensory cortex, we show that the gain of a neuronal response to
-excitatory drive can be modulated by varying the level of “background” synaptic
+excitatory drive can be modulated by varying the level of "background" synaptic
 input. Simultaneously increasing both excitatory and inhibitory background
 firing rates in a balanced manner results in a divisive gain modulation of the
 neuronal response without appreciable signal-independent increases in firing
