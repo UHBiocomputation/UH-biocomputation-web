@@ -5,7 +5,7 @@ Inhibitory plasticity balances excitation and inhibition in sensory pathways and
 :category: Seminars
 :tags: Computational modelling, Homoeostasis, Associative memory
 :slug: inhibitory-plasticity-balances-excitation-and-inhibition-in-sensory-pathways-and-memory-networks
-:summary: Volker Steuber's journal club session where he discusses `Vogels et al. (2011) <http://www.sciencemag.org/content/334/6062/1569.short>`__.
+:summary: Volker Steuber's journal club session where he discusses the paper, `'Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks' (Vogels et al. (2011)) <http://www.sciencemag.org/content/334/6062/1569.short>`__.
 
 Cortical neurons receive balanced excitatory and inhibitory synaptic
 currents. Such a balance could be established and maintained in an
