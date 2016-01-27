@@ -30,5 +30,3 @@ http://www.sciencedirect.com/science/article/pii/S0896627302008206
 .. |br| raw:: html
 
     <br />
-
-
