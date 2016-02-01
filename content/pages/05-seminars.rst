@@ -37,8 +37,9 @@ Abstracts and other material related to these sessions will feature in the `news
     24, Deepak Panday, --, --
     25, Roderick Adams, --, --
     26, Ronak Bhavsar, --, --
-    26, Anuradha Sulane, --, --
-    28, Zaheed Mahmood, --, --
-    29, Dimitris Bampasakis, --, --
-    30, Alex Metaxas, --, --
-    31, Parivash Ashrafi, --, --
+    27, Anuradha Sulane, --, --
+    28, Felix Effenberger, --, 22/04/2016
+    29, Zaheed Mahmood, --, --
+    30, Dimitris Bampasakis, --, --
+    31, Alex Metaxas, --, --
+    32, Parivash Ashrafi, --, --
