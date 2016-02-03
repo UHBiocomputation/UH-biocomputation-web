@@ -61,7 +61,7 @@ Collaborators
 .. _Stephane Dieudonne: #
 
 - `Erik De Schutter`_ |br|
-  University of Antwerp, Belgium, and Okinawa Institute of Science and Technology, Japan
+  University of Antwerp, Belgium, and `Okinawa Institute of Science and Technology, Japan <https://groups.oist.jp/cnu/erik-de-schutter>`__
 
 .. _Erik De Schutter: http://www.tnb.ua.ac.be/aboutus/directory/view.php?UID=UID008
 
