@@ -26,8 +26,8 @@ Abstracts and other material related to these sessions will feature in the `news
     14, Willem Wybo, `Capturing dendritic computation with the Green’s function formalism <{filename}/20160106-capturing-dendritic-computation-with-the-green-s-function-formalism.rst>`__ , 15/01/2016
     15, Yi Sun,`Development of computational models for characterizing small ice particles based on their two-dimensional light scattering patterns <{filename}/20160119-development-of-computational-models-for-characterizing-small-ice-particles-based-on-their-two-dimensional-light-scattering-patterns.rst>`__, 22/01/2016
     16, Maria Psarrou, `Gain modulation from background synaptic input <{filename}/20160127-gain-modulation-from-background-synaptic-input.rst>`__, 29/01/2016
+    17, Kirsty Kidd , `Exploring the cerebellar Purkinje cell <{filename}/20160203-exploring-the-cerebellar-purkinje-cell.rst>`__, 05/02/2016
     **-----**, **-----**, **-----**, **-----**
-    17, Kirsty Kidd , --, 05/02/2016
     18, Michael Schmuker, --, 12/02/2016
     19, Jean Petrić, --, 19/02/2016
     20, Maria Schilstra, --, --
