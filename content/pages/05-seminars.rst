@@ -28,7 +28,7 @@ Abstracts and other material related to these sessions will feature in the `news
     16, Maria Psarrou, `Gain modulation from background synaptic input <{filename}/20160127-gain-modulation-from-background-synaptic-input.rst>`__, 29/01/2016
     17, Kirsty Kidd , `Exploring the cerebellar Purkinje cell <{filename}/20160203-exploring-the-cerebellar-purkinje-cell.rst>`__, 05/02/2016
     **-----**, **-----**, **-----**, **-----**
-    18, Michael Schmuker, --, 12/02/2016
+    18, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__, 12/02/2016
     19, Jean Petrić, --, 19/02/2016
     20, Maria Schilstra, --, --
     21, Edward Wakelam, --, --
