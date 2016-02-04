@@ -1,4 +1,4 @@
-Exploring Neural computation in odour space
+Exploring neural computation in odour space
 ###########################################
 :date: 2016-02-04 13:39:34
 :author: Ankur Sinha
