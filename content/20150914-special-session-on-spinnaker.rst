@@ -9,6 +9,8 @@ Special Session on SpiNNaker
 
 This Wednesday, `Borys Wróbel`_, who is visiting us from the Evolutionary Systems Laboratory in Poznań, Poland, will take a short introductory session on the SpiNNaker_ platform. The session will be in E374 at 15:00.
 
+------------------
+
 What is SpinNNaker?
 -------------------
 
@@ -24,5 +26,3 @@ A SpiNNaker machine is a massively parallel computing platform, targeted towards
 
 .. _SpiNNaker: http://apt.cs.manchester.ac.uk/projects/SpiNNaker/
 .. _Borys Wróbel: http://www.evosys.org/en/contact
-
-
