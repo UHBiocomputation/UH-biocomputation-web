@@ -5,7 +5,9 @@ Exploring neural computation in odour space
 :category: Seminars
 :tags: Computational modelling, Olfaction
 :slug: exploring-neural-computation-in-odour-space
-:summary: `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract within.
+:summary: `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract within. |br| |br| *This session has been cancelled.*
+
+*This session has been cancelled.*
 
 `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract below.
 
