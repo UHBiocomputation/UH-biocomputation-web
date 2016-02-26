@@ -1,13 +1,13 @@
 Exploring neural computation in odour space
 ###########################################
-:date: 2016-02-04 13:39:34
+:date: 2016-02-26 13:39:34
 :author: Ankur Sinha
 :category: Seminars
 :tags: Computational modelling, Olfaction
 :slug: exploring-neural-computation-in-odour-space
-:summary: `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract within. |br| |br| *This session has been cancelled.*
+:summary: `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract within. |br| |br| *This session has been moved to 11th of March.*
 
-*This session has been cancelled.*
+*This session has been moved to 11th of March.*
 
 `Michael Schmuker <http://biomachinelearning.net/>`__ joins us for a special journal club session where he speaks about his research work related to olfactory processing. Abstract below.
 
@@ -17,10 +17,18 @@ Our sense of smell enables us to explore the world of chemical information. Yet,
 
 In this presentation, I will give an overview on our research on how the olfactory systems of insects and vertebrates encode and transform chemical information on its way from the primary sensors to higher brain areas. These investigations inspired us to implement the key concepts of olfactory processing on a neuromorphic hardware system that uses spiking neuronal networks to perform pattern recognition in high-dimensional feature spaces. I will also present our recent findings on how to extract information about source distance from the fine-structure of gas plumes.
 
-**Date:** 12/02/2016 |br|
+**Date:** |delb| 12/02/2016 |dele| 11/03/2016 |br|
 **Time:** 16:00 |br|
 **Location**: LB252
 
 .. |br| raw:: html
 
     <br />
+
+.. |delb| raw:: html
+
+    <del>
+
+.. |dele| raw:: html
+
+    </del>
