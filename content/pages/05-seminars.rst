@@ -28,8 +28,8 @@ Abstracts and other material related to these sessions will feature in the `news
     16, Maria Psarrou, `Gain modulation from background synaptic input <{filename}/20160127-gain-modulation-from-background-synaptic-input.rst>`__, 29/01/2016
     17, Kirsty Kidd , `Exploring the cerebellar Purkinje cell <{filename}/20160203-exploring-the-cerebellar-purkinje-cell.rst>`__, 05/02/2016
     18, Jean Petrić, `The software bugs fairy tale <{filename}/20160217-the-software-bugs-fairy-tale.rst>`__, 19/02/2016
+    19, Maria Schilstra, `BoB: stochastic simulation of a process with non-Markov dynamics <{filename}/20160302-bob-stochastic-simulation-of-a-process-with-non-markov-dynamics.rst>`__, 04/03/2016
     **-----**, **-----**, **-----**, **-----**
-    19, Maria Schilstra, --, 04/03/2016
     20, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__ , 11/03/2016
     21, Edward Wakelam, --, --
     22, Marco Craveiro, --, --
