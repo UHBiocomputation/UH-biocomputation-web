@@ -14,12 +14,10 @@
         </h3>
     </div>
     {% if page.title == "Home" %}
-    <em>
     {% if LATEST_ARTICLE_ON_HOME_PAGE %}
-    Latest <a href="{{ SITEURL }}/blog_index.html">news post</a>: <a href="{{ articles[1].url }}">{{ articles[1].title }}</a><br />
+    <a href="{{ SITEURL }}/blog_index.html">Latest news post - </a><a href="{{ articles[1].url }}">{{ articles[1].title }}.</a>
     {% endif %}
         {{ CUSTOM_POST_ON_HOME_PAGE }}<br /><br />
-    </em>
     {% endif %}
 
     {% import 'translations.html' as translations with context %} 
