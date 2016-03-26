@@ -15,9 +15,14 @@
     </div>
     {% if page.title == "Home" %}
     {% if LATEST_ARTICLE_ON_HOME_PAGE %}
-    <a href="{{ SITEURL }}/blog_index.html">Latest news post - </a><a href="{{ articles[1].url }}">{{ articles[1].title }}.</a>
+    {# This takes the latest blog post and puts it on top of the main page. The date attribute in the post is taken into account #}
+    <a href="{{ SITEURL}}/{{ (articles|first).url }}"><i class="icon-newspaper"></i>Latest news post - {{ (articles|first).title }}.</a>
     {% endif %}
         {{ CUSTOM_POST_ON_HOME_PAGE }}<br /><br />
+    {% endif %}
+    {# This takes the latest blog post in the seminars category and puts it on top of the seminar page. The date attribute in the post is taken into account #}
+    {% if page.title == "Seminars" %}
+    <a href="{{ SITEURL}}/{{ (articles|selectattr('category.slug', 'equalto', 'seminars')|first).url }}"><i class="icon-newspaper"></i>Latest seminar - {{ (articles|selectattr('category.slug', 'equalto', 'seminars')|first).title }}</a> <br /><br />
     {% endif %}
 
     {% import 'translations.html' as translations with context %} 

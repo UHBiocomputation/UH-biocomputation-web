@@ -1,6 +1,6 @@
 Exploring neural computation in odour space
 ###########################################
-:date: 2016-02-26 13:39:34
+:date: 2016-03-09 13:39:34
 :author: Ankur Sinha
 :category: Seminars
 :tags: Computational modelling, Olfaction
