@@ -29,17 +29,14 @@ Abstracts and other material related to these sessions will feature in the `news
     17, Kirsty Kidd , `Exploring the cerebellar Purkinje cell <{filename}/20160203-exploring-the-cerebellar-purkinje-cell.rst>`__, 05/02/2016
     18, Jean Petrić, `The software bugs fairy tale <{filename}/20160217-the-software-bugs-fairy-tale.rst>`__, 19/02/2016
     19, Maria Schilstra, `BoB: stochastic simulation of a process with non-Markov dynamics <{filename}/20160302-bob-stochastic-simulation-of-a-process-with-non-markov-dynamics.rst>`__, 04/03/2016
-    **-----**, **-----**, **-----**, **-----**
     20, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__ , 11/03/2016
-    21, Edward Wakelam, --, --
-    22, Marco Craveiro, --, --
-    23, Nathan Beka, --, --
-    24, Deepak Panday, --, --
-    25, Roderick Adams, --, --
-    26, Ronak Bhavsar, --, --
-    27, Anuradha Sulane, --, --
-    28, Felix Effenberger, --, 22/04/2016
-    29, Zaheed Mahmood, --, --
-    30, Dimitris Bampasakis, --, --
-    31, Alex Metaxas, --, --
-    32, Parivash Ashrafi, --, --
+    **-----**, **-----**, **-----**, **-----**
+    21, TBD, --, 1/04/2016
+    22, Edward Wakelam, --, 8/04/2016
+    23, Marco Craveiro, --, 15/04/2016
+    24, Felix Effenberger, --, 22/04/2016
+    25, Nathan Beka, --, --
+    26, Deepak Panday, --, --
+    27, Roderick Adams, --, --
+    28, Ronak Bhavsar, --, --
+    29, Anuradha Sulane, --, --
