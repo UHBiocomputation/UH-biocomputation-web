@@ -32,8 +32,8 @@ September 2015 - April 2016
     17, Jean Petrić, `The software bugs fairy tale <{filename}/20160217-the-software-bugs-fairy-tale.rst>`__, 19/02/2016
     18, Maria Schilstra, `BoB: stochastic simulation of a process with non-Markov dynamics <{filename}/20160302-bob-stochastic-simulation-of-a-process-with-non-markov-dynamics.rst>`__, 04/03/2016
     19, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__ , 11/03/2016
+    20, Ankur Sinha, `Dendritic Computation <{filename}/20160330-dendritic-computation.rst>`__, 1/04/2016
     **-----**, **-----**, **-----**, **-----**
-    20, TBD, --, 1/04/2016
     21, Edward Wakelam, --, 8/04/2016
     22, Marco Craveiro, --, 15/04/2016
     23, Felix Effenberger, --, 22/04/2016
