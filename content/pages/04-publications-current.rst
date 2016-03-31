@@ -27,6 +27,9 @@ Publications
 .. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
 .. _Flavour: http://www.flavourjournal.com/
 .. _Pharmacology & Therapeutics: http://www.sciencedirect.com/science/journal/01637258
+.. _Annals of Neurology: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8249
+.. _Neural Computation: http://www.mitpressjournals.org/loi/neco
+.. _Current Directions in Biomedical Engineering: http://www.degruyter.com/view/j/cdbme
 
 2016
 ----
@@ -37,6 +40,46 @@ Publications
 
 2015
 -----
+
+- `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
+  Steuber, V. |br|
+  Nov 2015 `The neuronal codes of the cerebellum <http://store.elsevier.com/The-Neuronal-Codes-of-the-Cerebellum/isbn-9780128013861/>`__. Heck, D. (ed.). Elsevier
+
+- `Cerebellar output controls generalized spike-and-wave discharge occurence <http://dx.doi.org/10.1002/ana.24399>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/8614713/907076.pdf>`__ |br|
+  Kros, L., Eelkman Rooda, O., Spanke, J., Alva, P., van Dongen, M., Karapatis, A., Tolner, E., Strydis, C., Davey, N., Winkelman, B., Negrello, M., Serdijn, W., Steuber, V., van den Maagdenberg, A., De Zeeuw, C. I. & Hoebeek, F. E. |br|
+  Jun 2015 in `Annals of Neurology`_. 77, 6, p. 1027-1049
+
+- `Dendritic Morphology Predicts Pattern Recognition Performance in Multi-compartmental Model Neurons with and without Active Conductances <http://dx.doi.org/10.1007/s10827-014-0537-1>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7739515/DeSousaJCNS2014.pdf>`__ |br|
+  De Sousa, G., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
+  1 Apr 2015 in `Journal of Computational Neuroscience`_. 38, 2, p. 221-234
+
+- `Centrosomin represses dendrite branching by orienting microtubule nucleation <http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4099.html>`__ |br|
+  Yalgin C., Ebrahimi S., Delandre C., Li F.Y., Akimoto S., Tran H., Amikura R., Spokony R., Torben-Nielsen B., White K.P., Moore A.W. |br|
+  2015 in `Nature Neuroscience`_, Advance online publication.
+
+- `A sparse reformulation of the Green's function formalism allows efficient simulations of morphological neuron models <http://www.mitpressjournals.org/doi/10.1162/NECO_a_00788#.Vv0jbCZXZhE>`__ |br|
+  Wybo, W., Boccalini, D., Torben-Nielsen, B., Gewaltig M-O. |br|
+  2015 in `Neural Computation`_, 27, 12, p. 2587-2622
+
+- `A machine learning approach for planning valve-sparing aortic root reconstruction <http://www.degruyter.com/view/j/cdbme.2015.1.issue-1/cdbme-2015-0089/cdbme-2015-0089.xml>`__ - `(full text) <http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fcdbme.2015.1.issue-1$002fcdbme-2015-0089$002fcdbme-2015-0089.pdf?t:ac=j$002fcdbme.2015.1.issue-1$002fcdbme-2015-0089$002fcdbme-2015-0089.xml>`__ |br|
+  Hagenah, J., Scharfschwerdt, M., Schlaefer, A., & Metzner, C. |br|
+  2015 in `Current Directions in Biomedical Engineering`_, 1(1), 361-365.
+
+- `The importance of hyperparameters selection within small datasets <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7280645>`__ |br|
+  Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
+  12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
+
+- `Unsupervised image analysis & galaxy categorisation in multi-wavelength Hubble Space Telescope images <#>`__ - `(Proceedings pdf) <https://aaltodoc.aalto.fi/handle/123456789/18224>`__ |br|
+  Alex Hocking, Geach, J.E., Yi Sun, Davey, N. & Hine, N. |br|
+  7 September 2015 in Proceedings of `ECMLPKDD 2015 Doctoral Consortium <http://research.ics.aalto.fi/events/ecml-pkdd-2015-doctoral-consortium/>`__
+
+- `Structural plasticity and associative memory in balanced neural networks with spike-time dependent inhibitory plasticity <http://www.biomedcentral.com/1471-2202/16/S1/P235>`__ |br|
+  Sinha, A., Davey, N., Adams, R. & Steuber, V. |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P235
+
+- `Using transfer entropy to study synaptic integration in Purkinje cells <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P236>`__ |br|
+  Kidd, K., Bower, J. M., Polani, D., Davey, N. & Steuber, V. |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P236
 
 - `Animat control by spiking neural networks evolved with a genetic algorithm <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P237>`__ |br|
   Wrobel, B., Abdelmotaleb, A., Davey, N. & Steuber, V.  |br|
@@ -50,49 +93,9 @@ Publications
   Alva, P., Kros, L., Eelkman Rooda, O., De Zeeuw, C. I., Adams, R., Davey, N., Hoebeek, F. E. & Steuber, V. |br|
   18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P280
 
-- `Using transfer entropy to study synaptic integration in Purkinje cells <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P236>`__ |br|
-  Kidd, K., Bower, J. M., Polani, D., Davey, N. & Steuber, V. |br|
-  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P236
-
-- `The importance of hyperparameters selection within small datasets <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7280645>`__ |br|
-  Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
-  12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
-
-- `Unsupervised image analysis & galaxy categorisation in multi-wavelength Hubble Space Telescope images <#>`__ - `(Proceedings pdf) <https://aaltodoc.aalto.fi/handle/123456789/18224>`__ |br|
-  Alex Hocking, Geach, J.E., Yi Sun, Davey, N. & Hine, N. |br|
-  7 September 2015 in Proceedings of `ECMLPKDD 2015 Doctoral Consortium <http://research.ics.aalto.fi/events/ecml-pkdd-2015-doctoral-consortium/>`__
-
 - `Modelling impairment of evoked gamma range oscillations in schizophrenia <http://www.biomedcentral.com/1471-2202/16/S1/P305>`__ |br|
   Metzner, C., Schweikard, A., & Bartosz, Z. |br|
   18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P305
-
-- `Structural plasticity and associative memory in balanced neural networks with spike-time dependent inhibitory plasticity <http://www.biomedcentral.com/1471-2202/16/S1/P235>`__ |br|
-  Sinha, A., Davey, N., Adams, R. & Steuber, V. |br|
-  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P235
-
-- `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
-  Steuber, V. |br|
-  Nov 2015 The neuronal codes of the cerebellum. Heck, D. (ed.). Elsevier
-
-- `Cerebellar output controls generalized spike-and-wave discharge occurence <http://dx.doi.org/10.1002/ana.24399>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/8614713/907076.pdf>`__ |br|
-  Kros, L., Eelkman Rooda, O., Spanke, J., Alva, P., van Dongen, M., Karapatis, A., Tolner, E., Strydis, C., Davey, N., Winkelman, B., Negrello, M., Serdijn, W., Steuber, V., van den Maagdenberg, A., De Zeeuw, C. I. & Hoebeek, F. E. |br|
-  Jun 2015 in Annals of Neurology. 77, 6, p. 1027-1049
-
-- `Dendritic Morphology Predicts Pattern Recognition Performance in Multi-compartmental Model Neurons with and without Active Conductances <http://dx.doi.org/10.1007/s10827-014-0537-1>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7739515/DeSousaJCNS2014.pdf>`__ |br|
-  De Sousa, G., Maex, R., Adams, R. G., Davey, N. & Steuber, V. |br|
-  1 Apr 2015 in `Journal of Computational Neuroscience`_. 38, 2, p. 221-234
-
-- `Centrosomin represses dendrite branching by orienting microtubule nucleation <http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4099.html>`__ |br|
-  Yalgin C., Ebrahimi S., Delandre C., Li F.Y., Akimoto S., Tran H., Amikura R., Spokony R., Torben-Nielsen B., White K.P., Moore A.W. |br|
-  2015 in `Nature Neuroscience`_, Advance online publication.
-
-- `A sparse reformulation of the Green's function formalism allows efficient simulations of morphological neuron models <#>`__ |br|
-  Wybo, W., Boccalini, D., Torben-Nielsen, B., Gewaltig M-O. |br|
-  2015 in Neural computation (in press)
-
-- `A machine learning approach for planning valve-sparing aortic root reconstruction <http://www.degruyter.com/view/j/cdbme.2015.1.issue-1/cdbme-2015-0089/cdbme-2015-0089.xml>`__ - `(full text) <http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fcdbme.2015.1.issue-1$002fcdbme-2015-0089$002fcdbme-2015-0089.pdf?t:ac=j$002fcdbme.2015.1.issue-1$002fcdbme-2015-0089$002fcdbme-2015-0089.xml>`__ |br|
-  Hagenah, J., Scharfschwerdt, M., Schlaefer, A., & Metzner, C. |br|
-  2015 in Current Directions in Biomedical Engineering, 1(1), 361-365.
 
 2014
 ----
