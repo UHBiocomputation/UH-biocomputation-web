@@ -96,10 +96,6 @@ Publications - Archive
   Reeve, R., van Schaik, A., Jin, C., Hamilton, T., Torben-Nielsen, B., Webb, B., |br|
   2006 in BioSystems 87(2-3):307--313
 
-2005
-----
-
-
 2004
 ----
 
@@ -110,25 +106,6 @@ Publications - Archive
 - `A biophysical model of synaptic delay learning and temporal pattern recognition in a cerebellar Purkinje cell <http://dx.doi.org/10.1023/B:JCNS.0000037678.26155.b5>`__  |br|
   Steuber, V. & Willshaw, D. |br|
   2004 in `Journal of Computational Neuroscience`_. 17, 2, p. 149-164 16 p.
-
-
-2003
-----
-
-
-2002
-----
-
-
-2001
-----
-
-
-2000
-----
-
-
-
 
 
 .. |br| raw:: html
