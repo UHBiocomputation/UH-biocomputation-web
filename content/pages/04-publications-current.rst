@@ -26,9 +26,33 @@ Publications
 .. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
 .. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
 .. _Flavour: http://www.flavourjournal.com/
+.. _Pharmacology & Therapeutics: http://www.sciencedirect.com/science/journal/01637258
+
+2016
+----
+
+- `Distinctive role of KV1.1 subunits in the biology and functions of low threshold K+ channels with implication for neurological disease <http://www.sciencedirect.com/science/article/pii/S0163725816000061>`__ - `(full text) <http://www.sciencedirect.com/science/article/pii/S0163725816000061/pdfft?md5=70b95e8cc4a70ab3647c25c8b7afeff5&pid=1-s2.0-S0163725816000061-main.pdf>`__ |br|
+  Ovsepian, S., Le Berre, M., Steuber, V., O'Leary, V., Leibold, C. & Dolly, O. |br|
+  26 Jan 2016 in `Pharmacology & Therapeutics`_ (epub ahead of print)
 
 2015
 -----
+
+- `Animat control by spiking neural networks evolved with a genetic algorithm <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P237>`__ |br|
+  Wrobel, B., Abdelmotaleb, A., Davey, N. & Steuber, V.  |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P237
+
+- `Evolving small spiking neural networks to work as state machines for temporal pattern recognition <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P238>`__ |br|
+  Wrobel, B., Abdelmotaleb, A., Davey, N. & Steuber, V.  |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P238
+
+- `Optimization of input parameters to a CN neuron model to simulate its activity during and between epileptic absence seizures <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P280>`__ |br|
+  Alva, P., Kros, L., Eelkman Rooda, O., De Zeeuw, C. I., Adams, R., Davey, N., Hoebeek, F. E. & Steuber, V. |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P280
+
+- `Using transfer entropy to study synaptic integration in Purkinje cells <http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P236>`__ |br|
+  Kidd, K., Bower, J. M., Polani, D., Davey, N. & Steuber, V. |br|
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P236
 
 - `The importance of hyperparameters selection within small datasets <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7280645>`__ |br|
   Ashrafi, P., Yi Sun, Davey, N., Adams, R., Brown, M.B., Prapopoulou, M. & Moss, G. |br|
@@ -40,11 +64,11 @@ Publications
 
 - `Modelling impairment of evoked gamma range oscillations in schizophrenia <http://www.biomedcentral.com/1471-2202/16/S1/P305>`__ |br|
   Metzner, C., Schweikard, A., & Bartosz, Z. |br|
-  18 July 2015 in `BMC Neuroscience`_. 16, Supp 1, P305
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P305
 
 - `Structural plasticity and associative memory in balanced neural networks with spike-time dependent inhibitory plasticity <http://www.biomedcentral.com/1471-2202/16/S1/P235>`__ |br|
   Sinha, A., Davey, N., Adams, R. & Steuber, V. |br|
-  18 July 2015 in `BMC Neuroscience`_. 16, Supp 1, P235
+  18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P235
 
 - `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
   Steuber, V. |br|
