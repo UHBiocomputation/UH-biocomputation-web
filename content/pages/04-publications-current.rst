@@ -41,6 +41,10 @@ Publications
 2015
 -----
 
+- `Cerebellar nuclear neurons use time and rate coding to transmit Purkinje neuron pauses <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004641>`__ - `(full text) <http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004641.PDF>`__ |br|
+  S.K. Sudhakar, B. Torben-Nielsen, E. De Schutter |br|
+  December 2015 in `PLoS Computational Biology`_, 11(12): e1004641
+
 - `Modeling the generation of cerebellar nuclear spike output <#>`__  |br|
   Steuber, V. |br|
   Nov 2015 `The neuronal codes of the cerebellum <http://store.elsevier.com/The-Neuronal-Codes-of-the-Cerebellum/isbn-9780128013861/>`__. Heck, D. (ed.). Elsevier
