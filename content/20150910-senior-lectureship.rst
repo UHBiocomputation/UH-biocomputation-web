@@ -5,7 +5,11 @@ Open Position: Senior Lecturer in Computer Science
 :tags: Open positions
 :date: 2015-09-10 10:00
 :slug: 20150910-senior-lectureship
-:summary: Applications are invited for a post of Senior Lecturer in the School of Computer Science at the University of Hertfordshire. Details within. Applications close on September 10, 2015.
+:summary: Applications are invited for a post of Senior Lecturer in the School of Computer Science at the University of Hertfordshire. Details within. Applications close on September 10, 2015. |br| *This position has been filled.*
+
+*This position has been filled.*
+
+---------------
 
 Salary: £37,394 to £47,328 per annum depending on skills and experience |br|
 FTE: Full time position |br|
