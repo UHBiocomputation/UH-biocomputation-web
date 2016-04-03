@@ -101,6 +101,10 @@ Publications
   Metzner, C., Schweikard, A., & Bartosz, Z. |br|
   18 December 2015 in `BMC Neuroscience`_. 16, Supp 1, P305
 
+- `The Potential for Using Artificial Intelligence Techniques to Improve e-Learning Systems <http://uhra.herts.ac.uk/handle/2299/16546>`__ |br|
+  Wakelam, E., Jefferies, A., Davey, N. & Sun, Yi  |br|
+  October 2015 in `ECEL 2015 <http://www.academic-conferences.org/conferences/ecel/ecel-future-and-past/>`__
+
 2014
 ----
 
