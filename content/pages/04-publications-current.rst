@@ -74,7 +74,7 @@ Publications
   12 - 17 July 2015 in the proceedings of the `2015 International Joint Conference on Neural Networks (IJCNN) <http://www.ijcnn.org/2015>`__
 
 - `Unsupervised image analysis & galaxy categorisation in multi-wavelength Hubble Space Telescope images <#>`__ - `(Proceedings pdf) <https://aaltodoc.aalto.fi/handle/123456789/18224>`__ |br|
-  Alex Hocking, Geach, J.E., Yi Sun, Davey, N. & Hine, N. |br|
+  Hocking A., Geach, J.E., Yi Sun, Davey, N. & Hine, N. |br|
   7 September 2015 in Proceedings of `ECMLPKDD 2015 Doctoral Consortium <http://research.ics.aalto.fi/events/ecml-pkdd-2015-doctoral-consortium/>`__
 
 - `Structural plasticity and associative memory in balanced neural networks with spike-time dependent inhibitory plasticity <http://www.biomedcentral.com/1471-2202/16/S1/P235>`__ |br|
@@ -109,7 +109,7 @@ Publications
 ----
 
 - `Feature Selection Modelling for Percutaneous Absorption across Synthetic Membranes <http://dx.doi.org/10.1109/ICTAI.2014.155>`__ - `(full text) <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6984591>`__ |br|
-  Weam M. Binjumah, Yi Sun, Mark Hewitt, Rod Adams, Neil Davey, Darren R. Gullick, Simon C. Wilkinson, Mark Cronin and Gary P. Moss |br|
+  Binjumah, W. M., Yi Sun , Hewitt, M., Adams, R., Davey, N., Gullick, D. R., Wilkinson, S. C., Cronin, M. & Moss, G. P. |br|
   10-12 November 2014 in the proceedings of the `26th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) <http://ictai2014.cs.ucy.ac.cy/>`__, pp.1021-1025
 
 - `Combining machine learning and simulations of a morphologically realistic model to study modulation of neuronal activity in cerebellar nuclei <http://dx.doi.org/10.1186/1471-2202-15-S1-P39>`__ - `(abstract) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/7718875/P39.pdf>`__ |br|
@@ -141,12 +141,12 @@ Publications
   2014 in The Computing Dendrite. Torben-Nielsen, B., Remme, M. & Cuntz, H. (eds.). Springer, p. 433-448 (`Springer Series in Computational Neuroscience`_; vol. 11)
 
 - `Context-aware modeling of neuronal morphologies <http://dx.doi.org/10.3389/fnana.2014.00092>`__ - `(full text) <http://journal.frontiersin.org/Journal/10.3389/fnana.2014.00092/full>`__ |br|
-  Torben-Nielsen, B., De Schutter, E. |br|
+  Torben-Nielsen, B. & De Schutter, E. |br|
   2014 in Frontiers in neuroanatomy, 8:92. 
 
 - `Spatially distributed dendritic resonance selectively filters synaptic input. <http://dx.doi.org/10.1371/journal.pcbi.1003775>`__  - `(full text) <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003775>`__ |br| 
   In memory of Jonathan Laudanski. |br|
-  Laudanski, J.*, Torben-Nielsen, B.*, Segev, I., Shamma, S. |br|
+  Laudanski, J.*, Torben-Nielsen, B.*, Segev, I. & Shamma, S. |br|
   2014 in `PLoS Computational Biology`_, 10(8): e1003775. 
 
 - `An efficient and extendable Python library to analyze neuronal morphologies <http://dx.doi.org/10.1007/s12021-014-9232-7>`__ |br|
@@ -158,19 +158,19 @@ Publications
   2014 in `Encyclopedia of Computational neuroscience <http://www.springerreference.com/docs/html/chapterdbid/348303.html>`__ |br|
 
 - `An approach for patient specific modeling of the aortic valve leaflets <#>`__ |br|
-  J Hagenah, M Scharfschwerdt, C Metzner, A Schlaefer, HH Sievers and A Schweikard |br|
+  Hagenah J., Scharfschwerdt M., Metzner C., Schlaefer A., Sievers H.H. & Schweikard A. |br|
   2014 in BioMedTec Studierendentagung
 
 - `An approach for patient specific modeling of the aortic valve leaflets <#>`__ |br|
-  J Hagenah, MScharfschwerdt, C Metzner, A Schlaefer, HH Sievers and A Schweikard |br|
+  Hagenah J., Scharfschwerdt M., Metzner C., Schlaefer A., Sievers H.H. & Schweikard A. |br|
   2014 in GRIN Verlag
 
 - `Coding in the olfactory system: linking realistic and abstract models <http://www.flavourjournal.com/content/3/S1/P10>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/2044-7248-3-S1-P10.pdf>`__ |br|
-  C Metzner |br|
+  Metzner C. |br|
   2014 in Flavour_, pages P10
 
 - `Computational Multifactoriality in a Detailed Neural Network Model Resembling Centre-Surround Suppression Deficits in Schizophrenia <http://www.biomedcentral.com/1471-2202/15/S1/P1/>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/1471-2202-15-S1-P1.pdf>`__ |br|
-  C Metzner, A Schweikard and B Zurowski |br|
+  Metzner C. , Schweikard A. & Zurowski B. |br|
   2014 in `BMC Neuroscience`_, 2014
 
 2013
@@ -237,27 +237,27 @@ Publications
   2013 ICANNGA 2013, Procs 11th Int Conf. Springer, p. 438-445 (`Lecture Notes in Computer Science`_; vol. 7824)
 
 - `The Green's function formalism as a bridge between single and multi-compartmental modeling <#>`__ - `(ArXiv) <http://arxiv.org/abs/1309.2382>`__ |br| 
-  Wybo, W., Stiefel, K.M., Torben-Nielsen, B. |br|
+  Wybo, W., Stiefel, K.M. & Torben-Nielsen, B. |br|
   2013 in Biological Cybernetics (in press)
 
 - `Oscillatory activity, phase differences and phase resetting in the inferior olivary nucleus <#>`__ - `(full text) <http://journal.frontiersin.org/article/10.3389/fnins.2013.00202/full>`__ |br|
-  Lefler Y., Torben-Nielsen B., Yarom Y |br|
+  Lefler Y., Torben-Nielsen B. & Yarom Y |br|
   2013 in Frontiers in Systems Neuroscience. 7:22
 
 - `Self-referential forces are sufficient to explain different dendritic morphologies <#>`__ - `(full text) <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00001/abstract>`__ - `(commentary) <http://www.frontiersin.org/Journal/10.3389/fninf.2013.00017/full>`__ |br| 
-  Memelli H.*, Torben-Nielsen B.*, Kozloski J. |br|
+  Memelli H.*, Torben-Nielsen B.* & Kozloski J. |br|
   2013 in `Frontiers in Neuroinformatics`_ 7:1
 
 - `Proposed evolutionary changes in the role of myelin. <http://dx.doi.org/10.3389/fnins.2013.00202>`__ - `(full text) <http://journal.frontiersin.org/article/10.3389/fnins.2013.00202/full>`__ |br| 
-  Stiefel K.M., Torben-Nielsen, B., Coggan, J.S. |br|
+  Stiefel K.M., Torben-Nielsen, B. & Coggan, J.S. |br|
   2013 in `Frontiers in Neuroscience`_. 7:202
 
 - `Center-Surround Interactions in a Network Model of Layer 4Calpha of Primary Visual Cortex <http://www.biomedcentral.com/1471-2202/14/S1/P435/>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/1471-2202-14-S1-P435.pdf>`__ |br|
-  C Metzner, A Schweikard and B Zurowski |br|
+  Metzner C., Schweikard A. & Zurowski B. |br|
   2013 in `BMC Neuroscience`_
 
 - `Cortical levels of GABA in patients with panic disorder are associated with the strength of metacognitive beliefs <https://www.researchgate.net/publication/267546334_Cortical_Levels_of_GABA_in_Patients_with_Panic_Disorder_are_associated_with_the_Strength_of_Metacognitive_Beliefs>`__ |br|
-  B Zurowski, F Hamm, C Metzner, H Scholand-Engler, A Wells and F Hohagen |br|
+  Zurowski B., Hamm F., Metzner C., Scholand-Engler H., Wells A. & Hohagen F. |br|
   2013 in Proceedings of 2nd International Conference of Metacognitive Therapy
 
 2012
@@ -288,8 +288,8 @@ Publications
   2012 in `PLoS Computational Biology`_, 8(7): e1002580.
 
 - `Spike-timing Dependent Plasticity Facilitates Excitatory/Inhibitory Disbalances in Early Phases of Tinnitus Manifestation <http://www.biomedcentral.com/1471-2202/13/S1/P1/>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/1471-2202-13-S1-P1.pdf>`__ |br|
-  C Metzner, F Guth, A Schweikard and B Zurowski |br|
-  2014 in BMC Neuroscience
+  Metzner C., Guth F., Schweikard A. & Zurowski B. |br|
+  2014 in `BMC Neuroscience`_
 
 2011
 ----
@@ -319,15 +319,15 @@ Publications
   2011 in `BMC Neuroscience`_. 12, Supp 1, 2 p., P315
 
 - `Early Signs of Tinnitus in a Simulation of the Mammalian Primary Auditory Cortex <http://www.biomedcentral.com/1471-2202/12/S1/P383>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/1471-2202-12-S1-P383.pdf>`__ |br|
-  C Metzner, M Menzinger, A Schweikard and B Zurowski |br|
+  Metzner C., Menzinger M., Schweikard A. & Zurowski B. |br|
   2014 in `BMC Neuroscience`_, pages P383
 
 - `Neurochemical Mechanisms of Perceptual Deficits in Schizophrenic Patients ? A Spiking Neural Network Approach <http://www.cureus.com/posters/147-neurochemical-mechanisms-of-perceptual-deficits-in-schizophrenic-patients---a-spiking-neural-network-approach>`__ - `(full text) <http://assets.cureus.com/uploads/poster/file/147/cmetzner_perceptual_mechanisms.pdf>`__ |br|
-  C Metzner, A Schweikard and B Zurowski |br|
+  Metzner C., Schweikard A. & Zurowski B. |br|
   2011 in Front. Comput. Neurosci. Conference Abstract: BC11 : Computational Neuroscience & Neurotechnology Bernstein Conference & Neurex Annual Meeting
 
 - `Towards Realistic Receptive Field Properties in a Biologically Inspired Spiking Network Model of the Mammalian Primary Visual Cortex <http://www.frontiersin.org/10.3389/conf.fncom.2011.53.00066/event_abstract>`__ |br|
-  C Metzner, ASchweikard and B Zurowski |br|
+  Metzner C., Schweikard A. & Zurowski B. |br|
   2011 in Front. Comput. Neurosci. Conference Abstract: BC11 : Computational Neuroscience & Neurotechnology Bernstein Conference & Neurex Annual Meeting
 
 
@@ -363,7 +363,7 @@ Publications
   2010 in `Frontiers in Neuroinformatics`_ 4:6
 
 - `Context Integration in Visual Processing: A Computational Model of Center-Surround Suppression in the Visual System <http://www.biomedcentral.com/1471-2202/11/S1/P100>`__ - `(full text) <http://www.biomedcentral.com/content/pdf/1471-2202-11-S1-P100.pdf>`__ |br|
-  C Metzner, A Schweikard and B Zurowski |br|
+  Metzner C., Schweikard A. & Zurowski B. |br|
   2010 in `BMC Neuroscience`_, pages P100
 
 2009
