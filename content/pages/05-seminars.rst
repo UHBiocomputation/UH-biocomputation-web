@@ -34,13 +34,13 @@ September 2015 - April 2016
     19, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__ , 11/03/2016
     20, Ankur Sinha, `Dendritic Computation <{filename}/20160330-dendritic-computation.rst>`__, 1/04/2016
     **-----**, **-----**, **-----**, **-----**
-    21, Edward Wakelam, --, 8/04/2016
-    22, Marco Craveiro, --, 15/04/2016
+    21, Edward Wakelam, `The potential for using artificial intelligence techniques to improve e-Learning systems <{filename}/20160406-the-potential-for-using-artificial-intelligence-techniques-to-improve-e-learning-systems.rst>`__ , 8/04/2016
+    22, Edward Wakelam, --, 15/04/2016
     23, Felix Effenberger, --, 22/04/2016
-    24, Nathan Beka, --, --
-    25, Deepak Panday, --, --
-    26, Ronak Bhavsar, --, --
-    27, Anuradha Sulane, --, --
+    24, Marco Craveiro, --, 29/04/2016
+    26, Deepak Panday, --, --
+    27, Ronak Bhavsar, --, --
+    28, Anuradha Sulane, --, --
 
 May 2016 -
 -----------
@@ -50,24 +50,25 @@ May 2016 -
     :widths: 5, 35, 85, 10
 
     1, Alex Hocking, -- , 06/05/2016
-    2, Ankur Sinha, -- , --
-    3, Christoph Metzner, -- , --
-    4, Neil Davey, -- , --
-    5, Volker Steuber, -- , --
-    6, Rene Boekhorst, --  , --
-    7, Benjamin Torben-Nielsen, --  , --
-    8, Julia Goncharenko, --  , --
-    9, Weam Binjumah, --  , --
-    10, Yi Sun, -- , --
-    11, Maria Psarrou, -- , --
-    12, Jean Petrić, --, --
-    13, Maria Schilstra, --, --
-    14, Edward Wakelam, --, --
-    15, Marco Craveiro, --, --
-    16, Nathan Beka, --, --
-    17, Deepak Panday, --, --
-    18, Roderick Adams, --, --
-    19, Ronak Bhavsar, --, --
-    20, Anuradha Sulane, --, --
-    21, Zaheed Mahmood, --, --
+    2, Nathan Beka, --, 13/05/2016
+    3, Ankur Sinha, -- , --
+    4, Christoph Metzner, -- , --
+    5, Neil Davey, -- , --
+    6, Volker Steuber, -- , --
+    7, Rene Boekhorst, --  , --
+    8, Benjamin Torben-Nielsen, --  , --
+    9, Julia Goncharenko, --  , --
+    10, Weam Binjumah, --  , --
+    11, Yi Sun, -- , --
+    12, Maria Psarrou, -- , --
+    13, Jean Petrić, --, --
+    14, Maria Schilstra, --, --
+    15, Edward Wakelam, --, --
+    16, Marco Craveiro, --, --
+    17, Nathan Beka, --, --
+    18, Deepak Panday, --, --
+    19, Roderick Adams, --, --
+    20, Ronak Bhavsar, --, --
+    21, Anuradha Sulane, --, --
+    22, Zaheed Mahmood, --, --
 
