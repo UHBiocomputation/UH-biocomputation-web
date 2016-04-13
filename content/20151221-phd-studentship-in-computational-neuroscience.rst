@@ -3,7 +3,7 @@ PhD studentship in Computational Neuroscience
 :date: 2015-12-21 16:45:55
 :author: Benjamin Torben-Nielsen
 :category: Vacancies
-:tags: Open positions, Studentship
+:tags: Open position, Studentship
 :slug: phd-studentship-in-computational-neuroscience
 :summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins on December 28, 2015. Details within. |br| *This position has been filled.*
 

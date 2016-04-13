@@ -2,7 +2,7 @@ Open Position: Senior Lecturer in Computer Science
 ##################################################
 :author: Volker Steuber
 :category: Vacancies
-:tags: Open positions
+:tags: Open position
 :date: 2015-09-10 10:00
 :slug: 20150910-senior-lectureship
 :summary: Applications are invited for a post of Senior Lecturer in the School of Computer Science at the University of Hertfordshire. Details within. Applications close on September 10, 2015. |br| *This position has been filled.*
