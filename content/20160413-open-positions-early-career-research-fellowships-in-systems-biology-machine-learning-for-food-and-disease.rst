@@ -1,4 +1,4 @@
-Open Positions: Early career Research Fellowships in systems biology/machine learning for food and disease
+Open Positions: Early Career Research Fellowships in systems biology/machine learning for food and disease
 ##########################################################################################################
 :date: 2016-04-13 13:27:22
 :author: Volker Steuber
