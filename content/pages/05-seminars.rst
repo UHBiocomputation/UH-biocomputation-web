@@ -35,12 +35,11 @@ September 2015 - April 2016
     20, Ankur Sinha, `Dendritic Computation <{filename}/20160330-dendritic-computation.rst>`__, 1/04/2016
     **-----**, **-----**, **-----**, **-----**
     21, Edward Wakelam, `The potential for using artificial intelligence techniques to improve e-Learning systems <{filename}/20160406-the-potential-for-using-artificial-intelligence-techniques-to-improve-e-learning-systems.rst>`__ , 8/04/2016
-    22, Edward Wakelam, --, 15/04/2016
-    23, Felix Effenberger, --, 22/04/2016
-    24, Marco Craveiro, --, 29/04/2016
-    26, Deepak Panday, --, --
-    27, Ronak Bhavsar, --, --
-    28, Anuradha Sulane, --, --
+    22, Felix Effenberger, `Forests are TREES 2 - Dendritic tree topology revisited <{filename}/20160419-forests-are-trees-2-dendritic-tree-topology-revisited.rst>`__, 22/04/2016
+    23, Marco Craveiro, --, 29/04/2016
+    25, Deepak Panday, --, --
+    26, Ronak Bhavsar, --, --
+    27, Anuradha Sulane, --, --
 
 May 2016 -
 -----------
