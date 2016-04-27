@@ -33,10 +33,10 @@ September 2015 - April 2016
     18, Maria Schilstra, `BoB: stochastic simulation of a process with non-Markov dynamics <{filename}/20160302-bob-stochastic-simulation-of-a-process-with-non-markov-dynamics.rst>`__, 04/03/2016
     19, Michael Schmuker, `Exploring neural computation in odour space <{filename}/20160204-exploring-neural-computation-in-odour-space.rst>`__ , 11/03/2016
     20, Ankur Sinha, `Dendritic Computation <{filename}/20160330-dendritic-computation.rst>`__, 1/04/2016
-    **-----**, **-----**, **-----**, **-----**
     21, Edward Wakelam, `The potential for using artificial intelligence techniques to improve e-Learning systems <{filename}/20160406-the-potential-for-using-artificial-intelligence-techniques-to-improve-e-learning-systems.rst>`__ , 8/04/2016
     22, Felix Effenberger, `Forests are TREES 2 - Dendritic tree topology revisited <{filename}/20160419-forests-are-trees-2-dendritic-tree-topology-revisited.rst>`__, 22/04/2016
-    23, Marco Craveiro, --, 29/04/2016
+    23, Marco Craveiro, `Using watertight polygon meshes for neuronal morphology representation <{filename}/20160427-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__, 29/04/2016
+    **-----**, **-----**, **-----**, **-----**
     25, Deepak Panday, --, --
     26, Ronak Bhavsar, --, --
     27, Anuradha Sulane, --, --
