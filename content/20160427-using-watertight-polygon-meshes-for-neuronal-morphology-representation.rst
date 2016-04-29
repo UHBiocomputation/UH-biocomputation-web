@@ -3,7 +3,7 @@ Using watertight polygon meshes for neuronal morphology representation
 :date: 2016-04-27 18:11:17
 :author: Marco Craveiro
 :category: Seminars
-:tags: Neuronal Morphology, Computational Modelling
+:tags: Neuronal Morphology, Computational modelling
 :slug: using-watertight-polygon-meshes-for-neuronal-morphology-representation
 :summary: Marco Craveiro's journal club session on using watertight polygon meshes for neuronal morphology representation. 
 

@@ -3,7 +3,7 @@ Open Position: PhD studentship in Olfactory Biocomputation
 :date: 2016-04-28 17:32:53
 :author: Volker Steuber
 :category: Vacancies
-:tags: Open position, Studentship, Olfaction
+:tags: Open position, Studentship, Olfaction, Computational modelling
 :slug: open-position-phd-studentship-in-olfactory-biocomputation
 :summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins 30 May, 2016. Details within.
 

@@ -3,7 +3,7 @@ Open Position: PhD studentship in Computational Neuroscience
 :date: 2016-04-28 23:57:17
 :author: Volker Steuber
 :category: Vacancies
-:tags: Open position, Studentship
+:tags: Open position, Studentship, Computational modelling, Dendritic computation
 :slug: open-position-phd-studentship-in-computational-neuroscience
 :summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins 30 May, 2016. Details within.
 
