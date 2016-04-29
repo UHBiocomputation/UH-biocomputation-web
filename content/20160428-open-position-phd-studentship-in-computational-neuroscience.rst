@@ -1,6 +1,6 @@
 Open Position: PhD studentship in Computational Neuroscience
 ############################################################
-:date: 2016-04-28 14:57:17
+:date: 2016-04-28 23:57:17
 :author: Volker Steuber
 :category: Vacancies
 :tags: Open position, Studentship
