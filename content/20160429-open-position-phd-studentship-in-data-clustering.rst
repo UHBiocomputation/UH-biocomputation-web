@@ -3,7 +3,7 @@ Open Position: PhD studentship in Data Clustering
 :date: 2016-04-28 04:41:37
 :author: Renato Cordeiro de Amorim
 :category: Vacancies
-:tags: Open position, Studentship, 
+:tags: Open position, Studentship, Machine learning
 :slug: open-position-phd-studentship-in-data-clustering
 :summary: A funded PhD position at the Biocomputation group is available. The shortlisting process begins 30 May, 2016. Details within.
 
