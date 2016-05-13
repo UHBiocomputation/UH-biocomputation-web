@@ -18,24 +18,25 @@ May 2016 -
     3, Nathan Beka, --, 03/06/2016
     4, Ankur Sinha, -- , --
     5, Christoph Metzner, -- , --
-    6, Neil Davey, -- , --
-    7, Volker Steuber, -- , --
-    8, Rene Boekhorst, --  , --
-    9, Benjamin Torben-Nielsen, --  , --
-    10, Julia Goncharenko, --  , --
-    11, Weam Binjumah, --  , --
-    12, Yi Sun, -- , --
-    13, Maria Psarrou, -- , --
-    14, Jean Petrić, --, --
-    15, Maria Schilstra, --, --
-    16, Edward Wakelam, --, --
-    17, Marco Craveiro, --, --
-    18, Nathan Beka, --, --
-    19, Deepak Panday, --, --
-    20, Roderick Adams, --, --
-    21, Ronak Bhavsar, --, --
-    22, Anuradha Sulane, --, --
-    23, Zaheed Mahmood, --, --
+    6, Gui Valente, -- , 24/06/2016
+    7, Neil Davey, -- , --
+    8, Volker Steuber, -- , --
+    9, Rene Boekhorst, --  , --
+    10, Benjamin Torben-Nielsen, --  , --
+    11, Julia Goncharenko, --  , --
+    12, Weam Binjumah, --  , --
+    13, Yi Sun, -- , --
+    14, Maria Psarrou, -- , --
+    15, Jean Petrić, --, --
+    16, Maria Schilstra, --, --
+    17, Edward Wakelam, --, --
+    18, Marco Craveiro, --, --
+    19, Nathan Beka, --, --
+    20, Deepak Panday, --, --
+    21, Roderick Adams, --, --
+    22, Ronak Bhavsar, --, --
+    23, Anuradha Sulane, --, --
+    24, Zaheed Mahmood, --, --
 
 
 September 2015 - April 2016
