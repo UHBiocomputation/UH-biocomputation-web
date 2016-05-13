@@ -13,7 +13,7 @@ May 2016 -
     :header: **#**, **Name**, **Title**, **Date**
     :widths: 5, 35, 85, 10
 
-    1, Jim Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
+    1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
     2, Alex Hocking, -- , 27/05/2016
     3, Nathan Beka, --, 03/06/2016
     4, Ankur Sinha, -- , --
