@@ -6,6 +6,38 @@ Seminars
 The biocomputation group hosts a weekly journal club meeting. Please contact Ankur Sinha at a.sinha2 AT herts.ac.uk if you have any queries. 
 Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
+May 2016 -
+-----------
+
+.. csv-table::
+    :header: **#**, **Name**, **Title**, **Date**
+    :widths: 5, 35, 85, 10
+
+    1, Jim Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
+    2, Alex Hocking, -- , 27/05/2016
+    3, Nathan Beka, --, 03/06/2016
+    4, Ankur Sinha, -- , --
+    5, Christoph Metzner, -- , --
+    6, Neil Davey, -- , --
+    7, Volker Steuber, -- , --
+    8, Rene Boekhorst, --  , --
+    9, Benjamin Torben-Nielsen, --  , --
+    10, Julia Goncharenko, --  , --
+    11, Weam Binjumah, --  , --
+    12, Yi Sun, -- , --
+    13, Maria Psarrou, -- , --
+    14, Jean Petrić, --, --
+    15, Maria Schilstra, --, --
+    16, Edward Wakelam, --, --
+    17, Marco Craveiro, --, --
+    18, Nathan Beka, --, --
+    19, Deepak Panday, --, --
+    20, Roderick Adams, --, --
+    21, Ronak Bhavsar, --, --
+    22, Anuradha Sulane, --, --
+    23, Zaheed Mahmood, --, --
+
+
 September 2015 - April 2016
 ---------------------------
 
@@ -37,37 +69,6 @@ September 2015 - April 2016
     22, Felix Effenberger, `Forests are TREES 2 - Dendritic tree topology revisited <{filename}/20160419-forests-are-trees-2-dendritic-tree-topology-revisited.rst>`__, 22/04/2016
     23, Marco Craveiro, `Using watertight polygon meshes for neuronal morphology representation <{filename}/20160427-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__, 29/04/2016
     **-----**, **-----**, **-----**, **-----**
-    25, Deepak Panday, --, --
-    26, Ronak Bhavsar, --, --
-    27, Anuradha Sulane, --, --
-
-May 2016 -
------------
-
-.. csv-table::
-    :header: **#**, **Name**, **Title**, **Date**
-    :widths: 5, 35, 85, 10
-
-    1, Alex Hocking, -- , 06/05/2016
-    2, Nathan Beka, --, 13/05/2016
-    3, Ankur Sinha, -- , --
-    4, Christoph Metzner, -- , --
-    5, Neil Davey, -- , --
-    6, Volker Steuber, -- , --
-    7, Rene Boekhorst, --  , --
-    8, Benjamin Torben-Nielsen, --  , --
-    9, Julia Goncharenko, --  , --
-    10, Weam Binjumah, --  , --
-    11, Yi Sun, -- , --
-    12, Maria Psarrou, -- , --
-    13, Jean Petrić, --, --
-    14, Maria Schilstra, --, --
-    15, Edward Wakelam, --, --
-    16, Marco Craveiro, --, --
-    17, Nathan Beka, --, --
-    18, Deepak Panday, --, --
-    19, Roderick Adams, --, --
-    20, Ronak Bhavsar, --, --
-    21, Anuradha Sulane, --, --
-    22, Zaheed Mahmood, --, --
-
+    24, Deepak Panday, --, --
+    25, Ronak Bhavsar, --, --
+    26, Anuradha Sulane, --, --
