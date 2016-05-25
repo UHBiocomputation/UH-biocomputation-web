@@ -14,29 +14,30 @@ May 2016 -
     :widths: 5, 35, 85, 10
 
     1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
-    2, Alex Hocking, -- , 27/05/2016
-    3, Nathan Beka, --, 03/06/2016
-    4, Ankur Sinha, -- , --
-    5, Christoph Metzner, -- , --
+    2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__ , 27/05/2016
+    3, Alex Hocking, -- , 03/06/2016
+    4, Nathan Beka, --, 10/06/2016
+    5, Ankur Sinha, -- , --
     6, Gui Valente, -- , 24/06/2016
-    7, Neil Davey, -- , --
-    8, Volker Steuber, -- , --
-    9, Rene Boekhorst, --  , --
-    10, Benjamin Torben-Nielsen, --  , --
-    11, Julia Goncharenko, --  , --
-    12, Weam Binjumah, --  , --
-    13, Yi Sun, -- , --
-    14, Maria Psarrou, -- , --
-    15, Jean Petrić, --, --
-    16, Maria Schilstra, --, --
-    17, Edward Wakelam, --, --
-    18, Marco Craveiro, --, --
-    19, Nathan Beka, --, --
-    20, Deepak Panday, --, --
-    21, Roderick Adams, --, --
-    22, Ronak Bhavsar, --, --
-    23, Anuradha Sulane, --, --
-    24, Zaheed Mahmood, --, --
+    7, Christoph Metzner, -- , --
+    8, Neil Davey, -- , --
+    9, Volker Steuber, -- , --
+    10, Rene Boekhorst, --  , --
+    11, Benjamin Torben-Nielsen, --  , --
+    12, Julia Goncharenko, --  , --
+    13, Weam Binjumah, --  , --
+    14, Yi Sun, -- , --
+    15, Maria Psarrou, -- , --
+    16, Jean Petrić, --, --
+    17, Maria Schilstra, --, --
+    18, Edward Wakelam, --, --
+    19, Marco Craveiro, --, --
+    20, Nathan Beka, --, --
+    21, Deepak Panday, --, --
+    22, Roderick Adams, --, --
+    23, Ronak Bhavsar, --, --
+    24, Anuradha Sulane, --, --
+    25, Zaheed Mahmood, --, --
 
 
 September 2015 - April 2016
