@@ -1,7 +1,7 @@
 The Jinx on the NASA software defect data sets
 ##############################################
 :date: 2016-05-25 10:27:27
-:author: Jean Petric
+:author: Jean Petrić
 :category: Seminars
 :tags: Software development, NASA, EASE
 :slug: the-jinx-on-the-nasa-software-defect-data-sets
