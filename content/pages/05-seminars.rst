@@ -15,7 +15,7 @@ May 2016 -
 
     1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
     2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__ , 27/05/2016
-    3, Alex Hocking, -- , 03/06/2016
+    3, Alex Hocking, `Convolutional neural networks <{filename}/20160601-convolutional-neural-networks.rst>`__, 03/06/2016
     4, Nathan Beka, --, 10/06/2016
     5, Ankur Sinha, -- , --
     6, Gui Valente, -- , 24/06/2016
