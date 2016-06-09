@@ -52,7 +52,7 @@ class generateRota:
         self.the_time_start = timedelta(hours=self.rota_time_start)
         self.the_time_end = timedelta(hours=self.rota_time_end)
         self.rota_location = "LB252, University of Hertfordshire, College Lane, Hatfield, AL10 9AB, UK"
-        self.rota_rst = "rota-{}.rst".format(self.year)
+        self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)
 
         # this is the data dictionary
