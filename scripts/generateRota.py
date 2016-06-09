@@ -25,6 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 from datetime import datetime
 from datetime import timedelta
+from datetime import date
 import icalendar
 import sys
 import textwrap
@@ -45,7 +46,7 @@ class generateRota:
         self.a_week = timedelta(days=7)
         self.tz = pytz.timezone("Europe/London")
         # The date this rota starts at
-        self.start_date = datetime(2016, 5, 20, tzinfo=self.tz)
+        self.start_date = datetime(2016, 5, 20)
         self.year = 2016
         # 4 in the afternoon
         self.rota_time_start = 16
@@ -54,7 +55,8 @@ class generateRota:
         self.the_time_end = timedelta(hours=self.rota_time_end)
         self.rota_location = ("LB252, University of Hertfordshire, " +
                               "College Lane, Hatfield, AL10 9AB, UK")
-        self.rota_data_file = "rota-data-{}.txt".format(self.year)
+        # since it'll be run using the makefile
+        self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
         self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)
 
@@ -75,57 +77,81 @@ class generateRota:
             data_reader = csv.reader(csvfile)
             rota_data = list(data_reader)
 
-        for v1, v2, v3, date in rota_data:
-            if date != '0':
-                rota_datetime = datetime.strptime(date, "%Y-%m-%d")
+        for v1, v2, v3, s_date in rota_data:
+            if s_date != '0':
+                rota_datetime = datetime.strptime(s_date, "%Y-%m-%d")
             else:
                 rota_datetime = None
 
             self.rota_data.append([v1, v2, v3, rota_datetime])
 
-        for row in self.rota_data:
-            print(row)
-
     def fill_up_dates(self):
         """Fill in missing dates."""
         self.rota = []
         current_date = self.start_date
-        scheduled_talks = []
         scheduled_dates = []
+        skipped_dates = []
 
-        print("Talks already booked: ")
         for data in self.rota_data:
             name, talk_title, title_blog, rota_date = data
             if rota_date:
-                scheduled_dates.append((name, talk_title, title_blog,
-                                        rota_date.strftime("%d/%m/%y")))
-                print("{}, \"{}\", \"{}\", {}".format(
-                    name, talk_title, title_blog,
-                    rota_date.strftime("%d/%m/%y")))
+                if name == "Holiday":
+                    skipped_dates.append(rota_date)
+                else:
+                    scheduled_dates.append(rota_date)
+                # print("{}, \"{}\", \"{}\", {}".format(
+                #    name, talk_title, title_blog,
+                #    rota_date.strftime("%d/%m/%y")))
 
-        print()
-        print("[Output] Completed rota: ")
+        # print("Occupied dates: ")
+        # for date in skipped_dates + scheduled_dates:
+        #     print(date.strftime("%d/%m/%y"))
+
+        # print()
+        # print("[Output] Completed rota: ")
 
         for data in self.rota_data:
             name, talk_title, title_blog, rota_date = data
+
+            if not rota_date:
+                rota_date = current_date
+
+                while rota_date in skipped_dates or \
+                        rota_date in scheduled_dates:
+                    # print("Date {} occupied.  Skipping".format(
+                    #     rota_date.strftime("%d/%m/%y")))
+                    rota_date += self.a_week
+                    continue
+            else:
+                if name == "Holiday":
+                    continue
+
             if not talk_title:
                 talk_title = "--"
             if not title_blog:
                 title_blog = "<#>"
             else:
                 title_blog = "<{{filename}}/{}>".format(title_blog)
-            if not rota_date:
-                rota_date = current_date
-                while True:
-                    if rota_date in scheduled_dates:
-                        rota_date += self.a_week
-                    else:
-                        break
+
+            scheduled_dates.append(rota_date)
+            rota_date = rota_date.replace(tzinfo=self.tz)
+            self.rota.append((name, talk_title, title_blog, rota_date))
+            # print("{}, \"{}\", \"{}\", {}".format(
+            #    name, talk_title, title_blog,
+            #    rota_date.strftime("%d/%m/%y")))
 
             current_date = rota_date + self.a_week
-            self.rota.append((name, talk_title, title_blog, rota_date))
-            print("{}, \"{}\", \"{}\", {}".format(
-                name, talk_title, title_blog, rota_date.strftime("%d/%m/%y")))
+
+        # sort by date so that I don't have to
+        self.rota.sort(key=lambda x: x[3])
+
+        d = date.today()
+        today = datetime(d.year, d.month, d.day, tzinfo=self.tz)
+        for row in self.rota:
+            if row[3] > today:
+                print("{} is to take the next session on {}.".format(
+                    row[0], row[3].strftime("%d/%m/%y")))
+                break
 
     def print_to_rst(self):
         """Print an rst file."""

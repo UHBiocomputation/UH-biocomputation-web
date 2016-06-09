@@ -4,3 +4,5 @@ output
 .ropeproject
 cache
 *.swp
+scripts/*.txt
+scripts/*.ics
