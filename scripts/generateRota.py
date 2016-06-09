@@ -90,12 +90,13 @@ class generateRota:
             ("Ronak Bhavsar", "", "", ""),
             ("Anuradha Sulane", "", "", ""),
             ("Zaheed Mahmood", "", "", "")
+
         )
 
         self.table_header = """
         .. csv-table::
-        :header: **#**, **Name**, **Title**, **Date**
-        :widths: 5, 35, 85, 10
+        \t:header: **#**, **Name**, **Title**, **Date**
+        \t:widths: 5, 35, 85, 10
         """
 
     def fill_up_dates(self):
@@ -110,9 +111,10 @@ class generateRota:
             name, talk_title, title_blog, rota_date = data
             if rota_date:
                 scheduled_dates.append((name, talk_title, title_blog,
-                                        rota_date))
-                print("{}, \"{}\", \"{}\", {}".format(name, talk_title,
-                                                      title_blog, rota_date))
+                                        rota_date.strftime("%d/%m/%y")))
+                print("{}, \"{}\", \"{}\", {}".format(
+                    name, talk_title, title_blog,
+                    rota_date.strftime("%d/%m/%y")))
 
         print()
         print("[Output] Completed rota: ")
@@ -135,8 +137,8 @@ class generateRota:
 
             current_date = rota_date + self.a_week
             self.rota.append((name, talk_title, title_blog, rota_date))
-            print("{}, \"{}\", \"{}\", {}".format(name, talk_title,
-                                                  title_blog, rota_date))
+            print("{}, \"{}\", \"{}\", {}".format(
+                name, talk_title, title_blog, rota_date.strftime("%d/%m/%y")))
 
     def print_to_rst(self):
         """Print an rst file."""
@@ -149,11 +151,12 @@ class generateRota:
         print(textwrap.dedent(self.table_header), file=rst_file)
         for data in self.rota:
             name, talk_title, title_blog, rota_date = data
-            print("{}, {}, `{} {}`__, {}".format(counter, name, talk_title,
-                                                 title_blog, rota_date),
-                  file=rst_file)
+            print("\t{}, {}, `{} {}`__, {}".format(
+                counter, name, talk_title, title_blog,
+                rota_date.strftime("%d/%m/%y")), file=rst_file)
             counter += 1
 
+        print(file=rst_file)
         rst_file.close()
         print()
         print("[Output] Rst file written: {}".format(self.rota_rst))
@@ -175,7 +178,7 @@ class generateRota:
             session['dtstart'] = icalendar.vDatetime(rota_date +
                                                      self.the_time_start)
             session['dtend'] = icalendar.vDatetime(rota_date +
-                                                     self.the_time_end)
+                                                   self.the_time_end)
             session['location'] = icalendar.vText(self.rota_location)
             session['summary'] = icalendar.vText("{} - {}".format(name,
                                                                   talk_title))
