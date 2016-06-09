@@ -24,7 +24,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, A
  L10 9AB\, UK
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - --
+SUMMARY:Christoph Metzner - Could a neuroscientist understand a microproce
+ ssor?
 DTSTART;TZID=Europe/London:20160610T160000
 DTEND;TZID=Europe/London:20160610T170000
 UID:2016-06-10T00:00:00-00:01

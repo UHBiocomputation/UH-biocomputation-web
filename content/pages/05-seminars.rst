@@ -9,7 +9,7 @@ Abstracts and other material related to these sessions will feature in the `news
 May 2016 -
 -----------
 
-.. include:: rota-2016.rst
+.. include:: rota-2016.txt
 
 September 2015 - April 2016
 ---------------------------
