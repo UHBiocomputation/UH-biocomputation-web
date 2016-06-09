@@ -9,36 +9,7 @@ Abstracts and other material related to these sessions will feature in the `news
 May 2016 -
 -----------
 
-.. csv-table::
-    :header: **#**, **Name**, **Title**, **Date**
-    :widths: 5, 35, 85, 10
-
-    1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/2016
-    2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__ , 27/05/2016
-    3, Alex Hocking, `Convolutional neural networks <{filename}/20160601-convolutional-neural-networks.rst>`__, 03/06/2016
-    4, Nathan Beka, --, 10/06/2016
-    5, Ankur Sinha, -- , --
-    6, Gui Valente, -- , 24/06/2016
-    7, Christoph Metzner, -- , --
-    8, Neil Davey, -- , --
-    9, Volker Steuber, -- , --
-    10, Rene Boekhorst, --  , --
-    11, Benjamin Torben-Nielsen, --  , --
-    12, Julia Goncharenko, --  , --
-    13, Weam Binjumah, --  , --
-    14, Yi Sun, -- , --
-    15, Maria Psarrou, -- , --
-    16, Jean Petrić, --, --
-    17, Maria Schilstra, --, --
-    18, Edward Wakelam, --, --
-    19, Marco Craveiro, --, --
-    20, Nathan Beka, --, --
-    21, Deepak Panday, --, --
-    22, Roderick Adams, --, --
-    23, Ronak Bhavsar, --, --
-    24, Anuradha Sulane, --, --
-    25, Zaheed Mahmood, --, --
-
+.. include:: rota-2016.rst
 
 September 2015 - April 2016
 ---------------------------

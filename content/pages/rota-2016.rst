@@ -1,0 +1,33 @@
+
+.. csv-table::
+	:header: **#**, **Name**, **Title**, **Date**
+	:widths: 5, 35, 85, 10
+
+	1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/16
+	2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__, 27/05/16
+	3, Alex Hocking, `Convolutional neural networks <{filename}/20160601-convolutional-neural-networks.rst>`__, 03/06/16
+	4, Christoph Metzner, `-- <#>`__, 10/06/16
+	5, Guest session, `-- <#>`__, 17/06/16
+	6, Gui Valente, `-- <#>`__, 24/06/16
+	7, Nathan Beka, `-- <#>`__, 01/07/16
+	8, Ankur Sinha, `-- <#>`__, 08/07/16
+	9, Neil Davey, `-- <#>`__, 15/07/16
+	10, Volker Steuber, `-- <#>`__, 22/07/16
+	11, Rene Boekhorst, `-- <#>`__, 29/07/16
+	12, Benjamin Torben-Nielsen, `-- <#>`__, 05/08/16
+	13, Julia Goncharenko, `-- <#>`__, 12/08/16
+	14, Weam Binjumah, `-- <#>`__, 19/08/16
+	15, Yi Sun, `-- <#>`__, 26/08/16
+	16, Maria Psarrou, `-- <#>`__, 02/09/16
+	17, Jean Petrić, `-- <#>`__, 09/09/16
+	18, Maria Schilstra, `-- <#>`__, 16/09/16
+	19, Edward Wakelam, `-- <#>`__, 23/09/16
+	20, random Mahmood, `-- <#>`__, 30/09/16
+	21, Marco Craveiro, `-- <#>`__, 07/10/16
+	22, Nathan Beka, `-- <#>`__, 14/10/16
+	23, Deepak Panday, `-- <#>`__, 21/10/16
+	24, Roderick Adams, `-- <#>`__, 28/10/16
+	25, Ronak Bhavsar, `-- <#>`__, 04/11/16
+	26, Anuradha Sulane, `-- <#>`__, 11/11/16
+	27, Zaheed Mahmood, `-- <#>`__, 18/11/16
+
