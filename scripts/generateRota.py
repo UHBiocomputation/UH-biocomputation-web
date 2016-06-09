@@ -29,6 +29,7 @@ import icalendar
 import sys
 import textwrap
 import pytz
+import csv
 
 
 class generateRota:
@@ -51,56 +52,39 @@ class generateRota:
         self.rota_time_end = 17
         self.the_time_start = timedelta(hours=self.rota_time_start)
         self.the_time_end = timedelta(hours=self.rota_time_end)
-        self.rota_location = "LB252, University of Hertfordshire, College Lane, Hatfield, AL10 9AB, UK"
+        self.rota_location = ("LB252, University of Hertfordshire, " +
+                              "College Lane, Hatfield, AL10 9AB, UK")
+        self.rota_data_file = "rota-data-{}.txt".format(self.year)
         self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)
 
         # this is the data dictionary
         # name, title, rst blog post filename, date if available
         # auto generates the date if missing
-        self.rota_data = (
-            ("James Bower", "What does the nose know and how does it know it",
-             "20160513-what-does-the-nose-know-and-how-does-it-know-it.rst",
-             ""),
-            ("Jean Petrić", "The jinx on the NASA software defect data sets",
-             "20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst",
-             ""),
-            ("Alex Hocking", "Convolutional neural networks",
-             "20160601-convolutional-neural-networks.rst", ""),
-            ("Christoph Metzner",
-             "Could a neuroscientist understand a microprocessor?",
-             "20160609-could-a-neuroscientist-understand-a-microprocessor.rst",
-             ""),
-            ("Guest session", "", "", datetime(2016, 6, 17)),
-            ("Gui Valente", "", "", datetime(2016, 6, 24)),
-            ("Nathan Beka", "", "", ""),
-            ("Ankur Sinha", "", "", ""),
-            ("Neil Davey", "", "", ""),
-            ("Volker Steuber", "", "", ""),
-            ("Rene Boekhorst", "", "", ""),
-            ("Benjamin Torben-Nielsen", "", "", ""),
-            ("Julia Goncharenko", "", "", ""),
-            ("Weam Binjumah", "", "", ""),
-            ("Yi Sun", "", "", ""),
-            ("Maria Psarrou", "", "", ""),
-            ("Jean Petrić", "", "", ""),
-            ("Maria Schilstra", "", "", ""),
-            ("Edward Wakelam", "", "", ""),
-            ("Marco Craveiro", "", "", ""),
-            ("Nathan Beka", "", "", ""),
-            ("Deepak Panday", "", "", ""),
-            ("Roderick Adams", "", "", ""),
-            ("Ronak Bhavsar", "", "", ""),
-            ("Anuradha Sulane", "", "", ""),
-            ("Zaheed Mahmood", "", "", "")
-
-        )
+        self.rota_data = []
 
         self.table_header = """
         .. csv-table::
         \t:header: **#**, **Name**, **Title**, **Date**
         \t:widths: 5, 35, 85, 10
         """
+
+    def get_rota_data(self):
+        """Load data from text file."""
+        with open(self.rota_data_file) as csvfile:
+            data_reader = csv.reader(csvfile)
+            rota_data = list(data_reader)
+
+        for v1, v2, v3, date in rota_data:
+            if date != '0':
+                rota_datetime = datetime.strptime(date, "%Y-%m-%d")
+            else:
+                rota_datetime = None
+
+            self.rota_data.append([v1, v2, v3, rota_datetime])
+
+        for row in self.rota_data:
+            print(row)
 
     def fill_up_dates(self):
         """Fill in missing dates."""
@@ -199,6 +183,7 @@ class generateRota:
 
 if __name__ == "__main__":
     generator = generateRota()
+    generator.get_rota_data()
     generator.fill_up_dates()
     generator.print_to_rst()
     generator.generate_ical()
