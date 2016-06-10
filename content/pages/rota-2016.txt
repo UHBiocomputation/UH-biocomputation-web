@@ -10,23 +10,25 @@
 	5, Guest session, `-- <#>`__, 17/06/16
 	6, Gui Valente, `-- <#>`__, 24/06/16
 	7, Nathan Beka, `-- <#>`__, 01/07/16
-	8, Ankur Sinha, `-- <#>`__, 08/07/16
-	9, Neil Davey, `-- <#>`__, 15/07/16
-	10, Volker Steuber, `-- <#>`__, 22/07/16
-	11, Rene Boekhorst, `-- <#>`__, 29/07/16
-	12, Benjamin Torben-Nielsen, `-- <#>`__, 05/08/16
-	13, Julia Goncharenko, `-- <#>`__, 12/08/16
-	14, Weam Binjumah, `-- <#>`__, 19/08/16
-	15, Yi Sun, `-- <#>`__, 26/08/16
-	16, Maria Psarrou, `-- <#>`__, 02/09/16
-	17, Jean Petrić, `-- <#>`__, 09/09/16
-	18, Maria Schilstra, `-- <#>`__, 16/09/16
-	19, Edward Wakelam, `-- <#>`__, 23/09/16
-	20, Marco Craveiro, `-- <#>`__, 30/09/16
-	21, Nathan Beka, `-- <#>`__, 07/10/16
-	22, Deepak Panday, `-- <#>`__, 14/10/16
-	23, Roderick Adams, `-- <#>`__, 21/10/16
-	24, Ronak Bhavsar, `-- <#>`__, 28/10/16
-	25, Anuradha Sulane, `-- <#>`__, 04/11/16
-	26, Zaheed Mahmood, `-- <#>`__, 11/11/16
+	8, Anuradha Sulane, `-- <#>`__, 08/07/16
+	9, Deepak Panday, `-- <#>`__, 15/07/16
+	10, Ankur Sinha, `-- <#>`__, 22/07/16
+	11, Neil Davey, `-- <#>`__, 29/07/16
+	12, Volker Steuber, `-- <#>`__, 05/08/16
+	13, Rene Boekhorst, `-- <#>`__, 12/08/16
+	14, Benjamin Torben-Nielsen, `-- <#>`__, 19/08/16
+	15, Julia Goncharenko, `-- <#>`__, 26/08/16
+	16, Weam Binjumah, `-- <#>`__, 02/09/16
+	17, Yi Sun, `-- <#>`__, 09/09/16
+	18, Maria Psarrou, `-- <#>`__, 16/09/16
+	19, Jean Petrić, `-- <#>`__, 23/09/16
+	20, Maria Schilstra, `-- <#>`__, 30/09/16
+	21, Edward Wakelam, `-- <#>`__, 07/10/16
+	22, Marco Craveiro, `-- <#>`__, 14/10/16
+	23, Nathan Beka, `-- <#>`__, 21/10/16
+	24, Deepak Panday, `-- <#>`__, 28/10/16
+	25, Roderick Adams, `-- <#>`__, 04/11/16
+	26, Ronak Bhavsar, `-- <#>`__, 11/11/16
+	27, Anuradha Sulane, `-- <#>`__, 18/11/16
+	28, Zaheed Mahmood, `-- <#>`__, 25/11/16
 
