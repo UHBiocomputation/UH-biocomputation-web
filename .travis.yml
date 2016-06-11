@@ -5,6 +5,7 @@ git:
     submodules: false
 before_install:
     - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+    - sed -i "s/py3-pelican/pelican/" Makefile
     - git submodule update --init --recursive
 install: 
     - pip install pelican BeautifulSoup4 icalendar pytz
