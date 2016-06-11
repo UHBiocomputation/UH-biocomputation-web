@@ -41,7 +41,3 @@ September 2015 - April 2016
     21, Edward Wakelam, `The potential for using artificial intelligence techniques to improve e-Learning systems <{filename}/20160406-the-potential-for-using-artificial-intelligence-techniques-to-improve-e-learning-systems.rst>`__ , 8/04/2016
     22, Felix Effenberger, `Forests are TREES 2 - Dendritic tree topology revisited <{filename}/20160419-forests-are-trees-2-dendritic-tree-topology-revisited.rst>`__, 22/04/2016
     23, Marco Craveiro, `Using watertight polygon meshes for neuronal morphology representation <{filename}/20160427-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__, 29/04/2016
-    **-----**, **-----**, **-----**, **-----**
-    24, Deepak Panday, --, --
-    25, Ronak Bhavsar, --, --
-    26, Anuradha Sulane, --, --

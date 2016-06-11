@@ -74,7 +74,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20160722T160000
 DTEND;TZID=Europe/London:20160722T170000
 UID:2016-07-22T00:00:00-00:01
@@ -82,7 +82,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Davey - --
+SUMMARY:Ankur Sinha - --
 DTSTART;TZID=Europe/London:20160729T160000
 DTEND;TZID=Europe/London:20160729T170000
 UID:2016-07-29T00:00:00-00:01
@@ -90,7 +90,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Neil Davey - --
 DTSTART;TZID=Europe/London:20160805T160000
 DTEND;TZID=Europe/London:20160805T170000
 UID:2016-08-05T00:00:00-00:01
@@ -98,7 +98,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene Boekhorst - --
+SUMMARY:Volker Steuber - --
 DTSTART;TZID=Europe/London:20160812T160000
 DTEND;TZID=Europe/London:20160812T170000
 UID:2016-08-12T00:00:00-00:01
@@ -106,7 +106,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benjamin Torben-Nielsen - --
+SUMMARY:Rene Boekhorst - --
 DTSTART;TZID=Europe/London:20160819T160000
 DTEND;TZID=Europe/London:20160819T170000
 UID:2016-08-19T00:00:00-00:01
@@ -114,7 +114,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Benjamin Torben-Nielsen - --
 DTSTART;TZID=Europe/London:20160826T160000
 DTEND;TZID=Europe/London:20160826T170000
 UID:2016-08-26T00:00:00-00:01
@@ -122,7 +122,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20160902T160000
 DTEND;TZID=Europe/London:20160902T170000
 UID:2016-09-02T00:00:00-00:01
@@ -130,7 +130,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20160909T160000
 DTEND;TZID=Europe/London:20160909T170000
 UID:2016-09-09T00:00:00-00:01
@@ -138,7 +138,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20160916T160000
 DTEND;TZID=Europe/London:20160916T170000
 UID:2016-09-16T00:00:00-00:01
@@ -146,7 +146,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jean Petrić - --
+SUMMARY:Maria Psarrou - --
 DTSTART;TZID=Europe/London:20160923T160000
 DTEND;TZID=Europe/London:20160923T170000
 UID:2016-09-23T00:00:00-00:01
@@ -154,7 +154,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Schilstra - --
+SUMMARY:Jean Petrić - --
 DTSTART;TZID=Europe/London:20160930T160000
 DTEND;TZID=Europe/London:20160930T170000
 UID:2016-09-30T00:00:00-00:01
@@ -162,7 +162,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Maria Schilstra - --
 DTSTART;TZID=Europe/London:20161007T160000
 DTEND;TZID=Europe/London:20161007T170000
 UID:2016-10-07T00:00:00-00:01
@@ -170,7 +170,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20161014T160000
 DTEND;TZID=Europe/London:20161014T170000
 UID:2016-10-14T00:00:00-00:01
@@ -178,7 +178,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathan Beka - --
+SUMMARY:Marco Craveiro - --
 DTSTART;TZID=Europe/London:20161021T160000
 DTEND;TZID=Europe/London:20161021T170000
 UID:2016-10-21T00:00:00-00:01
@@ -186,7 +186,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Nathan Beka - --
 DTSTART;TZID=Europe/London:20161028T160000
 DTEND;TZID=Europe/London:20161028T170000
 UID:2016-10-28T00:00:00-00:01
@@ -194,7 +194,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roderick Adams - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20161104T160000
 DTEND;TZID=Europe/London:20161104T170000
 UID:2016-11-04T00:00:00-00:01
@@ -202,7 +202,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ronak Bhavsar - --
+SUMMARY:Roderick Adams - --
 DTSTART;TZID=Europe/London:20161111T160000
 DTEND;TZID=Europe/London:20161111T170000
 UID:2016-11-11T00:00:00-00:01
@@ -210,7 +210,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Ronak Bhavsar - --
 DTSTART;TZID=Europe/London:20161118T160000
 DTEND;TZID=Europe/London:20161118T170000
 UID:2016-11-18T00:00:00-00:01
@@ -218,10 +218,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zaheed Mahmood - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20161125T160000
 DTEND;TZID=Europe/London:20161125T170000
 UID:2016-11-25T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaheed Mahmood - --
+DTSTART;TZID=Europe/London:20161202T160000
+DTEND;TZID=Europe/London:20161202T170000
+UID:2016-12-02T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
