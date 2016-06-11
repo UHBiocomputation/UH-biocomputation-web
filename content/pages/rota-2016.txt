@@ -7,7 +7,7 @@
 	2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__, 27/05/16
 	3, Alex Hocking, `Convolutional neural networks <{filename}/20160601-convolutional-neural-networks.rst>`__, 03/06/16
 	4, Christoph Metzner, `Could a neuroscientist understand a microprocessor? <{filename}/20160609-could-a-neuroscientist-understand-a-microprocessor.rst>`__, 10/06/16
-	5, Guest session, `-- <#>`__, 17/06/16
+	5, Marylka Uusisaari, `From morphology to network-level activity patterns: dendritic arrangement and clustering among inferior olive neurons <{filename}/20160611-from-morphology-to-network-level-activity-patterns-dendritic-arrangement-and-clustering-among-inferior-olive-neurons.rst>`__, 17/06/16
 	6, Gui Valente, `-- <#>`__, 24/06/16
 	7, Nathan Beka, `-- <#>`__, 01/07/16
 	8, Anuradha Sulane, `-- <#>`__, 08/07/16
