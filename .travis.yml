@@ -5,7 +5,8 @@ before_install:
     - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
     - git submodule update --init --recursive
 install: 
-    - pip install pelican BeautifulSoup4 icalendar pytz
+    - pip install pelican BeautifulSoup4 
+    - pip3 install icalendar pytz
 script:
     - make html
 
