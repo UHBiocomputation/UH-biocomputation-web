@@ -42,7 +42,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gui Valente - --
+SUMMARY:Gui Valente - Research team from UNESP-Brazil reports its works on
+  Genomics: from basic science to biotechnology
 DTSTART;TZID=Europe/London:20160624T160000
 DTEND;TZID=Europe/London:20160624T170000
 UID:2016-06-24T00:00:00-00:01
