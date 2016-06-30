@@ -164,9 +164,9 @@ class generateRota:
         print(textwrap.dedent(self.table_header), file=rst_file)
         for data in self.rota:
             name, talk_title, title_blog, rota_date = data
-            if name == "Holiday":
+            if name == "Holiday" or name == "Cancelled" or name == "--":
                 print("\t{}, {}, `{} {}`__, {}".format(
-                    "", name, talk_title, title_blog,
+                    "--", name, talk_title, title_blog,
                     rota_date.strftime("%d/%m/%y")), file=rst_file)
             else:
                 print("\t{}, {}, `{} {}`__, {}".format(
