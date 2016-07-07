@@ -10,7 +10,7 @@
 	5, Marylka Uusisaari, `From morphology to network-level activity patterns: dendritic arrangement and clustering among inferior olive neurons <{filename}/20160611-from-morphology-to-network-level-activity-patterns-dendritic-arrangement-and-clustering-among-inferior-olive-neurons.rst>`__, 17/06/16
 	6, Gui Valente, `Research team from UNESP-Brazil reports its works on Genomics: from basic science to biotechnology <{filename}/20160622-research-team-from-unesp-brazil-reports-its-works-on-genomics-from-basic-science-to-biotechnology.rst>`__, 24/06/16
 	--, --, `-- <#>`__, 01/07/16
-	7, Anuradha Sulane, `-- <#>`__, 08/07/16
+	7, Anuradha Sulane, `Detecting Road Surface Wetness from Audio: A Deep Learning Approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
 	8, Deepak Panday, `-- <#>`__, 15/07/16
 	9, Edward Wakelam, `-- <#>`__, 22/07/16
 	10, Nathan Beka, `-- <#>`__, 29/07/16

@@ -59,7 +59,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Anuradha Sulane - Detecting Road Surface Wetness from Audio: A Dee
+ p Learning Approach
 DTSTART;TZID=Europe/London:20160708T160000
 DTEND;TZID=Europe/London:20160708T170000
 UID:2016-07-08T00:00:00-00:01
