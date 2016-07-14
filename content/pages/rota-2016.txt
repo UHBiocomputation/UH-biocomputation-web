@@ -10,27 +10,28 @@
 	5, Marylka Uusisaari, `From morphology to network-level activity patterns: dendritic arrangement and clustering among inferior olive neurons <{filename}/20160611-from-morphology-to-network-level-activity-patterns-dendritic-arrangement-and-clustering-among-inferior-olive-neurons.rst>`__, 17/06/16
 	6, Gui Valente, `Research team from UNESP-Brazil reports its works on Genomics: from basic science to biotechnology <{filename}/20160622-research-team-from-unesp-brazil-reports-its-works-on-genomics-from-basic-science-to-biotechnology.rst>`__, 24/06/16
 	--, --, `-- <#>`__, 01/07/16
-	7, Anuradha Sulane, `Detecting Road Surface Wetness from Audio: A Deep Learning Approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
-	8, Deepak Panday, `-- <#>`__, 15/07/16
-	9, Edward Wakelam, `-- <#>`__, 22/07/16
+	7, Anuradha Sulane, `Detecting road surface wetness from audio: A deep learning approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
+	8, Alex Hocking, `Automated morphological classification using machine learning techniques <{filename}/20160714-automated-morphological-classification-of-galaxies-using-machine-learning-techniques.rst>`__, 15/07/16
+	9, Edward Wakelam, `Sloping the interview and career development playing fields in your favour <#>`__, 22/07/16
 	10, Nathan Beka, `-- <#>`__, 29/07/16
-	11, Ankur Sinha, `-- <#>`__, 05/08/16
-	12, Neil Davey, `-- <#>`__, 12/08/16
-	13, Volker Steuber, `-- <#>`__, 19/08/16
-	14, Rene Boekhorst, `-- <#>`__, 26/08/16
-	15, Benjamin Torben-Nielsen, `-- <#>`__, 02/09/16
-	16, Julia Goncharenko, `-- <#>`__, 09/09/16
-	17, Weam Binjumah, `-- <#>`__, 16/09/16
-	18, Yi Sun, `-- <#>`__, 23/09/16
-	19, Maria Psarrou, `-- <#>`__, 30/09/16
-	20, Jean Petrić, `-- <#>`__, 07/10/16
-	21, Maria Schilstra, `-- <#>`__, 14/10/16
-	22, Edward Wakelam, `-- <#>`__, 21/10/16
-	23, Marco Craveiro, `-- <#>`__, 28/10/16
-	24, Nathan Beka, `-- <#>`__, 04/11/16
-	25, Deepak Panday, `-- <#>`__, 11/11/16
-	26, Roderick Adams, `-- <#>`__, 18/11/16
-	27, Ronak Bhavsar, `-- <#>`__, 25/11/16
-	28, Anuradha Sulane, `-- <#>`__, 02/12/16
-	29, Zaheed Mahmood, `-- <#>`__, 09/12/16
+	11, Deepak Panday, `-- <#>`__, 05/08/16
+	12, Ankur Sinha, `-- <#>`__, 12/08/16
+	13, Neil Davey, `-- <#>`__, 19/08/16
+	14, Volker Steuber, `-- <#>`__, 26/08/16
+	15, Rene Boekhorst, `-- <#>`__, 02/09/16
+	16, Benjamin Torben-Nielsen, `-- <#>`__, 09/09/16
+	17, Julia Goncharenko, `-- <#>`__, 16/09/16
+	18, Weam Binjumah, `-- <#>`__, 23/09/16
+	19, Yi Sun, `-- <#>`__, 30/09/16
+	20, Maria Psarrou, `-- <#>`__, 07/10/16
+	21, Jean Petrić, `-- <#>`__, 14/10/16
+	22, Maria Schilstra, `-- <#>`__, 21/10/16
+	23, Edward Wakelam, `-- <#>`__, 28/10/16
+	24, Marco Craveiro, `-- <#>`__, 04/11/16
+	25, Nathan Beka, `-- <#>`__, 11/11/16
+	26, Deepak Panday, `-- <#>`__, 18/11/16
+	27, Roderick Adams, `-- <#>`__, 25/11/16
+	28, Ronak Bhavsar, `-- <#>`__, 02/12/16
+	29, Anuradha Sulane, `-- <#>`__, 09/12/16
+	30, Zaheed Mahmood, `-- <#>`__, 16/12/16
 
