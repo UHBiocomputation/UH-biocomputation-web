@@ -1,4 +1,4 @@
-Detecting Road Surface Wetness from Audio: A Deep Learning Approach
+Detecting road surface wetness from audio: a deep learning approach
 ###################################################################
 :date: 2016-07-07 16:26:25
 :author: Anuradha Sulane
