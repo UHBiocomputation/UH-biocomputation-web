@@ -13,25 +13,30 @@
 	7, Anuradha Sulane, `Detecting road surface wetness from audio: A deep learning approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
 	8, Alex Hocking, `Automated morphological classification using machine learning techniques <{filename}/20160714-automated-morphological-classification-of-galaxies-using-machine-learning-techniques.rst>`__, 15/07/16
 	9, Edward Wakelam, `Sloping the interview and career development playing fields in your favour <{filename}/20160719-sloping-the-interview-and-career-development-playing-fields-in-your-favour.rst>`__, 22/07/16
-	10, Nathan Beka, `-- <#>`__, 29/07/16
-	11, Deepak Panday, `-- <#>`__, 05/08/16
-	12, Ankur Sinha, `-- <#>`__, 12/08/16
-	13, Neil Davey, `-- <#>`__, 19/08/16
-	14, Volker Steuber, `-- <#>`__, 26/08/16
-	15, Rene Boekhorst, `-- <#>`__, 02/09/16
-	16, Benjamin Torben-Nielsen, `-- <#>`__, 09/09/16
-	17, Julia Goncharenko, `-- <#>`__, 16/09/16
-	18, Weam Binjumah, `-- <#>`__, 23/09/16
-	19, Yi Sun, `-- <#>`__, 30/09/16
-	20, Maria Psarrou, `-- <#>`__, 07/10/16
-	21, Jean Petrić, `-- <#>`__, 14/10/16
-	22, Maria Schilstra, `-- <#>`__, 21/10/16
-	23, Edward Wakelam, `-- <#>`__, 28/10/16
-	24, Marco Craveiro, `-- <#>`__, 04/11/16
-	25, Nathan Beka, `-- <#>`__, 11/11/16
-	26, Deepak Panday, `-- <#>`__, 18/11/16
-	27, Roderick Adams, `-- <#>`__, 25/11/16
-	28, Ronak Bhavsar, `-- <#>`__, 02/12/16
-	29, Anuradha Sulane, `-- <#>`__, 09/12/16
-	30, Zaheed Mahmood, `-- <#>`__, 16/12/16
+	--, --, `-- <#>`__, 29/07/16
+	--, --, `-- <#>`__, 05/08/16
+	--, --, `-- <#>`__, 12/08/16
+	--, --, `-- <#>`__, 19/08/16
+	--, --, `-- <#>`__, 26/08/16
+	10, Nathan Beka, `-- <#>`__, 02/09/16
+	11, Deepak Panday, `-- <#>`__, 09/09/16
+	12, Ankur Sinha, `-- <#>`__, 16/09/16
+	13, Neil Davey, `-- <#>`__, 23/09/16
+	14, Volker Steuber, `-- <#>`__, 30/09/16
+	15, Rene Boekhorst, `-- <#>`__, 07/10/16
+	16, Benjamin Torben-Nielsen, `-- <#>`__, 14/10/16
+	17, Julia Goncharenko, `-- <#>`__, 21/10/16
+	18, Weam Binjumah, `-- <#>`__, 28/10/16
+	19, Yi Sun, `-- <#>`__, 04/11/16
+	20, Maria Psarrou, `-- <#>`__, 11/11/16
+	21, Jean Petrić, `-- <#>`__, 18/11/16
+	22, Maria Schilstra, `-- <#>`__, 25/11/16
+	23, Edward Wakelam, `-- <#>`__, 02/12/16
+	24, Marco Craveiro, `-- <#>`__, 09/12/16
+	25, Nathan Beka, `-- <#>`__, 16/12/16
+	26, Deepak Panday, `-- <#>`__, 23/12/16
+	27, Roderick Adams, `-- <#>`__, 30/12/16
+	28, Ronak Bhavsar, `-- <#>`__, 06/01/17
+	29, Anuradha Sulane, `-- <#>`__, 13/01/17
+	30, Zaheed Mahmood, `-- <#>`__, 20/01/17
 
