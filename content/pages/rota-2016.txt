@@ -12,7 +12,7 @@
 	--, --, `-- <#>`__, 01/07/16
 	7, Anuradha Sulane, `Detecting road surface wetness from audio: A deep learning approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
 	8, Alex Hocking, `Automated morphological classification using machine learning techniques <{filename}/20160714-automated-morphological-classification-of-galaxies-using-machine-learning-techniques.rst>`__, 15/07/16
-	9, Edward Wakelam, `Sloping the interview and career development playing fields in your favour <#>`__, 22/07/16
+	9, Edward Wakelam, `Sloping the interview and career development playing fields in your favour <{filename}/20160719-sloping-the-interview-and-career-development-playing-fields-in-your-favour.rst>`__, 22/07/16
 	10, Nathan Beka, `-- <#>`__, 29/07/16
 	11, Deepak Panday, `-- <#>`__, 05/08/16
 	12, Ankur Sinha, `-- <#>`__, 12/08/16
