@@ -38,6 +38,10 @@ Publications
   Ovsepian, S., Le Berre, M., Steuber, V., O'Leary, V., Leibold, C. & Dolly, O. |br|
   26 Jan 2016 in `Pharmacology & Therapeutics`_ (epub ahead of print)
 
+- `The mining and analysis of data with mixed attribute types <http://researchprofiles.herts.ac.uk/portal/en/publications/the-mining-and-analysis-of-data-with-mixed-attribute-types(214f25e6-568f-4819-b66f-635365b9b288).html>`__ - `(full text) <http://researchprofiles.herts.ac.uk/portal/files/10265122/The_Mining_and_Analysis_of_Data_with_Mixed_Attribute_Types.pdf>`__ |br|
+  Wakelam, E., Davey, N., Sun, Y., Jefferies, A., & Alva, P. |br|
+  22 May 2016 in the proceedings of `IMMM 2016: Sixth International Conference on Advances in Information Mining and Management <http://www.iaria.org/conferences2016/IMMM16.html>`__.
+
 2015
 -----
 
