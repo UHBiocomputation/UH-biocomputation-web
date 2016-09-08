@@ -4,7 +4,7 @@
 :slug: 01-index
 :status: hidden
 
-The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer Science and Informatics Research (CCSIR)`_, which is based within the `Science and Technology Research Institute (STRI)`_ at the `University of Hertfordshire`_. Research in the Biocomputation Research Group involves the development of computational models to study biological systems, and the application of biologically-inspired machine learning algorithms for the analysis of real-world data. Members of the Biocomputation Group analyse and simulate computational models at different levels of complexity, and collaborate closely with leading experimentalists in the UK and abroad. 
+The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer Science and Informatics Research (CCSIR)`_ at the `University of Hertfordshire`_. Research in the Biocomputation Research Group involves the development of computational models to study biological systems, and the application of biologically-inspired machine learning algorithms for the analysis of real-world data. Members of the Biocomputation Group analyse and simulate computational models at different levels of complexity, and collaborate closely with leading experimentalists in the UK and abroad. 
 
 |
 
@@ -49,8 +49,7 @@ Research in the Biocomputation Group concentrates on the following areas:
 .. _Dr. Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
 .. _Professor Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
 .. _University of Hertfordshire: http://www.herts.ac.uk/
-.. _Science and Technology Research Institute (STRI): http://www.herts.ac.uk/research/stri
-.. _Centre for Computer Science and Informatics Research (CCSIR): http://www.herts.ac.uk/research/stri/research-areas/ccsir
+.. _Centre for Computer Science and Informatics Research (CCSIR): http://www.herts.ac.uk/research/centres-and-groups/ccsir
 
 Software developed by the group is made available at our `Github repository`_.
 
@@ -60,7 +59,7 @@ Contact
 Dr. Volker Steuber |br|
 Head of the Biocomputation Research Group |br|
 School of Computer Science |br|
-Science and Technology Research Institute |br|
+Centre for Computer Science and Informatics Research |br|
 University of Hertfordshire |br|
 College Lane, Hatfield, Herts AL10 9AB |br|
 Tel +44 (0)1707 284350 |br|
