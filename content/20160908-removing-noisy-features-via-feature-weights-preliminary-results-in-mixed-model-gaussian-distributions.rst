@@ -19,6 +19,3 @@ features have least feature weight and therefore have less or no contribution to
 .. |br| raw:: html
 
     <br />
-
-
-    content/
