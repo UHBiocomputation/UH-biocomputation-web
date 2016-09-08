@@ -63,5 +63,5 @@ TAG_CLOUD_SORTING = 'random'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Minor customization to make some info appear on our home page
-#CUSTOM_POST_ON_HOME_PAGE = 'Please check the <a href="blog_index.html">news page</a> for information on an open PhD studentship that is currently available at the Biocomputation group.'
+CUSTOM_POST_ON_HOME_PAGE = '<br /><a href="category/vacancies"><i class="icon-attention"></i>Please check the vacancies section for information on an Early Career Research Fellowship that is available at the Biocomputation group.</a>'
 LATEST_ARTICLE_ON_HOME_PAGE = True
