@@ -44,16 +44,21 @@ Core Faculty and Research Staff
 
 .. _Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
 
-- `Benjamin Torben-Nielsen`_ |br|
-  Research Interests: dendritic morphology and computation
+- `Michael Schmuker`_ |br|
+  Research Interests: biocomputation, sensory computation and neuromorphic computing, olfaction, chemical sensing, data analytics
 
-.. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
- 
+.. _Michael Schmuker: #
+
 - `Volker Steuber`_ |br|
   Research Interests: biocomputation, computational neuroscience, systems biology, machine learning
 
 .. _Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
 
+- `Benjamin Torben-Nielsen`_ |br|
+  Research Interests: dendritic morphology and computation
+
+.. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
+ 
 Research Fellows
 -----------------
 
