@@ -180,14 +180,6 @@ PhD Students
 
 .. _Deepak Panday: #
 
-Masters Students
------------------
-
-- `Stella Holtorf`_ |br|
-  Research Interests: synaptic plasticity
-
-.. _Stella Holtorf: #
-
 Affiliated Faculty
 ------------------
 
