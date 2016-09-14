@@ -20,7 +20,7 @@
 	--, --, `-- <#>`__, 26/08/16
 	--, --, `-- <#>`__, 02/09/16
 	10, Deepak Panday, `Removing noisy features via feature weights: preliminary results in mixed-model Gaussian distributions <{filename}/20160908-removing-noisy-features-via-feature-weights-preliminary-results-in-mixed-model-gaussian-distributions.rst>`__, 09/09/16
-	11, Nathan Beka, `-- <#>`__, 16/09/16
+	11, Nathan Beka, `Next generation sequencing (NGS) <{filename}/20160914-next-generation-sequencing-ngs.rst>`__, 16/09/16
 	12, Ankur Sinha, `-- <#>`__, 23/09/16
 	13, Neil Davey, `-- <#>`__, 30/09/16
 	14, Volker Steuber, `-- <#>`__, 07/10/16
