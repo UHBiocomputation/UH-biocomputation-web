@@ -22,7 +22,7 @@
 	10, Deepak Panday, `Removing noisy features via feature weights: preliminary results in mixed-model Gaussian distributions <{filename}/20160908-removing-noisy-features-via-feature-weights-preliminary-results-in-mixed-model-gaussian-distributions.rst>`__, 09/09/16
 	11, Nathan Beka, `Next generation sequencing (NGS) <{filename}/20160914-next-generation-sequencing-ngs.rst>`__, 16/09/16
 	--, --, `-- <#>`__, 23/09/16
-	12, Ankur Sinha, `-- <#>`__, 30/09/16
+	12, Ankur Sinha, `Opposing effects of neuronal activity on structural plasticity <{filename}/20160928-opposing-effects-of-neuronal-activity-on-structural-plasticity.rst>`__, 30/09/16
 	13, Neil Davey, `-- <#>`__, 07/10/16
 	14, Volker Steuber, `-- <#>`__, 14/10/16
 	15, Rene Boekhorst, `-- <#>`__, 21/10/16
