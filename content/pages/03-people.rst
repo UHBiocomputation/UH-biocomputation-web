@@ -180,6 +180,11 @@ PhD Students
 
 .. _Deepak Panday: #
 
+- `Paul Moggridge`_ |br|
+  Research Interests: artificial intelligence and cloud computing
+
+.. _Paul Moggridge: https://uk.linkedin.com/in/pmmoggridge
+
 Affiliated Faculty
 ------------------
 
