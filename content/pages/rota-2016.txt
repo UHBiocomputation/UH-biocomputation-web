@@ -23,7 +23,7 @@
 	11, Nathan Beka, `Next generation sequencing (NGS) <{filename}/20160914-next-generation-sequencing-ngs.rst>`__, 16/09/16
 	--, --, `-- <#>`__, 23/09/16
 	12, Ankur Sinha, `Opposing effects of neuronal activity on structural plasticity <{filename}/20160928-opposing-effects-of-neuronal-activity-on-structural-plasticity.rst>`__, 30/09/16
-	13, Volker Steuber, `-- <#>`__, 07/10/16
+	13, Volker Steuber, `Computational models of synaptic plasticity and information processing in the cerebellum <{filename}/20161004-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__, 07/10/16
 	14, Rene Boekhorst, `-- <#>`__, 14/10/16
 	15, Benjamin Torben-Nielsen, `-- <#>`__, 21/10/16
 	16, Julia Goncharenko, `-- <#>`__, 28/10/16
