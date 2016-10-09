@@ -177,7 +177,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene Boekhorst - --
+SUMMARY:Benjamin Torben-Nielsen - --
 DTSTART;TZID=Europe/London:20161014T160000
 DTEND;TZID=Europe/London:20161014T170000
 UID:2016-10-14T00:00:00-00:01
@@ -185,7 +185,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benjamin Torben-Nielsen - --
+SUMMARY:Rene Boekhorst - --
 DTSTART;TZID=Europe/London:20161021T160000
 DTEND;TZID=Europe/London:20161021T170000
 UID:2016-10-21T00:00:00-00:01
