@@ -177,7 +177,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBD - --
+SUMMARY:Paul Moggridge - --
 DTSTART;TZID=Europe/London:20161014T160000
 DTEND;TZID=Europe/London:20161014T170000
 UID:2016-10-14T00:00:00-00:01
@@ -321,18 +321,10 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paul Moggridge - --
+SUMMARY:Neil Davey - --
 DTSTART;TZID=Europe/London:20170217T160000
 DTEND;TZID=Europe/London:20170217T170000
 UID:2017-02-17T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neil Davey - --
-DTSTART;TZID=Europe/London:20170224T160000
-DTEND;TZID=Europe/London:20170224T170000
-UID:2017-02-24T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
