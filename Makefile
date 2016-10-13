@@ -1,5 +1,5 @@
 PY?=python3
-PELICAN?=py3-pelican
+PELICAN?=pelican-3
 PELICANOPTS=
 DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 DATEYYMMDD := $(shell date +'%Y%m%d')
