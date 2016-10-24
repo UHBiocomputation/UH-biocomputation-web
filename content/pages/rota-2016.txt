@@ -30,18 +30,19 @@
 	17, Julia Goncharenko, `-- <#>`__, 04/11/16
 	18, Benjamin Torben-Nielsen, `-- <#>`__, 11/11/16
 	19, Weam Binjumah, `-- <#>`__, 18/11/16
-	20, Yi Sun, `-- <#>`__, 25/11/16
-	21, Maria Psarrou, `-- <#>`__, 02/12/16
-	22, Jean Petrić, `-- <#>`__, 09/12/16
-	23, Maria Schilstra, `-- <#>`__, 16/12/16
-	24, Edward Wakelam, `-- <#>`__, 23/12/16
-	25, Marco Craveiro, `-- <#>`__, 30/12/16
-	26, Nathan Beka, `-- <#>`__, 06/01/17
-	27, Deepak Panday, `-- <#>`__, 13/01/17
-	28, Roderick Adams, `-- <#>`__, 20/01/17
-	29, Ronak Bhavsar, `-- <#>`__, 27/01/17
-	30, Anuradha Sulane, `-- <#>`__, 03/02/17
-	31, Zaheed Mahmood, `-- <#>`__, 10/02/17
-	32, Michael Schmuker, `-- <#>`__, 17/02/17
-	33, Neil Davey, `-- <#>`__, 24/02/17
+	20, Tuomo Mäki-Marttunen, `A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells <#>`__, 25/11/16
+	21, Yi Sun, `-- <#>`__, 02/12/16
+	22, Maria Psarrou, `-- <#>`__, 09/12/16
+	23, Jean Petrić, `-- <#>`__, 16/12/16
+	24, Maria Schilstra, `-- <#>`__, 23/12/16
+	25, Edward Wakelam, `-- <#>`__, 30/12/16
+	26, Marco Craveiro, `-- <#>`__, 06/01/17
+	27, Nathan Beka, `-- <#>`__, 13/01/17
+	28, Deepak Panday, `-- <#>`__, 20/01/17
+	29, Roderick Adams, `-- <#>`__, 27/01/17
+	30, Ronak Bhavsar, `-- <#>`__, 03/02/17
+	31, Anuradha Sulane, `-- <#>`__, 10/02/17
+	32, Zaheed Mahmood, `-- <#>`__, 17/02/17
+	33, Michael Schmuker, `-- <#>`__, 24/02/17
+	34, Neil Davey, `-- <#>`__, 03/03/17
 
