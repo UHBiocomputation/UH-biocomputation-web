@@ -26,21 +26,22 @@
 	13, Volker Steuber, `Computational models of synaptic plasticity and information processing in the cerebellum <{filename}/20161004-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__, 07/10/16
 	14, Paul Moggridge, `Optimising Hierarchical Load Balancing for the Cloud <{filename}/20161013-optimising-hierarchical-load-balancing-for-the-cloud.rst>`__, 14/10/16
 	15, Rene Boekhorst, `Principal component analysis <{filename}/20161020-principal-component-analysis.rst>`__, 21/10/16
-	16, Benjamin Torben-Nielsen, `-- <#>`__, 28/10/16
+	16, TBD, `-- <#>`__, 28/10/16
 	17, Julia Goncharenko, `-- <#>`__, 04/11/16
-	18, Weam Binjumah, `-- <#>`__, 11/11/16
-	19, Yi Sun, `-- <#>`__, 18/11/16
-	20, Maria Psarrou, `-- <#>`__, 25/11/16
-	21, Jean Petrić, `-- <#>`__, 02/12/16
-	22, Maria Schilstra, `-- <#>`__, 09/12/16
-	23, Edward Wakelam, `-- <#>`__, 16/12/16
-	24, Marco Craveiro, `-- <#>`__, 23/12/16
-	25, Nathan Beka, `-- <#>`__, 30/12/16
-	26, Deepak Panday, `-- <#>`__, 06/01/17
-	27, Roderick Adams, `-- <#>`__, 13/01/17
-	28, Ronak Bhavsar, `-- <#>`__, 20/01/17
-	29, Anuradha Sulane, `-- <#>`__, 27/01/17
-	30, Zaheed Mahmood, `-- <#>`__, 03/02/17
-	31, Michael Schmuker, `-- <#>`__, 10/02/17
-	32, Neil Davey, `-- <#>`__, 17/02/17
+	18, Benjamin Torben-Nielsen, `-- <#>`__, 11/11/16
+	19, Weam Binjumah, `-- <#>`__, 18/11/16
+	20, Yi Sun, `-- <#>`__, 25/11/16
+	21, Maria Psarrou, `-- <#>`__, 02/12/16
+	22, Jean Petrić, `-- <#>`__, 09/12/16
+	23, Maria Schilstra, `-- <#>`__, 16/12/16
+	24, Edward Wakelam, `-- <#>`__, 23/12/16
+	25, Marco Craveiro, `-- <#>`__, 30/12/16
+	26, Nathan Beka, `-- <#>`__, 06/01/17
+	27, Deepak Panday, `-- <#>`__, 13/01/17
+	28, Roderick Adams, `-- <#>`__, 20/01/17
+	29, Ronak Bhavsar, `-- <#>`__, 27/01/17
+	30, Anuradha Sulane, `-- <#>`__, 03/02/17
+	31, Zaheed Mahmood, `-- <#>`__, 10/02/17
+	32, Michael Schmuker, `-- <#>`__, 17/02/17
+	33, Neil Davey, `-- <#>`__, 24/02/17
 
