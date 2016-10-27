@@ -26,7 +26,7 @@
 	13, Volker Steuber, `Computational models of synaptic plasticity and information processing in the cerebellum <{filename}/20161004-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__, 07/10/16
 	14, Paul Moggridge, `Optimising Hierarchical Load Balancing for the Cloud <{filename}/20161013-optimising-hierarchical-load-balancing-for-the-cloud.rst>`__, 14/10/16
 	15, Rene Boekhorst, `Principal component analysis <{filename}/20161020-principal-component-analysis.rst>`__, 21/10/16
-	16, TBD, `-- <#>`__, 28/10/16
+	16, Marco Craveiro, `The pricing of options and corporate liabilities <{filename}/20161027-the-pricing-of-options-and-corporate-liabilities.rst>`__, 28/10/16
 	17, Julia Goncharenko, `-- <#>`__, 04/11/16
 	18, Benjamin Torben-Nielsen, `-- <#>`__, 11/11/16
 	19, Weam Binjumah, `-- <#>`__, 18/11/16
