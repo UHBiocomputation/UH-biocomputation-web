@@ -11,7 +11,7 @@ Self-sustained Asynchronous Irregular states and Up-Down states in thalamocortic
 
 In this talk I will present a paper [1] about a thalamocortical network model I will use as part of my research. I will start by providing a brief summary of the background and the research questions.
 
-Our collaborators at Erasmus Medical Center, Rotterdam, The Netherlands, found that it is possible to stop epileptic absence seizures by exciting cerebellar nucleus (CN) neurons in a closed loop system (this is work together with our former PhD student Parimala Alva, [2]). In my PhD work, I will try to understand the mechanisms underlying the termination of seizures by optogenetic stimulation of CN neurons. For this purpose, I will use a thalamocortical network model of adaptive exponential integrate-and-fire neurons, as described in [1].
+Our collaborators at Erasmus Medical Center, Rotterdam, The Netherlands, found that it is possible to stop epileptic absence seizures by exciting cerebellar nucleus (CN) neurons in a closed loop system (this work was done together with a former PhD student, Parimala Alva, [2]). In my PhD work, I will try to understand the mechanisms underlying the termination of seizures by optogenetic stimulation of CN neurons. For this purpose, I will use a thalamocortical network model of adaptive exponential integrate-and-fire neurons, as described in [1].
 
 In the paper [1] the occurrence of Asynchronous Irregular (AI) states in thalamocortical networks of non-linear integrate-and-fire neurons has been investigated together with the role of spike-frequency adaptation. The main findings are that the thalamocortical networks can display AI states or Up-Down state dynamics, depending on the level of adaptation in cortical cells.
 
