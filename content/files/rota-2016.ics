@@ -202,7 +202,9 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Julia Goncharenko - Self-sustained Asynchronous Irregular states a
+ nd Up-Down states in thalamocortical networks of nonlinear integrate-and-f
+ ire neurons
 DTSTART;TZID=Europe/London:20161104T160000
 DTEND;TZID=Europe/London:20161104T170000
 UID:2016-11-04T00:00:00-00:01

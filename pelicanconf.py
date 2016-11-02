@@ -63,5 +63,5 @@ TAG_CLOUD_SORTING = 'random'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Minor customization to make some info appear on our home page
-CUSTOM_POST_ON_HOME_PAGE = '<br /><a href="category/vacancies"><i class="icon-attention"></i>Please check the vacancies section for information on an open Lecturer or Senior Lecturer position at the School of Computer Science.</a>'
+# CUSTOM_POST_ON_HOME_PAGE = '<br /><a href="category/vacancies"><i class="icon-attention"></i>Please check the vacancies section for information on an open Lecturer or Senior Lecturer position at the School of Computer Science.</a>'
 LATEST_ARTICLE_ON_HOME_PAGE = True
