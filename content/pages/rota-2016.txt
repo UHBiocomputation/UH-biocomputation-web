@@ -28,7 +28,7 @@
 	15, Rene Boekhorst, `Principal component analysis <{filename}/20161020-principal-component-analysis.rst>`__, 21/10/16
 	16, Marco Craveiro, `The pricing of options and corporate liabilities <{filename}/20161027-the-pricing-of-options-and-corporate-liabilities.rst>`__, 28/10/16
 	17, Julia Goncharenko, `Self-sustained Asynchronous Irregular states and Up-Down states in thalamocortical networks of nonlinear integrate-and-fire neurons <{filename}/20161102-self-sustained-asynchronous-irregular-states-and-up-down-states-in-thalamocortical-networks-of-nonlinear-integrate-and-fire-neurons.rst>`__, 04/11/16
-	18, Benjamin Torben-Nielsen, `-- <#>`__, 11/11/16
+	18, Benjamin Torben-Nielsen, `Neuronal computation: dendrites at work <{filename}/20161110-neuronal-computation-dendrites-at-work.rst>`__, 11/11/16
 	19, Weam Binjumah, `-- <#>`__, 18/11/16
 	20, Tuomo Mäki-Marttunen, `A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells <#>`__, 25/11/16
 	21, Yi Sun, `-- <#>`__, 02/12/16
