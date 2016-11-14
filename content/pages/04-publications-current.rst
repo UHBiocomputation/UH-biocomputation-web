@@ -61,6 +61,10 @@ Publications
 2015
 -----
 
+- `Reducing bit error rate of optical data transmission with neighboring symbol information using a linear support vector machine <http://urn.fi/URN:ISBN:978-952-60-6443-7>`__ |br|
+  Binjumah, W. M., Redyuk, A., Davey, N., Adams, R., Sun, Yi. |br|
+  September 2015 in the Proceedings of the `European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) Doctoral Consortium <http://www.ecmlpkdd2015.org>`__. Aalto University publication series, pp. 67_74.
+
 - `Cerebellar nuclear neurons use time and rate coding to transmit Purkinje neuron pauses <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004641>`__ - `(full text) <http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004641.PDF>`__ |br|
   Sudhakar, S.K., Torben-Nielsen, B., De Schutter, E. |br|
   December 2015 in `PLoS Computational Biology`_, 11(12): e1004641
