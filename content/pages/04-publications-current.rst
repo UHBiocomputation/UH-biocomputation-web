@@ -34,13 +34,21 @@ Publications
 2016
 ----
 
+- `Input-location dependent gain modulation in cerebellar nucleus neurons <https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-016-0283-6>`__ |br|
+  Psarrou, M., Schilstra, M., Davey, N., Torben-Nielsen, B. & Steuber, V. |br|
+  2016 in `BMC Neuroscience`_. 17, p. O7
+
+- `The role of cerebellar short-term synaptic plasticity in the pathology and medication of downbeat nystagmus <https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-016-0283-6>`__ |br|
+  Goncharenko, J., Davey, N., Steuber, V. & Schilstra, M. |br|
+  2016 in `BMC Neuroscience`_. 17, p. P51
+
 - `Multifactorial modeling of impairment of evoked gamma range oscillations in schizophrenia <http://dx.doi.org/10.3389/fncom.2016.00089>`__  |br|
   Metzner, C., Schweikard, A. & Zurowski, B. |br|
   2016 in `Frontiers in Computational Neuroscience`_. 10
 
 - `Different oscillatory dynamics underlying gamma entrainment deficits in schizophrenia <https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-016-0283-6>`__ |br|
   Metzner, C., Schweikard, A. & Zurowski, B. |br|
-  2016 in `BMC Neuroscience`_. 17, P23
+  2016 in `BMC Neuroscience`_. 17, p. P23
 
 - `Prediction of individual prosthesis size for valve-sparing aortic root reconstruction based on geometric features <http://dx.doi.org/10.1109/EMBC.2016.7591427>`__ - `(full text) <http://ieeexplore.ieee.org/document/7591427/#full-text-section>`__ |br|
   Hagenah, J., Werrmann, E., Scharfschwerdt, M., Ernst, F. & Metzner, C. |br|
@@ -48,7 +56,7 @@ Publications
 
 - `Step-wise model fitting accounting for high-resolution spatial measurements: construction of a layer V pyramidal cell model with reduced morphology <https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-016-0283-6>`__ |br|
   Mäki-Marttunen, T., Halnes, G.,  Devor, A., Metzner, C., Dale, A. M.,  Andreassen, O. A. & Einevoll, G. T. |br|
-  2016 In : `BMC Neuroscience`_. 17, P165
+  2016 In : `BMC Neuroscience`_. 17, p. P165
 
 - `Distinctive role of KV1.1 subunits in the biology and functions of low threshold K+ channels with implication for neurological disease <http://www.sciencedirect.com/science/article/pii/S0163725816000061>`__ - `(full text) <http://www.sciencedirect.com/science/article/pii/S0163725816000061/pdfft?md5=70b95e8cc4a70ab3647c25c8b7afeff5&pid=1-s2.0-S0163725816000061-main.pdf>`__ |br|
   Ovsepian, S., Le Berre, M., Steuber, V., O'Leary, V., Leibold, C. & Dolly, O. |br|
