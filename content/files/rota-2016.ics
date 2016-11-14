@@ -220,7 +220,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Weam Binjumah - Error correction over optical transmission
 DTSTART;TZID=Europe/London:20161118T160000
 DTEND;TZID=Europe/London:20161118T170000
 UID:2016-11-18T00:00:00-00:01
@@ -262,7 +262,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Schilstra - --
+SUMMARY:-- - --
 DTSTART;TZID=Europe/London:20161223T160000
 DTEND;TZID=Europe/London:20161223T170000
 UID:2016-12-23T00:00:00-00:01
@@ -270,7 +270,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:-- - --
 DTSTART;TZID=Europe/London:20161230T160000
 DTEND;TZID=Europe/London:20161230T170000
 UID:2016-12-30T00:00:00-00:01
@@ -278,7 +278,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:-- - --
 DTSTART;TZID=Europe/London:20170106T160000
 DTEND;TZID=Europe/London:20170106T170000
 UID:2017-01-06T00:00:00-00:01
@@ -286,7 +286,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathan Beka - --
+SUMMARY:Maria Schilstra - --
 DTSTART;TZID=Europe/London:20170113T160000
 DTEND;TZID=Europe/London:20170113T170000
 UID:2017-01-13T00:00:00-00:01
@@ -294,7 +294,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20170120T160000
 DTEND;TZID=Europe/London:20170120T170000
 UID:2017-01-20T00:00:00-00:01
@@ -302,7 +302,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roderick Adams - --
+SUMMARY:Marco Craveiro - --
 DTSTART;TZID=Europe/London:20170127T160000
 DTEND;TZID=Europe/London:20170127T170000
 UID:2017-01-27T00:00:00-00:01
@@ -310,7 +310,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ronak Bhavsar - --
+SUMMARY:Nathan Beka - --
 DTSTART;TZID=Europe/London:20170203T160000
 DTEND;TZID=Europe/London:20170203T170000
 UID:2017-02-03T00:00:00-00:01
@@ -318,7 +318,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20170210T160000
 DTEND;TZID=Europe/London:20170210T170000
 UID:2017-02-10T00:00:00-00:01
@@ -326,7 +326,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zaheed Mahmood - --
+SUMMARY:Roderick Adams - --
 DTSTART;TZID=Europe/London:20170217T160000
 DTEND;TZID=Europe/London:20170217T170000
 UID:2017-02-17T00:00:00-00:01
@@ -334,7 +334,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmuker - --
+SUMMARY:Ronak Bhavsar - --
 DTSTART;TZID=Europe/London:20170224T160000
 DTEND;TZID=Europe/London:20170224T170000
 UID:2017-02-24T00:00:00-00:01
@@ -342,10 +342,34 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Davey - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20170303T160000
 DTEND;TZID=Europe/London:20170303T170000
 UID:2017-03-03T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaheed Mahmood - --
+DTSTART;TZID=Europe/London:20170310T160000
+DTEND;TZID=Europe/London:20170310T170000
+UID:2017-03-10T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Schmuker - --
+DTSTART;TZID=Europe/London:20170317T160000
+DTEND;TZID=Europe/London:20170317T170000
+UID:2017-03-17T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neil Davey - --
+DTSTART;TZID=Europe/London:20170324T160000
+DTEND;TZID=Europe/London:20170324T170000
+UID:2017-03-24T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
