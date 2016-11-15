@@ -6,33 +6,42 @@ Publications
 **Note**: `Work that was published before 2009 can be found here. <{filename}/pages/04-publications-old.rst>`_
 
 .. Defining the most frequent journals so we can link to their homepages. Please see the other entries and add yours accordingly (this is a comment)
+.. Keep these in alphabetical order
 
+.. _Annals of Neurology: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8249
 .. _BMC Neuroscience: http://www.biomedcentral.com/bmcneurosci
-.. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
+.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
+.. _Current Directions in Biomedical Engineering: http://www.degruyter.com/view/j/cdbme
+.. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
+.. _Flavour: http://www.flavourjournal.com/
 .. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
 .. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
 .. _Frontiers in Neuroscience: http://journal.frontiersin.org/journal/neuroscience
 .. _Frontiers in Neuroinformatics: http://journal.frontiersin.org/journal/neuroinformatics
-.. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
-.. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
+.. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
 .. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
-.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
-.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
-.. _Nature: http://www.nature.com/nature/index.html
-.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
-.. _Neuron: http://www.cell.com/neuron/home
-.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
 .. _Nature Neuroscience: http://www.nature.com/neuro/index.html
-.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
-.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
-.. _Flavour: http://www.flavourjournal.com/
-.. _Pharmacology & Therapeutics: http://www.sciencedirect.com/science/journal/01637258
-.. _Annals of Neurology: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8249
+.. _Nature: http://www.nature.com/nature/index.html
+.. _Neuron: http://www.cell.com/neuron/home
 .. _Neural Computation: http://www.mitpressjournals.org/loi/neco
-.. _Current Directions in Biomedical Engineering: http://www.degruyter.com/view/j/cdbme
+.. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
+.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
+.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
+.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
+.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
+.. _Pharmacology & Therapeutics: http://www.sciencedirect.com/science/journal/01637258
+.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
 
 2016
 ----
+
+- `Using Machine Learning Techniques to Recover Prismatic Cirrus Ice Crystal Size from 2-Dimensional Light Scattering Patterns <#>`__ |br|
+  Priori, D., De Sousa, G., Roisenberg, M., Stopford, C., Hesse, E., Salawu, E., Davey, N., Sun, Y. |br|
+  September 2016 in `Proceedings of the 25th International Conference on Artificial Neural Networks <http://icann2016.org/index.php/conference-programme/conference-proceedings/>`__. Part II, pp. 372-379
+
+- `Support vector regression to estimate the permeability enhancement of potential transdermal enhancers <http://onlinelibrary.wiley.com/doi/10.1111/jphp.12508/full>`__ |br|
+  Shah, A., Sun, Y., Adams, R.G., Davey, N., Wilkinson, S.C., Moss, G.P. |br|
+  February 2016 in `Journal of Pharmacy and Pharmacology <http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2042-7158>`__. 68, 2, pp. 170-184
 
 - `Input-location dependent gain modulation in cerebellar nucleus neurons <https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-016-0283-6>`__ |br|
   Psarrou, M., Schilstra, M., Davey, N., Torben-Nielsen, B. & Steuber, V. |br|
@@ -68,6 +77,10 @@ Publications
 
 2015
 -----
+
+- `The application of machine learning to the modelling of percutaneous absorption: An overview and guide <http://dx.doi.org/10.1080/1062936X.2015.1018941>`__ |br|
+  Ashrafi, P., Moss, G.P., Wilkinson, S.C., Davey, N., Sun, Y. |br|
+  2015 in `SAR and QSAR in Environmental Research <http://www.tandfonline.com/toc/gsar20/current>`__. 26, 3, pp. 181-204
 
 - `Reducing bit error rate of optical data transmission with neighboring symbol information using a linear support vector machine <http://urn.fi/URN:ISBN:978-952-60-6443-7>`__ |br|
   Binjumah, W. M., Redyuk, A., Davey, N., Adams, R., Sun, Yi. |br|
