@@ -31,7 +31,7 @@
 	18, Benjamin Torben-Nielsen, `Neuronal computation: dendrites at work <{filename}/20161110-neuronal-computation-dendrites-at-work.rst>`__, 11/11/16
 	19, Weam Binjumah, `Error correction over optical transmission <{filename}/20161114-error-correction-over-optical-transmission.rst>`__, 18/11/16
 	20, Tuomo Mäki-Marttunen, `A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells <{filename}/20161123-a-stepwise-neuron-model-fitting-procedure-designed-for-recordings-with-high-spatial-resolution-application-to-layer-5-pyramidal-cells.rst>`__, 25/11/16
-	21, Yi Sun, `-- <#>`__, 02/12/16
+	21, Yi Sun, `Dynamic functional principal components <{filename}/20161129-dynamic-functional-principal-components.rst>`__, 02/12/16
 	22, Nada Yousif, `-- <#>`__, 09/12/16
 	23, Maria Psarrou, `-- <#>`__, 16/12/16
 	--, --, `-- <#>`__, 23/12/16

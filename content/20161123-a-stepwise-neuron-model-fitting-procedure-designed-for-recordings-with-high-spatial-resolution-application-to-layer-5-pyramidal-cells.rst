@@ -17,7 +17,7 @@ We applied our method to simulated data from layer 5 pyramidal cells (L5PCs) and
 
 **Date:** 25/11/2016 |br|
 **Time:** 12:00 |br|
-**Location**: LB252/C258 (TBD)
+**Location**: LB252
 
 
 .. |br| raw:: html

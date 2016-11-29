@@ -231,14 +231,14 @@ BEGIN:VEVENT
 SUMMARY:Tuomo Mäki-Marttunen - A stepwise neuron model fitting procedure 
  designed for recordings with high spatial resolution: application to layer
   5 pyramidal cells
-DTSTART;TZID=Europe/London:20161125T120000
-DTEND;TZID=Europe/London:20161125T130000
+DTSTART;TZID=Europe/London:20161125T160000
+DTEND;TZID=Europe/London:20161125T170000
 UID:2016-11-25T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Yi Sun - Dynamic functional principal components
 DTSTART;TZID=Europe/London:20161202T160000
 DTEND;TZID=Europe/London:20161202T170000
 UID:2016-12-02T00:00:00-00:01
