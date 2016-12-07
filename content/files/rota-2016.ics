@@ -246,7 +246,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nada Yousif - --
+SUMMARY:Nada Yousif - Multi-scale modelling of neurostimulation effects in
+  movement disorders
 DTSTART;TZID=Europe/London:20161209T160000
 DTEND;TZID=Europe/London:20161209T170000
 UID:2016-12-09T00:00:00-00:01
