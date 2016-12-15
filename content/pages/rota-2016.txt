@@ -33,7 +33,7 @@
 	20, Tuomo Mäki-Marttunen, `A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells <{filename}/20161123-a-stepwise-neuron-model-fitting-procedure-designed-for-recordings-with-high-spatial-resolution-application-to-layer-5-pyramidal-cells.rst>`__, 25/11/16
 	21, Yi Sun, `Dynamic functional principal components <{filename}/20161129-dynamic-functional-principal-components.rst>`__, 02/12/16
 	22, Nada Yousif, `Multi-scale modelling of neurostimulation effects in movement disorders <{filename}/20161207-multi-scale-modelling-of-neurostimulation-effects-in-movement-disorders.rst>`__, 09/12/16
-	23, Maria Psarrou, `-- <#>`__, 16/12/16
+	23, Maria Psarrou, `Multiplicative gain changes are induced by excitation or inhibition alone <{filename}/20161215-multiplicative-gain-changes-are-induced-by-excitation-or-inhibition-alone.rst>`__, 16/12/16
 	--, --, `-- <#>`__, 23/12/16
 	--, --, `-- <#>`__, 30/12/16
 	--, --, `-- <#>`__, 06/01/17

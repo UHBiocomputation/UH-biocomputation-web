@@ -255,7 +255,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Maria Psarrou - Multiplicative gain changes are induced by excitat
+ ion or inhibition alone
 DTSTART;TZID=Europe/London:20161216T160000
 DTEND;TZID=Europe/London:20161216T170000
 UID:2016-12-16T00:00:00-00:01
