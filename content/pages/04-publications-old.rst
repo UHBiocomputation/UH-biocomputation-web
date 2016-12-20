@@ -85,8 +85,29 @@ Publications - Archive
   Gleeson, P., Steuber, V. & Silver, R. A. |br|
   2007 in Neuron_. 54, p. 219-235
 
+- `Searching for drug scaffolds with 3D pharmacophores and neural network ensembles. <http://www.ncbi.nlm.nih.gov/pubmed/17604383>`__ |br|
+  Renner, S., Hechenberger, M., Noeske, T., Bocker, A., Jatzke, C., Schmuker, M., Parsons, C.G., Weil, T., & Schneider, G.,  |br|
+  2007 in `Angewandte Chemie (International ed. in English) <#>`__, 46, p. 5336--9
+
+- `Predicting olfactory receptor neuron responses from odorant structure. <http://www.ncbi.nlm.nih.gov/pubmed/17880742>`__ |br|
+  Schmuker, M., d, B.M., Hahnel, M., & Schneider, G.,  |br|
+  2007 in `Chemistry Central journal <#>`__, 1, p. 11
+
+- `Processing and classification of chemical data inspired by insect olfaction <http://www.pnas.org/content/104/51/20285.long>`__ |br|
+  Schmuker, M., & Schneider, G.,  |br|
+  2007 in `Proceedings of the National Academy of Sciences <#>`__, 104, p. 20285--20289
+
+- `SOMMER: self-organising maps for education and research. <http://www.ncbi.nlm.nih.gov/pubmed/17024412>`__ |br|
+  Schmuker, M., Schwarte, F., Bruck, A., Proschak, E., Tanrikulu, Y., Givehchi, A., Scheiffele, K., & Schneider, G.,  |br|
+  2007 in `Journal of molecular modeling <#>`__, 13, p. 225--8
+
+
 2006
 ----
+
+- `Optimized Particle Swarm Optimization (OPSO) and its application to artificial neural network training. <http://www.ncbi.nlm.nih.gov/pubmed/16529661>`__ |br|
+  Meissner, M., Schmuker, M., & Schneider, G.,  |br|
+  2006 in `BMC bioinformatics <#>`__, 7, p. 125
 
 - `Generation of time delays: simplified models of intracellular signalling in cerebellar Purkinje cells <http://www.tandfonline.com/doi/abs/10.1080/09548980500520328?journalCode=inet20#>`__ - `(full paper) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/97075/900780.pdf>`__ |br|
   Steuber, V., Willshaw, D. & van Ooyen, A. |br|
@@ -106,6 +127,18 @@ Publications - Archive
 - `A biophysical model of synaptic delay learning and temporal pattern recognition in a cerebellar Purkinje cell <http://dx.doi.org/10.1023/B:JCNS.0000037678.26155.b5>`__  |br|
   Steuber, V. & Willshaw, D. |br|
   2004 in `Journal of Computational Neuroscience`_. 17, 2, p. 149-164 16 p.
+
+- `Impact of different software implementations on the performance of the Maxmin method for diverse subset selection <#>`__ |br|
+  Schmuker, M., Givehchi, A., & Schneider, G.,  |br|
+  2004 in `Molecular Diversity <#>`__, 8, p. 421--425
+
+Previous
+---------
+
+- `Deciphering apicoplast targeting signals – feature extraction from nuclear- encoded precursors of Plasmodium falciparum apicoplast proteins <#>`__ |br|
+  Zuegge, J., Ralph, S., Schmuker, M., Mcfadden, G.I., & Schneider, G.,  |br|
+  2001 in `Gene <#>`__, 280, p. 19--26
+
 
 
 .. |br| raw:: html
