@@ -5,6 +5,7 @@ Publications
 
 **Note**: `Work that was published before 2009 can be found here. <{filename}/pages/04-publications-old.rst>`_
 
+.. Paper titles are not in sentence case, but journal/conference titles can be (since they're usually acronyms)
 .. Defining the most frequent journals so we can link to their homepages. Please see the other entries and add yours accordingly (this is a comment)
 .. Keep these in alphabetical order
 
@@ -34,6 +35,18 @@ Publications
 
 2016
 ----
+
+- `Comparing neuromorphic solutions in action: implementing a bio-inspired solution to a benchmark classification task on three parallel-computing platforms <http://journal.frontiersin.org/article/10.3389/fnins.2015.00491>`__ |br|
+  Diamond, A., Nowotny, T., & Schmuker, M.,  |br|
+  2016 in `Frontiers in Neuroscience`_, 9, p. 491
+
+- `Classifying continuous, real-time e-nose sensor data using a bio-inspired spiking network modelled on the insect olfactory system <http://dx.doi.org/10.1088/1748-3190/11/2/026002>`__ |br|
+  Diamond, A., Schmuker, M., Berna, A.Z., Trowell, S., & Nowotny, T.,  |br|
+  2016 in `Bioinspiration & Biomimetics <#>`__, 11, p. 026002
+
+- `Exploiting plume structure to decode gas source distance using metal-oxide gas sensors <http://arxiv.org/abs/1602.01815>`__ |br|
+  Schmuker, M., Bahr, V., & Huerta, R.,  |br|
+  2016 in `Sensors and Actuators B: Chemical <#>`__, 235, p. 636--646
 
 - `Using Machine Learning Techniques to Recover Prismatic Cirrus Ice Crystal Size from 2-Dimensional Light Scattering Patterns <#>`__ |br|
   Priori, D., De Sousa, G., Roisenberg, M., Stopford, C., Hesse, E., Salawu, E., Davey, N., Sun, Y. |br|
@@ -77,6 +90,12 @@ Publications
 
 2015
 -----
+
+.. Correct Frund
+
+- `A probabilistic model for estimating the depth and threshold temperature of C-fiber nociceptors. <http://www.nature.com/articles/srep17670>`__ |br|
+  Dezhdar, T., Moshourab, R.A., Frund, I., Lewin, G.R., & Schmuker, M.,  |br|
+  2015 in `Scientific reports <#>`__, 5, p. 17670
 
 - `The application of machine learning to the modelling of percutaneous absorption: An overview and guide <http://dx.doi.org/10.1080/1062936X.2015.1018941>`__ |br|
   Ashrafi, P., Moss, G.P., Wilkinson, S.C., Davey, N., Sun, Y. |br|
@@ -153,6 +172,22 @@ Publications
 2014
 ----
 
+- `1st International Workshop on Odor Spaces <http://www.flavourjournal.com/content/3/S1/I1>`__ |br|
+  Schmuker, M., Mamlouk, A., & Pearce, T.C.,  |br|
+  2014 in Flavour_, 3, p. I1
+
+- `A neuromorphic network for generic multivariate data classification. <http://www.pnas.org/cgi/doi/10.1073/pnas.1303053111>`__ |br|
+  Schmuker, M., Pfeil, T., & Nawrot, M.P.,  |br|
+  2014 in `Proceedings of the National Academy of Sciences of the United States of America <#>`__, 111, p. 2081--2086
+
+- `Automatic segmentation of odor maps in the mouse olfactory bulb using regularized non-negative matrix factorization <http://dx.doi.org/10.1016/j.neuroimage.2014.04.041>`__ |br|
+  Soelter, J., Schumacher, J., Spors, H., & Schmuker, M.,  |br|
+  2014 in `NeuroImage <#>`__, 98, p. 279--288
+
+- `Decoding odor quality and intensity in the Drosophila brain <http://elifesciences.org/lookup/doi/10.7554/eLife.04147>`__ |br|
+  Strutz, A., Soelter, J., Baschwitz, A., Farhan, A., Grabe, V., Rybak, J., Knaden, M., Schmuker, M., Hansson, B.S., & Sachse, S.,  |br|
+  2014 in `eLife <#>`__, 3, p. e04147
+
 - `Feature Selection Modelling for Percutaneous Absorption across Synthetic Membranes <http://dx.doi.org/10.1109/ICTAI.2014.155>`__ - `(full text) <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6984591>`__ |br|
   Binjumah, W. M., Yi Sun , Hewitt, M., Adams, R., Davey, N., Gullick, D. R., Wilkinson, S. C., Cronin, M. & Moss, G. P. |br|
   10-12 November 2014 in the proceedings of the `26th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) <http://ictai2014.cs.ucy.ac.cy/>`__, pp.1021-1025
@@ -220,6 +255,24 @@ Publications
 
 2013
 ----
+
+- `Physicochemical vs. vibrational descriptors for prediction of odor receptor responses <http://doi.wiley.com/10.1002/minf.201300037>`__ |br|
+  Gabler, S., Soelter, J., Hussain, T., Sachse, S., & Schmuker, M.,  |br|
+  2013 in `Molecular Informatics <#>`__, 32, p. 855--865
+
+- `Self-organized lateral inhibition improves odor classification in an olfaction-inspired network <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704286/>`__ |br|
+  Kasap, B., & Schmuker, M.,  |br|
+  2013 in `BMC Neuroscience`_, 14, p. O12
+
+- `Improving odor classification through self-organized lateral inhibition in a spiking olfaction-inspired network <http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6695911>`__ |br|
+  Kasap, B., & Schmuker, M.,  |br|
+  2013 in `2013 6th International IEEE/EMBS Conference on Neural Engineering (NER) <#>`__, p. 219--222
+
+.. correct Grubl, Muller, Bruderle
+
+- `Six networks on a universal neuromorphic computing substrate <http://www.frontiersin.org/Neuromorphic_Engineering/10.3389/fnins.2013.00011/abstract>`__ |br|
+  Pfeil, T., Grubl, A., Jeltsch, S., Muller, E., Muller, P., Petrovici, M.A., Schmuker, M., Bruderle, D., Schemmel, J., & Meier, K.,  |br|
+  2013 in `Frontiers in Neuroscience`_, 7, p. 11
 
 - `Modeling the generation of output by the cerebellar nuclei <http://dx.doi.org/10.1016/j.neunet.2012.11.006>`__ |br|
   Steuber, V. & Jaeger, D. |br|
@@ -339,6 +392,30 @@ Publications
 2011
 ----
 
+- `A behavioral odor similarity "space" in larval Drosophila. <http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3038273&tool=pmcentrez&rendertype=abstract>`__ |br|
+  Chen, Y., Mishra, D., Schmitt, L., Schmuker, M., & Gerber, B.,  |br|
+  2011 in `Chemical Senses <#>`__, 36, p. 237--249
+
+- `The similarity between odors and their binary mixtures in Drosophila. <http://www.chemse.oxfordjournals.org/cgi/doi/10.1093/chemse/bjr016>`__ |br|
+  Eschbach, C., Vogt, K., Schmuker, M., & Gerber, B.,  |br|
+  2011 in `Chemical senses <#>`__, 36, p. 613--21
+
+- `A spiking neuron classifier network with a deep architecture inspired by the olfactory system of the honeybee <http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5910522>`__ |br|
+  Hausler, C., Nawrot, M.P., & Schmuker, M.,  |br|
+  2011 in `2011 5th International IEEE/EMBS Conference on Neural Engineering <#>`__, p. 198--202
+
+- `Ten thousand times faster: Classifying multidimensional data on a spiking neuromorphic hardware system. <http://www.frontiersin.org/Community/AbstractDetails.aspx?ABS_DOI=10.3389/conf.fncom.2011.53.00109>`__ |br|
+  Schmuker, M., Br{\"{u}}derle, D., Schrader, S., & Nawrot, M.P.,  |br|
+  2011 in `Frontiers in Computational Neuroscience Conference Abstract: BC11 : Computational Neuroscience {\&} Neurotechnology Bernstein Conference {\&} Neurex Annual Meeting 2011 <#>`__, 5
+
+- `Brain-like processing and classification of chemical data: an approach inspired by the sense of smell <#>`__ |br|
+  Schmuker, M., & Schneider, G.,  |br|
+  2011 in `Chemoinformatics and Advanced Machine Learning Perspectives: Complex Computational Methods and Collaborative Techniques <#>`__, p. 289--303
+
+- `Parallel representation of stimulus identity and intensity in a dual pathway model inspired by the olfactory system of the honeybee. <http://www.frontiersin.org/neuroengineering/10.3389/fneng.2011.00017/abstract>`__ |br|
+  Schmuker, M., Yamagata, N., Nawrot, M.P., & Menzel, R.,  |br|
+  2011 in `Frontiers in Neuroengineering <#>`__, 4, p. 17
+
 - `Clustering predicts memory performance in networks of spiking and non-spiking neurons <http://dx.doi.org/10.3389/fncom.2011.00014>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/1416215/905361.pdf>`__ |br|
   Chen, W., Maex, R., Adams, R. G., Steuber, V., Calcraft, L. & Davey, N. |br|
   2011 in `Frontiers in Computational Neuroscience`_. 5, 14
@@ -411,10 +488,14 @@ Publications
   Metzner C., Schweikard A. & Zurowski B. |br|
   2010 in `BMC Neuroscience`_, pages P100
 
+- `Brain-like processing and classification of chemical data: An approach inspired by the sense of smell <#>`__ |br|
+  Schmuker, M., & Schneider, G.,  |br|
+  2010 in `Chemoinformatics and Advanced Machine Learning Perspectives: Complex Computational Methods and Collaborative Techniques <#>`__, p. 289--302
+
 2009
 ----
 
-- `Connection Strategies in Associative Memory Models <http://dx.doi.org/10.1007/978-3-642-04921-7_5>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94384/903597.pdf>`__ |br|
+- `Connection strategies in associative memory models <http://dx.doi.org/10.1007/978-3-642-04921-7_5>`__ - `(full text) <http://vuh-la-risprt.herts.ac.uk/portal/services/downloadRegister/94384/903597.pdf>`__ |br|
   Chen, W., Maex, R., Adams, R. G., Calcraft, L., Steuber, V. & Davey, N. |br|
   2009 in `Lecture Notes in Computer Science`_. 5495, p. 42-51
 
@@ -449,6 +530,15 @@ Publications
 - `Systematic mapping between dendritic function and structure <http://www.tandfonline.com/doi/abs/10.1080/09548980902984833?journalCode=inet20>`__ - `(full text) <http://homepages.stca.herts.ac.uk/~bt15aat/torben_network2009.pdf>`__ |br|
   Torben-Nielsen B., Stiefel K.M. |br|
   2009 in Network: Computation in Neural Systems, 20(2): 69 - 105
+
+- `Differential processing through distinct network properties in two parallel olfactory pathways <http://www.frontiersin.org/10.3389/conf.neuro.10.2009.14.072/event_abstract>`__ |br|
+  Schmuker, M., Yamagata, N., & Menzel, R.,  |br|
+  2009 in `Frontiers in Computational Neuroscience Conference Abstract: Bernstein Conference on Computational Neuroscience <#>`__, 3
+
+- `Differential odor processing in two olfactory pathways in the honeybee <http://frontiersin.org/systemsneuroscience/paper/10.3389/neuro.06/016.2009/>`__ |br|
+  Yamagata, N., Schmuker, M., Szyszka, P., Mizunami, M., & Menzel, R.,  |br|
+  2009 in `Frontiers in Systems Neuroscience <#>`__, 3, p. 16
+
 
 
 .. |br| raw:: html
