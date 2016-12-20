@@ -5,26 +5,7 @@ Publications - Archive
 
 **Note**: `Work that was published after 2009 can be found here. <{filename}/pages/04-publications-current.rst>`_
 
-.. Defining the most frequent journals so we can link to their homepages. Please see the other entries and add yours accordingly (this is a comment)
-
-.. _BMC Neuroscience: http://www.biomedcentral.com/bmcneurosci
-.. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
-.. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
-.. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
-.. _Frontiers in Neuroscience: http://journal.frontiersin.org/journal/neuroscience
-.. _Frontiers in Neuroinformatics: http://journal.frontiersin.org/journal/neuroinformatics
-.. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
-.. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
-.. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
-.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
-.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
-.. _Nature: http://www.nature.com/nature/index.html
-.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
-.. _Neuron: http://www.cell.com/neuron/home
-.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
-.. _Nature Neuroscience: http://www.nature.com/neuro/index.html
-.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
-.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
+.. include:: 99-journallist.txt
 
 2008
 ----

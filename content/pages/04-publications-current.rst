@@ -6,32 +6,8 @@ Publications
 **Note**: `Work that was published before 2009 can be found here. <{filename}/pages/04-publications-old.rst>`_
 
 .. Paper titles are not in sentence case, but journal/conference titles can be (since they're usually acronyms)
-.. Defining the most frequent journals so we can link to their homepages. Please see the other entries and add yours accordingly (this is a comment)
-.. Keep these in alphabetical order
 
-.. _Annals of Neurology: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8249
-.. _BMC Neuroscience: http://www.biomedcentral.com/bmcneurosci
-.. _Computational Systems Neurobiology: http://www.springer.com/us/book/9789400738577
-.. _Current Directions in Biomedical Engineering: http://www.degruyter.com/view/j/cdbme
-.. _European Journal of Neuroscience: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568
-.. _Flavour: http://www.flavourjournal.com/
-.. _Frontiers in Systems Neuroscience: http://journal.frontiersin.org/journal/systems-neuroscience
-.. _Frontiers in Computational Neuroscience: http://journal.frontiersin.org/journal/computational-neuroscience
-.. _Frontiers in Neuroscience: http://journal.frontiersin.org/journal/neuroscience
-.. _Frontiers in Neuroinformatics: http://journal.frontiersin.org/journal/neuroinformatics
-.. _Journal of Computational Neuroscience: http://www.springer.com/biomed/neuroscience/journal/10827
-.. _Lecture Notes in Computer Science: http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0
-.. _Nature Neuroscience: http://www.nature.com/neuro/index.html
-.. _Nature: http://www.nature.com/nature/index.html
-.. _Neuron: http://www.cell.com/neuron/home
-.. _Neural Computation: http://www.mitpressjournals.org/loi/neco
-.. _Neural Networks: http://www.journals.elsevier.com/neural-networks/
-.. _Neuroinformatics: http://www.springer.com/biomed/neuroscience/journal/12021
-.. _Neurocomputing: http://www.journals.elsevier.com/neurocomputing/
-.. _Neuroscience: http://www.sciencedirect.com/science/journal/03064522
-.. _PLoS Computational Biology: http://journals.plos.org/ploscompbiol/
-.. _Pharmacology & Therapeutics: http://www.sciencedirect.com/science/journal/01637258
-.. _Springer Series in Computational Neuroscience: http://www.springer.com/series/8164
+.. include:: 99-journallist.txt
 
 2016
 ----
