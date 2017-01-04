@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Publications - {{ SITENAME }}{% endblock %}
+{% block metadesc %}{{ SITETAGALT }} List of Publications{% endblock %}
+{% block page%}active{% endblock %}
+
+{% block    custom_header %}
+{% if CUSTOM_HEADER_ARCHIVES %}
+{% include "includes/" + CUSTOM_HEADER_ARCHIVES %}
+{% endif %}
+{% endblock custom_header %}
+
+{% block    container_header %}
+{% if CUSTOM_CONTAINER_TOP_ARCHIVES %}
+{% include "includes/" + CUSTOM_CONTAINER_TOP_ARCHIVES %}
+{% endif %}
+{% endblock container_header %}
+
+{% block content %}
+<script type="text/javascript">
+function disp(s) {
+  var win;
+  var doc;
+  win = window.open("", "WINDOWID");
+  doc = win.document;
+  doc.open("text/plain");
+  doc.write(s);
+  doc.close();
+}
+</script>
+
+<h1>List of Publications</h1>
+<div class="content-body" itemprop="text">
+  {% for group in publications|groupby('year')|reverse %}
+  <h2>{{group.grouper}}</h2>
+  <ul>
+    {% for publication in group.list %}
+    <li id="{{ publication.key }}">{{ publication.text }}
+      [&nbsp;<a href="javascript:disp('{{ publication.bibtex|replace('\n', '\\n')|escape}}');">Bibtex</a>&nbsp;]
+      {% for label, target in [('PDF', publication.pdf), ('Slides', publication.slides), ('Poster', publication.poster)] %}
+      {{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
+      {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>
+{% endblock content %}
+
+{% block    content_footer %}
+{% if CUSTOM_CONTENT_BOTTOM_ARCHIVES %}
+{% include "includes/" + CUSTOM_CONTENT_BOTTOM_ARCHIVES %}
+{% endif %}
+{% endblock content_footer %}
+
+{% block    container_footer %}
+{% if CUSTOM_CONTAINER_BOTTOM_ARCHIVES %}
+{% include "includes/" + CUSTOM_CONTAINER_BOTTOM_ARCHIVES %}
+{% endif %}
+{% endblock container_footer %}
+
+{% block scripts %}
+{% if CUSTOM_SCRIPTS_ARCHIVES %}
+{% include "includes/" + CUSTOM_SCRIPTS_ARCHIVES %}
+{% endif %}
+{% endblock %}

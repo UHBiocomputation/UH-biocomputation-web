@@ -23,9 +23,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PLUGIN_PATHS = ['pelican-plugins']
-#PLUGINS = ['tag_cloud']
-PLUGINS = ['tag_cloud', 'share_post',]
+PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
+PLUGINS = ['tag_cloud', 'share_post', 'pelican-bibtex']
 
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
@@ -65,3 +64,18 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # Minor customization to make some info appear on our home page
 # CUSTOM_POST_ON_HOME_PAGE = '<br /><a href="category/vacancies"><i class="icon-attention"></i>Please check the vacancies section for information on an open Lecturer or Senior Lecturer position at the School of Computer Science.</a>'
 LATEST_ARTICLE_ON_HOME_PAGE = True
+
+# Bibliography and publications
+MY_PUBLICATIONS_SRC = 'content/labpubs.bib'
+PUBLICATIONS_SAVE_AS = 'pages/04-publications.html'
+DIRECT_TEMPLATES = ['index', 'archives', 'categories', 'tags', 'publications']
+
+# Need to do it manually to maintain an order
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    ('Research', '/pages/02-research.html'),
+    ('People', '/pages/03-people.html'),
+    ('Publications', '/pages/04-publications.html'),
+    ('Seminars', '/pages/05-seminars.html'),
+    ('Collaborators', '/pages/06-collaborators.html'),
+             )

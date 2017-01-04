@@ -1,3 +1,6 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/UHBiocomputation/pelican-plugins.git
+[submodule "pelican-plugins-other/pelican-bibtex"]
+	path = pelican-plugins-other/pelican-bibtex
+	url = https://github.com/sanjayankur31/pelican-bibtex.git
