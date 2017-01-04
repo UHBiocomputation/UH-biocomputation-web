@@ -1,0 +1,5 @@
+pelican
+icalendar
+pybtex
+Pygments
+feedgenerator
