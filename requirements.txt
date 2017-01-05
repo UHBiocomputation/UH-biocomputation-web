@@ -3,3 +3,4 @@ icalendar
 pybtex
 Pygments
 feedgenerator
+bs4
