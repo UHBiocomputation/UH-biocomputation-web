@@ -2,51 +2,52 @@
 .. csv-table::
 	:header: **#**, **Name**, **Title**, **Date**
 	:widths: 5, 35, 85, 10
+	:quote: "
 
-	1, James Bower, `What does the nose know and how does it know it <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__, 20/05/16
-	2, Jean Petrić, `The jinx on the NASA software defect data sets <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__, 27/05/16
-	3, Alex Hocking, `Convolutional neural networks <{filename}/20160601-convolutional-neural-networks.rst>`__, 03/06/16
-	4, Christoph Metzner, `Could a neuroscientist understand a microprocessor? <{filename}/20160609-could-a-neuroscientist-understand-a-microprocessor.rst>`__, 10/06/16
-	5, Marylka Uusisaari, `From morphology to network-level activity patterns: dendritic arrangement and clustering among inferior olive neurons <{filename}/20160611-from-morphology-to-network-level-activity-patterns-dendritic-arrangement-and-clustering-among-inferior-olive-neurons.rst>`__, 17/06/16
-	6, Gui Valente, `Research team from UNESP-Brazil reports its works on Genomics: from basic science to biotechnology <{filename}/20160622-research-team-from-unesp-brazil-reports-its-works-on-genomics-from-basic-science-to-biotechnology.rst>`__, 24/06/16
-	--, --, `-- <#>`__, 01/07/16
-	7, Anuradha Sulane, `Detecting road surface wetness from audio: A deep learning approach <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__, 08/07/16
-	8, Alex Hocking, `Automated morphological classification using machine learning techniques <{filename}/20160714-automated-morphological-classification-of-galaxies-using-machine-learning-techniques.rst>`__, 15/07/16
-	9, Edward Wakelam, `Sloping the interview and career development playing fields in your favour <{filename}/20160719-sloping-the-interview-and-career-development-playing-fields-in-your-favour.rst>`__, 22/07/16
-	--, --, `-- <#>`__, 29/07/16
-	--, --, `-- <#>`__, 05/08/16
-	--, --, `-- <#>`__, 12/08/16
-	--, --, `-- <#>`__, 19/08/16
-	--, --, `-- <#>`__, 26/08/16
-	--, --, `-- <#>`__, 02/09/16
-	10, Deepak Panday, `Removing noisy features via feature weights: preliminary results in mixed-model Gaussian distributions <{filename}/20160908-removing-noisy-features-via-feature-weights-preliminary-results-in-mixed-model-gaussian-distributions.rst>`__, 09/09/16
-	11, Nathan Beka, `Next generation sequencing (NGS) <{filename}/20160914-next-generation-sequencing-ngs.rst>`__, 16/09/16
-	--, --, `-- <#>`__, 23/09/16
-	12, Ankur Sinha, `Opposing effects of neuronal activity on structural plasticity <{filename}/20160928-opposing-effects-of-neuronal-activity-on-structural-plasticity.rst>`__, 30/09/16
-	13, Volker Steuber, `Computational models of synaptic plasticity and information processing in the cerebellum <{filename}/20161004-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__, 07/10/16
-	14, Paul Moggridge, `Optimising Hierarchical Load Balancing for the Cloud <{filename}/20161013-optimising-hierarchical-load-balancing-for-the-cloud.rst>`__, 14/10/16
-	15, Rene Boekhorst, `Principal component analysis <{filename}/20161020-principal-component-analysis.rst>`__, 21/10/16
-	16, Marco Craveiro, `The pricing of options and corporate liabilities <{filename}/20161027-the-pricing-of-options-and-corporate-liabilities.rst>`__, 28/10/16
-	17, Julia Goncharenko, `Self-sustained Asynchronous Irregular states and Up-Down states in thalamocortical networks of nonlinear integrate-and-fire neurons <{filename}/20161102-self-sustained-asynchronous-irregular-states-and-up-down-states-in-thalamocortical-networks-of-nonlinear-integrate-and-fire-neurons.rst>`__, 04/11/16
-	18, Benjamin Torben-Nielsen, `Neuronal computation: dendrites at work <{filename}/20161110-neuronal-computation-dendrites-at-work.rst>`__, 11/11/16
-	19, Weam Binjumah, `Error correction over optical transmission <{filename}/20161114-error-correction-over-optical-transmission.rst>`__, 18/11/16
-	20, Tuomo Mäki-Marttunen, `A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells <{filename}/20161123-a-stepwise-neuron-model-fitting-procedure-designed-for-recordings-with-high-spatial-resolution-application-to-layer-5-pyramidal-cells.rst>`__, 25/11/16
-	21, Yi Sun, `Dynamic functional principal components <{filename}/20161129-dynamic-functional-principal-components.rst>`__, 02/12/16
-	22, Nada Yousif, `Multi-scale modelling of neurostimulation effects in movement disorders <{filename}/20161207-multi-scale-modelling-of-neurostimulation-effects-in-movement-disorders.rst>`__, 09/12/16
-	23, Maria Psarrou, `Multiplicative gain changes are induced by excitation or inhibition alone <{filename}/20161215-multiplicative-gain-changes-are-induced-by-excitation-or-inhibition-alone.rst>`__, 16/12/16
-	--, --, `-- <#>`__, 23/12/16
-	--, --, `-- <#>`__, 30/12/16
-	--, --, `-- <#>`__, 06/01/17
-	24, Edward Wakelam, `-- <#>`__, 13/01/17
-	25, Jean Petrić, `-- <#>`__, 20/01/17
-	26, Maria Schilstra, `-- <#>`__, 27/01/17
-	27, Marco Craveiro, `-- <#>`__, 03/02/17
-	28, Nathan Beka, `-- <#>`__, 10/02/17
-	29, Deepak Panday, `-- <#>`__, 17/02/17
-	30, Roderick Adams, `-- <#>`__, 24/02/17
-	31, Ronak Bhavsar, `-- <#>`__, 03/03/17
-	32, Anuradha Sulane, `-- <#>`__, 10/03/17
-	33, Zaheed Mahmood, `-- <#>`__, 17/03/17
-	34, Michael Schmuker, `-- <#>`__, 24/03/17
-	35, Neil Davey, `-- <#>`__, 31/03/17
+	1, James Bower, "`What does the nose know and how does it know it\ <{filename}/20160513-what-does-the-nose-know-and-how-does-it-know-it.rst>`__", 20/05/16
+	2, Jean Petrić, "`The jinx on the NASA software defect data sets\ <{filename}/20160525-the-jinx-on-the-nasa-software-defect-data-sets.rst>`__", 27/05/16
+	3, Alex Hocking, "`Convolutional neural networks\ <{filename}/20160601-convolutional-neural-networks.rst>`__", 03/06/16
+	4, Christoph Metzner, "`Could a neuroscientist understand a microprocessor?\ <{filename}/20160609-could-a-neuroscientist-understand-a-microprocessor.rst>`__", 10/06/16
+	5, Marylka Uusisaari, "`From morphology to network-level activity patterns: dendritic arrangement and clustering among inferior olive neurons\ <{filename}/20160611-from-morphology-to-network-level-activity-patterns-dendritic-arrangement-and-clustering-among-inferior-olive-neurons.rst>`__", 17/06/16
+	6, Gui Valente, "`Research team from UNESP-Brazil reports its works on Genomics: from basic science to biotechnology\ <{filename}/20160622-research-team-from-unesp-brazil-reports-its-works-on-genomics-from-basic-science-to-biotechnology.rst>`__", 24/06/16
+	--, --, "`-- <#>`__", 01/07/16
+	7, Anuradha Sulane, "`Detecting road surface wetness from audio: A deep learning approach\ <{filename}/20160707-detecting-road-surface-wetness-from-audio-a-deep-learning-approach.rst>`__", 08/07/16
+	8, Alex Hocking, "`Automated morphological classification using machine learning techniques\ <{filename}/20160714-automated-morphological-classification-of-galaxies-using-machine-learning-techniques.rst>`__", 15/07/16
+	9, Edward Wakelam, "`Sloping the interview and career development playing fields in your favour\ <{filename}/20160719-sloping-the-interview-and-career-development-playing-fields-in-your-favour.rst>`__", 22/07/16
+	--, --, "`-- <#>`__", 29/07/16
+	--, --, "`-- <#>`__", 05/08/16
+	--, --, "`-- <#>`__", 12/08/16
+	--, --, "`-- <#>`__", 19/08/16
+	--, --, "`-- <#>`__", 26/08/16
+	--, --, "`-- <#>`__", 02/09/16
+	10, Deepak Panday, "`Removing noisy features via feature weights: preliminary results in mixed-model Gaussian distributions\ <{filename}/20160908-removing-noisy-features-via-feature-weights-preliminary-results-in-mixed-model-gaussian-distributions.rst>`__", 09/09/16
+	11, Nathan Beka, "`Next generation sequencing (NGS)\ <{filename}/20160914-next-generation-sequencing-ngs.rst>`__", 16/09/16
+	--, --, "`-- <#>`__", 23/09/16
+	12, Ankur Sinha, "`Opposing effects of neuronal activity on structural plasticity\ <{filename}/20160928-opposing-effects-of-neuronal-activity-on-structural-plasticity.rst>`__", 30/09/16
+	13, Volker Steuber, "`Computational models of synaptic plasticity and information processing in the cerebellum\ <{filename}/20161004-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__", 07/10/16
+	14, Paul Moggridge, "`Optimising Hierarchical Load Balancing for the Cloud\ <{filename}/20161013-optimising-hierarchical-load-balancing-for-the-cloud.rst>`__", 14/10/16
+	15, Rene Boekhorst, "`Principal component analysis\ <{filename}/20161020-principal-component-analysis.rst>`__", 21/10/16
+	16, Marco Craveiro, "`The pricing of options and corporate liabilities\ <{filename}/20161027-the-pricing-of-options-and-corporate-liabilities.rst>`__", 28/10/16
+	17, Julia Goncharenko, "`Self-sustained Asynchronous Irregular states and Up-Down states in thalamocortical networks of nonlinear integrate-and-fire neurons\ <{filename}/20161102-self-sustained-asynchronous-irregular-states-and-up-down-states-in-thalamocortical-networks-of-nonlinear-integrate-and-fire-neurons.rst>`__", 04/11/16
+	18, Benjamin Torben-Nielsen, "`Neuronal computation: dendrites at work\ <{filename}/20161110-neuronal-computation-dendrites-at-work.rst>`__", 11/11/16
+	19, Weam Binjumah, "`Error correction over optical transmission\ <{filename}/20161114-error-correction-over-optical-transmission.rst>`__", 18/11/16
+	20, Tuomo Mäki-Marttunen, "`A stepwise neuron model fitting procedure designed for recordings with high spatial resolution: application to layer 5 pyramidal cells\ <{filename}/20161123-a-stepwise-neuron-model-fitting-procedure-designed-for-recordings-with-high-spatial-resolution-application-to-layer-5-pyramidal-cells.rst>`__", 25/11/16
+	21, Yi Sun, "`Dynamic functional principal components\ <{filename}/20161129-dynamic-functional-principal-components.rst>`__", 02/12/16
+	22, Nada Yousif, "`Multi-scale modelling of neurostimulation effects in movement disorders\ <{filename}/20161207-multi-scale-modelling-of-neurostimulation-effects-in-movement-disorders.rst>`__", 09/12/16
+	23, Maria Psarrou, "`Multiplicative gain changes are induced by excitation or inhibition alone\ <{filename}/20161215-multiplicative-gain-changes-are-induced-by-excitation-or-inhibition-alone.rst>`__", 16/12/16
+	--, --, "`-- <#>`__", 23/12/16
+	--, --, "`-- <#>`__", 30/12/16
+	--, --, "`-- <#>`__", 06/01/17
+	24, Edward Wakelam, "`Strategy, the Business and Me (well actually, you)\ <{filename}/20170110-strategy-the-business-and-me-well-actually-you.rst>`__", 13/01/17
+	25, Jean Petrić, "`--\ <#>`__", 20/01/17
+	26, Maria Schilstra, "`--\ <#>`__", 27/01/17
+	27, Marco Craveiro, "`--\ <#>`__", 03/02/17
+	28, Nathan Beka, "`--\ <#>`__", 10/02/17
+	29, Deepak Panday, "`--\ <#>`__", 17/02/17
+	30, Roderick Adams, "`--\ <#>`__", 24/02/17
+	31, Ronak Bhavsar, "`--\ <#>`__", 03/03/17
+	32, Anuradha Sulane, "`--\ <#>`__", 10/03/17
+	33, Zaheed Mahmood, "`--\ <#>`__", 17/03/17
+	34, Michael Schmuker, "`--\ <#>`__", 24/03/17
+	35, Neil Davey, "`--\ <#>`__", 31/03/17
 
