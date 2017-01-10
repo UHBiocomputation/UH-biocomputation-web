@@ -72,6 +72,7 @@ class generateRota:
         .. csv-table::
         \t:header: **#**, **Name**, **Title**, **Date**
         \t:widths: 5, 35, 85, 10
+        \t:quote: "
         """
 
     def get_rota_data(self):
@@ -165,11 +166,11 @@ class generateRota:
         for data in self.rota:
             name, talk_title, title_blog, rota_date = data
             if name == "Holiday" or name == "Cancelled" or name == "--":
-                print("\t{}, {}, `{} {}`__, {}".format(
+                print("\t{}, {}, \"`{} {}`__\", {}".format(
                     "--", name, talk_title, title_blog,
                     rota_date.strftime("%d/%m/%y")), file=rst_file)
             else:
-                print("\t{}, {}, `{} {}`__, {}".format(
+                print("\t{}, {}, \"`{}\ {}`__\", {}".format(
                     counter, name, talk_title, title_blog,
                     rota_date.strftime("%d/%m/%y")), file=rst_file)
                 counter += 1
