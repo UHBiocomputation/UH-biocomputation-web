@@ -305,7 +305,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Schilstra - --
+SUMMARY:Maria Schilstra - Stochastic model of template-directed elongation
+  processes in biology
 DTSTART;TZID=Europe/London:20170127T160000
 DTEND;TZID=Europe/London:20170127T170000
 UID:2017-01-27T00:00:00-00:01
