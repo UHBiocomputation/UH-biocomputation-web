@@ -314,7 +314,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Marco Craveiro - Update on my research: using watertight polygon m
+ eshes for neuronal morphology representation
 DTSTART;TZID=Europe/London:20170203T160000
 DTEND;TZID=Europe/London:20170203T170000
 UID:2017-02-03T00:00:00-00:01
@@ -322,7 +323,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathan Beka - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20170210T160000
 DTEND;TZID=Europe/London:20170210T170000
 UID:2017-02-10T00:00:00-00:01
@@ -330,7 +331,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Roderick Adams - --
 DTSTART;TZID=Europe/London:20170217T160000
 DTEND;TZID=Europe/London:20170217T170000
 UID:2017-02-17T00:00:00-00:01
@@ -338,7 +339,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roderick Adams - --
+SUMMARY:Ronak Bhavsar - --
 DTSTART;TZID=Europe/London:20170224T160000
 DTEND;TZID=Europe/London:20170224T170000
 UID:2017-02-24T00:00:00-00:01
@@ -346,7 +347,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ronak Bhavsar - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20170303T160000
 DTEND;TZID=Europe/London:20170303T170000
 UID:2017-03-03T00:00:00-00:01
@@ -354,7 +355,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Zaheed Mahmood - --
 DTSTART;TZID=Europe/London:20170310T160000
 DTEND;TZID=Europe/London:20170310T170000
 UID:2017-03-10T00:00:00-00:01
@@ -362,7 +363,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zaheed Mahmood - --
+SUMMARY:Michael Schmuker - --
 DTSTART;TZID=Europe/London:20170317T160000
 DTEND;TZID=Europe/London:20170317T170000
 UID:2017-03-17T00:00:00-00:01
@@ -370,7 +371,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmuker - --
+SUMMARY:Neil Davey - --
 DTSTART;TZID=Europe/London:20170324T160000
 DTEND;TZID=Europe/London:20170324T170000
 UID:2017-03-24T00:00:00-00:01
@@ -378,7 +379,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Davey - --
+SUMMARY:Nathan Beka - --
 DTSTART;TZID=Europe/London:20170331T160000
 DTEND;TZID=Europe/London:20170331T170000
 UID:2017-03-31T00:00:00-00:01
