@@ -18,22 +18,22 @@ Core Faculty and Research Staff
   Research Interests: bioinformatics, embodied artificial intelligence, biology, dynamical systems, primate social dynamics
 
 .. _Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
- 
+
 - `David Bowes`_ |br|
   Research Interests: machine learning, software defect prediction
 
 .. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
- 
+
 - `Neil Davey`_ |br|
   Research Interests: computational neuroscience, machine learning, artificial intelligence
 
 .. _Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
- 
+
 - `Chrystopher Nehaniv`_ |br|
   Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
 
 .. _Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
- 
+
 - `Maria Schilstra`_ |br|
   Research Interests: biocomputation, systems biology, genetic regulatory networks
 
@@ -53,7 +53,7 @@ Core Faculty and Research Staff
   Research Interests: dendritic morphology and computation
 
 .. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
- 
+
 Research Fellows
 -----------------
 
@@ -61,12 +61,12 @@ Research Fellows
   Research Interests: probabilistic modelling of data, unsupervised learning, model selection
 
 .. _Yi Sun: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/yi-sun(0ea48521-5ead-4285-929c-8db4b2aef1f0).html
- 
+
 - `Paolo Dini`_ |br|
   Research Interests: algebraic biology (BIOMICS)
 
 .. _Paolo Dini: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/paolo-dini(132836b1-d655-4e5b-aeb1-20c752f9c30b).html
- 
+
 - `Christoph Metzner`_ |br|
   Research Interests: computational neuroscience, olfaction
 
@@ -75,7 +75,7 @@ Research Fellows
 PhD Students
 ------------
 
-- `Anuradha Sulane`_ |br| 
+- `Anuradha Sulane`_ |br|
   Research Interests: machine learning, neural networks and audio recognition
 
 .. _Anuradha Sulane: #
@@ -84,57 +84,57 @@ PhD Students
   Research Interests: neuronal mechanisms of epileptic activity
 
 .. _Parimala Alva: #
- 
+
 - `Parivash Ashrafi`_ |br|
   Research Interests: machine learning and skin permeability of drugs
 
 .. _Parivash Ashrafi: #
- 
-- `Nathan Beka`_ |br|
-  Research Interests: bioinformatics
 
-.. _Nathan Beka: #
- 
 - `Ronak Bhavsar`_ |br|
   Research Interests: machine learning and EEG analysis
 
 .. _Ronak Bhavsar: #
- 
+
 - `Weam Binjumah`_ |br|
   Research Interests: machine learning and optical data transmission
 
 .. _Weam Binjumah: #
- 
+
 - `Udeshika Dissanayake`_ (with `Adaptive Systems`_) |br|
   Research Interests: EEG analysis and rehabilitation robotics
 
 .. _Udeshika Dissanayake: #
- 
+
 - `Julia Goncharenko`_ |br|
   Research Interests: dynamics of thalamo-cortical networks
 
 .. _Julia Goncharenko: #
- 
+
 - `Kirsty Kidd`_ |br|
   Research Interests: evolutionary changes of neuronal morphologies
 
 .. _Kirsty Kidd: #
- 
-- `Alex Metaxas`_ |br|
-  Research Interests: associative memory
 
-.. _Alex Metaxas: #
- 
 - `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
 
 .. _Maria Psarrou: #
- 
+
+- `Nathan Beka`_ |br|
+  Research Interests: bioinformatics
+
+.. _Nathan Beka: #
+
+- `Alex Metaxas`_ |br|
+  Research Interests: associative memory
+
+.. _Alex Metaxas: #
+
 - `Ankur Sinha`_ |br|
   Research Interests: cortical reorganisation and memory performance after lesions
 
 .. _Ankur Sinha: http://ankursinha.in/blog/
- 
+
 - `Alexander Hocking`_ |br|
   Research Interests: machine learning and astronomy
 
@@ -180,6 +180,10 @@ PhD Students
 
 .. _Paul Moggridge: https://uk.linkedin.com/in/pmmoggridge
 
+
+- `Sam Sutton <https://uk.linkedin.com/in/samuel-sutton-582a00b5>`__ |br|
+  Research Interests: machine learning, image processing, olfaction
+
 Affiliated Faculty
 ------------------
 
@@ -212,22 +216,22 @@ Affiliated Faculty
   Research Interests: neural computation, cognitive science, evolutionary neural networks, developmental neural networks
 
 .. _Ray Frank: #
- 
+
 - `Lola Canamero`_ |br|
   Research Interests: motivation and emotion modelling for autonomous and social agents, neural controllers
 
 .. _Lola Canamero: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/lola-canamero(63a7227c-1c54-4d7c-b2dd-70e9baec5003).html
- 
+
 - `Peter Lane`_ |br|
   Research Interests: neural computation, natural language processing, cognitive science, image processing
 
 .. _Peter Lane: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/peter-lane(bb457ee3-4eb1-4e04-97bb-6e9f1cf2ac91).html
- 
+
 - `Daniel Polani`_ |br|
   Research Interests: artificial intelligence, artificial life, information theory for intelligent information processing, sensor evolution, collective and multi-agent systems
 
 .. _Daniel Polani: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/daniel-polani(01cd29b6-ead6-4b2c-9e73-e39f197bd41d).html
- 
+
 Visiting Research Fellows
 -------------------------
 
@@ -253,12 +257,12 @@ Previous Group Members
   Research Interests: bioinformatics
 
 .. _Sylvia Beka: #
- 
+
 - `Dimitris Bampasakis`_ |br|
   Research Interests: computations performed by cerebellar nucleus neurons
 
 .. _Dimitris Bampasakis: http://www.researchgate.net/profile/Dimitris_Bampasakis
- 
+
 - `Ahmed Otman Abdelmotaleb (with University of Poznan)`_ |br|
   Research Interests: evolution of spiking neural networks
 
@@ -269,135 +273,135 @@ Previous Group Members
   Research Interests: cerebellar network modelling, Spike train analysis
 
 .. _Karen Safaryan: #
- 
+
 - `Thiago Matos Pinto`_ |br|
   University of Sao Paulo, Brazil |br|
   Research Interests: computational models of intracellular signalling cascades
 
 .. _Thiago Matos Pinto: #
- 
+
 - `Faisal Rezwan`_ |br|
   Computational Modelling Group, University of Southampton |br|
   Research Interests: biocomputation, genetic regulatory networks
 
 .. _Faisal Rezwan: #
- 
+
 - `Burak Erdeniz`_ |br|
   University of Michigan, Ann Arbor, USA |br|
   Research Interests: cognitive Neuroscience, FMRI
 
-.. _Burak Erdeniz: # 
- 
+.. _Burak Erdeniz: #
+
 - `David Gray`_ |br|
   Visiting Lecturer, University of Hertfordshire |br|
   Research Interests: machine learning, software defect prediction
 
 .. _David Gray: #
- 
+
 - `Giseli de Sousa`_ |br|
   Connectionism and Cognitive Science Lab, Federal University of Santa Catarina, Brazil |br|
   Research Interests: neuronal morphology
 
 .. _Giseli de Sousa: #
- 
+
 - `Johannes Luthman`_ |br|
   Karolinska Institute, Stockholm, Sweden |br|
   Research Interests: computational biology
 
 .. _Johannes Luthman: #
- 
+
 - `Weiliang Chen`_ |br|
   Okinawa Institute of Science and Technology, Japan |br|
   Research Interests: connectivity of the mammalian cortex, associative memory
 
 .. _Weiliang Chen: #
- 
+
 - `Kevin A. J. Doherty`_ |br|
   British Aerospace, UK |br|
   Research Interests: competitive neural networks, hierarchical clustering, design patterns
 
 .. _Kevin A. J. Doherty: #
- 
+
 - `Sarah Keating`_ |br|
   European Bioinformatics Institute, Cambridge, UK |br|
   Research Interests: biocomputation, SBML
 
 .. _Sarah Keating: #
- 
+
 - `Nicolas Oros`_ |br|
   University of California Irvine, USA |br|
   Research Interests: evolving Spiking Neural Controllers for Simulated Robots
 
 .. _Nicolas Oros: #
- 
+
 - `Wanida Pensuwon`_ |br|
   Khon Kaen University, Thailand |br|
   Research Interests: cluster analysis, hierarchical classification, competitive learning neural networks, stochastic learning
 
 .. _Wanida Pensuwon: #
- 
+
 - `Fiona Richardson`_ |br|
   Wellcome Trust Centre for Neuroimaging, UCL, London, UK |br|
   Research Interests: cognitive neuroscience, perception and action
 
 .. _Fiona Richardson: #
- 
+
 - `Mark Robinson`_ |br|
   Benaroya Institute, Seattle, USA |br|
   Research Interests: biocomputation
 
 .. _Mark Robinson: #
- 
+
 - `Alistair Rust`_ |br|
   European Bioinformatics Institute, Cambridge, UK |br|
   Research Interests: evolutionary neural networks, biological development, artificial evolution, vision, computational neuroscience
 
 .. _Alistair Rust: #
- 
+
 - `Aruna Shenoy`_ |br|
   Adaptive Systems Group, University of Hertfordshire |br|
   Research Interests: The computational analysis of facial expression
 
 .. _Aruna Shenoy: #
- 
+
 - `Ken Tabb`_ |br|
   Health and Human Sciences, University of Hertfordshire |br|
   Research Interests: vision, snakes
 
 .. _Ken Tabb: #
- 
+
 - `Katja Wegner`_ |br|
   University of Karlsruhe, Germany |br|
   Research Interests: biocomputation
 
 .. _Katja Wegner: #
- 
+
 - `Irina Abnizova`_ |br|
   Wellcome Trust Sanger Institute |br|
   Research Interests: Biostatistics
 
 .. _Irina Abnizova: #
- 
+
 - `Hamid Boulouri`_ |br|
   Fred Hutchinson Cancer Research Center, Seattle, USA |br|
   Research Interests: biocomputation, computational systems biology
 
 .. _Hamid Boulouri: #
- 
+
 - `Laurence Dixon`_ |br|
   Emeritus Professor |br|
   Research Interests: optimisation, radial basis function networks, evolutionary neural networks, generalisation
 
 .. _Laurence Dixon: #
- 
+
 - `Andrew Finney`_ |br|
   Developer at ANSYS, Inc.
- 
+
 .. _Andrew Finney: #
 
 - `Joanne Matthews`_ |br|
   Developer at Rothamsted Research
- 
+
 .. _Joanne Matthews: #
 
 - `Sarah Keating`_ |br|
@@ -405,29 +409,29 @@ Previous Group Members
   Research Interests: computational systems biology
 
 .. _Sarah Keating: #
- 
+
 - `Mark McAuley`_
- 
-.. _Mark McAuley: 
+
+.. _Mark McAuley:
 
 - `Wolfgang Marwan`_ |br|
   Max-Planck-Institut fuer Dynamik komplexer technischer Systeme, Madgeburg, Germany`_ |br|
   Research Interests: molecular network analysis
 
 .. _Wolfgang Marwan: #
- 
+
 - `Tamie Salter`_ |br|
   Que Innovations Lab, Canada |br|
   Research Interests: Assistive Robotics
 
 .. _Tamie Salter: #
- 
+
 - `Angela Thurnham`_ |br|
   Tilda Goldberg Centre for Social Work and Social Care, UK |br|
   Research Interests: Schizophrenia and Connectionist Models
 
 .. _Angela Thurnham: #
- 
+
 - `Zhengjun Pan`_ |br|
   Software Contractor at Anite; Director at TurboLab Ltd
 
