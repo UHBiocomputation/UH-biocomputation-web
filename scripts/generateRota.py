@@ -47,10 +47,10 @@ class generateRota:
         # print("A week is: {}".format(self.a_week))
         self.tz = pytz.timezone("Europe/London")
         # The date this rota starts at
-        self.start_date = date(2016, 5, 20)
+        self.start_date = date(2017, 2, 1)
         # print("A week after current is: {}".format(self.start_date +
         #                                            self.a_week))
-        self.year = 2016
+        self.year = 2017
         # 4 in the afternoon
         self.rota_time_start = 16
         self.rota_time_end = 17
