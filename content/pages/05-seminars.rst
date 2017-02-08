@@ -16,7 +16,7 @@ May 2016 - January 2017
 
 .. include:: rota-2016.txt
 
-September 2015 - April 16
+September 2015 - April 2016
 ---------------------------
 
 .. include:: rota-2015.txt
