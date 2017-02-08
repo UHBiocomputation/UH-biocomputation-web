@@ -4,26 +4,27 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Sam Sutton, "`Improving the performance of spatial searching in BTMORPH: An investigation into the implementation of R-tree spatial indexing\ <{filename}/20170208-improving-the-performance-of-spatial-searching-in-btmorph-an-investigation-into-the-implementation-of-r-tree-spatial-indexing.rst>`__", 10/02/17
-	2, Deepak Panday, "`--\ <#>`__", 17/02/17
-	3, Ronak Bhavsar, "`--\ <#>`__", 24/02/17
-	4, Anuradha Sulane, "`--\ <#>`__", 03/03/17
-	5, Zaheed Mahmood, "`--\ <#>`__", 10/03/17
-	6, Michael Schmuker, "`--\ <#>`__", 17/03/17
-	7, Nathan Beka, "`--\ <#>`__", 24/03/17
-	8, Jean Petrić, "`--\ <#>`__", 31/03/17
-	9, Alex Hocking, "`--\ <#>`__", 07/04/17
-	10, Christoph Metzner, "`--\ <#>`__", 14/04/17
-	11, Anuradha Sulane, "`--\ <#>`__", 21/04/17
-	12, Edward Wakelam, "`--\ <#>`__", 28/04/17
-	13, Ankur Sinha, "`--\ <#>`__", 05/05/17
-	14, Volker Steuber, "`--\ <#>`__", 12/05/17
-	15, Paul Moggridge, "`--\ <#>`__", 19/05/17
-	16, Rene Boekhorst, "`--\ <#>`__", 26/05/17
-	17, Marco Craveiro, "`--\ <#>`__", 02/06/17
-	18, Julia Goncharenko, "`--\ <#>`__", 09/06/17
-	19, Weam Binjumah, "`--\ <#>`__", 16/06/17
-	20, Yi Sun, "`--\ <#>`__", 23/06/17
-	21, Maria Psarrou, "`--\ <#>`__", 30/06/17
-	22, Maria Schilstra, "`--\ <#>`__", 07/07/17
+	1, Marco Craveiro, "`Update on my research: using watertight polygon meshes for neuronal morphology representation\ <{filename}/20170201-update-on-my-research-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__", 03/02/17
+	2, Sam Sutton, "`Improving the performance of spatial searching in BTMORPH: An investigation into the implementation of R-tree spatial indexing\ <{filename}/20170208-improving-the-performance-of-spatial-searching-in-btmorph-an-investigation-into-the-implementation-of-r-tree-spatial-indexing.rst>`__", 10/02/17
+	3, Deepak Panday, "`--\ <#>`__", 17/02/17
+	4, Ronak Bhavsar, "`--\ <#>`__", 24/02/17
+	5, Anuradha Sulane, "`--\ <#>`__", 03/03/17
+	6, Zaheed Mahmood, "`--\ <#>`__", 10/03/17
+	7, Michael Schmuker, "`--\ <#>`__", 17/03/17
+	8, Nathan Beka, "`--\ <#>`__", 24/03/17
+	9, Jean Petrić, "`--\ <#>`__", 31/03/17
+	10, Alex Hocking, "`--\ <#>`__", 07/04/17
+	11, Christoph Metzner, "`--\ <#>`__", 14/04/17
+	12, Anuradha Sulane, "`--\ <#>`__", 21/04/17
+	13, Edward Wakelam, "`--\ <#>`__", 28/04/17
+	14, Ankur Sinha, "`--\ <#>`__", 05/05/17
+	15, Volker Steuber, "`--\ <#>`__", 12/05/17
+	16, Paul Moggridge, "`--\ <#>`__", 19/05/17
+	17, Rene Boekhorst, "`--\ <#>`__", 26/05/17
+	18, Marco Craveiro, "`--\ <#>`__", 02/06/17
+	19, Julia Goncharenko, "`--\ <#>`__", 09/06/17
+	20, Weam Binjumah, "`--\ <#>`__", 16/06/17
+	21, Yi Sun, "`--\ <#>`__", 23/06/17
+	22, Maria Psarrou, "`--\ <#>`__", 30/06/17
+	23, Maria Schilstra, "`--\ <#>`__", 07/07/17
 

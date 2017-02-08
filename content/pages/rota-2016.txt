@@ -30,4 +30,3 @@
 	24, Edward Wakelam, "`Understanding how corporations align their strategies and objectives ensures career development ahead of people that don't\ <{filename}/20170112-understanding-how-corporations-align-their-strategies-and-objectives-ensures-career-development-ahead-of-people-that-dont.rst>`__", 13/01/17
 	25, Jean Petrić, "`Impact of code smells in test code\ <{filename}/20170118-impact-of-code-smells-in-test-code.rst>`__", 20/01/17
 	26, Maria Schilstra, "`Stochastic model of template-directed elongation processes in biology\ <{filename}/20170124-stochastic-model-of-template-directed-elongation-processes-in-biology.rst>`__", 27/01/17
-	27, Marco Craveiro, "`Update on my research: using watertight polygon meshes for neuronal morphology representation\ <{filename}/20170201-update-on-my-research-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__", 03/02/17
