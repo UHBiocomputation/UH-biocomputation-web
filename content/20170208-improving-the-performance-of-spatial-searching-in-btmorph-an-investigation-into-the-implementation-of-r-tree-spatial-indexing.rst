@@ -11,7 +11,8 @@ In order to improve BTMORPH’s spatial querying capabilities, an implementation
 
 - the precursory improvements to work flow
 - the implementation of forest structures that were a necessary to the addition of spatial indexing into BTMORPH
-- the effects on the R-tree of the parameter M, the method of node splitting during R-tree construction and finally
+- the effects on the R-tree of the parameter M
+- the method of node splitting during R-tree construction
 - the BTMORPH forest handling strategy
 
 All of which were used to produce a 400% reduction in average search time on a 130,000 node search.
