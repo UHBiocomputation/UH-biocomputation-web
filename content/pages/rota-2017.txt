@@ -6,7 +6,7 @@
 
 	1, Marco Craveiro, "`Update on my research: using watertight polygon meshes for neuronal morphology representation\ <{filename}/20170201-update-on-my-research-using-watertight-polygon-meshes-for-neuronal-morphology-representation.rst>`__", 03/02/17
 	2, Sam Sutton, "`Improving the performance of spatial searching in BTMORPH: An investigation into the implementation of R-tree spatial indexing\ <{filename}/20170208-improving-the-performance-of-spatial-searching-in-btmorph-an-investigation-into-the-implementation-of-r-tree-spatial-indexing.rst>`__", 10/02/17
-	3, Deepak Panday, "`--\ <#>`__", 17/02/17
+	3, Deepak Panday, "`Feature weighting as a tool for clustered based imputation model\ <{filename}/20170216-feature-weighting-as-a-tool-for-clustered-based-imputation-model.rst>`__", 17/02/17
 	4, Ronak Bhavsar, "`--\ <#>`__", 24/02/17
 	5, Anuradha Sulane, "`--\ <#>`__", 03/03/17
 	6, Zaheed Mahmood, "`--\ <#>`__", 10/03/17
