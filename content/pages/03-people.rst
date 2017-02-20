@@ -49,11 +49,6 @@ Core Faculty and Research Staff
 
 .. _Volker Steuber: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/volker-steuber(43b1e474-9894-40d4-8eed-470dd7a7f29e).html
 
-- `Benjamin Torben-Nielsen`_ |br|
-  Research Interests: dendritic morphology and computation
-
-.. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
-
 Research Fellows
 -----------------
 
@@ -252,6 +247,11 @@ Visiting Research Fellows
 
 Previous Group Members
 ----------------------
+
+- `Benjamin Torben-Nielsen`_ |br|
+  Research Interests: dendritic morphology and computation
+
+.. _Benjamin Torben-Nielsen: http://homepages.stca.herts.ac.uk/~bt15aat/
 
 - `Sylvia Beka`_ |br|
   Research Interests: bioinformatics
