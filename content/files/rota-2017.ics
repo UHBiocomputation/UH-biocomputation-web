@@ -27,7 +27,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ronak Bhavsar - --
+SUMMARY:Ankur Sinha - Multi-contact synapses for stable networks: a spike-
+ timing dependent model of dendritic spine plasticity and turnover
 DTSTART;TZID=Europe/London:20170224T160000
 DTEND;TZID=Europe/London:20170224T170000
 UID:2017-02-24T00:00:00-00:01
