@@ -20,4 +20,4 @@ notifications:
         on_success: always
         on_failure: always
         on_start: always
-
+    slack: uhbiocomputation:s6no6nPWj67Y0bntyZzwI9f0
