@@ -36,7 +36,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Anuradha Sulane - Detecting emotion of a person from their voice
 DTSTART;TZID=Europe/London:20170303T160000
 DTEND;TZID=Europe/London:20170303T170000
 UID:2017-03-03T00:00:00-00:01
