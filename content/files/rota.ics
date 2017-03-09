@@ -44,7 +44,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmuker - --
+SUMMARY:Michael Schmuker - Neuromorphic hardware - what is it\, why is eve
+ rybody talking about it\, and does it live up to the hype?
 DTSTART;TZID=Europe/London:20170310T160000
 DTEND;TZID=Europe/London:20170310T170000
 UID:2017-03-10T00:00:00-00:01
@@ -52,7 +53,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathan Beka - --
+SUMMARY:Jean Petrić - --
 DTSTART;TZID=Europe/London:20170317T160000
 DTEND;TZID=Europe/London:20170317T170000
 UID:2017-03-17T00:00:00-00:01
@@ -60,7 +61,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jean Petrić - --
+SUMMARY:Alex Hocking - --
 DTSTART;TZID=Europe/London:20170324T160000
 DTEND;TZID=Europe/London:20170324T170000
 UID:2017-03-24T00:00:00-00:01
@@ -68,7 +69,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Hocking - --
+SUMMARY:Christoph Metzner - --
 DTSTART;TZID=Europe/London:20170331T160000
 DTEND;TZID=Europe/London:20170331T170000
 UID:2017-03-31T00:00:00-00:01
@@ -76,7 +77,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20170407T160000
 DTEND;TZID=Europe/London:20170407T170000
 UID:2017-04-07T00:00:00-00:01
@@ -84,7 +85,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Ankur Sinha - --
 DTSTART;TZID=Europe/London:20170414T160000
 DTEND;TZID=Europe/London:20170414T170000
 UID:2017-04-14T00:00:00-00:01
@@ -92,7 +93,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Volker Steuber - --
 DTSTART;TZID=Europe/London:20170421T160000
 DTEND;TZID=Europe/London:20170421T170000
 UID:2017-04-21T00:00:00-00:01
@@ -100,7 +101,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Paul Moggridge - --
 DTSTART;TZID=Europe/London:20170428T160000
 DTEND;TZID=Europe/London:20170428T170000
 UID:2017-04-28T00:00:00-00:01
@@ -108,7 +109,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paul Moggridge - --
+SUMMARY:Rene Boekhorst - --
 DTSTART;TZID=Europe/London:20170505T160000
 DTEND;TZID=Europe/London:20170505T170000
 UID:2017-05-05T00:00:00-00:01
@@ -116,7 +117,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene Boekhorst - --
+SUMMARY:Marco Craveiro - --
 DTSTART;TZID=Europe/London:20170512T160000
 DTEND;TZID=Europe/London:20170512T170000
 UID:2017-05-12T00:00:00-00:01
@@ -124,7 +125,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20170519T160000
 DTEND;TZID=Europe/London:20170519T170000
 UID:2017-05-19T00:00:00-00:01
@@ -132,7 +133,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20170526T160000
 DTEND;TZID=Europe/London:20170526T170000
 UID:2017-05-26T00:00:00-00:01
@@ -140,7 +141,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20170602T160000
 DTEND;TZID=Europe/London:20170602T170000
 UID:2017-06-02T00:00:00-00:01
@@ -148,7 +149,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Maria Psarrou - --
 DTSTART;TZID=Europe/London:20170609T160000
 DTEND;TZID=Europe/London:20170609T170000
 UID:2017-06-09T00:00:00-00:01
@@ -156,7 +157,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Maria Schilstra - --
 DTSTART;TZID=Europe/London:20170616T160000
 DTEND;TZID=Europe/London:20170616T170000
 UID:2017-06-16T00:00:00-00:01
@@ -164,18 +165,10 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Schilstra - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20170623T160000
 DTEND;TZID=Europe/London:20170623T170000
 UID:2017-06-23T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
-DTSTART;TZID=Europe/London:20170630T160000
-DTEND;TZID=Europe/London:20170630T170000
-UID:2017-06-30T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT

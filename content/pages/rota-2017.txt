@@ -9,21 +9,20 @@
 	3, Deepak Panday, "`Feature weighting as a tool for clustered based imputation model\ <{filename}/20170216-feature-weighting-as-a-tool-for-clustered-based-imputation-model.rst>`__", 17/02/17
 	4, Ankur Sinha, "`Multi-contact synapses for stable networks: a spike-timing dependent model of dendritic spine plasticity and turnover\ <{filename}/20170220-multi-contact-synapses-for-stable-networks-a-spike-timing-dependent-model-of-dendritic-spine-plasticity-and-turnover.rst>`__", 24/02/17
 	5, Anuradha Sulane, "`Detecting emotion of a person from their voice\ <{filename}/20170302-detecting-emotion-of-a-person-from-their-voice.rst>`__", 03/03/17
-	6, Michael Schmuker, "`--\ <#>`__", 10/03/17
-	7, Nathan Beka, "`--\ <#>`__", 17/03/17
-	8, Jean Petrić, "`--\ <#>`__", 24/03/17
-	9, Alex Hocking, "`--\ <#>`__", 31/03/17
-	10, Christoph Metzner, "`--\ <#>`__", 07/04/17
-	11, Edward Wakelam, "`--\ <#>`__", 14/04/17
-	12, Ankur Sinha, "`--\ <#>`__", 21/04/17
-	13, Volker Steuber, "`--\ <#>`__", 28/04/17
-	14, Paul Moggridge, "`--\ <#>`__", 05/05/17
-	15, Rene Boekhorst, "`--\ <#>`__", 12/05/17
-	16, Marco Craveiro, "`--\ <#>`__", 19/05/17
-	17, Julia Goncharenko, "`--\ <#>`__", 26/05/17
-	18, Weam Binjumah, "`--\ <#>`__", 02/06/17
-	19, Yi Sun, "`--\ <#>`__", 09/06/17
-	20, Maria Psarrou, "`--\ <#>`__", 16/06/17
-	21, Maria Schilstra, "`--\ <#>`__", 23/06/17
-	22, Anuradha Sulane, "`--\ <#>`__", 30/06/17
+	6, Michael Schmuker, "`Neuromorphic hardware - what is it, why is everybody talking about it, and does it live up to the hype?\ <{filename}/20170309-neuromorphic-hardware-what-is-it-why-is-everybody-talking-about-it-and-does-it-live-up-to-the-hype-.rst>`__", 10/03/17
+	7, Jean Petrić, "`--\ <#>`__", 17/03/17
+	8, Alex Hocking, "`--\ <#>`__", 24/03/17
+	9, Christoph Metzner, "`--\ <#>`__", 31/03/17
+	10, Edward Wakelam, "`--\ <#>`__", 07/04/17
+	11, Ankur Sinha, "`--\ <#>`__", 14/04/17
+	12, Volker Steuber, "`--\ <#>`__", 21/04/17
+	13, Paul Moggridge, "`--\ <#>`__", 28/04/17
+	14, Rene Boekhorst, "`--\ <#>`__", 05/05/17
+	15, Marco Craveiro, "`--\ <#>`__", 12/05/17
+	16, Julia Goncharenko, "`--\ <#>`__", 19/05/17
+	17, Weam Binjumah, "`--\ <#>`__", 26/05/17
+	18, Yi Sun, "`--\ <#>`__", 02/06/17
+	19, Maria Psarrou, "`--\ <#>`__", 09/06/17
+	20, Maria Schilstra, "`--\ <#>`__", 16/06/17
+	21, Anuradha Sulane, "`--\ <#>`__", 23/06/17
 
