@@ -10,7 +10,7 @@
 	4, Ankur Sinha, "`Multi-contact synapses for stable networks: a spike-timing dependent model of dendritic spine plasticity and turnover\ <{filename}/20170220-multi-contact-synapses-for-stable-networks-a-spike-timing-dependent-model-of-dendritic-spine-plasticity-and-turnover.rst>`__", 24/02/17
 	5, Anuradha Sulane, "`Detecting emotion of a person from their voice\ <{filename}/20170302-detecting-emotion-of-a-person-from-their-voice.rst>`__", 03/03/17
 	6, Michael Schmuker, "`Neuromorphic hardware - what is it, why is everybody talking about it, and does it live up to the hype?\ <{filename}/20170309-neuromorphic-hardware-what-is-it-why-is-everybody-talking-about-it-and-does-it-live-up-to-the-hype-.rst>`__", 10/03/17
-	7, Jean Petrić, "`--\ <#>`__", 17/03/17
+	7, Jean Petrić, "`Reproducible research with Knitr\ <{filename}/20170315-reproducible-research-with-knitr.rst>`__", 17/03/17
 	8, Alex Hocking, "`--\ <#>`__", 24/03/17
 	9, Christoph Metzner, "`--\ <#>`__", 31/03/17
 	10, Edward Wakelam, "`--\ <#>`__", 07/04/17
