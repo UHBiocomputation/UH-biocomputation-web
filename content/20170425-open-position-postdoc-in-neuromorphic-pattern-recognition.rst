@@ -4,7 +4,7 @@ Open Position: Postdoc in neuromorphic pattern recognition
 :author: Michael Schmuker
 :category: Vacancies
 :tags: Human Brain Project, Machine learning, Neuromorphic hardware, Open Position, SpiNNaker, BrainScaleS, Postdoc
-:slug: postdoc-in-neuromorphic-pattern-recognition
+:slug: open-position-postdoc-in-neuromorphic-pattern-recognition
 :summary: Applications are invited for a postdoc position in the Biocomputation group, at the University of Hertfordshire, UK. The appointment is due to start as soon as possible. Please apply online via http://jobs.herts.ac.uk, vacancy reference 014592, until 22nd May, 2017 at the latest. More details within.
 
 Applications are invited for a postdoc position in the Biocomputation group at the `University of Hertfordshire <http://www.herts.ac.uk/>`__, UK. The appointment is due to start as soon as possible, with an initial fixed duration until 31st March 2018, with a possibility to extend, pending funding decisions.
