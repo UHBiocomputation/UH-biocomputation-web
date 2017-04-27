@@ -16,7 +16,7 @@
 	10, Edward Wakelam, "`Predictive analytics based student intervention\ <{filename}/20170404-predictive-analytics-based-student-intervention.rst>`__", 07/04/17
 	--, --, "`-- <#>`__", 14/04/17
 	--, --, "`-- <#>`__", 21/04/17
-	11, Ankur Sinha, "`--\ <#>`__", 28/04/17
+	11, Ankur Sinha, "`Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex\ <{filename}/20170427-loss-of-sensory-input-causes-rapid-structural-changes-of-inhibitory-neurons-in-adult-mouse-visual-cortex.rst>`__", 28/04/17
 	12, Volker Steuber, "`--\ <#>`__", 05/05/17
 	13, Paul Moggridge, "`--\ <#>`__", 12/05/17
 	14, Rene Boekhorst, "`--\ <#>`__", 19/05/17
