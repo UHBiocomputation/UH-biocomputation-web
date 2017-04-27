@@ -5,9 +5,9 @@ Loss of sensory input causes rapid structural changes of inhibitory neurons in a
 :category: Seminars
 :tags: Computational neuroscience, Homoeostasis, Network connectivity, Neuroscience,Structural plasticity,
 :slug: loss-of-sensory-input-causes-rapid-structural-changes-of-inhibitory-neurons-in-adult-mouse-visual-cortex
-:summary: Ankur Sinha's journal club session where he discusses the paper, "`Loss of sensory input causes reapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011))`_".
+:summary: Ankur Sinha's journal club session where he discusses the paper, "`Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011))`_".
 
-Ankur Sinha's journal club session where he discusses the paper, "`Loss of sensory input causes reapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011))`_".
+Ankur Sinha's journal club session where he discusses the paper, "`Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011))`_".
 
 ----
 
@@ -17,7 +17,7 @@ A fundamental property of neuronal circuits is the ability to adapt to altered s
 **Time:** 16:00 |br|
 **Location**: LB252
 
-.. _Loss of sensory input causes reapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011)): http://www.sciencedirect.com/science/article/pii/S0896627311005642
+.. _Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex (Keck et al. (2011)): http://www.sciencedirect.com/science/article/pii/S0896627311005642
 
 .. |br| raw:: html
 
