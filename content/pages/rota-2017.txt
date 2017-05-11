@@ -18,7 +18,7 @@
 	--, --, "`-- <#>`__", 21/04/17
 	11, Ankur Sinha, "`Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex\ <{filename}/20170427-loss-of-sensory-input-causes-rapid-structural-changes-of-inhibitory-neurons-in-adult-mouse-visual-cortex.rst>`__", 28/04/17
 	12, Paul Moggridge, "`--\ <#>`__", 05/05/17
-	13, Maria Psarrou, "`--\ <#>`__", 12/05/17
+	13, Maria Psarrou, "`An introduction to NEURON\ <{filename}/20170511-an-introduction-to-neuron.rst>`__", 12/05/17
 	14, Anuradha Sulane, "`--\ <#>`__", 19/05/17
 	15, Rene Boekhorst, "`--\ <#>`__", 26/05/17
 	16, Marco Craveiro, "`--\ <#>`__", 02/06/17

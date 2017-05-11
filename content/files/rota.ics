@@ -119,7 +119,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Maria Psarrou - An introduction to NEURON
 DTSTART;TZID=Europe/London:20170512T160000
 DTEND;TZID=Europe/London:20170512T170000
 UID:2017-05-12T00:00:00-00:01
