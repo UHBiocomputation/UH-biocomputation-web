@@ -68,7 +68,7 @@ LATEST_ARTICLE_ON_HOME_PAGE = True
 # Bibliography and publications
 MY_PUBLICATIONS_SRC = 'content/labpubs.bib'
 PUBLICATIONS_SAVE_AS = 'pages/04-publications.html'
-DIRECT_TEMPLATES = ['index', 'archives', 'categories', 'tags', 'publications']
+DIRECT_TEMPLATES = ['index', 'archives', 'categories', 'tags', 'publications', 'authors']
 
 # Need to do it manually to maintain an order
 DISPLAY_PAGES_ON_MENU = False
