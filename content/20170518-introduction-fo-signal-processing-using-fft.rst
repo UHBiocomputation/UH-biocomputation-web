@@ -11,7 +11,7 @@ A Fourier Transform takes a signal (usually acoustic or any sequence of data) an
 
 Why is it important?
 
-a) Source seperation
+a) Source separation
 b) Identifying emotions in voices.
 
 So it's important for me as I am researching in emotion detection from speech. 
