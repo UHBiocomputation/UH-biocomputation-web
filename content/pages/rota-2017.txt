@@ -19,7 +19,7 @@
 	11, Ankur Sinha, "`Loss of sensory input causes rapid structural changes of inhibitory neurons in adult mouse visual cortex\ <{filename}/20170427-loss-of-sensory-input-causes-rapid-structural-changes-of-inhibitory-neurons-in-adult-mouse-visual-cortex.rst>`__", 28/04/17
 	12, Paul Moggridge, "`--\ <#>`__", 05/05/17
 	13, Maria Psarrou, "`An introduction to NEURON\ <{filename}/20170511-an-introduction-to-neuron.rst>`__", 12/05/17
-	14, Anuradha Sulane, "`Introduction fo signal processing using FFT\ <{filename}/20170518-introduction-fo-signal-processing-using-fft.rst>`__", 19/05/17
+	14, Anuradha Sulane, "`Introduction to signal processing using FFT\ <{filename}/20170518-introduction-to-signal-processing-using-fft.rst>`__", 19/05/17
 	15, Rene Boekhorst, "`--\ <#>`__", 26/05/17
 	16, Marco Craveiro, "`--\ <#>`__", 02/06/17
 	17, Julia Goncharenko, "`--\ <#>`__", 09/06/17
