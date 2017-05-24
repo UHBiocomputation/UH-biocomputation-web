@@ -24,9 +24,10 @@
 	15, Cristina Barrero-Sicilia, "`--\ <#>`__", 02/06/17
 	16, Rene Boekhorst, "`--\ <#>`__", 09/06/17
 	17, Marco Craveiro, "`--\ <#>`__", 16/06/17
-	18, Julia Goncharenko, "`--\ <#>`__", 23/06/17
-	19, Weam Binjumah, "`--\ <#>`__", 30/06/17
-	20, Yi Sun, "`--\ <#>`__", 07/07/17
-	21, Volker Steuber, "`--\ <#>`__", 14/07/17
-	22, Maria Schilstra, "`--\ <#>`__", 21/07/17
+	18, Agnes Bonivart, "`--\ <#>`__", 23/06/17
+	19, Julia Goncharenko, "`--\ <#>`__", 30/06/17
+	20, Weam Binjumah, "`--\ <#>`__", 07/07/17
+	21, Yi Sun, "`--\ <#>`__", 14/07/17
+	22, Volker Steuber, "`--\ <#>`__", 21/07/17
+	23, Maria Schilstra, "`--\ <#>`__", 28/07/17
 
