@@ -135,7 +135,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene Boekhorst - Probability distributions for time durations
+SUMMARY:Rene te Boekhorst - Probability distributions for time durations
 DTSTART;TZID=Europe/London:20170526T160000
 DTEND;TZID=Europe/London:20170526T170000
 UID:2017-05-26T00:00:00-00:01

@@ -1,11 +1,11 @@
 Principal component analysis
 ############################
 :date: 2016-10-20 13:30:55
-:author: Rene Te Boekhorst
+:author: Rene te Boekhorst
 :category: Seminars
 :tags: PCA
 :slug: principal-component-analysis
-:summary: Rene Te Boekhorst's journal club session on Principal component analysis (PCA).
+:summary: Rene te Boekhorst's journal club session on Principal component analysis (PCA).
 
 
 Principle Component Analysis (PCA) is used by many but understood by few. 
