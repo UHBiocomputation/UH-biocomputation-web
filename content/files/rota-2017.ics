@@ -143,7 +143,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cristina Barrero-Sicilia - --
+SUMMARY:Cristina Barrero-Sicilia - Rapid gene isolation in barley and whea
+ t by mutant chromosome sequencing
 DTSTART;TZID=Europe/London:20170602T160000
 DTEND;TZID=Europe/London:20170602T170000
 UID:2017-06-02T00:00:00-00:01

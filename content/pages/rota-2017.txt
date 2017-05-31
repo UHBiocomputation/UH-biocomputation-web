@@ -21,7 +21,7 @@
 	13, Maria Psarrou, "`An introduction to NEURON\ <{filename}/20170511-an-introduction-to-neuron.rst>`__", 12/05/17
 	14, Anuradha Sulane, "`Introduction to signal processing using FFT\ <{filename}/20170518-introduction-to-signal-processing-using-fft.rst>`__", 19/05/17
 	15, Rene te Boekhorst, "`Probability distributions for time durations\ <{filename}/20170525-probability-distributions-for-time-durations.rst>`__", 26/05/17
-	16, Cristina Barrero-Sicilia, "`--\ <#>`__", 02/06/17
+	16, Cristina Barrero-Sicilia, "`Rapid gene isolation in barley and wheat by mutant chromosome sequencing\ <{filename}/20170531-rapid-gene-isolation-in-barley-and-wheat-by-mutant-chromosome-sequencing.rst>`__", 02/06/17
 	17, Marco Craveiro, "`--\ <#>`__", 09/06/17
 	18, Christoph Metzner, "`--\ <#>`__", 16/06/17
 	19, Agnes Bonivart, "`--\ <#>`__", 23/06/17
