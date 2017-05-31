@@ -5,7 +5,11 @@ Open Position: Lecturer/Senior Lecturer in Computer Science (Machine Learning/Bi
 :category: Vacancies
 :tags: Open position, Machine learning, Computational neuroscience
 :slug: open-position-lecturer-senior-lecturer-in-computer-science-machine-learning-biocomputation-1
-:summary: Applications are invited for a Lecturer or Senior Lecturer in the School of Computer Science, University of Hertfordshire. Applications should be made through http://www.herts.ac.uk/contact-us/jobs-and-vacancies/academic-vacancies (reference 014050) until the 18th of June 2017. More details within.
+:summary: Applications are invited for a Lecturer or Senior Lecturer in the School of Computer Science, University of Hertfordshire. Applications should be made through http://www.herts.ac.uk/contact-us/jobs-and-vacancies/academic-vacancies (reference 014050) until the 18th of June 2017. More details within. *This position has been filled.*
+
+This position has been filled.
+
+----
 
 Salary £32,004 to £48,327 per annum depending on qualifications and experience |br|
 Full time position working 37 hours per week (1.0 FTE) |br|
