@@ -1,7 +1,7 @@
 Analysing Hubble Space Telescope Images
 #######################################
 :date: 2015-09-04 16:00
-:author: Alexander Hocking
+:author: Alex Hocking
 :slug: 20150904-journal-club-alex
 :summary: Alex Hocking's journal club session discussing the analysis of Hubble Space Telescope Images.
 :category: Seminars
