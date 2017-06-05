@@ -152,7 +152,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Marco Craveiro - Model driven engineering: an emerging technical s
+ pace
 DTSTART;TZID=Europe/London:20170609T160000
 DTEND;TZID=Europe/London:20170609T170000
 UID:2017-06-09T00:00:00-00:01
