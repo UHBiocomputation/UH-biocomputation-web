@@ -67,18 +67,27 @@ Research Fellows
 
 .. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
 
-PhD Students
-------------
+Undergraduate Students
+----------------------
+
+- `Hünkar Can Tunç <#>`__ |br|
+  Research Interests: computational neuroscience, balanced asynchronous irregular networks
+
+Masters Students
+-----------------
+
+- `Rebecca Mico`_ |br|
+  Research Interests: computational neuroscience, olfaction
+
+.. _Rebecca Mico: #
 
 - `Anuradha Sulane`_ |br|
   Research Interests: machine learning, neural networks and audio recognition
 
 .. _Anuradha Sulane: #
 
-- `Parimala Alva`_ |br|
-  Research Interests: neuronal mechanisms of epileptic activity
-
-.. _Parimala Alva: #
+PhD Students
+------------
 
 - `Parivash Ashrafi`_ |br|
   Research Interests: machine learning and skin permeability of drugs
@@ -105,11 +114,6 @@ PhD Students
 
 .. _Julia Goncharenko: #
 
-- `Kirsty Kidd`_ |br|
-  Research Interests: evolutionary changes of neuronal morphologies
-
-.. _Kirsty Kidd: #
-
 - `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
 
@@ -119,11 +123,6 @@ PhD Students
   Research Interests: bioinformatics
 
 .. _Nathan Beka: #
-
-- `Alex Metaxas`_ |br|
-  Research Interests: associative memory
-
-.. _Alex Metaxas: #
 
 - `Ankur Sinha`_ |br|
   Research Interests: cortical reorganisation and memory performance after lesions
@@ -248,6 +247,16 @@ Visiting Research Fellows
 Previous Group Members
 ----------------------
 
+- `Kirsty Kidd`_ |br|
+  Research Interests: evolutionary changes of neuronal morphologies
+
+.. _Kirsty Kidd: #
+
+- `Parimala Alva`_ |br|
+  Research Interests: neuronal mechanisms of epileptic activity
+
+.. _Parimala Alva: #
+
 - `Benjamin Torben-Nielsen`_ |br|
   Research Interests: dendritic morphology and computation
 
@@ -262,6 +271,11 @@ Previous Group Members
   Research Interests: computations performed by cerebellar nucleus neurons
 
 .. _Dimitris Bampasakis: http://www.researchgate.net/profile/Dimitris_Bampasakis
+
+- `Alex Metaxas`_ |br|
+  Research Interests: associative memory
+
+.. _Alex Metaxas: #
 
 - `Ahmed Otman Abdelmotaleb (with University of Poznan)`_ |br|
   Research Interests: evolution of spiking neural networks
