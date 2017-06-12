@@ -76,10 +76,10 @@ Undergraduate Students
 Masters Students
 -----------------
 
-- `Rebecca Mico`_ |br|
+- `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, olfaction
 
-.. _Rebecca Mico: #
+.. _Rebecca Miko: #
 
 - `Anuradha Sulane`_ |br|
   Research Interests: machine learning, neural networks and audio recognition
