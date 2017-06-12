@@ -24,11 +24,9 @@
 	16, Cristina Barrero-Sicilia, "`Rapid gene isolation in barley and wheat by mutant chromosome sequencing\ <{filename}/20170531-rapid-gene-isolation-in-barley-and-wheat-by-mutant-chromosome-sequencing.rst>`__", 02/06/17
 	17, Marco Craveiro, "`Model driven engineering: an emerging technical space\ <{filename}/20170605-model-driven-engineering-an-emerging-technical-space.rst>`__", 09/06/17
 	18, Christoph Metzner, "`--\ <#>`__", 16/06/17
-	19, Agnes Bonivart, "`--\ <#>`__", 23/06/17
-	20, Andre-Daniel Robu, "`--\ <#>`__", 30/06/17
-	21, Julia Goncharenko, "`--\ <#>`__", 07/07/17
-	22, Weam Binjumah, "`--\ <#>`__", 14/07/17
-	23, Yi Sun, "`--\ <#>`__", 21/07/17
-	24, Volker Steuber, "`--\ <#>`__", 28/07/17
-	25, Maria Schilstra, "`--\ <#>`__", 04/08/17
+	19, Andre-Daniel Robu, "`--\ <#>`__", 23/06/17
+	20, Weam Binjumah, "`--\ <#>`__", 30/06/17
+	21, Yi Sun, "`--\ <#>`__", 07/07/17
+	22, Volker Steuber, "`--\ <#>`__", 14/07/17
+	23, Maria Schilstra, "`--\ <#>`__", 21/07/17
 
