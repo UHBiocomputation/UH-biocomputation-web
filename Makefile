@@ -75,6 +75,11 @@ rota:
 	mv rota*txt content/pages/ -v
 	
 	
+taglist:
+	grep -o -h '^:tags:.*' content/*rst  | sed 's/:tags: //' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$$/ d' | tr '\n' ',' | sed 's/,/, /g' | sed 's/,[[:space:]]*$$//'
+
+categorylist:
+	grep -o -h '^:category:.*' content/*rst  | sed 's/:category: //' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$$/ d' | tr '\n' ',' | sed 's/,/, /g' | sed 's/,[[:space:]]*$$//'
 
 html: rota
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
