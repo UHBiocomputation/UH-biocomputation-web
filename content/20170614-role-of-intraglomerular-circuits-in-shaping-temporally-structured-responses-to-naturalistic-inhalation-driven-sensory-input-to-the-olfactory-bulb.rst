@@ -33,7 +33,7 @@ circuits in a naturalistic context and provide a framework for further
 explorations of signal processing by OB networks.
 
 
-**Date:** 16/06/2017 |br|
+**Date:** 23/06/2017 |br|
 **Time:** 16:00 |br|
 **Location**: LB252
 

@@ -161,9 +161,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - Role of intraglomerular circuits in shaping te
- mporally structured responses to naturalistic inhalation-driven sensory in
- put to the olfactory bulb
+SUMMARY:-- - --
 DTSTART;TZID=Europe/London:20170616T160000
 DTEND;TZID=Europe/London:20170616T170000
 UID:2017-06-16T00:00:00-00:01
@@ -171,7 +169,9 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andre-Daniel Robu - --
+SUMMARY:Christoph Metzner - Role of intraglomerular circuits in shaping te
+ mporally structured responses to naturalistic inhalation-driven sensory in
+ put to the olfactory bulb
 DTSTART;TZID=Europe/London:20170623T160000
 DTEND;TZID=Europe/London:20170623T170000
 UID:2017-06-23T00:00:00-00:01
@@ -179,7 +179,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Andre-Daniel Robu - --
 DTSTART;TZID=Europe/London:20170630T160000
 DTEND;TZID=Europe/London:20170630T170000
 UID:2017-06-30T00:00:00-00:01
@@ -187,7 +187,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20170707T160000
 DTEND;TZID=Europe/London:20170707T170000
 UID:2017-07-07T00:00:00-00:01
@@ -195,7 +195,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20170714T160000
 DTEND;TZID=Europe/London:20170714T170000
 UID:2017-07-14T00:00:00-00:01
@@ -203,10 +203,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Schilstra - --
+SUMMARY:Volker Steuber - --
 DTSTART;TZID=Europe/London:20170721T160000
 DTEND;TZID=Europe/London:20170721T170000
 UID:2017-07-21T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Schilstra - --
+DTSTART;TZID=Europe/London:20170728T160000
+DTEND;TZID=Europe/London:20170728T170000
+UID:2017-07-28T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT

@@ -23,10 +23,11 @@
 	15, Rene te Boekhorst, "`Probability distributions for time durations\ <{filename}/20170525-probability-distributions-for-time-durations.rst>`__", 26/05/17
 	16, Cristina Barrero-Sicilia, "`Rapid gene isolation in barley and wheat by mutant chromosome sequencing\ <{filename}/20170531-rapid-gene-isolation-in-barley-and-wheat-by-mutant-chromosome-sequencing.rst>`__", 02/06/17
 	17, Marco Craveiro, "`Model driven engineering: an emerging technical space\ <{filename}/20170605-model-driven-engineering-an-emerging-technical-space.rst>`__", 09/06/17
-	18, Christoph Metzner, "`Role of intraglomerular circuits in shaping temporally structured responses to naturalistic inhalation-driven sensory input to the olfactory bulb\ <{filename}/20170614-role-of-intraglomerular-circuits-in-shaping-temporally-structured-responses-to-naturalistic-inhalation-driven-sensory-input-to-the-olfactory-bulb.rst>`__", 16/06/17
-	19, Andre-Daniel Robu, "`--\ <#>`__", 23/06/17
-	20, Weam Binjumah, "`--\ <#>`__", 30/06/17
-	21, Yi Sun, "`--\ <#>`__", 07/07/17
-	22, Volker Steuber, "`--\ <#>`__", 14/07/17
-	23, Maria Schilstra, "`--\ <#>`__", 21/07/17
+	--, --, "`-- <#>`__", 16/06/17
+	18, Christoph Metzner, "`Role of intraglomerular circuits in shaping temporally structured responses to naturalistic inhalation-driven sensory input to the olfactory bulb\ <{filename}/20170614-role-of-intraglomerular-circuits-in-shaping-temporally-structured-responses-to-naturalistic-inhalation-driven-sensory-input-to-the-olfactory-bulb.rst>`__", 23/06/17
+	19, Andre-Daniel Robu, "`--\ <#>`__", 30/06/17
+	20, Weam Binjumah, "`--\ <#>`__", 07/07/17
+	21, Yi Sun, "`--\ <#>`__", 14/07/17
+	22, Volker Steuber, "`--\ <#>`__", 21/07/17
+	23, Maria Schilstra, "`--\ <#>`__", 28/07/17
 
