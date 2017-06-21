@@ -24,8 +24,8 @@
 	16, Cristina Barrero-Sicilia, "`Rapid gene isolation in barley and wheat by mutant chromosome sequencing\ <{filename}/20170531-rapid-gene-isolation-in-barley-and-wheat-by-mutant-chromosome-sequencing.rst>`__", 02/06/17
 	17, Marco Craveiro, "`Model driven engineering: an emerging technical space\ <{filename}/20170605-model-driven-engineering-an-emerging-technical-space.rst>`__", 09/06/17
 	--, --, "`-- <#>`__", 16/06/17
-	18, Christoph Metzner, "`Role of intraglomerular circuits in shaping temporally structured responses to naturalistic inhalation-driven sensory input to the olfactory bulb\ <{filename}/20170614-role-of-intraglomerular-circuits-in-shaping-temporally-structured-responses-to-naturalistic-inhalation-driven-sensory-input-to-the-olfactory-bulb.rst>`__", 23/06/17
-	19, Andre-Daniel Robu, "`--\ <#>`__", 30/06/17
+	18, Andre-Daniel Robu, "`Time as it could be measured in artificial living systems\ <{filename}/20170621-time-as-it-could-be-measured-in-artificial-living-systems.rst>`__", 23/06/17
+	19, Christoph Metzner, "`Role of intraglomerular circuits in shaping temporally structured responses to naturalistic inhalation-driven sensory input to the olfactory bulb\ <{filename}/20170614-role-of-intraglomerular-circuits-in-shaping-temporally-structured-responses-to-naturalistic-inhalation-driven-sensory-input-to-the-olfactory-bulb.rst>`__", 30/06/17
 	20, Weam Binjumah, "`--\ <#>`__", 07/07/17
 	21, Yi Sun, "`--\ <#>`__", 14/07/17
 	22, Volker Steuber, "`--\ <#>`__", 21/07/17
