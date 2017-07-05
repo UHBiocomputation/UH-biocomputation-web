@@ -188,7 +188,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Michael Schmuker - Opportunities and challenges in the Human Brain
+  Project
 DTSTART;TZID=Europe/London:20170707T160000
 DTEND;TZID=Europe/London:20170707T170000
 UID:2017-07-07T00:00:00-00:01
@@ -196,7 +197,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Ronak Bhavsar - --
 DTSTART;TZID=Europe/London:20170714T160000
 DTEND;TZID=Europe/London:20170714T170000
 UID:2017-07-14T00:00:00-00:01
