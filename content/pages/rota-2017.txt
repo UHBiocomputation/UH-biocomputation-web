@@ -27,7 +27,5 @@
 	18, Andre-Daniel Robu, "`Time as it could be measured in artificial living systems\ <{filename}/20170621-time-as-it-could-be-measured-in-artificial-living-systems.rst>`__", 23/06/17
 	19, Christoph Metzner, "`Role of intraglomerular circuits in shaping temporally structured responses to naturalistic inhalation-driven sensory input to the olfactory bulb\ <{filename}/20170614-role-of-intraglomerular-circuits-in-shaping-temporally-structured-responses-to-naturalistic-inhalation-driven-sensory-input-to-the-olfactory-bulb.rst>`__", 30/06/17
 	20, Michael Schmuker, "`Opportunities and challenges in the Human Brain Project\ <{filename}/20170705-opportunities-and-challenges-in-the-human-brain-project.rst>`__", 07/07/17
-	21, Ronak Bhavsar, "`--\ <#>`__", 14/07/17
-	22, Volker Steuber, "`--\ <#>`__", 21/07/17
-	23, Maria Schilstra, "`--\ <#>`__", 28/07/17
+	21, Ronak Bhavsar, "`The Correlation between EEG Signals as Measured in Different Positions on Scalp Varying with Distance\ <{filename}/20170713-the-correlation-between-eeg-signals-as-measured-in-different-positions-on-scalp-varying-with-distance.rst>`__", 14/07/17
 

@@ -22,7 +22,7 @@ platform.
 
 [1] https://www.humanbrainproject.eu/en/
 
-**Date:** 05/07/2017 |br|
+**Date:** 07/07/2017 |br|
 **Time:** 16:00 |br|
 **Location**: LB252
 
