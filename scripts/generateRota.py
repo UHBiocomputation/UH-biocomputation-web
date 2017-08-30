@@ -47,21 +47,27 @@ class generateRota:
         # print("A week is: {}".format(self.a_week))
         self.tz = pytz.timezone("Europe/London")
         # The date this rota starts at
-        self.start_date = date(2017, 2, 1)
+        self.start_date = date(2017, 9, 1)
         # print("A week after current is: {}".format(self.start_date +
         #                                            self.a_week))
         self.year = 2017
         # 4 in the afternoon
-        self.rota_time_start = 16
+        self.rota_time_start = 17
         self.rota_time_end = 17
         self.the_time_start = timedelta(hours=self.rota_time_start)
         self.the_time_end = timedelta(hours=self.rota_time_end)
         self.rota_location = ("LB252, University of Hertfordshire, " +
                               "College Lane, Hatfield, UK, AL10 9AB")
         # since it'll be run using the makefile
+        """ 
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
         self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)
+        """
+
+        self.rota_data_file = "scripts/rota-data-{}b.csv".format(self.year)
+        self.rota_rst = "rota-{}b.txt".format(self.year)
+        self.rota_ical = "rota-{}b.ics".format(self.year)
 
         # this is the data dictionary
         # name, title, rst blog post filename, date if available
