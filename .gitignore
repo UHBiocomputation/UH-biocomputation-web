@@ -6,3 +6,5 @@ cache
 *.swp
 scripts/*.txt
 scripts/*.ics
+
+.*lock*
