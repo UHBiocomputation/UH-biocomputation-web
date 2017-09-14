@@ -6,7 +6,7 @@
 
 	1, Sam Sutton, "`Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks\ <{filename}/20170830-inhibitory-plasticity-balances-excitation-and-inhibition-in-sensory-pathways-and-memory-networks.rst>`__", 01/09/17
 	2, Ankur Sinha, "`Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons\ <{filename}/20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst>`__", 08/09/17
-	3, Volker Steuber, "`--\ <#>`__", 15/09/17
+	3, Volker Steuber, "`Compartmental modelling of neurons and the Hodgkin-Huxley formalism\ <{filename}/20170914-compartmental-modelling-of-neurons-and-the-hodgkin-huxley-formalism.rst>`__", 15/09/17
 	4, Christoph Metzner, "`--\ <#>`__", 22/09/17
 	5, Anuradha Sulane, "`--\ <#>`__", 29/09/17
 	6, Julia Goncharenko, "`--\ <#>`__", 06/10/17
