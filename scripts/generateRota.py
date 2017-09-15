@@ -52,14 +52,14 @@ class generateRota:
         #                                            self.a_week))
         self.year = 2017
         # 4 in the afternoon
-        self.rota_time_start = 17
+        self.rota_time_start = 16
         self.rota_time_end = 17
         self.the_time_start = timedelta(hours=self.rota_time_start)
         self.the_time_end = timedelta(hours=self.rota_time_end)
         self.rota_location = ("LB252, University of Hertfordshire, " +
                               "College Lane, Hatfield, UK, AL10 9AB")
         # since it'll be run using the makefile
-        """ 
+        """
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
         self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)

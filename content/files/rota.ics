@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Sam Sutton - Inhibitory plasticity balances excitation and inhibit
  ion in sensory pathways and memory networks
-DTSTART;TZID=Europe/London:20170901T170000
+DTSTART;TZID=Europe/London:20170901T160000
 DTEND;TZID=Europe/London:20170901T170000
 UID:2017-09-01T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Ankur Sinha - Associative properties of structural plasticity base
  d on firing rate homeostasis in a balanced recurrent network of spiking ne
  urons
-DTSTART;TZID=Europe/London:20170908T170000
+DTSTART;TZID=Europe/London:20170908T160000
 DTEND;TZID=Europe/London:20170908T170000
 UID:2017-09-08T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volker Steuber - Compartmental modelling of neurons and the Hodgki
  n-Huxley formalism
-DTSTART;TZID=Europe/London:20170915T170000
+DTSTART;TZID=Europe/London:20170915T160000
 DTEND;TZID=Europe/London:20170915T170000
 UID:2017-09-15T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -29,7 +29,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christoph Metzner - --
-DTSTART;TZID=Europe/London:20170922T170000
+DTSTART;TZID=Europe/London:20170922T160000
 DTEND;TZID=Europe/London:20170922T170000
 UID:2017-09-22T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -37,7 +37,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anuradha Sulane - --
-DTSTART;TZID=Europe/London:20170929T170000
+DTSTART;TZID=Europe/London:20170929T160000
 DTEND;TZID=Europe/London:20170929T170000
 UID:2017-09-29T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -45,7 +45,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Julia Goncharenko - --
-DTSTART;TZID=Europe/London:20171006T170000
+DTSTART;TZID=Europe/London:20171006T160000
 DTEND;TZID=Europe/London:20171006T170000
 UID:2017-10-06T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -53,7 +53,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harsha Ramachandran - --
-DTSTART;TZID=Europe/London:20171013T170000
+DTSTART;TZID=Europe/London:20171013T160000
 DTEND;TZID=Europe/London:20171013T170000
 UID:2017-10-13T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -61,7 +61,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebecca Miko - --
-DTSTART;TZID=Europe/London:20171020T170000
+DTSTART;TZID=Europe/London:20171020T160000
 DTEND;TZID=Europe/London:20171020T170000
 UID:2017-10-20T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -69,7 +69,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Schmuker - --
-DTSTART;TZID=Europe/London:20171027T170000
+DTSTART;TZID=Europe/London:20171027T160000
 DTEND;TZID=Europe/London:20171027T170000
 UID:2017-10-27T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -77,7 +77,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alex Hocking - --
-DTSTART;TZID=Europe/London:20171103T170000
+DTSTART;TZID=Europe/London:20171103T160000
 DTEND;TZID=Europe/London:20171103T170000
 UID:2017-11-03T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -85,7 +85,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edward Wakelam - --
-DTSTART;TZID=Europe/London:20171110T170000
+DTSTART;TZID=Europe/London:20171110T160000
 DTEND;TZID=Europe/London:20171110T170000
 UID:2017-11-10T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -93,7 +93,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deepak Panday - --
-DTSTART;TZID=Europe/London:20171117T170000
+DTSTART;TZID=Europe/London:20171117T160000
 DTEND;TZID=Europe/London:20171117T170000
 UID:2017-11-17T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -101,7 +101,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nathan Beka - --
-DTSTART;TZID=Europe/London:20171124T170000
+DTSTART;TZID=Europe/London:20171124T160000
 DTEND;TZID=Europe/London:20171124T170000
 UID:2017-11-24T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -109,7 +109,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marco Craveiro - --
-DTSTART;TZID=Europe/London:20171201T170000
+DTSTART;TZID=Europe/London:20171201T160000
 DTEND;TZID=Europe/London:20171201T170000
 UID:2017-12-01T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -117,7 +117,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yi Sun - --
-DTSTART;TZID=Europe/London:20171208T170000
+DTSTART;TZID=Europe/London:20171208T160000
 DTEND;TZID=Europe/London:20171208T170000
 UID:2017-12-08T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
@@ -125,7 +125,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jean Petric - --
-DTSTART;TZID=Europe/London:20171215T170000
+DTSTART;TZID=Europe/London:20171215T160000
 DTEND;TZID=Europe/London:20171215T170000
 UID:2017-12-15T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
