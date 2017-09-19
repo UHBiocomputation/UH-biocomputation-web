@@ -8,3 +8,6 @@ scripts/*.txt
 scripts/*.ics
 
 .*lock*
+
+tags
+tags.*
