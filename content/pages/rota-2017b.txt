@@ -10,15 +10,16 @@
 	4, Rene te Boekhorst, "`Agent-based modelling in NetLogo\ <#>`__", 22/09/17
 	5, ---, "`--\ <#>`__", 29/09/17
 	6, ---, "`--\ <#>`__", 06/10/17
-	7, Rebecca Miko, "`--\ <#>`__", 13/10/17
-	8, Alex Hocking, "`--\ <#>`__", 20/10/17
-	9, Edward Wakelam, "`--\ <#>`__", 27/10/17
-	10, Deepak Panday, "`--\ <#>`__", 03/11/17
-	11, Nathan Beka, "`--\ <#>`__", 10/11/17
-	12, Marco Craveiro, "`--\ <#>`__", 17/11/17
-	13, Yi Sun, "`--\ <#>`__", 24/11/17
-	14, Jean Petric, "`--\ <#>`__", 01/12/17
-	15, Anuradha Sulane, "`--\ <#>`__", 08/12/17
-	16, Julia Goncharenko, "`--\ <#>`__", 15/12/17
-	17, Harsha Ramachandran, "`--\ <#>`__", 22/12/17
+	7, Marco Ortu, "`Measuring Effectiveness and Affectiveness in Software Systems\ <{filename}/20171011-measuring-effectiveness-and-affectiveness-in-software-systems.rst>`__", 13/10/17
+	8, Rebecca Miko, "`How the Olfactory Bulb processes naturalistic time-varying inputs\ <{filename}/20171011-how-the-olfactory-bulb-processes-naturalistic-time-varying-inputs.rst>`__", 20/10/17
+	9, Alex Hocking, "`--\ <#>`__", 27/10/17
+	10, Edward Wakelam, "`--\ <#>`__", 03/11/17
+	11, Deepak Panday, "`--\ <#>`__", 10/11/17
+	12, Nathan Beka, "`--\ <#>`__", 17/11/17
+	13, Marco Craveiro, "`--\ <#>`__", 24/11/17
+	14, Yi Sun, "`--\ <#>`__", 01/12/17
+	15, Jean Petric, "`--\ <#>`__", 08/12/17
+	16, Anuradha Sulane, "`--\ <#>`__", 15/12/17
+	17, Julia Goncharenko, "`--\ <#>`__", 22/12/17
+	18, Harsha Ramachandran, "`--\ <#>`__", 29/12/17
 
