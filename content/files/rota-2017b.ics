@@ -52,6 +52,14 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jean Petric - How Good are my Software Tests?
+DTSTART;TZID=Europe/London:20171011T130000
+DTEND;TZID=Europe/London:20171011T140000
+UID:2017-10-11T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rebecca Miko - --
 DTSTART;TZID=Europe/London:20171013T160000
 DTEND;TZID=Europe/London:20171013T170000
@@ -60,12 +68,32 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Katie Bentley (University of Uppsala\, Sweden & Boston University\
+ , USA) - Simulation of Adaptive Cell Behaviour: Vascular networks as Tempo
+ ral Patterns
+DTSTART;TZID=Europe/London:20171018T130000
+DTEND;TZID=Europe/London:20171018T140000
+UID:2017-10-18T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alex Hocking - --
 DTSTART;TZID=Europe/London:20171020T160000
 DTEND;TZID=Europe/London:20171020T170000
 UID:2017-10-20T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christopher K. McClernon (Lt. Col. United States Air Force) - Airp
+ lanes\, Robots\, and Stress -- Behavioral Science Research in the U.S. Air
+  Force
+DTSTART;TZID=Europe/London:20171025T130000
+DTEND;TZID=Europe/London:20171025T140000
+UID:2017-10-25T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edward Wakelam - --
