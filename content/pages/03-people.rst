@@ -76,11 +76,6 @@ Undergraduate Students
 Masters Students
 -----------------
 
-- `Rebecca Miko`_ |br|
-  Research Interests: computational neuroscience, olfaction
-
-.. _Rebecca Miko: #
-
 - `Anuradha Sulane`_ |br|
   Research Interests: machine learning, neural networks and audio recognition
 
@@ -88,6 +83,11 @@ Masters Students
 
 PhD Students
 ------------
+
+- `Rebecca Miko`_ |br|
+  Research Interests: computational neuroscience, olfaction
+
+.. _Rebecca Miko: #
 
 - `Parivash Ashrafi`_ |br|
   Research Interests: machine learning and skin permeability of drugs
