@@ -67,12 +67,6 @@ Research Fellows
 
 .. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
 
-Undergraduate Students
-----------------------
-
-- `Hünkar Can Tunç <#>`__ |br|
-  Research Interests: computational neuroscience, balanced asynchronous irregular networks
-
 Masters Students
 -----------------
 
@@ -246,6 +240,9 @@ Visiting Research Fellows
 
 Previous Group Members
 ----------------------
+
+- `Hünkar Can Tunç <#>`__ |br|
+  Research Interests: computational neuroscience, balanced asynchronous irregular networks
 
 - `Kirsty Kidd`_ |br|
   Research Interests: evolutionary changes of neuronal morphologies
