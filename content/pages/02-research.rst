@@ -14,16 +14,6 @@ Research in `Computational Neuroscience <#>`__ (led by Dr. Steuber, in collabora
 
 |
 
-In addition to the general interest in computational neuroscience, the `Dendritic Morphology and Computation <http://dendrites.club>`__ team (led by Dr. Torben-Nielsen, in collaboration with Dr Steuber and Dr Davey) investigates the influence of neuronal structure on healthy and pathological brain function. Two broad research questions are addressed. Firstly, how can we quantify and model morphological diversity and variance in healthy and pathological neurons? Secondly, how are computations implemented by the complex and beautiful neuronal dendritic structures? In order to constrain the hypotheses and models, the team collaborates extensively with experimental and theoretical groups worldwide.
-
-.. image:: {filename}/images/figures_core_12_8.png
-    :width: 500px
-    :target: {filename}/images/figures_core_12_8.png
-    :align: center
-    :alt: figures_core_12_8
-
-|
-
 Research in `Computational Systems Biology <#>`__ is led by Dr. Schilstra (in collaboration with Dr. Steuber and Prof Nehaniv) and involves the development of visualization and mixed-mode stochastic simulation tools for biochemical reaction networks. Current and potential applications of these tools include basic medical research such as studying the effect of anti-cancer drugs, and the visualization of biological processes for education purposes (in collaboration with the School of Creative Arts at UH).
 
 .. image:: {filename}/images/MoreBoB.png
