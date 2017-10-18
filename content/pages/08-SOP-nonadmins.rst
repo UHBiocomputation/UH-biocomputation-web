@@ -15,7 +15,7 @@ This purpose of this page is to aid non admin users request updates to the UHBio
 
 - They are backed up.
 - Any errors can be easily rolled back.
-- They are easily accessible to anyyou that may need to modify them.
+- They are easily accessible to anyone that may need to modify them.
 - Non administrators that would like to make modifications can make them without the admins having to actively do all the work.
  
 Since Pelican is written in Python, it can be installed on all operating systems. It is easiest on Linux where it can generally be installed using the distribution's package manager:
@@ -25,7 +25,7 @@ Since Pelican is written in Python, it can be installed on all operating systems
     $ sudo dnf install python-pelican #On Fedora
     $ sudo apt-get install pelican #On Ubuntu variants
 
-If it isn't available on your platform, it can be installed using the pip utility:
+If it isn't available on one's platform, it can be installed using the pip utility:
 
 .. code:: bash
 
@@ -47,7 +47,7 @@ Git can also be installed on Windows and Mac systems using the `installers avail
 .. _installers available here: https://git-scm.com/downloads
 .. _other graphical clients available for install too: https://git-scm.com/downloads/guis
 
-The sources are plain text files which can be either written in markdown_ or `restructured text`_ using yous favourite text editor on yous favourite operating system. 
+The sources are plain text files which can be either written in markdown_ or `restructured text`_ using one's favourite text editor on one's favourite operating system. 
 
 There are three simple steps required to make updates to the website:
 
@@ -60,13 +60,13 @@ The admins will then review the pull request, merge it and republish the website
 Fork the sources and make the changes
 -------------------------------------
 
-Since non admins do not have write access to the repository, they must fork the repository on Github before proceeding. One must be signed in to Github to fork a repository. Once signed in, you can navigate to the repository they intend to fork and click on the fork button in the top right corner as shown in the image below:
+Since non admins do not have write access to the repository, they must fork the repository on Github before proceeding. One must be signed in to Github to fork a repository. Once signed in, one can navigate to the repository they intend to fork and click on the fork button in the top right corner as shown in the image below:
 
 .. image:: {filename}/images/github-fork.png
     :target: {filename}/images/github-fork.png
     :alt: fork a repository
 
-Once the fork is complete, you will have a copy of the repository under your username, as shown in the image below:
+Once the fork is complete, one will have a copy of the repository under one's username, as shown in the image below:
 
 .. image:: {filename}/images/github-fork-complete.png
     :target: {filename}/images/github-fork-complete.png
@@ -79,18 +79,18 @@ To make changes, this forked copy of the repository must be cloned. The reposito
 
     $ git clone --recursive git@github.com:USERNAME/UH-biocomputation-web.git #replace username with your username
 
-The recursive flag is required so that you also clone the pelican-plugins submodule.
-If you have already forked the repository earlier, you should make sure it is in sync with the main repository since the main repository may have changed since the original fork was made:
+The recursive flag is required so that one also clone the pelican-plugins submodule.
+If one has already forked the repository earlier, one should make sure it is in sync with the main repository since the main repository may have changed since the original fork was made:
 
 .. code:: bash
 
-    $ cd ~/website #wherever your clone resides
+    $ cd ~/website #wherever the clone resides
     $ git remote add upstream git@github.com:UHBiocomputation/UH-biocomputation-web.git #Add the main repository as a remote
     $ git pull upstream master #Pull changes from the main repository
-    $ git push origin master #Update your fork
+    $ git push origin master #Update the fork
     $ git checkout -b mynewbranch #Use a different branch so that the master branch remains clean
 
-**Note:** A shortcut is to delete your old fork and fork the repository again - fresh forks are always up to date.
+**Note:** A shortcut is to delete the old fork and fork the repository again - fresh forks are always up to date.
 
 The directory structure of the sources is as follows:
 
@@ -110,11 +110,11 @@ The directory structure of the sources is as follows:
 
 - **All the source files are stored in the content directory**. Posts in Pelican are divided into two categories: blogs and static pages. All the pages in the site header are static pages. These reside in content/pages. The posts that make up the "news" section are blog posts and go straight in the content directory. Various images and files that are linked to in either pages or posts go into their respective folders.
 - **The generated output files go in the output directory**. The contents of this directory are then uploaded to our hosting webspace and constitute the actual website.
-- **The pelican-theme-gum directory holds the theme template and css files for the site**. Again, unless tinkering with the theme, you need not touch this directory at all.
-- The pelican-plugins directory is a git repository in itself. Most of the time, you will not deal with this directory at all. We only use the tag_cloud plugin. The commands mentioned enough will correctly clone this directory.
+- **The pelican-theme-gum directory holds the theme template and css files for the site**. Again, unless tinkering with the theme, one need not touch this directory at all.
+- The pelican-plugins directory is a git repository in itself. Most of the time, one will not deal with this directory at all. We only use the tag_cloud plugin. The commands mentioned enough will correctly clone this directory.
 
-Once you've cloned the repository, make your changes and save them.
-**Note**: Changes can be made to files using the Github web interface also. However, to run Pelican and preview changes, you have to download the sources anyway.
+Once one has cloned the repository, they make changes and save them.
+**Note**: Changes can be made to files using the Github web interface also. However, to run Pelican and preview changes, the sources must be downloaded anyway.
 
 Preview, confirm and commit
 ----------------------------
@@ -135,7 +135,7 @@ If this command completes without errors, preview the website:
 
     $ make serve 
 
-This sets up a local server that serves the website at `localhost\:8000`_ so that you can preview your changes. To stop this server, hit Ctrl + C. If everything is OK, you can commit your changes:
+This sets up a local server that serves the website at `localhost\:8000`_ so that the changes can be previewed. To stop this server, hit Ctrl + C. If everything is OK, the changes can be committed:
 
 .. code:: bash
 
@@ -146,24 +146,25 @@ This sets up a local server that serves the website at `localhost\:8000`_ so tha
 Open a pull request on Github.
 ------------------------------
 
-Once you've pushed to your repository, go to the main repository. Github will detect that you have an extra commit in your repository and ask you if you want to open a pull request, as shown in the image below:
+Once the changes have been pushed to one's fork, navigate to the main repository. Github will detect that the fork has extra commits and ask if pull request needs to be opened, as shown in the image below:
 
 .. image:: {filename}/images/github-detect-push.png
     :target: {filename}/images/github-detect-push.png
-    :alt: Github asks if you want to open a pull request.
+    :alt: Github asks to open a pull request.
 
 |
 |
 
-When you click on the button, it'll take you to the next page where you provide details on your pull request:
+When the button is clicked, it'll navigate to the next page where details on
+the pull request can be provided:
 
 .. image:: {filename}/images/github-open-pull-request.png
     :target: {filename}/images/github-open-pull-request.png
     :alt: Open a pull request.
 
-Here, as expected, the main repository is the **base fork**, while your personal fork is the **head fork**. At the bottom of the page, which is not shown in the image above, it will also show you what changes you've made. Please ensure that the "Able to merge" message appears here - if it does not, please contact one of the admins - you haven't forked correctly or your fork was not up to date - and merging would result in a conflict.
+Here, as expected, the main repository is the **base fork**, while one's personal fork is the **head fork**. At the bottom of the page, which is not shown in the image above, it will also show what changes have been made. Please ensure that the "Able to merge" message appears here - if it does not, please contact one of the admins - merging would result in a conflict.
 
-If you are satisfied with the request, click the "**Open pull request**" button. That's all! An admin will review it and merge the request if it's OK.
+When satisfied with the request, click the "**Open pull request**" button. That's all! An admin will review it and merge the request if it's OK.
 
 .. _markdown: http://daringfireball.net/projects/markdown/
 .. _restructured text: http://docutils.sourceforge.net/docs/user/rst/quickref.html
