@@ -78,10 +78,8 @@ Masters Students
 PhD Students
 ------------
 
-- `Rebecca Miko`_ |br|
-  Research Interests: computational neuroscience, olfaction
-
-.. _Rebecca Miko: #
+- `Rebecca Miko <https://uk.linkedin.com/in/rebecca-miko>`__ |br|
+  Research Interests: computational neuroscience, robotics and olfaction
 
 - `Parivash Ashrafi`_ |br|
   Research Interests: machine learning and skin permeability of drugs
