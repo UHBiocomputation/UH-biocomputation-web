@@ -78,8 +78,8 @@ Masters Students
 PhD Students
 ------------
 
-- `Rebecca Miko`_ |br|
-  Research Interests: computational neuroscience, olfaction
+- `Rebecca Miko <https://uk.linkedin.com/in/rebecca-miko>`__ |br|
+  Research Interests: computational neuroscience, robotics and olfaction
 
 .. _Rebecca Miko: #
 
