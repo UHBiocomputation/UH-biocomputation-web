@@ -113,9 +113,9 @@ UID:2017-10-27T00:00:00-00:01
 LOCATION:https://neuinfo.org/about/UpcomingWebinars
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dr. Andrew Philippides (Centre for Computational Neuroscience and 
- Robotics\, University of Sussex) - Visual Navigation with a Tiny Brain: Ge
- tting Home Without Knowing Where You Are
+SUMMARY:Prof. Thomas Nowotny (University of Sussex) - Biophysical model of
+  the olfactory system of honey bees predicts qualitatively different respo
+ nses to mixtures
 DTSTART;TZID=Europe/London:20171101T130000
 DTEND;TZID=Europe/London:20171101T140000
 UID:2017-11-01T00:00:00-00:01
@@ -131,6 +131,16 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Catherine Menon (School of Computer Science\, University of He
+ rtfordshire) - Safety-Critical Systems Development and Safety Case Constru
+ ction 
+DTSTART;TZID=Europe/London:20171108T130000
+DTEND;TZID=Europe/London:20171108T140000
+UID:2017-11-08T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Neil Davey - --
 DTSTART;TZID=Europe/London:20171110T160000
 DTEND;TZID=Europe/London:20171110T170000
@@ -139,12 +149,32 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Giuseppe Destefanis (School of Computer Science\, University o
+ f Hertfordshire) - An Introduction to Blockchain as a Disruptive Technolog
+ y
+DTSTART;TZID=Europe/London:20171115T130000
+DTEND;TZID=Europe/London:20171115T140000
+UID:2017-11-15T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alex Hocking - --
 DTSTART;TZID=Europe/London:20171117T160000
 DTEND;TZID=Europe/London:20171117T170000
 UID:2017-11-17T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Andrew Philippides (Centre for Computational Neuroscience and 
+ Robotics\, University of Sussex) - Visual Navigation with a Tiny Brain: Ge
+ tting Home Without Knowing Where You Are
+DTSTART;TZID=Europe/London:20171122T130000
+DTEND;TZID=Europe/London:20171122T140000
+UID:2017-11-22T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edward Wakelam - --
