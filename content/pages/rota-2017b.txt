@@ -12,15 +12,16 @@
 	6, ---, "`--\ <#>`__", 06/10/17
 	7, Marco Ortu, "`Measuring Effectiveness and Affectiveness in Software Systems\ <{filename}/20171011-measuring-effectiveness-and-affectiveness-in-software-systems.rst>`__", 13/10/17
 	8, Rebecca Miko, "`How the Olfactory Bulb processes naturalistic time-varying inputs\ <{filename}/20171011-how-the-olfactory-bulb-processes-naturalistic-time-varying-inputs.rst>`__", 20/10/17
-	9, Anuradha Sulane, "`--\ <#>`__", 27/10/17
-	10, Julia Goncharenko, "`--\ <#>`__", 03/11/17
-	11, Neil Davey, "`--\ <#>`__", 10/11/17
-	12, Alex Hocking, "`--\ <#>`__", 17/11/17
-	13, Edward Wakelam, "`--\ <#>`__", 24/11/17
-	14, Deepak Panday, "`--\ <#>`__", 01/12/17
-	15, Nathan Beka, "`--\ <#>`__", 08/12/17
-	16, Marco Craveiro, "`--\ <#>`__", 15/12/17
-	17, Yi Sun, "`--\ <#>`__", 22/12/17
-	18, Jean Petric, "`--\ <#>`__", 29/12/17
-	19, Harsha Ramachandran, "`--\ <#>`__", 05/01/18
+	9, ---, "`--\ <#>`__", 27/10/17
+	10, Neil Davey, "`Network Connectivity\ <{filename}/20171102-network-connectivity-b.rst>`__", 03/11/17
+	11, Julia Goncharenko, "`--\ <#>`__", 10/11/17
+	12, Anuradha Sulane, "`--\ <#>`__", 17/11/17
+	13, Ankur Sinha, "`--\ <#>`__", 24/11/17
+	14, Edward Wakelam, "`--\ <#>`__", 01/12/17
+	15, Deepak Panday, "`--\ <#>`__", 08/12/17
+	16, Nathan Beka, "`--\ <#>`__", 15/12/17
+	17, Marco Craveiro, "`--\ <#>`__", 22/12/17
+	18, Yi Sun, "`--\ <#>`__", 29/12/17
+	19, Jean Petric, "`--\ <#>`__", 05/01/18
+	20, Alex Hocking, "`--\ <#>`__", 12/01/18
 
