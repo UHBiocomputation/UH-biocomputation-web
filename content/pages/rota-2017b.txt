@@ -14,8 +14,8 @@
 	8, Rebecca Miko, "`How the Olfactory Bulb processes naturalistic time-varying inputs\ <{filename}/20171011-how-the-olfactory-bulb-processes-naturalistic-time-varying-inputs.rst>`__", 20/10/17
 	9, ---, "`--\ <#>`__", 27/10/17
 	10, Neil Davey, "`Network Connectivity\ <{filename}/20171102-network-connectivity-b.rst>`__", 03/11/17
-	11, Julia Goncharenko, "`--\ <#>`__", 10/11/17
-	12, Anuradha Sulane, "`--\ <#>`__", 17/11/17
+	11, Anuradha Sulane, "`Human Speech Spectrum, Frequency Range\ <{filename}/20171109-human-speech-spectrum-frequency-range-formants.rst>`__", 10/11/17
+	12, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model\ <{filename}/20171109-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model.rst>`__", 17/11/17
 	13, Ankur Sinha, "`--\ <#>`__", 24/11/17
 	14, Edward Wakelam, "`--\ <#>`__", 01/12/17
 	15, Deepak Panday, "`--\ <#>`__", 08/12/17
