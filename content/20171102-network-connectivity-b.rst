@@ -2,7 +2,7 @@ Network Connectivity
 ####################
 :date: 2017-11-02 11:04:41
 :author: Neil Davey 
-:catergory: Seminars
+:category: Seminars
 :tags: Network connectivity, Graph theory
 :slug: network-connectivity-b
 :summary: Neil Davey's journal club session on Network Connectivity.
