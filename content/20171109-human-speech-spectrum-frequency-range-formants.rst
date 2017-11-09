@@ -2,10 +2,9 @@ Human Speech Spectrum, Frequency Range, Formants
 ################################################
 :date: 2017-11-09 18:42:20
 :author: Anuradha Sulane 
-:category: 
+:category: Seminars 
 :tags: 
 :slug: human-speech-spectrum-frequency-range-formants
-:status: draft
 :summary: Anuradha's talk on the Human Speech Spectrum, Frequency Range and Formants. 
 
 This talk is based on the article " Human Speech Spectrum, Frequency Range, Formants" by Bernd Noack; Research Director CNRS (Centre Nationnal de la Recherche Scientifique), LIMSI-CNRS, France.
