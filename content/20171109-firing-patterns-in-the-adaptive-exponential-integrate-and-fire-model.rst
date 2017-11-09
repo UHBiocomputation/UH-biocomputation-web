@@ -5,7 +5,7 @@ Firing patterns in the adaptive exponential integrate-and-fire model
 :category: Seminars
 :tags: Simplified single-neuron models, Firing patterns
 :slug: firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model
-:summary: Julia will be presenting the paper 'Firing patterns in the adaptive exponential integrate-and-fire model' by Gerstner et al. (2008).
+:summary: Julia will be presenting the paper 'Firing patterns in the adaptive exponential integrate-and-fire model' by Naud et al. (2008).
 
 Julia will present the paper by Gerstner et al (2008) 'Firing patterns in the AdEx IF model'.
 
