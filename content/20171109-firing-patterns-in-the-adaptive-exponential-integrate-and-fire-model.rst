@@ -7,7 +7,7 @@ Firing patterns in the adaptive exponential integrate-and-fire model
 :slug: firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model
 :summary: Julia will be presenting the paper 'Firing patterns in the adaptive exponential integrate-and-fire model' by Naud et al. (2008).
 
-Julia will present the paper by Gerstner et al (2008) 'Firing patterns in the AdEx IF model'.
+Julia will present the paper by Naud et al (2008) 'Firing patterns in the AdEx IF model'.
 
 In the article the authors explore the adaptive exponential integrate-and-fire model as a good tool to simulate large-scale spiking neuron networks.
 They show that the AdEx model generates multiple firing patterns in response to the parameter values.
