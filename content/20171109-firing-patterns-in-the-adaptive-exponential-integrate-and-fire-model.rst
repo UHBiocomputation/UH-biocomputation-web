@@ -1,6 +1,6 @@
 Firing patterns in the adaptive exponential integrate-and-fire model
 ####################################################################
-:date: 2017-11-09 19:20:58
+:date: 2017-11-15 21:53:58
 :author: Julia Goncharenko
 :category: Seminars
 :tags: Simplified single-neuron models, Firing patterns
