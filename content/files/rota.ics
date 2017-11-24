@@ -178,7 +178,8 @@ LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Julia Goncharenko - Firing patterns in the adaptive exponential in
+ tegrate-and-fire model - Continued
 DTSTART;TZID=Europe/London:20171124T160000
 DTEND;TZID=Europe/London:20171124T170000
 UID:2017-11-24T00:00:00-00:01
@@ -186,7 +187,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Ankur Sinha - --
 DTSTART;TZID=Europe/London:20171201T160000
 DTEND;TZID=Europe/London:20171201T170000
 UID:2017-12-01T00:00:00-00:01
@@ -194,7 +195,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20171208T160000
 DTEND;TZID=Europe/London:20171208T170000
 UID:2017-12-08T00:00:00-00:01
@@ -202,7 +203,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathan Beka - --
+SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20171215T160000
 DTEND;TZID=Europe/London:20171215T170000
 UID:2017-12-15T00:00:00-00:01
@@ -210,7 +211,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20171222T160000
 DTEND;TZID=Europe/London:20171222T170000
 UID:2017-12-22T00:00:00-00:01
@@ -218,7 +219,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Nathan Beka - --
 DTSTART;TZID=Europe/London:20171229T160000
 DTEND;TZID=Europe/London:20171229T170000
 UID:2017-12-29T00:00:00-00:01
@@ -226,7 +227,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jean Petric - --
+SUMMARY:Marco Craveiro - --
 DTSTART;TZID=Europe/London:20180105T160000
 DTEND;TZID=Europe/London:20180105T170000
 UID:2018-01-05T00:00:00-00:01
@@ -234,10 +235,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Hocking - --
+SUMMARY:Jean Petric - --
 DTSTART;TZID=Europe/London:20180112T160000
 DTEND;TZID=Europe/London:20180112T170000
 UID:2018-01-12T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex Hocking - --
+DTSTART;TZID=Europe/London:20180119T160000
+DTEND;TZID=Europe/London:20180119T170000
+UID:2018-01-19T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
