@@ -17,12 +17,13 @@
 	11, Anuradha Sulane, "`Human Speech Spectrum, Frequency Range\ <{filename}/20171109-human-speech-spectrum-frequency-range-formants.rst>`__", 10/11/17
 	12, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model\ <{filename}/20171109-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model.rst>`__", 17/11/17
 	13, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model - Continued\ <{filename}/20171124-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model-continued.rst>`__", 24/11/17
-	14, Ankur Sinha, "`--\ <#>`__", 01/12/17
-	15, Edward Wakelam, "`--\ <#>`__", 08/12/17
-	16, Yi Sun, "`--\ <#>`__", 15/12/17
-	17, Deepak Panday, "`--\ <#>`__", 22/12/17
-	18, Nathan Beka, "`--\ <#>`__", 29/12/17
-	19, Marco Craveiro, "`--\ <#>`__", 05/01/18
-	20, Jean Petric, "`--\ <#>`__", 12/01/18
-	21, Alex Hocking, "`--\ <#>`__", 19/01/18
+	14, Philip Lucas, "`The science of variable stars and transient sources\ <{filename}/20171130-the-science-of-variable-stars-and-transient-sources.rst>`__", 01/12/17
+	15, Ankur Sinha, "`--\ <#>`__", 08/12/17
+	16, Edward Wakelam, "`--\ <#>`__", 15/12/17
+	17, Yi Sun, "`--\ <#>`__", 22/12/17
+	18, Deepak Panday, "`--\ <#>`__", 29/12/17
+	19, Nathan Beka, "`--\ <#>`__", 05/01/18
+	20, Marco Craveiro, "`--\ <#>`__", 12/01/18
+	21, Jean Petric, "`--\ <#>`__", 19/01/18
+	22, Alex Hocking, "`--\ <#>`__", 26/01/18
 
