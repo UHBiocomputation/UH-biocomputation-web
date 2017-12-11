@@ -232,11 +232,15 @@ class generateRota:
             current_date = rota_date + self.a_week
 
             all_skipped.append(rota_date)
-            logging.debug("Added to rota: {}".format(
-                [name, talk_title, title_blog, rota_date, start_time, end_time,
-                 location, to_post]))
-            self.all_events.append((name, talk_title, title_blog, rota_date,
-                                    start_time, end_time, location, to_post))
+            if name == "---":
+                logging.debug("Skipping session on {}".format(rota_date))
+            else:
+                logging.debug("Added to rota: {}".format(
+                    [name, talk_title, title_blog, rota_date, start_time,
+                     end_time, location, to_post]))
+                self.all_events.append((name, talk_title, title_blog,
+                                        rota_date, start_time, end_time,
+                                        location, to_post))
 
         # fill up the ad-hoc sessions
         for data in self.additional_sessions:
