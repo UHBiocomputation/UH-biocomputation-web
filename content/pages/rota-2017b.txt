@@ -8,22 +8,18 @@
 	2, Ankur Sinha, "`Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons\ <{filename}/20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst>`__", 08/09/17
 	3, Volker Steuber, "`Compartmental modelling of neurons and the Hodgkin-Huxley formalism\ <{filename}/20170914-compartmental-modelling-of-neurons-and-the-hodgkin-huxley-formalism.rst>`__", 15/09/17
 	4, Rene te Boekhorst, "`Agent-based modelling in NetLogo\ <#>`__", 22/09/17
-	5, ---, "`--\ <#>`__", 29/09/17
-	6, ---, "`--\ <#>`__", 06/10/17
-	7, Marco Ortu, "`Measuring Effectiveness and Affectiveness in Software Systems\ <{filename}/20171011-measuring-effectiveness-and-affectiveness-in-software-systems.rst>`__", 13/10/17
-	8, Rebecca Miko, "`How the Olfactory Bulb processes naturalistic time-varying inputs\ <{filename}/20171011-how-the-olfactory-bulb-processes-naturalistic-time-varying-inputs.rst>`__", 20/10/17
-	9, ---, "`--\ <#>`__", 27/10/17
-	10, Neil Davey, "`Network Connectivity\ <{filename}/20171102-network-connectivity-b.rst>`__", 03/11/17
-	11, Anuradha Sulane, "`Human Speech Spectrum, Frequency Range\ <{filename}/20171109-human-speech-spectrum-frequency-range-formants.rst>`__", 10/11/17
-	12, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model\ <{filename}/20171109-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model.rst>`__", 17/11/17
-	13, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model - Continued\ <{filename}/20171124-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model-continued.rst>`__", 24/11/17
-	14, Philip Lucas, "`The Science of Variable Stars and Transient Sources\ <{filename}/20171130-the-science-of-variable-stars-and-transient-sources.rst>`__", 01/12/17
-	15, Ankur Sinha, "`--\ <#>`__", 08/12/17
-	16, Edward Wakelam, "`--\ <#>`__", 15/12/17
-	17, Yi Sun, "`--\ <#>`__", 22/12/17
-	18, Deepak Panday, "`--\ <#>`__", 29/12/17
-	19, Nathan Beka, "`--\ <#>`__", 05/01/18
-	20, Marco Craveiro, "`--\ <#>`__", 12/01/18
-	21, Jean Petric, "`--\ <#>`__", 19/01/18
-	22, Alex Hocking, "`--\ <#>`__", 26/01/18
+	5, Marco Ortu, "`Measuring Effectiveness and Affectiveness in Software Systems\ <{filename}/20171011-measuring-effectiveness-and-affectiveness-in-software-systems.rst>`__", 13/10/17
+	6, Rebecca Miko, "`How the Olfactory Bulb processes naturalistic time-varying inputs\ <{filename}/20171011-how-the-olfactory-bulb-processes-naturalistic-time-varying-inputs.rst>`__", 20/10/17
+	7, Neil Davey, "`Network Connectivity\ <{filename}/20171102-network-connectivity-b.rst>`__", 03/11/17
+	8, Anuradha Sulane, "`Human Speech Spectrum, Frequency Range\ <{filename}/20171109-human-speech-spectrum-frequency-range-formants.rst>`__", 10/11/17
+	9, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model\ <{filename}/20171109-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model.rst>`__", 17/11/17
+	10, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model - Continued\ <{filename}/20171124-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model-continued.rst>`__", 24/11/17
+	11, Philip Lucas, "`The Science of Variable Stars and Transient Sources\ <{filename}/20171130-the-science-of-variable-stars-and-transient-sources.rst>`__", 01/12/17
+	12, Edward Wakelam, "`--\ <#>`__", 15/12/17
+	13, Yi Sun, "`--\ <#>`__", 22/12/17
+	14, Deepak Panday, "`--\ <#>`__", 29/12/17
+	15, Nathan Beka, "`--\ <#>`__", 05/01/18
+	16, Marco Craveiro, "`--\ <#>`__", 12/01/18
+	17, Jean Petric, "`--\ <#>`__", 19/01/18
+	18, Alex Hocking, "`--\ <#>`__", 26/01/18
 

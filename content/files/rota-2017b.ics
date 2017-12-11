@@ -36,22 +36,6 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:--- - --
-DTSTART;TZID=Europe/London:20170929T160000
-DTEND;TZID=Europe/London:20170929T170000
-UID:2017-09-29T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:--- - --
-DTSTART;TZID=Europe/London:20171006T160000
-DTEND;TZID=Europe/London:20171006T170000
-UID:2017-10-06T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jean Petric - How Good are my Software Tests?
 DTSTART;TZID=Europe/London:20171011T130000
 DTEND;TZID=Europe/London:20171011T140000
@@ -96,14 +80,6 @@ DTEND;TZID=Europe/London:20171025T140000
 UID:2017-10-25T00:00:00-00:01
 LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:--- - --
-DTSTART;TZID=Europe/London:20171027T160000
-DTEND;TZID=Europe/London:20171027T170000
-UID:2017-10-27T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dr. Sharon Crook - NeuroML
@@ -195,12 +171,23 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
-DTSTART;TZID=Europe/London:20171208T160000
-DTEND;TZID=Europe/London:20171208T170000
-UID:2017-12-08T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
+SUMMARY:Dr. Patrick Holthaus (Adaptive Systems Research Group\, School of 
+ Computer Science\, University of Hertfordshire) - The Cognitive Service Ro
+ botics Apartment - Interaction Concepts
+DTSTART;TZID=Europe/London:20171206T130000
+DTEND;TZID=Europe/London:20171206T140000
+UID:2017-12-06T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Marc de Kamps (School of Computing\, University of Leeds) - Po
+ pulation Density Techniques: A Visual Way of Modelling Neural Circuits
+DTSTART;TZID=Europe/London:20171213T130000
+DTEND;TZID=Europe/London:20171213T140000
+UID:2017-12-13T00:00:00-00:01
+LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edward Wakelam - --
