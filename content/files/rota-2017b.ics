@@ -190,7 +190,8 @@ LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Yi Sun - Feature Selection Modelling for Percutaneous Absorption a
+ cross Synthetic Membranes
 DTSTART;TZID=Europe/London:20171215T160000
 DTEND;TZID=Europe/London:20171215T170000
 UID:2017-12-15T00:00:00-00:01
@@ -198,7 +199,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20171222T160000
 DTEND;TZID=Europe/London:20171222T170000
 UID:2017-12-22T00:00:00-00:01

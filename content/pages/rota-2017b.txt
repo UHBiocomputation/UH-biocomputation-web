@@ -15,8 +15,8 @@
 	9, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model\ <{filename}/20171109-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model.rst>`__", 17/11/17
 	10, Julia Goncharenko, "`Firing patterns in the adaptive exponential integrate-and-fire model - Continued\ <{filename}/20171124-firing-patterns-in-the-adaptive-exponential-integrate-and-fire-model-continued.rst>`__", 24/11/17
 	11, Philip Lucas, "`The Science of Variable Stars and Transient Sources\ <{filename}/20171130-the-science-of-variable-stars-and-transient-sources.rst>`__", 01/12/17
-	12, Edward Wakelam, "`--\ <#>`__", 15/12/17
-	13, Yi Sun, "`--\ <#>`__", 22/12/17
+	12, Yi Sun, "`Feature Selection Modelling for Percutaneous Absorption across Synthetic Membranes\ <{filename}/20171212-feature-selection-modelling-for-percutaneous-absorption-across-synthetic-membranes.rst>`__", 15/12/17
+	13, Edward Wakelam, "`--\ <#>`__", 22/12/17
 	14, Deepak Panday, "`--\ <#>`__", 29/12/17
 	15, Nathan Beka, "`--\ <#>`__", 05/01/18
 	16, Marco Craveiro, "`--\ <#>`__", 12/01/18
