@@ -4,3 +4,5 @@ pybtex
 Pygments
 feedgenerator
 bs4
+BeautifulSoup4
+pytz
