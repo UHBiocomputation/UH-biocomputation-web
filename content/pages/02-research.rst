@@ -14,6 +14,8 @@ Research in `Computational Neuroscience <#>`__ (led by Dr. Steuber, in collabora
 
 |
 
+Research in `Brain-inspired Data Science and Neuromorphic Computing <http://biomachinelearning.net>`_ (led by Dr Schmuker, in collaboration with Dr Steuber) translates processes from Neuroscience to Computing, aiming to push the envelope in our Data Science efforts. We develop new algorithms for data analysis on Neuromorphic Hardware, i.e. silicon chips tailor-made to operate in a brain-like fashion, based on a non-von-Neumann architecture. In designing those algorithms we take inspiration from biological neuronal networks involved in sensory computation in order to exploit this radically new way of computing. We apply these techniques alongside conventional Machine Learning approaches for data analysis for life science, Olfaction and Chemical sensing, and combine them with robotics applications within the emerging research field of Neurorobotics.
+
 Research in `Computational Systems Biology <#>`__ is led by Dr. Schilstra (in collaboration with Dr. Steuber and Prof Nehaniv) and involves the development of visualization and mixed-mode stochastic simulation tools for biochemical reaction networks. Current and potential applications of these tools include basic medical research such as studying the effect of anti-cancer drugs, and the visualization of biological processes for education purposes (in collaboration with the School of Creative Arts at UH).
 
 .. image:: {filename}/images/MoreBoB.png
