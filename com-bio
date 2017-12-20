@@ -1,0 +1,32 @@
+From sam Thu Dec 14 17:22:50 2017
+Date: Thu, 14 Dec 2017 17:22:50 +0000
+From: Admin <someone at herts.ac.uk>
+To: com-bio@herts.ac.uk
+Subject: [Journal club] - Yi Sun - Feature Selection Modelling for
+ Percutaneous Absorption across Synthetic Membranes - 1600 Friday 15
+ December 2017 in LB252
+Message-ID: <5a32b36a.1dkctkFO1NZA3/K6%someone@herts.ac.uk>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Yi Sun will present at the journal club this 1600 Friday 15 December 2017 in LB252.
+
+Title and abstract of the talk is below:
+Feature Selection Modelling for Percutaneous Absorption across Synthetic Membranes
+
+----------------------------------------
+Yi will be discussing feature selection modelling for percutaneous absorption across Synthetic membranes
+
+Abstract is below:
+
+-------
+
+Predicting the rate of percutaneous absorption across mammalian and artificial membranes is a complex problem.
+Different machine learning models have been used in previous studies, and results show that Gaussian processes  provided the best result, based on a range of statistical measures.
+In the current study, a dataset of synthetic (Polydimethylsiloxane, PDMS) membranes, containing so many descriptors, is considered.
+One of the main purposes of the study is to use feature selection methods to select a set of molecular properties that exert the most important influence on percutaneous absorption across PDMS membranes, in the hope that this will better inform studies on human skin.
+
