@@ -68,9 +68,9 @@ Research Fellows
 .. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
 
 - `Damien Drix`_ |br|
-  Research Interests: Neuromorphic engineering
+  Research Interests: neuroscience, dendritic computation, neuromorphic hardware
 
-.. _Damien Drix: #
+.. _Damien Drix: https://scholar.google.co.uk/citations?user=y5LqFCQAAAAJ&hl=en
 
 - `Cosme Llerena`_ |br|
   Research Interests: signal processing, data analysis, sound applications, machine learning
