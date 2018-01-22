@@ -68,7 +68,7 @@ class generateRota:
         # The date this rota starts at
         self.start_date = date(2017, 9, 1)
         # defaults
-        self.year = 2017
+        self.year = 2018
         self.rota_time_start = 16
         self.rota_time_end = 17
         # default location
@@ -76,9 +76,9 @@ class generateRota:
                               "College Lane, Hatfield, UK, AL10 9AB")
 
         # Update these to change the source csv and the output files
-        self.rota_data_file = "scripts/rota-data-{}b.csv".format(self.year)
-        self.rota_rst = "rota-{}b.txt".format(self.year)
-        self.rota_ical = "rota-{}b.ics".format(self.year)
+        self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
+        self.rota_rst = "rota-{}.txt".format(self.year)
+        self.rota_ical = "rota-{}.ics".format(self.year)
 
         # this is the data dictionary we populate
         self.rota_data = []
