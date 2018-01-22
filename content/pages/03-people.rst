@@ -81,11 +81,6 @@ PhD Students
 - `Rebecca Miko <https://uk.linkedin.com/in/rebecca-miko>`__ |br|
   Research Interests: computational neuroscience, robotics and olfaction
 
-- `Parivash Ashrafi`_ |br|
-  Research Interests: machine learning and skin permeability of drugs
-
-.. _Parivash Ashrafi: #
-
 - `Ronak Bhavsar`_ |br|
   Research Interests: machine learning and EEG analysis
 
@@ -238,6 +233,11 @@ Visiting Research Fellows
 
 Previous Group Members
 ----------------------
+
+- `Parivash Ashrafi`_ |br|
+  Research Interests: machine learning and skin permeability of drugs
+
+.. _Parivash Ashrafi: #
 
 - `Hünkar Can Tunç <#>`__ |br|
   Research Interests: computational neuroscience, balanced asynchronous irregular networks
