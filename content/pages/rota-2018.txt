@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Cosme Llerena, "`--\ <#>`__", 26/01/18
+	1, Cosme Llerena, "`Blind Source Separation and Machine Learning Applications\ <#>`__", 26/01/18
 	2, Volker Steuber, "`--\ <#>`__", 02/02/18
 	3, Rebecca Miko, "`--\ <#>`__", 09/02/18
 	4, Ankur Sinha, "`--\ <#>`__", 16/02/18

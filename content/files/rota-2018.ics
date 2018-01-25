@@ -9,7 +9,8 @@ LOCATION:C408\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cosme Llerena - --
+SUMMARY:Cosme Llerena - Blind Source Separation and Machine Learning Appli
+ cations
 DTSTART;TZID=Europe/London:20180126T160000
 DTEND;TZID=Europe/London:20180126T170000
 UID:2018-01-26T00:00:00-00:01
