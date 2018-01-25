@@ -17,25 +17,29 @@ This purpose of this page is to document the steps required to update the UHBioc
 - Any errors can be easily rolled back.
 - They are easily accessible to anyyou that may need to modify them.
 - Non administrators that would like to make modifications can make them without the admins having to actively do all the work.
- 
-Since Pelican is written in Python, it can be installed on all operating systems. It is easiest on Linux where it can generally be installed using the distribution's package manager:
+
+Since Pelican is written in Python, it can be installed on all operating systems. The recommended method is to use a Python virtual environment.
 
 .. code:: bash
 
-    $ sudo dnf install python-pelican #On Fedora
-    $ sudo apt-get install pelican #On Ubuntu variants
+    # change pelican-virt to wherever you want to set up the folder
+    $ virtualenv -p /usr/bin/python3 pelican-virt #on Ubuntu
+    $ virtual-3 pelican-virt #on Fedora
 
-If it isn't available on your platform, it can be installed using the pip utility:
+One can then install pelican and the other requirements in this virtual
+environment.
 
 .. code:: bash
 
-    $ pip install pelican #If unavailable using the package manager
+    $ source pelican-virt/bin/activate #activate the virtual environment
+    $ pip install pelican icalendar pybtex Pygments feedgenerator bs4 BeautifulSoup4 pytz
+    $ deactivate #deactivate the virtual environment
 
 `More information on installing Pelican can be found here`_.
 
 .. _More information on installing Pelican can be found here: http://docs.getpelican.com/en/3.1.1/getting_started.html
 
-You will also need Git installed to get the sources. On Linux variants, Git is available using the default package managers.
+Git is required to get the sources. On Linux variants, Git is available using the default package managers.
 
 .. code:: bash
 
@@ -86,7 +90,7 @@ The directory structure of the sources is as follows:
 
 .. code:: bash
 
-    [asinha@ankur  UH-biocomputation-web(master %=)]$ tree -d -L 2
+    [asinha@ankur  UH-biocomputation-web]$ tree -d -L 2
     .
     ├── content
     │   ├── files
@@ -106,7 +110,65 @@ The directory structure of the sources is as follows:
 Once you've cloned the repository, make your changes and save them.
 **Note**: Changes can be made to files using the Github web interface also. However, to run pelican, preview changes, and then generate the final website, you have to download the sources anyway.
 
-Preview, confirm and commit
+Adding a new post
+==================
+
+The Makefile includes a helper command to create a new post for the website:
+
+.. code:: bash
+
+    make newpost NAME="Title of post" EDITOR="name of editor one uses: gvim, gedit"
+
+This generates a new template file in the :code:`content` folder that can be
+modified. If the :code:`EDITOR` environment variable is defined, it will also
+open this template file in the specified editor:
+
+.. code:: bash
+
+    $ make newpost NAME="A test post" EDITOR="gedit"
+    ... messsages regarding setting up new template post ...
+    gvim -v /home/asinha/Documents/02_Code/00_repos/01_others/UHBiocomputation/UH-biocomputation-web/content/20180125-a-test-post.rst
+
+When the post has been completed, one can save it, and preview-publish as
+documented below.
+
+Updating the journal club rota
+================================
+
+The rota is mangaged using a CSV file in the :code:`scripts` folder. The
+current file is :code:`rota-2018.csv`. Each line in this file represents an
+entry that must be added to the ical file and the seminar page
+:code:`05-seminars.rst`. The seminar page is set up to source the generated
+rota page. The Makefile takes care of generating the rota and ical files, and
+copying them to the required locations. One only needs to modify the CSV file
+in the :code:`scripts` folder.
+
+
+.. code:: text
+
+    Name of presenter,"Title of talk","Location of rst post in contents folder",Date of event(YYYY-MM-DD),Start time in 24h format,End time in 24h format,Location(0 represents default, LB252),Whether or not this entry should be added to the seminars page: 1 = Yes, 2 = No
+
+An example:
+
+.. code:: text
+
+    Ankur Sinha,Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons,20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst,2017-09-08,1600,1700,0,1
+
+If an entry should be added to the ical file, but not to the seminar page, for
+example, a colloquium talk that will not have a corresponding abstract
+published on the website and should not be listed on the website seminar list,
+one can set the last field to 0.
+
+Once updated, the ical files and updated rota for the website can be generated
+using:
+
+.. code:: bash
+
+    make rota
+
+Note that :code:`make html` is set up to run :code:`make rota` already.
+
+Preview, confirm, and commit
 ----------------------------
 
 The Pelican Makefile has the commands required to preview and publish the website.
@@ -123,7 +185,7 @@ If this command completes without errors, preview the website:
 
 .. code:: bash
 
-    $ make serve 
+    $ make serve
 
 This sets up a local server that serves the website at `localhost\:8000`_ so that you can preview your changes. To stop this server, hit Ctrl + C. If everything is OK, you can commit your changes:
 
