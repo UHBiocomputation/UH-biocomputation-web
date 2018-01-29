@@ -18,9 +18,9 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
-DTSTART;TZID=Europe/London:20180202T160000
-DTEND;TZID=Europe/London:20180202T170000
+SUMMARY:Volker Steuber - Resources for Neuronal Modelling
+DTSTART;TZID=Europe/London:20180202T130000
+DTEND;TZID=Europe/London:20180202T140000
 UID:2018-02-02T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
