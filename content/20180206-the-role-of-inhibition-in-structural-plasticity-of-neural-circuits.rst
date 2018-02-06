@@ -15,7 +15,7 @@ circuits. While the reconfiguration of excitatory circuits is known to produce
 functional changes, studies have recently shown that this is accompanied by the
 simultaneous remodelling of inhibitory circuits also. Further, recent evidence
 suggests that inhibition plays a critical role in the structural
-reorgranization of neural circuits.
+reorganization of neural circuits.
 
 In this session, I shall provide an overview of the observations documented in
 literature, discuss proposed mechanisms underlying structural plasticity, and
