@@ -58,7 +58,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Damien Drix - --
 DTSTART;TZID=Europe/London:20180309T160000
 DTEND;TZID=Europe/London:20180309T170000
 UID:2018-03-09T00:00:00-00:01
@@ -66,7 +66,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Damien Drix - --
+SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20180316T160000
 DTEND;TZID=Europe/London:20180316T170000
 UID:2018-03-16T00:00:00-00:01
@@ -74,7 +74,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Alex Hocking - --
 DTSTART;TZID=Europe/London:20180323T160000
 DTEND;TZID=Europe/London:20180323T170000
 UID:2018-03-23T00:00:00-00:01
@@ -82,7 +82,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Hocking - --
+SUMMARY:Sam Sutton - --
 DTSTART;TZID=Europe/London:20180330T160000
 DTEND;TZID=Europe/London:20180330T170000
 UID:2018-03-30T00:00:00-00:01
