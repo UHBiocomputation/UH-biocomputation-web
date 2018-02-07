@@ -5,7 +5,6 @@ The role of inhibition in structural plasticity of neural circuits
 :category: Seminars
 :tags: Homoeostasis, Neuroscience, Structural plasticity
 :slug: the-role-of-inhibition-in-structural-plasticity-of-neural-circuits
-:status: draft
 :summary: Ankur Sinha's journal club session on the role of inhibition in
           structural plasticity of neural circuits.
 

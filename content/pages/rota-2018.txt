@@ -6,7 +6,7 @@
 
 	1, Cosme Llerena, "`Blind Source Separation and Machine Learning Applications\ <#>`__", 26/01/18
 	2, Volker Steuber, "`Resources for Neuronal Modelling\ <{filename}/20180129-resources-for-neuronal-modelling.rst>`__", 02/02/18
-	3, Ankur Sinha, "`--\ <#>`__", 09/02/18
+	3, Ankur Sinha, "`The role of inhibition in structural plasticity of neural circuits\ <{filename}/20180206-the-role-of-inhibition-in-structural-plasticity-of-neural-circuits.rst>`__", 09/02/18
 	4, Rebecca Miko, "`--\ <#>`__", 16/02/18
 	5, Neil Davey, "`--\ <#>`__", 23/02/18
 	6, Marco Craveiro, "`--\ <#>`__", 02/03/18
