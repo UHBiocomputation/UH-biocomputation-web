@@ -1,6 +1,6 @@
 The role of inhibition in structural plasticity of neural circuits
 ##################################################################
-:date: 2018-02-06 17:55:30
+:date: 2018-02-07 11:14:06
 :author: Ankur Sinha
 :category: Seminars
 :tags: Homoeostasis, Neuroscience, Structural plasticity
@@ -18,8 +18,8 @@ suggests that inhibition plays a critical role in the structural
 reorganization of neural circuits.
 
 In this session, I shall provide an overview of the observations documented in
-literature, discuss proposed mechanisms underlying structural plasticity, and
-summarise questions that require further study.
+the literature, discuss proposed mechanisms underlying structural plasticity,
+and summarise questions that require further study.
 
 **Date:** 09/02/2018 |br|
 **Time:** 16:00 |br|
