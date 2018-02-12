@@ -26,6 +26,13 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:David Bowes - Mutation aware defection prediction
+DTSTART;TZID=Europe/London:20180208T130000
+DTEND;TZID=Europe/London:20180208T140000
+UID:2018-02-08T00:00:00-00:01
+LOCATION:LC108\, College Lane\, University of Hertfordshire\, Hatfield
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ankur Sinha - The role of inhibition in structural plasticity of n
  eural circuits
 DTSTART;TZID=Europe/London:20180209T160000
@@ -35,12 +42,30 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Peter Hellyer (Centre for Neuroimaging Science\, King's Colleg
+ e London) - Closed Loop Computational Models to Explore Dynamic Structure-
+ Function-Environment Interactions in the Brain
+DTSTART;TZID=Europe/London:20180215T130000
+DTEND;TZID=Europe/London:20180215T140000
+UID:2018-02-15T00:00:00-00:01
+LOCATION:A161\, College Lane\, University of Hertfordshire\, Hatfield
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rebecca Miko - --
 DTSTART;TZID=Europe/London:20180216T160000
 DTEND;TZID=Europe/London:20180216T170000
 UID:2018-02-16T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Arnd Roth (Royal Society Institute for Biomedical Research\, U
+ niversity College London) - Active Dendrites Enable Strong but Sparse Inpu
+ ts to Determine Orientation Selectivity
+DTSTART;TZID=Europe/London:20180221T130000
+DTEND;TZID=Europe/London:20180221T140000
+UID:2018-02-21T00:00:00-00:01
+LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neil Davey - --
