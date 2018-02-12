@@ -14,14 +14,15 @@
 	8, Yi Sun, "`--\ <#>`__", 16/03/18
 	9, Alex Hocking, "`--\ <#>`__", 23/03/18
 	10, Sam Sutton, "`--\ <#>`__", 30/03/18
-	11, Maria Psarrou, "`--\ <#>`__", 06/04/18
-	12, Ronak Bhavsar, "`--\ <#>`__", 13/04/18
-	13, Anuradha Sulane, "`--\ <#>`__", 20/04/18
-	14, Rene te Boekhorst, "`--\ <#>`__", 27/04/18
-	15, Deepak Panday, "`--\ <#>`__", 04/05/18
-	16, Edward Wakelam, "`--\ <#>`__", 11/05/18
-	17, Christoph Metzner, "`--\ <#>`__", 18/05/18
-	18, Julia Goncharenko, "`--\ <#>`__", 25/05/18
-	19, Weam Binjumah, "`--\ <#>`__", 01/06/18
-	20, Michael Schmuker, "`--\ <#>`__", 08/06/18
+	11, Jean Petrić, "`--\ <#>`__", 06/04/18
+	12, Maria Psarrou, "`--\ <#>`__", 13/04/18
+	13, Ronak Bhavsar, "`--\ <#>`__", 20/04/18
+	14, Anuradha Sulane, "`--\ <#>`__", 27/04/18
+	15, Rene te Boekhorst, "`--\ <#>`__", 04/05/18
+	16, Deepak Panday, "`--\ <#>`__", 11/05/18
+	17, Edward Wakelam, "`--\ <#>`__", 18/05/18
+	18, Christoph Metzner, "`--\ <#>`__", 25/05/18
+	19, Julia Goncharenko, "`--\ <#>`__", 01/06/18
+	20, Weam Binjumah, "`--\ <#>`__", 08/06/18
+	21, Michael Schmuker, "`--\ <#>`__", 15/06/18
 
