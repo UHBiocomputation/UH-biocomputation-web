@@ -76,7 +76,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Marco Craveiro - Handling Variability in Model Transformations and
+  Generators
 DTSTART;TZID=Europe/London:20180302T160000
 DTEND;TZID=Europe/London:20180302T170000
 UID:2018-03-02T00:00:00-00:01
