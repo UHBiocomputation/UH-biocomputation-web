@@ -9,20 +9,20 @@
 	3, Ankur Sinha, "`The role of inhibition in structural plasticity of neural circuits\ <{filename}/20180206-the-role-of-inhibition-in-structural-plasticity-of-neural-circuits.rst>`__", 09/02/18
 	4, Rebecca Miko, "`Olfactory coding in the turbulent realm\ <{filename}/20180212-olfactory-coding-in-the-turbulent-realm.rst>`__", 16/02/18
 	5, Andrei-Daniel Robu, "`Using SymPy in exploratory research\ <{filename}/20180223-using-sympy-in-exploratory-research.rst>`__", 23/02/18
-	6, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 02/03/18
-	7, Damien Drix, "`--\ <#>`__", 09/03/18
-	8, Yi Sun, "`--\ <#>`__", 16/03/18
-	9, Alex Hocking, "`--\ <#>`__", 23/03/18
-	10, Sam Sutton, "`--\ <#>`__", 30/03/18
-	11, Jean Petrić, "`--\ <#>`__", 06/04/18
-	12, Maria Psarrou, "`--\ <#>`__", 13/04/18
-	13, Ronak Bhavsar, "`--\ <#>`__", 20/04/18
-	14, Anuradha Sulane, "`--\ <#>`__", 27/04/18
-	15, Rene te Boekhorst, "`--\ <#>`__", 04/05/18
-	16, Deepak Panday, "`--\ <#>`__", 11/05/18
-	17, Edward Wakelam, "`--\ <#>`__", 18/05/18
-	18, Christoph Metzner, "`--\ <#>`__", 25/05/18
-	19, Julia Goncharenko, "`--\ <#>`__", 01/06/18
-	20, Weam Binjumah, "`--\ <#>`__", 08/06/18
-	21, Michael Schmuker, "`--\ <#>`__", 15/06/18
+	6, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 09/03/18
+	7, Damien Drix, "`--\ <#>`__", 16/03/18
+	8, Yi Sun, "`--\ <#>`__", 23/03/18
+	9, Alex Hocking, "`--\ <#>`__", 30/03/18
+	10, Sam Sutton, "`--\ <#>`__", 06/04/18
+	11, Jean Petrić, "`--\ <#>`__", 13/04/18
+	12, Maria Psarrou, "`--\ <#>`__", 20/04/18
+	13, Ronak Bhavsar, "`--\ <#>`__", 27/04/18
+	14, Anuradha Sulane, "`--\ <#>`__", 04/05/18
+	15, Rene te Boekhorst, "`--\ <#>`__", 11/05/18
+	16, Deepak Panday, "`--\ <#>`__", 18/05/18
+	17, Edward Wakelam, "`--\ <#>`__", 25/05/18
+	18, Christoph Metzner, "`--\ <#>`__", 01/06/18
+	19, Julia Goncharenko, "`--\ <#>`__", 08/06/18
+	20, Weam Binjumah, "`--\ <#>`__", 15/06/18
+	21, Michael Schmuker, "`--\ <#>`__", 22/06/18
 
