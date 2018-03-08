@@ -76,8 +76,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - Handling Variability in Model Transformations and
-  Generators
+SUMMARY:Damien Drix - Learning sparse codes and predictive context with co
+ mpartmentalised inputs
 DTSTART;TZID=Europe/London:20180309T160000
 DTEND;TZID=Europe/London:20180309T170000
 UID:2018-03-09T00:00:00-00:01
@@ -85,7 +85,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Damien Drix - --
+SUMMARY:Marco Craveiro - Handling Variability in Model Transformations and
+  Generators
 DTSTART;TZID=Europe/London:20180316T160000
 DTEND;TZID=Europe/London:20180316T170000
 UID:2018-03-16T00:00:00-00:01

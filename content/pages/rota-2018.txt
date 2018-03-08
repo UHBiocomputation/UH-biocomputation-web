@@ -9,8 +9,8 @@
 	3, Ankur Sinha, "`The role of inhibition in structural plasticity of neural circuits\ <{filename}/20180206-the-role-of-inhibition-in-structural-plasticity-of-neural-circuits.rst>`__", 09/02/18
 	4, Rebecca Miko, "`Olfactory coding in the turbulent realm\ <{filename}/20180212-olfactory-coding-in-the-turbulent-realm.rst>`__", 16/02/18
 	5, Andrei-Daniel Robu, "`Using SymPy in exploratory research\ <{filename}/20180223-using-sympy-in-exploratory-research.rst>`__", 23/02/18
-	6, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 09/03/18
-	7, Damien Drix, "`--\ <#>`__", 16/03/18
+	6, Damien Drix, "`Learning sparse codes and predictive context with compartmentalised inputs\ <{filename}/20180308-learning-sparse-codes-and-predictive-context-with-compartmentalised-inputs.rst>`__", 09/03/18
+	7, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 16/03/18
 	8, Yi Sun, "`--\ <#>`__", 23/03/18
 	9, Alex Hocking, "`--\ <#>`__", 30/03/18
 	10, Sam Sutton, "`--\ <#>`__", 06/04/18
