@@ -78,4 +78,5 @@ MENUITEMS = (
     ('Publications', '/pages/04-publications.html'),
     ('Seminars', '/pages/05-seminars.html'),
     ('Collaborators', '/pages/06-collaborators.html'),
+    ('Workshop@CNS2018', '/pages/09-CNS18-workshop.html'),
              )
