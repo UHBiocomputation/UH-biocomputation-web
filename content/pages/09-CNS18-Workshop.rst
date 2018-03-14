@@ -8,7 +8,7 @@ Workshop at `CNS 2018 <http://www.cnsorg.org/cns-2018>`__
 **Organisers:**
 
 - `Dieter Jaeger, Emory University, USA`_ :code:`(djaeger AT emory DOT edu)`
-- `Volker Steuber, University of Hertfordshire, UK`_ :code:`(v DOT stebuer AT herts DOT ac DOT uk)`
+- `Volker Steuber, University of Hertfordshire, UK`_ :code:`(v DOT steuber AT herts DOT ac DOT uk)`
 
 **Wednesday, July 18, 9 a.m. - 6 p.m.**
 
