@@ -1,4 +1,4 @@
-Insights gained by detailed dendritic modelling
+Insights Gained by Detailed Dendritic Modelling
 ###############################################
 :slug: 09-CNS18-workshop
 
@@ -35,7 +35,7 @@ abstract.
 
 -------------------
 
-Detailed schedule
+Detailed Schedule
 ==================
 
 .. csv-table::
