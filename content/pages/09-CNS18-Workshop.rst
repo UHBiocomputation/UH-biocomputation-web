@@ -57,7 +57,7 @@ Detailed schedule
 	,,
 	02:00 p.m. - 02:30 p.m., Christof Koch, The astonishing diversity of mouse and human cortical dendrites
 	02:30 p.m. - 03:00 p.m., Bill Lytton, Dendritic plateaus could underlie hierarchical embedded ensembles
-	03:00 p.m. - 03:30 p.m., Avrama Blackwell, Inhibition enhances spine-specific calcium encoding of synaptic input patterns
+	03:00 p.m. - 03:30 p.m., Avrama Blackwell, Inhibition enhances spine-specific Calcium encoding of synaptic input patterns
 	,,
 	03:30 p.m. - 04:00 p.m., ,Coffee Break
 	,,
