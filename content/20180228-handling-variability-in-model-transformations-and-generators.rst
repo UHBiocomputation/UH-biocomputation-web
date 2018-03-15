@@ -5,17 +5,14 @@ Handling Variability in Model Transformations and Generators
 :category: Seminars
 :tags: Software development
 :slug: handling-variability-in-model-transformations-and-generators
-:summary: Marco Craveiro's journal club session on "Handling Variability in Model Transformations and Generators" by Voelter et al. and "A Feature Model for Model-to-Text Transformation Languages" by Rose et al.
+:summary: Marco Craveiro's journal club session on "Handling Variability in Model Transformations and Generators" by Völter et al.
 
-The talk will be based mainly on Voelter et al's paper on "Handling
+The talk will be on Völter et al's paper on "Handling
 Variability in Model Transformations and Generators". Marco will provide
 an introduction to the topic and explain how it relates to his
-research. At the end of the talk he will provide a brief introduction
-to Rose et al's paper on "A Feature Model for Model-to-Text
-Transformation Languages" and explain how it interlinks with the first
-paper and his research.
+research.
 
-Main paper by Voelter et al: Handling Variability in Model Transformations and Generators
+Paper abstract:
 
 Software product line engineering aims to reduce development
 time, effort, cost, and complexity by taking advantage of the
@@ -31,24 +28,6 @@ model-to-model transformations and code generators using
 aspect-oriented techniques. These techniques are important ingredients
 for the aspectoriented model-driven product line engineering approach
 presented in [13].
-
-Secondary paper by Rose et al: A Feature Model for Model-to-Text Transformation Languages
-
-Model-to-text (M2T) transformation is an important model management
-operation, as it is used to implement code and documentation
-generation; model serialisation (enabling model interchange); and
-model visualisation and exploration. Despite the creation of the MOF
-Model-To-Text Transformation Language (MOFM2T) in 2008, many very
-different M2T languages exist today. Because there is little
-interoperability between M2T languages and rewriting an existing M2T
-transformation in a new language is costly, developers face a
-difficult choice when selecting a M2T language. In this paper, we use
-domain analysis to identify a preliminary feature model for M2T
-languages. We demonstrate the appropriateness of the feature model by
-describing two different M2T languages, and discuss potential
-applications for a tool-supported and model-driven approach to
-describing the features of M2T languages.
-
 
 **Date:** 28/02/2018 |br|
 **Time:** 16:00 |br|
