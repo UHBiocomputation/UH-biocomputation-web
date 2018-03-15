@@ -1,4 +1,4 @@
-Insights gained by detailed dendritic modeling
+Insights gained by detailed dendritic modelling
 ###############################################
 :slug: 09-CNS18-workshop
 
@@ -19,9 +19,9 @@ i.e. without dendrites.  In contrast, just about all mammalian neurons receive
 a majority of their synaptic inputs on dendrites.  It is becoming increasingly
 clear that this is not just to provide more surface area and sample inputs in
 specific spatial configurations, but that dendrites supply neurons with
-important non-linear functions.  This workshop will highlight modeling studies
+important non-linear functions.  This workshop will highlight modelling studies
 that explore the properties of dendritic computations through compartmental
-modeling.  The distinct dendritic computational properties of different cell
+modelling.  The distinct dendritic computational properties of different cell
 types will be highlighted.
 
 -------------------
@@ -43,7 +43,7 @@ Detailed schedule
 	:widths: 30, 30, 100
 	:quote: "
 
-	09:00 a.m. - 09:30 a.m., Dieter Jaeger, Introduction and Globus Pallidus neuron modeling
+	09:00 a.m. - 09:30 a.m., Dieter Jaeger, Introduction and Globus Pallidus neuron modelling
 	09:30 a.m. - 10:00 a.m., Volker Steuber, Dendritic morphology and information processing in cerebellar neurons
 	10:00 a.m. - 10:30 a.m., Carmen Canavier, Intrinsic mechanisms of frequency selectivity in proximal dendrites of CA1 Pyramidal neurons
 	,,
