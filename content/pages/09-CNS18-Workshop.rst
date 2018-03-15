@@ -39,7 +39,7 @@ Detailed Schedule
 ==================
 
 .. csv-table::
-	:header: **Time**, **Speaker**, **Workshop**
+	:header: **Time**, **Speaker**, **Title**
 	:widths: 30, 30, 100
 	:quote: "
 
