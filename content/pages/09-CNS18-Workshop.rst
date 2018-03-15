@@ -26,6 +26,15 @@ types will be highlighted.
 
 -------------------
 
+Call for Contributed Talks
+===========================
+
+Open call for contributed short talks to our dendrite workshop - interested
+potential attendees please e-mail the organisers with a title and short
+abstract.
+
+-------------------
+
 Detailed schedule
 ==================
 
@@ -41,12 +50,12 @@ Detailed schedule
 	10:30 a.m. - 11:00 a.m., ,Coffee Break
 	,,
 	11:00 a.m. - 11:30 a.m., Arnd Roth,
-	11:30 a.m. - 12:00 a.m., Alexandra Tran-Van-Minh,
+	11:30 a.m. - 12:00 p.m., Alexandra Tran-Van-Minh,
+	12:00 p.m. - 12:30 p.m., Monika Jadi,
 	,,
-	12:00 p.m. - 01:30 p.m., ,Lunch break
+	12:30 p.m. - 02:00 p.m., ,Lunch break
 	,,
-	01:30 p.m. - 02:00 p.m., Christoph Koch, The astonishing diversity of mouse and human cortical dendrites
-	02:00 p.m. - 02:30 p.m., Monika Jadi,
+	02:00 p.m. - 02:30 p.m., Christof Koch, The astonishing diversity of mouse and human cortical dendrites
 	02:30 p.m. - 03:00 p.m., Bill Lytton, Dendritic plateaus could underlie hierarchical embedded ensembles
 	03:00 p.m. - 03:30 p.m., Avrama Blackwell, Inhibition enhances spine-specific calcium encoding of synaptic input patterns
 	,,
