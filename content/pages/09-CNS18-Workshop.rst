@@ -49,7 +49,7 @@ Detailed Schedule
 	,,
 	10:30 a.m. - 11:00 a.m., ,Coffee Break
 	,,
-	11:00 a.m. - 11:30 a.m., Arnd Roth,
+	11:00 a.m. - 11:30 a.m., Arnd Roth, Active dendrites enable strong but sparse inputs to determine orientation selectivity
 	11:30 a.m. - 12:00 p.m., Alexandra Tran-Van-Minh,
 	12:00 p.m. - 12:30 p.m., Monika Jadi,
 	,,
