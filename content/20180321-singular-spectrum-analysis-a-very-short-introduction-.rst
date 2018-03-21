@@ -7,7 +7,7 @@ Singular Spectrum Analysis - A very short introduction​
 :slug: singular-spectrum-analysis-a-very-short-introduction-
 :summary: Yi Sun's journal club session on Singular Spectrum Analysis
 
-Singular Spectrum Analysis (SSA) can be used for smoothing time series and extracting the trend and oscillatory components. In this talk, I shall introduce the basic idea of  SSA and explain how it works by giving a simple example. 
+Singular Spectrum Analysis (SSA) can be used for smoothing time series and extracting the trend and oscillatory components. In this talk, Yi will introduce the basic idea of SSA and explain how it works by giving a simple example. 
 
 **Date:** 23/03/2018 |br|
 **Time:** 16:00 |br|
