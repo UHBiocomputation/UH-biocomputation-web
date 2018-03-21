@@ -11,7 +11,7 @@
 	5, Andrei-Daniel Robu, "`Using SymPy in exploratory research\ <{filename}/20180223-using-sympy-in-exploratory-research.rst>`__", 23/02/18
 	6, Damien Drix, "`Learning sparse codes and predictive context with compartmentalised inputs\ <{filename}/20180308-learning-sparse-codes-and-predictive-context-with-compartmentalised-inputs.rst>`__", 09/03/18
 	7, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 16/03/18
-	8, Yi Sun, "`--\ <#>`__", 23/03/18
+	8, Yi Sun, "`Singular Spectrum Analysis - A very short introduction​\ <{filename}/20180321-singular-spectrum-analysis-a-very-short-introduction-.rst>`__", 23/03/18
 	9, Alex Hocking, "`--\ <#>`__", 30/03/18
 	10, Dr. Ariun Narmandakh, "`--\ <#>`__", 06/04/18
 	11, Sam Sutton, "`--\ <#>`__", 13/04/18
