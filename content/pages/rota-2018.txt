@@ -12,7 +12,7 @@
 	6, Damien Drix, "`Learning sparse codes and predictive context with compartmentalised inputs\ <{filename}/20180308-learning-sparse-codes-and-predictive-context-with-compartmentalised-inputs.rst>`__", 09/03/18
 	7, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 16/03/18
 	8, Yi Sun, "`Singular Spectrum Analysis - A very short introduction​\ <{filename}/20180321-singular-spectrum-analysis-a-very-short-introduction-.rst>`__", 23/03/18
-	9, Dr. Ariun Narmandakh, "`Single chain antibodies and their diversification of application\ <#>`__", 06/04/18
+	9, Ariun Narmandakh, "`Single chain antibodies and their diversification of application\ <#>`__", 06/04/18
 	10, Sam Sutton, "`--\ <#>`__", 13/04/18
 	11, Jean Petrić, "`--\ <#>`__", 20/04/18
 	12, Maria Psarrou, "`--\ <#>`__", 27/04/18
