@@ -111,15 +111,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
-DTSTART;TZID=Europe/London:20180413T160000
-DTEND;TZID=Europe/London:20180413T170000
-UID:2018-04-13T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jean Petrić - --
+SUMMARY:Anna Dumitriu and Alex May - ArchaeaBot: A Post Singularity\, Post
+  Climate Change Lifeform
 DTSTART;TZID=Europe/London:20180420T160000
 DTEND;TZID=Europe/London:20180420T170000
 UID:2018-04-20T00:00:00-00:01
@@ -127,7 +120,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Jean Petrić - --
 DTSTART;TZID=Europe/London:20180427T160000
 DTEND;TZID=Europe/London:20180427T170000
 UID:2018-04-27T00:00:00-00:01
@@ -135,7 +128,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ronak Bhavsar - --
+SUMMARY:Maria Psarrou - --
 DTSTART;TZID=Europe/London:20180504T160000
 DTEND;TZID=Europe/London:20180504T170000
 UID:2018-05-04T00:00:00-00:01
@@ -204,6 +197,14 @@ SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20180629T160000
 DTEND;TZID=Europe/London:20180629T170000
 UID:2018-06-29T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Sutton - --
+DTSTART;TZID=Europe/London:20180706T160000
+DTEND;TZID=Europe/London:20180706T170000
+UID:2018-07-06T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT

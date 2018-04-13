@@ -13,16 +13,16 @@
 	7, Marco Craveiro, "`Handling Variability in Model Transformations and Generators\ <{filename}/20180228-handling-variability-in-model-transformations-and-generators.rst>`__", 16/03/18
 	8, Yi Sun, "`Singular Spectrum Analysis - A very short introduction​\ <{filename}/20180321-singular-spectrum-analysis-a-very-short-introduction-.rst>`__", 23/03/18
 	9, Ariun Narmandakh, "`Single chain antibodies and their diversification of application\ <#>`__", 06/04/18
-	10, Sam Sutton, "`--\ <#>`__", 13/04/18
-	11, Jean Petrić, "`--\ <#>`__", 20/04/18
-	12, Maria Psarrou, "`--\ <#>`__", 27/04/18
-	13, Ronak Bhavsar, "`--\ <#>`__", 04/05/18
-	14, Anuradha Sulane, "`--\ <#>`__", 11/05/18
-	15, Rene te Boekhorst, "`--\ <#>`__", 18/05/18
-	16, Deepak Panday, "`--\ <#>`__", 25/05/18
-	17, Michael Schmuker, "`Decoding gas source proximity from turbulent plumes\ <#>`__", 01/06/18
-	18, Christoph Metzner, "`--\ <#>`__", 08/06/18
-	19, Julia Goncharenko, "`--\ <#>`__", 15/06/18
-	20, Weam Binjumah, "`--\ <#>`__", 22/06/18
-	21, Edward Wakelam, "`--\ <#>`__", 29/06/18
+	10, Anna Dumitriu and Alex May, "`ArchaeaBot: A Post Singularity, Post Climate Change Lifeform\ <{filename}/20180413-archaeabot-a-post-singularity-post-climate-change-lifeform.rst>`__", 20/04/18
+	11, Jean Petrić, "`--\ <#>`__", 27/04/18
+	12, Maria Psarrou, "`--\ <#>`__", 04/05/18
+	13, Anuradha Sulane, "`--\ <#>`__", 11/05/18
+	14, Rene te Boekhorst, "`--\ <#>`__", 18/05/18
+	15, Deepak Panday, "`--\ <#>`__", 25/05/18
+	16, Michael Schmuker, "`Decoding gas source proximity from turbulent plumes\ <#>`__", 01/06/18
+	17, Christoph Metzner, "`--\ <#>`__", 08/06/18
+	18, Julia Goncharenko, "`--\ <#>`__", 15/06/18
+	19, Weam Binjumah, "`--\ <#>`__", 22/06/18
+	20, Edward Wakelam, "`--\ <#>`__", 29/06/18
+	21, Sam Sutton, "`--\ <#>`__", 06/07/18
 
