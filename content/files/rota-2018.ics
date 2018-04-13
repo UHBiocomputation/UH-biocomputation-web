@@ -167,7 +167,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Michael Schmuker - Decoding gas source proximity from turbulent pl
+ umes
 DTSTART;TZID=Europe/London:20180601T160000
 DTEND;TZID=Europe/London:20180601T170000
 UID:2018-06-01T00:00:00-00:01
@@ -199,7 +200,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmuker - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20180629T160000
 DTEND;TZID=Europe/London:20180629T170000
 UID:2018-06-29T00:00:00-00:01
