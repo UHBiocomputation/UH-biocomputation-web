@@ -71,10 +71,10 @@ help:
 rota:
 	python3 scripts/generateRota.py
 	cp rota-2018.ics rota.ics
-	mv rota*ics content/files/ -v
-	mv rota*txt content/pages/ -v
-	
-	
+	mv -v rota*ics content/files/
+	mv -v rota*txt content/pages/
+
+
 taglist:
 	grep -o -h '^:tags:.*' content/*rst  | sed 's/:tags: //' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$$/ d' | tr '\n' ',' | sed 's/,/, /g' | sed 's/,[[:space:]]*$$//'
 
