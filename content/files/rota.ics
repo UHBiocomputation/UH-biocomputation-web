@@ -119,16 +119,6 @@ UID:2018-04-17T00:00:00-00:01
 LOCATION:C258\, College Lane\, University of Hertfordshire\, Hatfield\, UK
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majid Zamani - A Highly Accurate Spike Sorting Processor With Reco
- nfigurable Embedded Frames for Unsupervised and Adaptive Analysis of Neura
- l Signals
-DTSTART;TZID=Europe/London:20180419T100000
-DTEND;TZID=Europe/London:20180419T110000
-UID:2018-04-19T00:00:00-00:01
-LOCATION:1H276\, College Lane\, University of Hertfordshire\, Hatfield\, U
- K
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anna Dumitriu and Alex May - ArchaeaBot: A Post Singularity\, Post
   Climate Change Lifeform
 DTSTART;TZID=Europe/London:20180420T160000
