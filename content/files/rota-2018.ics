@@ -144,7 +144,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20180511T160000
 DTEND;TZID=Europe/London:20180511T170000
 UID:2018-05-11T00:00:00-00:01
@@ -152,7 +152,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20180518T160000
 DTEND;TZID=Europe/London:20180518T170000
 UID:2018-05-18T00:00:00-00:01
@@ -160,7 +160,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Rene te Boekhorst - --
 DTSTART;TZID=Europe/London:20180525T160000
 DTEND;TZID=Europe/London:20180525T170000
 UID:2018-05-25T00:00:00-00:01
