@@ -128,7 +128,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jean Petrić - --
+SUMMARY:Jean Petrić - Mining data for defect prediction
 DTSTART;TZID=Europe/London:20180427T160000
 DTEND;TZID=Europe/London:20180427T170000
 UID:2018-04-27T00:00:00-00:01

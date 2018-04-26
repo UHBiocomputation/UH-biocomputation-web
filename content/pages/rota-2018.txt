@@ -14,7 +14,7 @@
 	8, Yi Sun, "`Singular Spectrum Analysis - A very short introduction​\ <{filename}/20180321-singular-spectrum-analysis-a-very-short-introduction-.rst>`__", 23/03/18
 	9, Ariun Narmandakh, "`Single chain antibodies and their diversification of application\ <#>`__", 06/04/18
 	10, Anna Dumitriu and Alex May, "`ArchaeaBot: A Post Singularity, Post Climate Change Lifeform\ <{filename}/20180413-archaeabot-a-post-singularity-post-climate-change-lifeform.rst>`__", 20/04/18
-	11, Jean Petrić, "`--\ <#>`__", 27/04/18
+	11, Jean Petrić, "`Mining data for defect prediction\ <{filename}/20180426-mining-data-for-defect-prediction.rst>`__", 27/04/18
 	12, Maria Psarrou, "`--\ <#>`__", 04/05/18
 	13, Deepak Panday, "`--\ <#>`__", 11/05/18
 	14, Anuradha Sulane, "`--\ <#>`__", 18/05/18
