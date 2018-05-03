@@ -136,7 +136,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Jean Petrić - Mining data for defect prediction - Continued
 DTSTART;TZID=Europe/London:20180504T160000
 DTEND;TZID=Europe/London:20180504T170000
 UID:2018-05-04T00:00:00-00:01
@@ -144,7 +144,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Maria Psarrou - --
 DTSTART;TZID=Europe/London:20180511T160000
 DTEND;TZID=Europe/London:20180511T170000
 UID:2018-05-11T00:00:00-00:01
@@ -152,7 +152,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20180518T160000
 DTEND;TZID=Europe/London:20180518T170000
 UID:2018-05-18T00:00:00-00:01
@@ -160,7 +160,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20180525T160000
 DTEND;TZID=Europe/London:20180525T170000
 UID:2018-05-25T00:00:00-00:01
@@ -177,7 +177,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - --
+SUMMARY:Rene te Boekhorst - --
 DTSTART;TZID=Europe/London:20180608T160000
 DTEND;TZID=Europe/London:20180608T170000
 UID:2018-06-08T00:00:00-00:01
@@ -185,7 +185,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Christoph Metzner - --
 DTSTART;TZID=Europe/London:20180615T160000
 DTEND;TZID=Europe/London:20180615T170000
 UID:2018-06-15T00:00:00-00:01
@@ -193,7 +193,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20180622T160000
 DTEND;TZID=Europe/London:20180622T170000
 UID:2018-06-22T00:00:00-00:01
@@ -201,7 +201,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20180629T160000
 DTEND;TZID=Europe/London:20180629T170000
 UID:2018-06-29T00:00:00-00:01
@@ -209,10 +209,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20180706T160000
 DTEND;TZID=Europe/London:20180706T170000
 UID:2018-07-06T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Sutton - --
+DTSTART;TZID=Europe/London:20180713T160000
+DTEND;TZID=Europe/London:20180713T170000
+UID:2018-07-13T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
