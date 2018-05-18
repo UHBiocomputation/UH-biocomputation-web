@@ -186,14 +186,6 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - --
-DTSTART;TZID=Europe/London:20180615T160000
-DTEND;TZID=Europe/London:20180615T170000
-UID:2018-06-15T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rene te Boekhorst - --
 DTSTART;TZID=Europe/London:20180622T160000
 DTEND;TZID=Europe/London:20180622T170000
@@ -202,7 +194,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Christoph Metzner - --
 DTSTART;TZID=Europe/London:20180629T160000
 DTEND;TZID=Europe/London:20180629T170000
 UID:2018-06-29T00:00:00-00:01
@@ -210,7 +202,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20180706T160000
 DTEND;TZID=Europe/London:20180706T170000
 UID:2018-07-06T00:00:00-00:01
@@ -218,7 +210,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20180713T160000
 DTEND;TZID=Europe/London:20180713T170000
 UID:2018-07-13T00:00:00-00:01
@@ -226,10 +218,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20180720T160000
 DTEND;TZID=Europe/London:20180720T170000
 UID:2018-07-20T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Sutton - --
+DTSTART;TZID=Europe/London:20180727T160000
+DTEND;TZID=Europe/London:20180727T170000
+UID:2018-07-27T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
