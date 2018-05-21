@@ -153,7 +153,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:Maria Psarrou - A comparison of deterministic and stochastic ion c
+ hannel representations in a model of a cerebellar nucleus neuron
 DTSTART;TZID=Europe/London:20180525T160000
 DTEND;TZID=Europe/London:20180525T170000
 UID:2018-05-25T00:00:00-00:01
