@@ -50,8 +50,8 @@ Detailed Schedule
 	10:30 a.m. - 11:00 a.m., ,Coffee Break
 	,,
 	11:00 a.m. - 11:30 a.m., Arnd Roth, Active dendrites enable strong but sparse inputs to determine orientation selectivity
-	11:30 a.m. - 12:00 p.m., Alexandra Tran-Van-Minh,
-	12:00 p.m. - 12:30 p.m., Monika Jadi,
+	11:30 a.m. - 12:00 p.m., Alexandra Tran-Van-Minh, Dendritic properties of cerebellar stellate cells: information processing with sublinear dendrites
+	12:00 p.m. - 12:30 p.m., Monika Jadi, Inhibitory control of non-linear dendritic computations
 	,,
 	12:30 p.m. - 02:00 p.m., ,Lunch break
 	,,
@@ -62,6 +62,10 @@ Detailed Schedule
 	03:30 p.m. - 04:00 p.m., ,Coffee Break
 	,,
 	04:00 p.m. - 05:00 p.m., ,Contributed talks
+	,,
+	, Frances Skinner, How the specifics of dendritic ion channels in inhibitory cells of the hippocampus could contribute to function
+    , Subutai Ahmed, The predictive neuron: how active dendrites enable spatiotemporal computation in neocortex
+	,,
 	05:00 p.m. - 06:00 p.m., ,General discussion: "What is missing in artifical neural network algorithms without dendrites"
 
 
