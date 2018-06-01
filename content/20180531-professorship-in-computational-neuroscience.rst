@@ -20,7 +20,7 @@ Salary: £58,293 to £67,437 p.a. depending on skills and experience. |br|
 FTE: Full time position working 37 hours per week (1.0 FTE). |br|
 Duration of contract: Permanent.
 
-Closing date: 21 June 2018. |br|
+Closing date: 24 July 2018. |br|
 Interview date: Week commencing 17 September 2018.
 
 ----
