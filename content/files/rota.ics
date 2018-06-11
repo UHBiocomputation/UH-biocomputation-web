@@ -181,7 +181,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Deepak Panday - Reverse Nearest Neighbor Queries: emergence and im
+ plementation issues
 DTSTART;TZID=Europe/London:20180615T160000
 DTEND;TZID=Europe/London:20180615T170000
 UID:2018-06-15T00:00:00-00:01
