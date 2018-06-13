@@ -190,7 +190,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Sam Sutton - --
 DTSTART;TZID=Europe/London:20180622T160000
 DTEND;TZID=Europe/London:20180622T170000
 UID:2018-06-22T00:00:00-00:01
@@ -198,7 +198,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20180629T160000
 DTEND;TZID=Europe/London:20180629T170000
 UID:2018-06-29T00:00:00-00:01
@@ -206,7 +206,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - --
+SUMMARY:Rene te Boekhorst - --
 DTSTART;TZID=Europe/London:20180706T160000
 DTEND;TZID=Europe/London:20180706T170000
 UID:2018-07-06T00:00:00-00:01
@@ -234,14 +234,6 @@ SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20180727T160000
 DTEND;TZID=Europe/London:20180727T170000
 UID:2018-07-27T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
-DTSTART;TZID=Europe/London:20180803T160000
-DTEND;TZID=Europe/London:20180803T170000
-UID:2018-08-03T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
