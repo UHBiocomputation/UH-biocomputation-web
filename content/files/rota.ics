@@ -190,7 +190,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Sam Sutton - Signal Propagation and Logic Gating in Networks of In
+ tegrate-and-Fire Neurons
 DTSTART;TZID=Europe/London:20180622T160000
 DTEND;TZID=Europe/London:20180622T170000
 UID:2018-06-22T00:00:00-00:01
