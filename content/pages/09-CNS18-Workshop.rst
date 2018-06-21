@@ -38,11 +38,15 @@ abstract.
 Detailed Schedule
 ==================
 
-.. csv-table::
-	:header: **Time**, **Speaker**, **Title**
-	:widths: 30, 30, 100
-	:quote: "
+|
+|
 
+.. csv-table::
+   :header: **Time**, **Speaker**, **Title**
+   :widths: 30, 30, 100
+   :quote: "
+
+	,,
 	09:00 a.m. - 09:30 a.m., Dieter Jaeger, Introduction and Globus Pallidus neuron modelling
 	09:30 a.m. - 10:00 a.m., Volker Steuber, Dendritic morphology and information processing in cerebellar neurons
 	10:00 a.m. - 10:30 a.m., Carmen Canavier, Intrinsic mechanisms of frequency selectivity in proximal dendrites of CA1 Pyramidal neurons
