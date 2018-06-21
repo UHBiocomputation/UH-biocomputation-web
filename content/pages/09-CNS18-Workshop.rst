@@ -65,6 +65,7 @@ Detailed Schedule
 	,,
 	, Frances Skinner, How the specifics of dendritic ion channels in inhibitory cells of the hippocampus could contribute to function
     , Subutai Ahmed, The predictive neuron: how active dendrites enable spatiotemporal computation in neocortex
+    , Gaute Einevoll, Active subthreshold dendritic conductances shape the local field potential (LFP)
 	,,
 	05:00 p.m. - 06:00 p.m., ,General discussion: "What is missing in artifical neural network algorithms without dendrites"
 
