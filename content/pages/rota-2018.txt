@@ -22,9 +22,10 @@
 	16, Maria Psarrou, "`A comparison of deterministic and stochastic ion channel representations in a model of a cerebellar nucleus neuron - Continued\ <{filename}/20180521-a-comparison-of-deterministic-and-stochastic-ion-channel-representations-in-a-model-of-a-cerebellar-nucleus-neuron.rst>`__", 08/06/18
 	17, Deepak Panday, "`Reverse Nearest Neighbor Queries: emergence and implementation issues\ <{filename}/20180611-on-reverse-nearest-neighbor-queries-emergence-and-implementation-issues.rst>`__", 15/06/18
 	18, Sam Sutton, "`Signal Propagation and Logic Gating in Networks of Integrate-and-Fire Neurons\ <{filename}/20180620-signal-propagation-and-logic-gating-in-networks-of-integrate-and-fire-neurons.rst>`__", 22/06/18
-	19, Rene te Boekhorst, "`--\ <#>`__", 29/06/18
-	20, Anuradha Sulane, "`--\ <#>`__", 06/07/18
-	21, Julia Goncharenko, "`--\ <#>`__", 13/07/18
-	22, Weam Binjumah, "`--\ <#>`__", 20/07/18
-	23, Edward Wakelam, "`--\ <#>`__", 27/07/18
+	19, Rene te Boekhorst, "`Complexity of Biological Systems: Deterministic vs Stochastic Modelling\ <{filename}/20180626-complexity-of-biological-systems-deterministic-vs-stochastic-modelling.rst>`__", 29/06/18
+	20, Rene te Boekhorst, "`Complexity of Biological Systems: Deterministic vs Stochastic Modelling - Continued\ <{filename}/20180626-complexity-of-biological-systems-deterministic-vs-stochastic-modelling.rst>`__", 06/07/18
+	21, Anuradha Sulane, "`--\ <#>`__", 13/07/18
+	22, Julia Goncharenko, "`--\ <#>`__", 20/07/18
+	23, Weam Binjumah, "`--\ <#>`__", 27/07/18
+	24, Edward Wakelam, "`--\ <#>`__", 03/08/18
 
