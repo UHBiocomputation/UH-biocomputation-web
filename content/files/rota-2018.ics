@@ -224,7 +224,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20180713T160000
 DTEND;TZID=Europe/London:20180713T170000
 UID:2018-07-13T00:00:00-00:01
@@ -232,7 +232,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20180720T160000
 DTEND;TZID=Europe/London:20180720T170000
 UID:2018-07-20T00:00:00-00:01
