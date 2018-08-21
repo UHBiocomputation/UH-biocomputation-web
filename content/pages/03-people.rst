@@ -9,6 +9,16 @@ People
 Core Faculty and Research Staff
 --------------------------------
 
+- `Na Helian`_ |br|
+  Research Interests: machine learning, cloud computing
+
+.. _Na Helian: http://researchprofiles.herts.ac.uk/portal/en/persons/na-helian(acd0e94e-caa1-4ffe-8f0d-ee5dccbd923f).html
+
+- `Shabnam Kadir`_ |br|
+  Research Interests: computational neuroscience, auditory neuroscience, bioinformatics, topological data analysis
+
+.. _Shabnam Kadir: http://researchprofiles.herts.ac.uk/portal/en/persons/shabnam-kadir(487abc65-1574-4e1b-8816-452d013ab299).html
+
 - `Rod Adams`_ (Emeritus Professor) |br|
   Research Interests: hierarchical clusterers, genetic algorithms, developmental neural networks, evolutionary neural networks, biological models
 
@@ -111,11 +121,6 @@ PhD Students
 
 .. _Julia Goncharenko: #
 
-- `Maria Psarrou`_ |br|
-  Research Interests: stochastic ion channel gating and neural computation
-
-.. _Maria Psarrou: #
-
 - `Nathan Beka`_ |br|
   Research Interests: bioinformatics
 
@@ -126,11 +131,6 @@ PhD Students
 
 .. _Ankur Sinha: http://ankursinha.in/blog/
 
-- `Alexander Hocking`_ |br|
-  Research Interests: machine learning and astronomy
-
-.. _Alexander Hocking: #
-
 - `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
   Research Interests: artificial intelligence and technology supported learning
 
@@ -140,11 +140,6 @@ PhD Students
 
 - `Jean Petrić <http://jeanpetric.github.io>`_ |br|
   Research Interests: machine learning and software defect prediction
-
-- `Zaheed Mahmood`_ |br|
-  Research Interests: machine learning and software defect prediction
-
-.. _Zaheed Mahmood: https://uk.linkedin.com/in/zaheedmahmood
 
 - `Marco Craveiro`_ |br|
   Research Interests: computational modelling, computational neuroscience
@@ -243,6 +238,21 @@ Visiting Research Fellows
 
 Previous Group Members
 ----------------------
+
+- `Maria Psarrou`_ |br|
+  Research Interests: stochastic ion channel gating and neural computation
+
+.. _Maria Psarrou: #
+
+- `Alexander Hocking`_ |br|
+  Research Interests: machine learning and astronomy
+
+.. _Alexander Hocking: #
+
+- `Zaheed Mahmood`_ |br|
+  Research Interests: machine learning and software defect prediction
+
+.. _Zaheed Mahmood: https://uk.linkedin.com/in/zaheedmahmood
 
 - `Parivash Ashrafi`_ |br|
   Research Interests: machine learning and skin permeability of drugs
