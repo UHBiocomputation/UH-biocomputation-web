@@ -50,7 +50,7 @@ import textwrap
 import pytz
 import csv
 import logging
-
+from datetime import datetime
 
 class generateRota:
 
@@ -68,7 +68,13 @@ class generateRota:
         # The date this rota starts at
         self.start_date = date(2017, 9, 1)
         # defaults
-        self.year = 2018
+        self.year = str(datetime.now().year)
+        
+        #if Sept - Dec add b to file name
+        if datetime.now().month >= 9:
+            self.year += 'b'
+
+
         self.rota_time_start = 16
         self.rota_time_end = 17
         # default location
@@ -77,6 +83,7 @@ class generateRota:
 
         # Update these to change the source csv and the output files
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
+
         self.rota_rst = "rota-{}.txt".format(self.year)
         self.rota_ical = "rota-{}.ics".format(self.year)
 
