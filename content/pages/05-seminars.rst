@@ -6,8 +6,13 @@ Seminars
 The biocomputation group hosts a weekly journal club meeting. Please contact Sam Sutton at s.sutton3 AT herts.ac.uk if you have any queries. 
 Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
-January 2018 -
----------------
+September 2018 -
+----------------
+
+.. include:: rota-2018b.txt
+
+January 2018 - July 2017
+------------------------
 
 .. include:: rota-2018.txt
 
