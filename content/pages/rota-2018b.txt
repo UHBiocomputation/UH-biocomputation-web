@@ -4,7 +4,6 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	--, --, "`-- <{filename}/0>`__", 28/09/18
 	1, Reinoud Maex, "`--\ <{filename}/0>`__", 05/10/18
 	2, Yi Sun, "`--\ <{filename}/0>`__", 12/10/18
 	3, Mohammad-Hassan Tayarani-Najaran, "`--\ <{filename}/0>`__", 19/10/18
