@@ -6,7 +6,7 @@
 
 	1, Reinoud Maex, "`Three Review Articles on the Cerebellum\ <{filename}/20181005-three-review-articles-on-the-cerebellum.rst>`__", 05/10/18
 	2, Yi Sun, "`Asynchronism-based principal component analysis for time series data mining\ <{filename}/20181010-asynchronism-based-principal-component-analysis-for-time-series-data-mining.rst>`__", 12/10/18
-	3, Mohammad-Hassan Tayarani-Najaran, "`--\ <#>`__", 19/10/18
+	3, Mohammad Tayarani-Najaran, "`Maximum Satisfiability: Anatomy of the Fitness Landscape for a Hard Combinatorial Optimization Problem\ <{filename}/20181019-maximum-satisfiability-anatomy-of-the-fitness-landscape-for-a-hard-combinatorial-optimization-problem.rst>`__", 19/10/18
 	4, Shabnam Kadir, "`--\ <#>`__", 26/10/18
 	5, Alex May and Anna Dumitriu, "`Biocomputation Robots and ArchaeaBot Project\ <#>`__", 02/11/18
 	6, Ohki Katakura, "`--\ <#>`__", 09/11/18
