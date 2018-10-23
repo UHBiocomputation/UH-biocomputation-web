@@ -26,7 +26,9 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shabnam Kadir - --
+SUMMARY:Mohammad Tayarani-Najaran - Maximum Satisfiability: Anatomy of the
+  Fitness Landscape for a Hard Combinatorial Optimization Problem -- Contin
+ ued
 DTSTART;TZID=Europe/London:20181026T160000
 DTEND;TZID=Europe/London:20181026T170000
 UID:2018-10-26T00:00:00-00:01
@@ -155,7 +157,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rebecca Miko - --
+SUMMARY:Shabnam Kadir - --
 DTSTART;TZID=Europe/London:20190215T160000
 DTEND;TZID=Europe/London:20190215T170000
 UID:2019-02-15T00:00:00-00:01
@@ -163,10 +165,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Davey - --
+SUMMARY:Rebecca Miko - --
 DTSTART;TZID=Europe/London:20190222T160000
 DTEND;TZID=Europe/London:20190222T170000
 UID:2019-02-22T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neil Davey - --
+DTSTART;TZID=Europe/London:20190301T160000
+DTEND;TZID=Europe/London:20190301T170000
+UID:2019-03-01T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
