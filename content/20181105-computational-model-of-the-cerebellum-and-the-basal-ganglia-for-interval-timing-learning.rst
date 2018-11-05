@@ -5,9 +5,9 @@ Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing 
 :category: Seminar
 :tags: Computational neuroscience, Neuroscience, Cerebellum
 :slug: computational-model-of-the-cerebellum-and-the-basal-ganglia-for-interval-timing-learning
-:summary: Ohki Katakura's journal club session on his master's work "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2011)`_"
+:summary: Ohki Katakura's journal club session on his master's work "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2016)`_"
 
-Ohki Katakura's journal club session on his master's work "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2011)`_"
+Ohki Katakura's journal club session on his master's work "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2016)`_"
 
 ------------
 
@@ -22,6 +22,6 @@ In temporal information processing, both the cerebellum and the basal ganglia pl
 
     <br />
 
-.. _Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2011): https://link.springer.com/chapter/10.1007%2F978-3-319-46681-1_30
+.. _Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2016): https://link.springer.com/chapter/10.1007%2F978-3-319-46681-1_30
 
 
