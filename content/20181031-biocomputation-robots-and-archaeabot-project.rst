@@ -38,7 +38,7 @@ Two mouse-like quadruped robots explore research into controlling Petit Mal epil
 
 Another robot on tracked wheels roams around searching for smells that appeal to it and focusses on a kind of perfume designed to appeal to it. Senses such as smell are widely considered to be uniquely related to biological life and closely related to our understanding of consciousness, an assumption that this artwork throws into question. The robot explores artificial nose research being undertaken at the university with Dr Michael Schmucker.
 
-**Date:** 02/11/2018 |br|
+**Date:** 30/11/2018 |br|
 **Time:** 16:00 |br|
 **Location**: D120
 
