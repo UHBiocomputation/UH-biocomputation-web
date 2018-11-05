@@ -36,15 +36,6 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex May and Anna Dumitriu - Biocomputation Robots and ArchaeaBot 
- Project
-DTSTART;TZID=Europe/London:20181102T160000
-DTEND;TZID=Europe/London:20181102T170000
-UID:2018-11-02T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ohki Katakura - --
 DTSTART;TZID=Europe/London:20181109T160000
 DTEND;TZID=Europe/London:20181109T170000
@@ -69,7 +60,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Na Helian - --
+SUMMARY:Alex May and Anna Dumitriu - Biocomputation Robots and ArchaeaBot 
+ Project
 DTSTART;TZID=Europe/London:20181130T160000
 DTEND;TZID=Europe/London:20181130T170000
 UID:2018-11-30T00:00:00-00:01
@@ -77,7 +69,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weam Binjumah - --
+SUMMARY:Na Helian - --
 DTSTART;TZID=Europe/London:20181207T160000
 DTEND;TZID=Europe/London:20181207T170000
 UID:2018-12-07T00:00:00-00:01
@@ -85,7 +77,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
+SUMMARY:Weam Binjumah - --
 DTSTART;TZID=Europe/London:20181214T160000
 DTEND;TZID=Europe/London:20181214T170000
 UID:2018-12-14T00:00:00-00:01
@@ -93,7 +85,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - --
+SUMMARY:Rene te Boekhorst - --
 DTSTART;TZID=Europe/London:20181221T160000
 DTEND;TZID=Europe/London:20181221T170000
 UID:2018-12-21T00:00:00-00:01
@@ -101,7 +93,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20181228T160000
 DTEND;TZID=Europe/London:20181228T170000
 UID:2018-12-28T00:00:00-00:01
@@ -109,7 +101,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anuradha Sulane - --
+SUMMARY:Julia Goncharenko - --
 DTSTART;TZID=Europe/London:20190104T160000
 DTEND;TZID=Europe/London:20190104T170000
 UID:2019-01-04T00:00:00-00:01
@@ -117,7 +109,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Anuradha Sulane - --
 DTSTART;TZID=Europe/London:20190111T160000
 DTEND;TZID=Europe/London:20190111T170000
 UID:2019-01-11T00:00:00-00:01
@@ -125,7 +117,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Sam Sutton - --
 DTSTART;TZID=Europe/London:20190118T160000
 DTEND;TZID=Europe/London:20190118T170000
 UID:2019-01-18T00:00:00-00:01
@@ -133,7 +125,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Volker Steuber - --
 DTSTART;TZID=Europe/London:20190125T160000
 DTEND;TZID=Europe/London:20190125T170000
 UID:2019-01-25T00:00:00-00:01
@@ -141,7 +133,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Damien Drix - --
+SUMMARY:Ankur Sinha - --
 DTSTART;TZID=Europe/London:20190201T160000
 DTEND;TZID=Europe/London:20190201T170000
 UID:2019-02-01T00:00:00-00:01
@@ -149,7 +141,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Damien Drix - --
 DTSTART;TZID=Europe/London:20190208T160000
 DTEND;TZID=Europe/London:20190208T170000
 UID:2019-02-08T00:00:00-00:01
@@ -157,7 +149,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shabnam Kadir - --
+SUMMARY:Marco Craveiro - --
 DTSTART;TZID=Europe/London:20190215T160000
 DTEND;TZID=Europe/London:20190215T170000
 UID:2019-02-15T00:00:00-00:01
@@ -165,7 +157,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rebecca Miko - --
+SUMMARY:Shabnam Kadir - --
 DTSTART;TZID=Europe/London:20190222T160000
 DTEND;TZID=Europe/London:20190222T170000
 UID:2019-02-22T00:00:00-00:01
@@ -173,10 +165,18 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Davey - --
+SUMMARY:Rebecca Miko - --
 DTSTART;TZID=Europe/London:20190301T160000
 DTEND;TZID=Europe/London:20190301T170000
 UID:2019-03-01T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neil Davey - --
+DTSTART;TZID=Europe/London:20190308T160000
+DTEND;TZID=Europe/London:20190308T170000
+UID:2019-03-08T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
