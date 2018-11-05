@@ -36,7 +36,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ohki Katakura - --
+SUMMARY:Ohki Katakura - Computational Model of the Cerebellum and the Basa
+ l Ganglia for Interval Timing Learning
 DTSTART;TZID=Europe/London:20181109T160000
 DTEND;TZID=Europe/London:20181109T170000
 UID:2018-11-09T00:00:00-00:01
