@@ -2,7 +2,7 @@ Maximum Satisfiability: Anatomy of the Fitness Landscape for a Hard Combinatoria
 ######################################################################################################
 :date: 2018-10-19 12:25:06
 :author: Mohammad Tayarani-Najaran
-:category: Seminar 
+:category: Seminars 
 :tags: Machine Learning
 :slug: maximum-satisfiability-anatomy-of-the-fitness-landscape-for-a-hard-combinatorial-optimization-problem
 :summary: Mohammad Tayarani-Najaran's journal club session on his article "`Maximum Satisfiability Anatomy of the Fitness Landscape for a Hard Combinatorial Optimization Problem (Adam Prugel-Bennett; Mohammad Tayarani-Najaran, 2011)`_".

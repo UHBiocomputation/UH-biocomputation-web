@@ -2,7 +2,7 @@ Three Review Articles on the Cerebellum
 #######################################
 :date: 2018-10-05 08:09:22
 :author: Reinoud Maex 
-:category: Seminar
+:category: Seminars
 :tags: Neuroscience, Cerebellum
 :slug: three-review-articles-on-the-cerebellum
 :summary: Reinoud Maex's journal club session on three review papers related to

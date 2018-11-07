@@ -2,7 +2,7 @@ Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing 
 ########################################################################################
 :date: 2018-11-05 14:49:43
 :author: Rebecca Miko
-:category: Seminar
+:category: Seminars
 :tags: Computational neuroscience, Neuroscience, Cerebellum
 :slug: computational-model-of-the-cerebellum-and-the-basal-ganglia-for-interval-timing-learning
 :summary: Ohki Katakura's journal club session on his master's work "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning (Ohki Katakura; Tadashi Yamazaki, 2016)`_"
