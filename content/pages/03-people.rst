@@ -62,6 +62,11 @@ Core Faculty and Research Staff
 Research Fellows
 -----------------
 
+- `Reinoud Maex`_ |br|
+  Research Interests: cerebellar computation, modelling drug addiction
+
+.. _Reinoud Maex: #
+
 - `Yi Sun`_ |br|
   Research Interests: probabilistic modelling of data, unsupervised learning, model selection
 
@@ -72,31 +77,41 @@ Research Fellows
 
 .. _Paolo Dini: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/paolo-dini(132836b1-d655-4e5b-aeb1-20c752f9c30b).html
 
-- `Christoph Metzner`_ |br|
-  Research Interests: computational neuroscience, olfaction
-
-.. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
-
 - `Damien Drix`_ |br|
   Research Interests: neuroscience, dendritic computation, neuromorphic hardware
 
 .. _Damien Drix: https://scholar.google.co.uk/citations?user=y5LqFCQAAAAJ&hl=en
 
-- `Cosme Llerena`_ |br|
-  Research Interests: signal processing, data analysis, sound applications, machine learning
+Visiting Research Fellows
+-------------------------
 
-.. _Cosme Llerena: #
+- `Christoph Metzner`_ |br|
+  Research Interests: computational neuroscience, olfaction
 
-Masters Students
------------------
+.. _Christoph Metzner: http://homepages.herts.ac.uk/~cm15acr
 
-- `Anuradha Sulane`_ |br|
-  Research Interests: machine learning, neural networks and audio recognition
+- `Simon O'Connor`_ |br|
+  Research Interests: information processing in the olfactory system
 
-.. _Anuradha Sulane: #
+.. _Simon O'Connor: #
+
+- `Jim Bower`_ |br|
+  Research Interests: computations in the cerebellum and olfactory system, simulator development, educational technology
+
+.. _Jim Bower: #
 
 PhD Students
 ------------
+
+- `Wajih ul Islam`_ |br|
+  Research Interests: machine learning and image processing
+
+.. _Wajih ul Islam: #
+
+- `Ohki Katakura`_ |br|
+  Research Interests: cerebellar computation
+
+.. _Ohki Katakura: #
 
 - `Rebecca Miko <https://uk.linkedin.com/in/rebecca-miko>`__ |br|
   Research Interests: computational neuroscience, robotics and olfaction
@@ -138,9 +153,6 @@ PhD Students
 
 .. His last name requires a different character - can't use the standard linking way for it
 
-- `Jean Petrić <http://jeanpetric.github.io>`_ |br|
-  Research Interests: machine learning and software defect prediction
-
 - `Marco Craveiro`_ |br|
   Research Interests: computational modelling, computational neuroscience
 
@@ -166,12 +178,21 @@ PhD Students
 
 .. _Paul Moggridge: https://uk.linkedin.com/in/pmmoggridge
 
-
 - `Sam Sutton <https://uk.linkedin.com/in/samuel-sutton-582a00b5>`__ |br|
   Research Interests: machine learning, image processing, olfaction
 
+- `Anuradha Sulane`_ |br|
+  Research Interests: machine learning, neural networks and audio recognition
+
+.. _Anuradha Sulane: #
+
 Affiliated Faculty
 ------------------
+
+- `Olga Tveretina`_ |br|
+  Research Interests: verification of hybrid systems, propositional proof complexity​, dynamical systems
+
+.. _Olga Tveretina: #
 
 - `Farshid Amirabdollahian`_ |br|
   Research Interests: human-robot interaction, adaptive systems
@@ -218,26 +239,27 @@ Affiliated Faculty
 
 .. _Daniel Polani: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/daniel-polani(01cd29b6-ead6-4b2c-9e73-e39f197bd41d).html
 
-Visiting Research Fellows
--------------------------
+Artists in Residence
+----------------------
+- `Anna Dumitriu`_ |br|
 
-- `Reinoud Maex`_ |br|
-  Research Interests: cerebellar computation, modelling drug addiction
+.. _Anna Dumitriu: http://annadumitriu.tumblr.com/
 
-.. _Reinoud Maex: #
+- `Alex May`_ |br|
 
-- `Simon O'Connor`_ |br|
-  Research Interests: information processing in the olfactory system
+.. _Alex May: https://www.alexmayarts.co.uk/
 
-.. _Simon O'Connor: #
-
-- `Jim Bower`_ |br|
-  Research Interests: computations in the cerebellum and olfactory system, simulator development, educational technology
-
-.. _Jim Bower: #
 
 Previous Group Members
 ----------------------
+
+- `Cosme Llerena`_ |br|
+  Research Interests: signal processing, data analysis, sound applications, machine learning
+
+.. _Cosme Llerena: #
+
+- `Jean Petrić <http://jeanpetric.github.io>`_ |br|
+  Research Interests: machine learning and software defect prediction
 
 - `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
