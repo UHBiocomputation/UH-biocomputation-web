@@ -45,7 +45,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Reinoud Maex - On the Nernst-Planck equation
 DTSTART;TZID=Europe/London:20181116T160000
 DTEND;TZID=Europe/London:20181116T170000
 UID:2018-11-16T00:00:00-00:01
@@ -178,6 +178,14 @@ SUMMARY:Neil Davey - --
 DTSTART;TZID=Europe/London:20190308T160000
 DTEND;TZID=Europe/London:20190308T170000
 UID:2019-03-08T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edward Wakelam - --
+DTSTART;TZID=Europe/London:20190315T160000
+DTEND;TZID=Europe/London:20190315T170000
+UID:2019-03-15T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
