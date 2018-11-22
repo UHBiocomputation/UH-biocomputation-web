@@ -10,21 +10,18 @@
 	4, Mohammad Tayarani-Najaran, "`Maximum Satisfiability: Anatomy of the Fitness Landscape for a Hard Combinatorial Optimization Problem -- Continued\ <{filename}/20181019-maximum-satisfiability-anatomy-of-the-fitness-landscape-for-a-hard-combinatorial-optimization-problem.rst>`__", 26/10/18
 	5, Ohki Katakura, "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning\ <{filename}/20181105-computational-model-of-the-cerebellum-and-the-basal-ganglia-for-interval-timing-learning.rst>`__", 09/11/18
 	6, Reinoud Maex, "`On the Nernst-Planck equation\ <{filename}/20181113-on-the-nernst-planck-equation.rst>`__", 16/11/18
-	7, Ronak Bhavsar, "`--\ <#>`__", 23/11/18
-	8, Alex May and Anna Dumitriu, "`Biocomputation Robots and ArchaeaBot Project\ <{filename}/20181031-biocomputation-robots-and-archaeabot-project.rst>`__", 30/11/18
-	9, Na Helian, "`--\ <#>`__", 07/12/18
-	10, Weam Binjumah, "`--\ <#>`__", 14/12/18
-	11, Rene te Boekhorst, "`--\ <#>`__", 21/12/18
-	12, Deepak Panday, "`--\ <#>`__", 28/12/18
-	13, Julia Goncharenko, "`--\ <#>`__", 04/01/19
-	14, Anuradha Sulane, "`--\ <#>`__", 11/01/19
-	15, Sam Sutton, "`--\ <#>`__", 18/01/19
-	16, Volker Steuber, "`--\ <#>`__", 25/01/19
-	17, Ankur Sinha, "`--\ <#>`__", 01/02/19
-	18, Damien Drix, "`--\ <#>`__", 08/02/19
-	19, Marco Craveiro, "`--\ <#>`__", 15/02/19
-	20, Shabnam Kadir, "`--\ <#>`__", 22/02/19
-	21, Rebecca Miko, "`--\ <#>`__", 01/03/19
-	22, Neil Davey, "`--\ <#>`__", 08/03/19
-	23, Edward Wakelam, "`--\ <#>`__", 15/03/19
+	7, Alex May and Anna Dumitriu, "`Biocomputation Robots and ArchaeaBot Project\ <{filename}/20181031-biocomputation-robots-and-archaeabot-project.rst>`__", 30/11/18
+	8, Rene te Boekhorst, "`--\ <#>`__", 07/12/18
+	9, Deepak Panday, "`--\ <#>`__", 14/12/18
+	10, Julia Goncharenko, "`--\ <#>`__", 21/12/18
+	11, Anuradha Sulane, "`--\ <#>`__", 28/12/18
+	12, Sam Sutton, "`--\ <#>`__", 04/01/19
+	13, Volker Steuber, "`--\ <#>`__", 11/01/19
+	14, Ankur Sinha, "`--\ <#>`__", 18/01/19
+	15, Damien Drix, "`--\ <#>`__", 25/01/19
+	16, Marco Craveiro, "`--\ <#>`__", 01/02/19
+	17, Shabnam Kadir, "`--\ <#>`__", 08/02/19
+	18, Neil Davey, "`--\ <#>`__", 15/02/19
+	19, Edward Wakelam, "`--\ <#>`__", 22/02/19
+	20, Na Helian, "`--\ <#>`__", 01/03/19
 
