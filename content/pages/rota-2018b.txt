@@ -15,13 +15,14 @@
 	9, Deepak Panday, "`--\ <#>`__", 14/12/18
 	10, Julia Goncharenko, "`--\ <#>`__", 21/12/18
 	11, Anuradha Sulane, "`--\ <#>`__", 28/12/18
-	12, Sam Sutton, "`--\ <#>`__", 04/01/19
-	13, Volker Steuber, "`--\ <#>`__", 11/01/19
-	14, Ankur Sinha, "`--\ <#>`__", 18/01/19
-	15, Damien Drix, "`--\ <#>`__", 25/01/19
-	16, Marco Craveiro, "`--\ <#>`__", 01/02/19
-	17, Shabnam Kadir, "`--\ <#>`__", 08/02/19
-	18, Neil Davey, "`--\ <#>`__", 15/02/19
-	19, Edward Wakelam, "`--\ <#>`__", 22/02/19
-	20, Na Helian, "`--\ <#>`__", 01/03/19
+	12, Stiphen Chowdhury, "`--\ <#>`__", 04/01/19
+	13, Sam Sutton, "`--\ <#>`__", 11/01/19
+	14, Volker Steuber, "`--\ <#>`__", 18/01/19
+	15, Ankur Sinha, "`--\ <#>`__", 25/01/19
+	16, Damien Drix, "`--\ <#>`__", 01/02/19
+	17, Marco Craveiro, "`--\ <#>`__", 08/02/19
+	18, Shabnam Kadir, "`--\ <#>`__", 15/02/19
+	19, Neil Davey, "`--\ <#>`__", 22/02/19
+	20, Edward Wakelam, "`--\ <#>`__", 01/03/19
+	21, Na Helian, "`--\ <#>`__", 08/03/19
 
