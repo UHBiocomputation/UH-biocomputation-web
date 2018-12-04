@@ -11,18 +11,19 @@
 	5, Ohki Katakura, "`Computational Model of the Cerebellum and the Basal Ganglia for Interval Timing Learning\ <{filename}/20181105-computational-model-of-the-cerebellum-and-the-basal-ganglia-for-interval-timing-learning.rst>`__", 09/11/18
 	6, Reinoud Maex, "`On the Nernst-Planck equation\ <{filename}/20181113-on-the-nernst-planck-equation.rst>`__", 16/11/18
 	7, Alex May and Anna Dumitriu, "`Biocomputation Robots and ArchaeaBot Project\ <{filename}/20181031-biocomputation-robots-and-archaeabot-project.rst>`__", 30/11/18
-	8, Rene te Boekhorst, "`--\ <#>`__", 07/12/18
+	8, Ankur Sinha, "`--\ <#>`__", 07/12/18
 	9, Deepak Panday, "`--\ <#>`__", 14/12/18
-	10, Julia Goncharenko, "`--\ <#>`__", 21/12/18
-	11, Anuradha Sulane, "`--\ <#>`__", 28/12/18
-	12, Stiphen Chowdhury, "`--\ <#>`__", 04/01/19
-	13, Sam Sutton, "`--\ <#>`__", 11/01/19
-	14, Volker Steuber, "`--\ <#>`__", 18/01/19
-	15, Ankur Sinha, "`--\ <#>`__", 25/01/19
-	16, Damien Drix, "`--\ <#>`__", 01/02/19
-	17, Marco Craveiro, "`--\ <#>`__", 08/02/19
-	18, Shabnam Kadir, "`--\ <#>`__", 15/02/19
-	19, Neil Davey, "`--\ <#>`__", 22/02/19
-	20, Edward Wakelam, "`--\ <#>`__", 01/03/19
-	21, Na Helian, "`--\ <#>`__", 08/03/19
+	10, Stiphen Chowdhury, "`--\ <#>`__", 04/01/19
+	11, Rene te Boekhorst, "`--\ <#>`__", 11/01/19
+	12, Julia Goncharenko, "`--\ <#>`__", 18/01/19
+	13, Anuradha Sulane, "`--\ <#>`__", 25/01/19
+	14, Sam Sutton, "`--\ <#>`__", 01/02/19
+	15, Volker Steuber, "`--\ <#>`__", 08/02/19
+	16, Ankur Sinha, "`--\ <#>`__", 15/02/19
+	17, Damien Drix, "`--\ <#>`__", 22/02/19
+	18, Marco Craveiro, "`--\ <#>`__", 01/03/19
+	19, Shabnam Kadir, "`--\ <#>`__", 08/03/19
+	20, Neil Davey, "`--\ <#>`__", 15/03/19
+	21, Edward Wakelam, "`--\ <#>`__", 22/03/19
+	22, Na Helian, "`--\ <#>`__", 29/03/19
 
