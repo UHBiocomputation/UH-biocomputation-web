@@ -12,7 +12,7 @@
 	6, Reinoud Maex, "`On the Nernst-Planck equation\ <{filename}/20181113-on-the-nernst-planck-equation.rst>`__", 16/11/18
 	7, Alex May and Anna Dumitriu, "`Biocomputation Robots and ArchaeaBot Project\ <{filename}/20181031-biocomputation-robots-and-archaeabot-project.rst>`__", 30/11/18
 	8, Ankur Sinha, "`NeuroFedora: a ready to use Free/Open source platform for neuroscientists\ <{filename}/20181204-neurofedora-a-ready-to-use-free-open-source-platform-for-neuroscientists.rst>`__", 07/12/18
-	9, Deepak Panday, "`--\ <#>`__", 14/12/18
+	9, Deepak Panday, "`Finding K-Means Clustering\ <{filename}/20181212-finding-k-means-clustering.rst>`__", 14/12/18
 	10, Stiphen Chowdhury, "`--\ <#>`__", 04/01/19
 	11, Rene te Boekhorst, "`--\ <#>`__", 11/01/19
 	12, Julia Goncharenko, "`--\ <#>`__", 18/01/19
