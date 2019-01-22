@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Julia Goncharenko - --
+SUMMARY:Julia Goncharenko - Microcircuits and their interactions in epilep
+ sy: is the focus out of focus?
 DTSTART;TZID=Europe/London:20190125T160000
 DTEND;TZID=Europe/London:20190125T170000
 UID:2019-01-25T00:00:00-00:01
