@@ -16,7 +16,7 @@ Epileptic seizures represent dysfunctional neural networks dominated by excessiv
 
 **Date:** 25/01/2019 |br|
 **Time:** 16:00 |br|
-**Location**: LB250
+**Location**: D118
 
 .. |br| raw:: html
 
