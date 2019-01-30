@@ -5,7 +5,7 @@
 	:quote: "
 
 	1, Julia Goncharenko, "`Microcircuits and their interactions in epilepsy: is the focus out of focus?\ <{filename}/20190122-microcircuits-and-their-interactions-in-epilepsy-is-the-focus-out-of-focus-.rst>`__", 25/01/19
-	2, Shabnam Kadir, "`--\ <#>`__", 01/02/19
+	2, Shabnam Kadir, "`The power of deep networks and learning\ <{filename}/20190130-the-power-of-deep-networks-and-learning.rst>`__", 01/02/19
 	3, Damien Drix, "`--\ <#>`__", 08/02/19
 	4, Marco Craveiro, "`--\ <#>`__", 15/02/19
 	5, Volker Steuber, "`--\ <#>`__", 22/02/19

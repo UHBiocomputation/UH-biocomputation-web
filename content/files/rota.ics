@@ -9,7 +9,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shabnam Kadir - --
+SUMMARY:Shabnam Kadir - The power of deep networks and learning
 DTSTART;TZID=Europe/London:20190201T160000
 DTEND;TZID=Europe/London:20190201T170000
 UID:2019-02-01T00:00:00-00:01
