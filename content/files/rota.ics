@@ -17,7 +17,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Damien Drix - --
+SUMMARY:Damien Drix - Learning in Cephalopod Brains
 DTSTART;TZID=Europe/London:20190208T160000
 DTEND;TZID=Europe/London:20190208T170000
 UID:2019-02-08T00:00:00-00:01
