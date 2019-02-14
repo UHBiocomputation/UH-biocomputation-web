@@ -25,7 +25,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Craveiro - --
+SUMMARY:Reinoud Maex - Modelling nicotine addiction
 DTSTART;TZID=Europe/London:20190215T160000
 DTEND;TZID=Europe/London:20190215T170000
 UID:2019-02-15T00:00:00-00:01
@@ -102,6 +102,22 @@ SUMMARY:Yi Sun - --
 DTSTART;TZID=Europe/London:20190419T160000
 DTEND;TZID=Europe/London:20190419T170000
 UID:2019-04-19T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mohammad Tayarani-Najaran - --
+DTSTART;TZID=Europe/London:20190426T160000
+DTEND;TZID=Europe/London:20190426T170000
+UID:2019-04-26T00:00:00-00:01
+LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
+ K\, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deepak Panday - --
+DTSTART;TZID=Europe/London:20190503T160000
+DTEND;TZID=Europe/London:20190503T170000
+UID:2019-05-03T00:00:00-00:01
 LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
