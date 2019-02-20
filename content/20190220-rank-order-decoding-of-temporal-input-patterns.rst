@@ -21,7 +21,7 @@ Volker will reference the following papers:
 
 "`Face processing using one spike per neurone (R. Van Rullen et al., 1998)`_"
 
-"`Rank order decoding of temporal parallel fibre input patterns in a complex Purkinje cell model (V. Steuber and E. De Schutter)`_"
+"`Rank order decoding of temporal parallel fibre input patterns in a complex Purkinje cell model (V. Steuber and E. De Schutter, 2002)`_"
 
 **Date:** 22/02/2019 |br|
 **Time:** 16:00 |br|
@@ -34,6 +34,6 @@ Volker will reference the following papers:
 .. _Pattern recognition computation using action potential timing for stimulus representation (J. J. Hopefield, 1995): https://www.nature.com/articles/376033a0 
 .. _Speed of processing in the human visual system (S. Thorpe, D. Fize and C. Marlot, 1996): https://www.nature.com/articles/381520a0
 .. _Face processing using one spike per neurone (R. Van Rullen et al., 1998): https://www.sciencedirect.com/science/article/pii/S0303264798000707
-.. _Rank order decoding of temporal parallel fibre input patterns in a complex Purkinje cell model (V. Steuber and E. De Schutter): https://www.sciencedirect.com/science/article/pii/S0925231202003880
+.. _Rank order decoding of temporal parallel fibre input patterns in a complex Purkinje cell model (V. Steuber and E. De Schutter, 2002): https://www.sciencedirect.com/science/article/pii/S0925231202003880
 
 
