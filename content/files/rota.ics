@@ -33,7 +33,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Volker Steuber - Rank order decoding of temporal input patterns
 DTSTART;TZID=Europe/London:20190222T160000
 DTEND;TZID=Europe/London:20190222T170000
 UID:2019-02-22T00:00:00-00:01
