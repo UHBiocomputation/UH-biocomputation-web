@@ -12,11 +12,12 @@
 	6, Sam Sutton, "`--\ <#>`__", 01/03/19
 	7, Neil Davey, "`--\ <#>`__", 08/03/19
 	8, Olga Tveretina, "`What Is Decidable About Low Dimensional Hybrid Systems?\ <#>`__", 15/03/19
-	9, Edward Wakelam, "`--\ <#>`__", 22/03/19
-	10, Na Helian, "`--\ <#>`__", 29/03/19
-	11, Rebecca Miko, "`--\ <#>`__", 05/04/19
-	12, Ohki Katakura, "`--\ <#>`__", 12/04/19
-	13, Yi Sun, "`--\ <#>`__", 19/04/19
-	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 26/04/19
-	15, Deepak Panday, "`--\ <#>`__", 03/05/19
+	9, Ankur Sinha, "`--\ <#>`__", 22/03/19
+	10, Edward Wakelam, "`--\ <#>`__", 29/03/19
+	11, Na Helian, "`--\ <#>`__", 05/04/19
+	12, Rebecca Miko, "`--\ <#>`__", 12/04/19
+	13, Ohki Katakura, "`--\ <#>`__", 19/04/19
+	14, Yi Sun, "`--\ <#>`__", 26/04/19
+	15, Mohammad Tayarani-Najaran, "`--\ <#>`__", 03/05/19
+	16, Deepak Panday, "`--\ <#>`__", 10/05/19
 
