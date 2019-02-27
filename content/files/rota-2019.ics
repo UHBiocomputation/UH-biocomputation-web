@@ -41,7 +41,8 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sutton - --
+SUMMARY:Sam Sutton - ASP: Learning to Forget With Adaptive Synaptic Plasti
+ city in Spiking Neural Networks
 DTSTART;TZID=Europe/London:20190301T160000
 DTEND;TZID=Europe/London:20190301T170000
 UID:2019-03-01T00:00:00-00:01

@@ -9,7 +9,7 @@
 	3, Damien Drix, "`Learning in Cephalopod Brains\ <{filename}/20190206-learning-in-cephalopod-brains.rst>`__", 08/02/19
 	4, Reinoud Maex, "`Modelling nicotine addiction\ <{filename}/20190214-modelling-nicotine-addiction.rst>`__", 15/02/19
 	5, Volker Steuber, "`Rank order decoding of temporal input patterns\ <{filename}/20190220-rank-order-decoding-of-temporal-input-patterns.rst>`__", 22/02/19
-	6, Sam Sutton, "`--\ <#>`__", 01/03/19
+	6, Sam Sutton, "`ASP: Learning to Forget With Adaptive Synaptic Plasticity in Spiking Neural Networks\ <{filename}/20190227-asp-learning-to-forget-with-adaptive-synaptic-plasticity-in-spiking-neural-networks.rst>`__", 01/03/19
 	7, Neil Davey, "`--\ <#>`__", 08/03/19
 	8, Olga Tveretina, "`What Is Decidable About Low Dimensional Hybrid Systems?\ <#>`__", 15/03/19
 	9, Ankur Sinha, "`--\ <#>`__", 22/03/19
