@@ -59,7 +59,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Edward Wakelam - --
 DTSTART;TZID=Europe/London:20190322T160000
 DTEND;TZID=Europe/London:20190322T170000
 UID:2019-03-22T00:00:00-00:01
@@ -67,7 +67,7 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edward Wakelam - --
+SUMMARY:Ankur Sinha - --
 DTSTART;TZID=Europe/London:20190329T160000
 DTEND;TZID=Europe/London:20190329T170000
 UID:2019-03-29T00:00:00-00:01
