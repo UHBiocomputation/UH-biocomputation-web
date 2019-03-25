@@ -69,12 +69,14 @@ LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
  K\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Ankur Sinha - Investigating the activity dependent dynamics of syn
+ aptic structures using biologically realistic modelling of peripheral lesi
+ on experiments
 DTSTART;TZID=Europe/London:20190329T160000
 DTEND;TZID=Europe/London:20190329T170000
 UID:2019-03-29T00:00:00-00:01
-LOCATION:LB252\, University of Hertfordshire\, College Lane\, Hatfield\, U
- K\, AL10 9AB
+LOCATION:D118\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Na Helian - --
