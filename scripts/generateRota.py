@@ -78,7 +78,7 @@ class generateRota:
         self.rota_time_start = 16
         self.rota_time_end = 17
         # default location
-        self.rota_location = ("LB252, University of Hertfordshire, " +
+        self.rota_location = ("D118, University of Hertfordshire, " +
                               "College Lane, Hatfield, UK, AL10 9AB")
 
         # Update these to change the source csv and the output files
