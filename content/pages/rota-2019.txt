@@ -12,7 +12,7 @@
 	6, Sam Sutton, "`ASP: Learning to Forget With Adaptive Synaptic Plasticity in Spiking Neural Networks\ <{filename}/20190227-asp-learning-to-forget-with-adaptive-synaptic-plasticity-in-spiking-neural-networks.rst>`__", 01/03/19
 	7, Olga Tveretina, "`What Is Decidable About Low Dimensional Hybrid Systems?\ <{filename}/20190313-what-is-decidable-about-low-dimensional-hybrid-systems-.rst>`__", 15/03/19
 	8, Edward Wakelam, "`The Potential for Student Performance Prediction in Small Cohorts with Minimal Available Attributes using Learning Analytics Techniques\ <{filename}/20190320-the-potential-for-student-performance-prediction-in-small-cohorts-with-minimal-available-attributes-using-learning-analytics-techniques.rst>`__", 22/03/19
-	9, Ankur Sinha, "`--\ <#>`__", 29/03/19
+	9, Ankur Sinha, "`Investigating the activity dependent dynamics of synaptic structures using biologically realistic modelling of peripheral lesion experiments\ <{filename}/20190325-investigating-the-activity-dependent-dynamics-of-synaptic-structures-using-biologically-realistic-modelling-of-peripheral-lesion-experiments.rst>`__", 29/03/19
 	10, Na Helian, "`--\ <#>`__", 05/04/19
 	11, Rebecca Miko, "`--\ <#>`__", 12/04/19
 	12, Ohki Katakura, "`--\ <#>`__", 19/04/19
