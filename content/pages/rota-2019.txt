@@ -14,7 +14,7 @@
 	8, Edward Wakelam, "`The Potential for Student Performance Prediction in Small Cohorts with Minimal Available Attributes using Learning Analytics Techniques\ <{filename}/20190320-the-potential-for-student-performance-prediction-in-small-cohorts-with-minimal-available-attributes-using-learning-analytics-techniques.rst>`__", 22/03/19
 	9, Ankur Sinha, "`Investigating the activity dependent dynamics of synaptic structures using biologically realistic modelling of peripheral lesion experiments\ <{filename}/20190325-investigating-the-activity-dependent-dynamics-of-synaptic-structures-using-biologically-realistic-modelling-of-peripheral-lesion-experiments.rst>`__", 29/03/19
 	10, Na Helian, "`OPTICS: Ordering Points To Identify the Clustering Structure\ <{filename}/20190403-optics-ordering-points-to-identify-the-clustering-structure.rst>`__", 05/04/19
-	11, Emil Dmitruk, "`--\ <#>`__", 12/04/19
+	11, Emil Dmitruk, "`An EMG-CT method using multiple surface electrodes in the forearm\ <{filename}/20190410-an-emg-ct-method-using-multiple-surface-electrodes-in-the-forearm.rst>`__", 12/04/19
 	12, Ohki Katakura, "`--\ <#>`__", 03/05/19
 	13, Yi Sun, "`--\ <#>`__", 10/05/19
 	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 17/05/19
