@@ -1,6 +1,6 @@
 Revisiting a theory of cerebellar cortex
 #################################################################
-:date: 2019-05-14 11:08:44
+:date: 2019-05-14 21:28:45
 :author: Ohki Katakura
 :category: Seminars
 :tags: Computational Neuroscience
