@@ -5,9 +5,9 @@ Introduction to Functional Data Analysis
 :category: Seminars
 :tags: computational statistics, data analysis
 :slug: introduction-to-functional-data-analysis
-:summary: Yi Sun's journal club session, where she will present the paper "`Applied Functional Data Analysis: Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002)`_"
+:summary: Yi Sun's journal club session, where she will present the paper "`Applied Functional Data Analysis Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002)`_"
 
-Yi Sun's journal club session, where she will present the paper "`Applied Functional Data Analysis: Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002)`_"
+Yi Sun's journal club session, where she will present the paper "`Applied Functional Data Analysis Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002)`_"
 
 ------------
 
@@ -29,7 +29,7 @@ In this talk, Yi will introduce the basic idea of FDA using a case study present
     <br />
 
 
-.. _Applied Functional Data Analysis: Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002): https://books.google.co.uk/books?hl=en&lr=&id=WE3SzeVEvDkC&oi=fnd&pg=PR5&dq=%5B1%5D+Ramsay,+J.+O.+and+Silverman+B.W.:+Applied+Functional+Data+Analysis:+Methods+and+Case+Studies,+New+York:+Springer-Verlag,+2002.+Chapter+6+and+Chapter+7&ots=WPBFyEy6Io&sig=Emt7blkjWVVXl57sS2qzg3TxDV8#v=onepage&q&f=false
+.. _Applied Functional Data Analysis Methods and Case Studies (Ramsay, J. O. and Silverman B.W, 2002): https://books.google.co.uk/books?hl=en&lr=&id=WE3SzeVEvDkC&oi=fnd&pg=PR5&dq=%5B1%5D+Ramsay,+J.+O.+and+Silverman+B.W.:+Applied+Functional+Data+Analysis:+Methods+and+Case+Studies,+New+York:+Springer-Verlag,+2002.+Chapter+6+and+Chapter+7&ots=WPBFyEy6Io&sig=Emt7blkjWVVXl57sS2qzg3TxDV8#v=onepage&q&f=false
 
 
 

@@ -5,9 +5,9 @@ Magnetic-inspired optimization algorithms: Operators and structures
 :category: Seminars
 :tags: computational neuroscience, algorithms
 :slug: magnetic-inspired-optimization-algorithms-operators-and-structures
-:summary: Mohammad Tayarani-Najaran's journal club session, where he will present the paper "`Magnetic-inspired optimization algorithms: Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014)`_"
+:summary: Mohammad Tayarani-Najaran's journal club session, where he will present the paper "`Magnetic-inspired optimization algorithms Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014)`_"
 
-Mohammad Tayarani-Najaran's journal club session, where he will present the paper "`Magnetic-inspired optimization algorithms: Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014)`_"
+Mohammad Tayarani-Najaran's journal club session, where he will present the paper "`Magnetic-inspired optimization algorithms Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014)`_"
 
 ------------
 
@@ -23,7 +23,7 @@ A novel optimization algorithm, called the Magnetic Optimization Algorithms (MOA
     <br />
 
 
-.. _Magnetic-inspired optimization algorithms: Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014): https://www.sciencedirect.com/science/article/pii/S2210650214000509
+.. _Magnetic-inspired optimization algorithms Operators and structures (M.-H. Tayarani-N., M.-R. Akbarzadeh-T, 2014): https://www.sciencedirect.com/science/article/pii/S2210650214000509
 
 
 
