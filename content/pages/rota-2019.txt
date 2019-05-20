@@ -16,7 +16,12 @@
 	10, Na Helian, "`OPTICS: Ordering Points To Identify the Clustering Structure\ <{filename}/20190403-optics-ordering-points-to-identify-the-clustering-structure.rst>`__", 05/04/19
 	11, Emil Dmitruk, "`An EMG-CT method using multiple surface electrodes in the forearm\ <{filename}/20190410-an-emg-ct-method-using-multiple-surface-electrodes-in-the-forearm.rst>`__", 12/04/19
 	12, Ohki Katakura, "`Revisiting a theory of cerebellar cortex\ <{filename}/20190503-revisiting-a-theory-of-cerebellar-cortex.rst>`__", 03/05/19
-	13, Yi Sun, "`--\ <#>`__", 10/05/19
-	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 17/05/19
+	13, Yi Sun, "`Introduction to Functional Data Analysis\ <{filename}/20190516-introduction-to-functional-data-analysis.rst>`__", 10/05/19
+	14, Mohammad Tayarani-Najaran, "`Magnetic-inspired optimization algorithms: Operators and structures\ <{filename}/20190516-magnetic-inspired-optimization-algorithms-operators-and-structures.rst>`__", 17/05/19
 	15, Deepak Panday, "`--\ <#>`__", 24/05/19
+	16, Michael Schmuker, "`--\ <#>`__", 31/05/19
+	17, Yaqoob Muhammad, "`--\ <#>`__", 07/06/19
+	18, Rene te Boekhorst, "`--\ <#>`__", 14/06/19
+	19, Julia Goncharenko, "`--\ <#>`__", 21/06/19
+	20, Shabnam Kadir, "`--\ <#>`__", 28/06/19
 

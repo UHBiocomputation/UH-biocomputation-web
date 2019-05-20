@@ -105,19 +105,20 @@ LOCATION:D118\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Sun - --
+SUMMARY:Yi Sun - Introduction to Functional Data Analysis
 DTSTART;TZID=Europe/London:20190510T160000
 DTEND;TZID=Europe/London:20190510T170000
 UID:2019-05-10T00:00:00-00:01
-LOCATION:D118\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mohammad Tayarani-Najaran - --
+SUMMARY:Mohammad Tayarani-Najaran - Magnetic-inspired optimization algorit
+ hms: Operators and structures
 DTSTART;TZID=Europe/London:20190517T160000
 DTEND;TZID=Europe/London:20190517T170000
 UID:2019-05-17T00:00:00-00:01
-LOCATION:D118\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +126,47 @@ SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20190524T160000
 DTEND;TZID=Europe/London:20190524T170000
 UID:2019-05-24T00:00:00-00:01
-LOCATION:D118\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Schmuker - --
+DTSTART;TZID=Europe/London:20190531T160000
+DTEND;TZID=Europe/London:20190531T170000
+UID:2019-05-31T00:00:00-00:01
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaqoob Muhammad - --
+DTSTART;TZID=Europe/London:20190607T160000
+DTEND;TZID=Europe/London:20190607T170000
+UID:2019-06-07T00:00:00-00:01
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rene te Boekhorst - --
+DTSTART;TZID=Europe/London:20190614T160000
+DTEND;TZID=Europe/London:20190614T170000
+UID:2019-06-14T00:00:00-00:01
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julia Goncharenko - --
+DTSTART;TZID=Europe/London:20190621T160000
+DTEND;TZID=Europe/London:20190621T170000
+UID:2019-06-21T00:00:00-00:01
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
+ \, AL10 9AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shabnam Kadir - --
+DTSTART;TZID=Europe/London:20190628T160000
+DTEND;TZID=Europe/London:20190628T170000
+UID:2019-06-28T00:00:00-00:01
+LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 END:VCALENDAR
