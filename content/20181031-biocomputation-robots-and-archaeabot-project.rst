@@ -21,9 +21,9 @@ Anna Dumitriu and Alex May (Visiting Research Fellows: Artists in Residence in C
 
     <center>
 
-.. image:: {filename}/images/ArchaeaBot.png
+.. image:: {static}/images/ArchaeaBot.png
     :height: 200px
-    :target: {filename}/images/ArchaeaBot.png
+    :target: {static}/images/ArchaeaBot.png
     :alt: ArchaeaBot by Anna Dumitriu and Alex May Photo credit Vanessa Graf - Ars Electronica 2018.
 
 .. raw:: html

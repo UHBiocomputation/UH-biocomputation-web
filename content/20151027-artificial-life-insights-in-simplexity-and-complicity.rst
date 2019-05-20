@@ -35,7 +35,7 @@ and final year projects inspired by them to instigate a discussion
 about complex systems.
 
 
-`(Attachment) <{filename}/files/20151027-attachment.pdf>`__
+`(Attachment) <{static}/files/20151027-attachment.pdf>`__
 
 **Date:** 30/10/2015 |br|
 **Time:** 16:00 |br|
