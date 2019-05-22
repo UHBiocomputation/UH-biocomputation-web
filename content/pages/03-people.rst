@@ -103,6 +103,11 @@ Visiting Research Fellows
 PhD Students
 ------------
 
+- `Emil Dmitruk`_ |br|
+  Research Interests: computational homology, neural coding, and sensory systems.
+
+.. _Emil Dmitruk: #
+
 - `Wajih ul Islam`_ |br|
   Research Interests: machine learning and image processing
 
