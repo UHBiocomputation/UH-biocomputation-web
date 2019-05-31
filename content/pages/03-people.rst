@@ -103,6 +103,12 @@ Visiting Research Fellows
 PhD Students
 ------------
 
+- `Yaqoob Muhammad`_ |br|
+  Research Interests: computational neuroscience, machine learning, and temporal pattern recognition
+
+.. _Yaqoob Muhammad: #
+
+
 - `Emil Dmitruk`_ |br|
   Research Interests: computational homology, neural coding, and sensory systems.
 
