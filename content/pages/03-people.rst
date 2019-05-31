@@ -100,6 +100,16 @@ Visiting Research Fellows
 
 .. _Jim Bower: #
 
+Visiting Post-graduate Students
+--------------------------------
+
+- `Shavika Rastogi`_ |br|
+  Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
+
+.. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
+
+
+
 PhD Students
 ------------
 
