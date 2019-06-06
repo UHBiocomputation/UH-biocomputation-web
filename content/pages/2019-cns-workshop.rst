@@ -16,6 +16,20 @@ Organisers
 - Anca Doloc-Mihu, SST, Georgia Gwinnett College, USA (:code:`adolocm AT gmail DOT com`).
 - Sharmila Venugopal, Neural Dynamics Group, UCLA, USA (:code:`vsharmila AT ucla DOT edu`).
 
+Pre-workshop questionnaire
+--------------------------
+
+The pre-workshop questionnaire is now live at https://forms.gle/V4yqh16HNV8DmwwE9
+
+The questionnaire collects information on career paths, roles and
+responsibilities, methods and tools that researchers use to get their work
+done. The questionnaire should not take more than 15 minutes. Please consider
+taking the questionnaire to share your experiences with the academic community.
+
+From the list of CNS*2019 attendees that volunteer to be on the panel for the
+workshop, the organisers will choose 6--8 diverse profiles to be able to cover
+the broadest range of topics.
+
 When and where
 ---------------
 
@@ -52,6 +66,6 @@ more specific questions, attendees will be invited to go out for lunch together
 with the organisers and panellists after the workshop.  The organisers are in
 the process of preparing a dossier of information that will be disseminated to
 the research community after the workshop. This will include information
-gathered from a questionnaire sent to the panellists before the workshop, along
-with salient points filtered from the discussion and Q&A sessions that will be
-held at the workshop.
+gathered from a questionnaire sent to attendees (and the academic community in
+general) before the workshop, along with salient points filtered from the
+discussion and Q&A sessions that will be held at the workshop.
