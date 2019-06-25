@@ -82,6 +82,11 @@ Research Fellows
 
 .. _Damien Drix: https://scholar.google.co.uk/citations?user=y5LqFCQAAAAJ&hl=en
 
+- `Ritesh Kumar`_ |br|
+  Research Interests: olfaction, machine learning
+
+.. _Ritesh Kumar: https://scholar.google.com/citations?user=ls5bkwsAAAAJ&hl=en
+
 Visiting Research Fellows
 -------------------------
 
