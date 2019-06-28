@@ -130,7 +130,8 @@ LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmuker - --
+SUMMARY:Michael Schmuker - Event-based artificial intelligence with neurom
+ orphic accelerators
 DTSTART;TZID=Europe/London:20190531T160000
 DTEND;TZID=Europe/London:20190531T170000
 UID:2019-05-31T00:00:00-00:01
@@ -138,7 +139,8 @@ LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yaqoob Muhammad - --
+SUMMARY:Yaqoob Muhammad - Evolution of robust spiking neural networks for 
+ temporal pattern recognition
 DTSTART;TZID=Europe/London:20190607T160000
 DTEND;TZID=Europe/London:20190607T170000
 UID:2019-06-07T00:00:00-00:01
@@ -146,26 +148,26 @@ LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
-DTSTART;TZID=Europe/London:20190614T160000
-DTEND;TZID=Europe/London:20190614T170000
-UID:2019-06-14T00:00:00-00:01
+SUMMARY:Rene te Boekhorst - Freeing Machines from Cartesian Chains
+DTSTART;TZID=Europe/London:20190628T160000
+DTEND;TZID=Europe/London:20190628T170000
+UID:2019-06-28T00:00:00-00:01
 LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Julia Goncharenko - --
-DTSTART;TZID=Europe/London:20190621T160000
-DTEND;TZID=Europe/London:20190621T170000
-UID:2019-06-21T00:00:00-00:01
+DTSTART;TZID=Europe/London:20190705T160000
+DTEND;TZID=Europe/London:20190705T170000
+UID:2019-07-05T00:00:00-00:01
 LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabnam Kadir - --
-DTSTART;TZID=Europe/London:20190628T160000
-DTEND;TZID=Europe/London:20190628T170000
-UID:2019-06-28T00:00:00-00:01
+DTSTART;TZID=Europe/London:20190712T160000
+DTEND;TZID=Europe/London:20190712T170000
+UID:2019-07-12T00:00:00-00:01
 LOCATION:E251\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
