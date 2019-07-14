@@ -39,6 +39,16 @@ can be found `here <https://www.cnsorg.org/cns-2019-workshops>`__.
 - Tuesday, 16th July: morning session (0930 - 1310)
 - Location: yet to be confirmed
 
+Panellists
+-----------
+
+- **Frances S. Chance**: Principal Member of the Technical Staff, Sandia National Laboratories, USA.
+- **Cengiz Gunay**: Assistant Professor, Information Technology, School of Science and Technology, Georgia Gwinnett College, USA.
+- **Malin Sandström**: Community engagement officer, INCF Secretariat, Karolinska Institute, Sweden.
+- **Anu Aggarwal**: Assistant Professor, Electrical and Computer Engineering, Grand Valley State University, MI, USA.
+- **Rodica Curtu**: Associate Professor, Department of Mathematics, University of Iowa, USA.
+- **Fernando da Silva Borges**: Post-doctoral fellow, Center for Mathematics Computation and Cognition, Federal University of ABC, São Paulo, Brazil.
+
 Workshop summary
 ----------------
 
