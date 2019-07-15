@@ -30,6 +30,12 @@ From the list of CNS*2019 attendees that volunteer to be on the panel for the
 workshop, the organisers will choose 6--8 diverse profiles to be able to cover
 the broadest range of topics.
 
+Post-workshop questionnaire
+----------------------------
+
+Please provide feedback on the workshop using this questionnaire:
+https://docs.google.com/forms/d/e/1FAIpQLSc9IoNSmUMJPkgJ2ACnPa1AmlYmMjFj0hiW7c6EH6i64CSy6Q/viewform?ts=5d265017
+
 When and where
 ---------------
 
@@ -44,10 +50,11 @@ Panellists
 
 - **Frances S. Chance**: Principal Member of the Technical Staff, Sandia National Laboratories, USA.
 - **Cengiz Gunay**: Assistant Professor, Information Technology, School of Science and Technology, Georgia Gwinnett College, USA.
-- **Malin Sandström**: Community engagement officer, INCF Secretariat, Karolinska Institute, Sweden.
+- **Malin Sandström**: Community Engagement Officer, INCF Secretariat, Karolinska Institute, Sweden.
 - **Anu Aggarwal**: Assistant Professor, Electrical and Computer Engineering, Grand Valley State University, MI, USA.
 - **Rodica Curtu**: Associate Professor, Department of Mathematics, University of Iowa, USA.
 - **Fernando da Silva Borges**: Post-doctoral fellow, Center for Mathematics Computation and Cognition, Federal University of ABC, São Paulo, Brazil.
+- **Alla Borisyuk**: Associate Professor, Department of Mathematics, University of Utah, USA.
 
 Workshop summary
 ----------------
