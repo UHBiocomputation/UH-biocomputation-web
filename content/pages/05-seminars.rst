@@ -3,11 +3,17 @@ Seminars
 :slug: 05-seminars
 :date: 2016-01-12 15:10:34
 
-The biocomputation group hosts a weekly journal club meeting. Please contact Rebecca Miko at r.miko AT herts.ac.uk or Sam Sutton at s.sutton3 AT herts.ac.uk if you have any queries. 
+The biocomputation group hosts a weekly journal club meeting. Please contact Emil Dmitruk at e.dmitruk AT herts.ac.uk if you have any queries. 
 Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
-January 2019 -
---------------
+September 2019 -
+----------------
+
+.. include:: rota-2019b.txt
+
+
+January 2019 - July 2019
+------------------------
 
 .. include:: rota-2019.txt
 
