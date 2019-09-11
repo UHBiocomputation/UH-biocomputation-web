@@ -90,9 +90,9 @@ Software Developed in Collaboration with Other Institutions
 - neuroConstruct_ |br|
   Software for the construction and visualisation of biologically detailed neuronal networks in 3D.
 
-.. image:: {filename}/images/neuroConstruct_Large.jpg
+.. image:: {static}/images/neuroConstruct_Large.jpg
     :align: center
-    :target: {filename}/images/neuroConstruct_Large.jpg
+    :target: {static}/images/neuroConstruct_Large.jpg
     :alt: simple cerebellar network model in neuroConstruct (P. Gleeson)
 
 .. _neuroConstruct: http://www.neuroconstruct.org/

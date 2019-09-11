@@ -12,19 +12,19 @@ The `Biocomputation Research Group <#>`__ forms part of the `Centre for Computer
 
     <center>
 
-.. image:: {filename}/images/dna-sequence-1570578-639x427.jpg
+.. image:: {static}/images/dna-sequence-1570578-639x427.jpg
     :height: 200px
-    :target: {filename}/images/dna-sequence-1570578-639x427.jpg
+    :target: {static}/images/dna-sequence-1570578-639x427.jpg
     :alt: DNA sequence from Freeimages.com under the FreeImages.com content license.
 
-.. image:: {filename}/images/BoB.png
+.. image:: {static}/images/BoB.png
     :height: 200px
-    :target: {filename}/images/BoB.png
+    :target: {static}/images/BoB.png
     :alt: BoB
 
-.. image:: {filename}/images/Purkinje_bw.png
+.. image:: {static}/images/Purkinje_bw.png
     :height: 200px
-    :target: {filename}/images/Purkinje_bw.png
+    :target: {static}/images/Purkinje_bw.png
     :alt: Purkinje cell
 
 .. raw:: html

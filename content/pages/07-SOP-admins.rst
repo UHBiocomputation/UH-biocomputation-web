@@ -228,8 +228,8 @@ Non admins can open pull requests as documented in the nonadmin SOP document. Ad
 
 Pull requests that have been correctly created do not require anything other than a button click. They will specify that the pull request was made correctly and that the merge can be made without issues as shown in the figure below:
 
-.. image:: {filename}/images/github-merge-pull-request.png
-    :target: {filename}/images/github-merge-pull-request.png
+.. image:: {static}/images/github-merge-pull-request.png
+    :target: {static}/images/github-merge-pull-request.png
     :alt: Open a pull request.
 
 However, an admin should generally check that the changes made in the pull request are all correct. For small changes, you can just click on the "**Files changed**" tab and verify the changes. If they're OK, you can merge the pull request right away. For larger changes, you will have to checkout the person's branch, test the changes and then merge the request. The instructions to do this can be seen by clicking the "command line instructions" link in the merge ticket.
