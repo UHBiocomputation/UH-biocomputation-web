@@ -62,14 +62,14 @@ Fork the sources and make the changes
 
 Since non admins do not have write access to the repository, they must fork the repository on Github before proceeding. One must be signed in to Github to fork a repository. Once signed in, one can navigate to the repository they intend to fork and click on the fork button in the top right corner as shown in the image below:
 
-.. image:: {filename}/images/github-fork.png
-    :target: {filename}/images/github-fork.png
+.. image:: {static}/images/github-fork.png
+    :target: {static}/images/github-fork.png
     :alt: fork a repository
 
 Once the fork is complete, one will have a copy of the repository under one's username, as shown in the image below:
 
-.. image:: {filename}/images/github-fork-complete.png
-    :target: {filename}/images/github-fork-complete.png
+.. image:: {static}/images/github-fork-complete.png
+    :target: {static}/images/github-fork-complete.png
     :alt: forked a repository
 
 
@@ -148,8 +148,8 @@ Open a pull request on Github.
 
 Once the changes have been pushed to one's fork, navigate to the main repository. Github will detect that the fork has extra commits and ask if pull request needs to be opened, as shown in the image below:
 
-.. image:: {filename}/images/github-detect-push.png
-    :target: {filename}/images/github-detect-push.png
+.. image:: {static}/images/github-detect-push.png
+    :target: {static}/images/github-detect-push.png
     :alt: Github asks to open a pull request.
 
 |
@@ -158,8 +158,8 @@ Once the changes have been pushed to one's fork, navigate to the main repository
 When the button is clicked, it'll navigate to the next page where details on
 the pull request can be provided:
 
-.. image:: {filename}/images/github-open-pull-request.png
-    :target: {filename}/images/github-open-pull-request.png
+.. image:: {static}/images/github-open-pull-request.png
+    :target: {static}/images/github-open-pull-request.png
     :alt: Open a pull request.
 
 Here, as expected, the main repository is the **base fork**, while one's personal fork is the **head fork**. At the bottom of the page, which is not shown in the image above, it will also show what changes have been made. Please ensure that the "Able to merge" message appears here - if it does not, please contact one of the admins - merging would result in a conflict.
