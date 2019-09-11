@@ -154,6 +154,21 @@ An example:
 
     Ankur Sinha,Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons,20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst,2017-09-08,1600,1700,0,1
 
+Note that when a new rota is started (at the beginning of September and January), 
+there are 2 things to be done. First of all, a new CSV file should be added 
+to the :code:`scripts` folder (as described above). Second of all, the newly 
+created CSV file needs to be sourced in the :code:`content/pages/05-seminars.rst` 
+file. The followg example shows what text should be added just below the first 
+paragraph:
+
+.. code:: text
+    
+    September 2019 -
+    ----------------
+
+    .. include:: rota-2019b.txt
+
+
 If an entry should be added to the ical file, but not to the seminar page, for
 example, a colloquium talk that will not have a corresponding abstract
 published on the website and should not be listed on the website seminar list,
