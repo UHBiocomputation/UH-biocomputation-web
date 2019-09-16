@@ -5,6 +5,16 @@
 	:quote: "
 
 	1, Rebecca Miko, "`--\ <#>`__", 27/09/19
-	2, Nathan Beka, "`--\ <#>`__", 04/10/19
+	2, Ankur Sinha, "`--\ <#>`__", 04/10/19
 	3, Volker Steuber, "`--\ <#>`__", 11/10/19
+	4, Reinoud Maex, "`--\ <#>`__", 18/10/19
+	5, Ohki Katakura, "`--\ <#>`__", 25/10/19
+	6, Shabnam Kadir, "`--\ <#>`__", 01/11/19
+	7, Yaqoob Muhammad, "`--\ <#>`__", 08/11/19
+	8, Deepak Panday, "`--\ <#>`__", 15/11/19
+	9, Sam Sutton, "`--\ <#>`__", 22/11/19
+	10, Michael Schmuker, "`--\ <#>`__", 29/11/19
+	11, Mohammad Tayarani-Najaran, "`--\ <#>`__", 06/12/19
+	12, Rene te Boekhorst, "`--\ <#>`__", 13/12/19
+	13, Na Helian, "`--\ <#>`__", 20/12/19
 
