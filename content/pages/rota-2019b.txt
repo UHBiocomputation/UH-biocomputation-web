@@ -16,5 +16,4 @@
 	10, Michael Schmuker, "`--\ <#>`__", 29/11/19
 	11, Mohammad Tayarani-Najaran, "`--\ <#>`__", 06/12/19
 	12, Rene te Boekhorst, "`--\ <#>`__", 13/12/19
-	13, Na Helian, "`--\ <#>`__", 20/12/19
 
