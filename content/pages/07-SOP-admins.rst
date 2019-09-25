@@ -160,7 +160,7 @@ Note that when a new rota is started (at the beginning of September and January)
 there are 2 things to be done. First of all, a new CSV file should be added 
 to the :code:`scripts` folder (as described above). Second of all, the newly 
 created CSV file needs to be sourced in the :code:`content/pages/05-seminars.rst` 
-file. The followg example shows what text should be added just below the first 
+file. The following example shows what text should be added just below the first 
 paragraph:
 
 .. code:: text
