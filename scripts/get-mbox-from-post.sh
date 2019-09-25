@@ -8,7 +8,7 @@ POST_HEADER=""
 AUTHOR=""
 INPUT_FILE=""
 SESSION_DATE=$(date -d 'this Friday 4PM' '+%H%M %A %d %B %Y')
-SESSION_LOCATION="LB252"
+SESSION_LOCATION="D449"
 ADMIN="Admin <someone at herts.ac.uk>"
 
 function usage ()
