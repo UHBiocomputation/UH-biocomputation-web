@@ -153,7 +153,7 @@ It is possible to add a speaker without title and abstract file (leave the both 
 
 .. code:: text
 
-    Ankur Sinha,Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons,20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst,2017-09-08,1600,1700,0,1
+    Ankur Sinha,"Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons","20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst",2017-09-08,1600,1700,0,1
 
 
 Note that when a new rota is started (at the beginning of September and January), 
