@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Rebecca Miko - --
+SUMMARY:Vinesh Bhunjun - Variational AutoEncoders for fragrant molecule da
+ ta and Topic Modeling for tags/annotations
 DTSTART;TZID=Europe/London:20190927T160000
 DTEND;TZID=Europe/London:20190927T170000
 UID:2019-09-27T00:00:00-00:01
