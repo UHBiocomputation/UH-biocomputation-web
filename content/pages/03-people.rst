@@ -9,6 +9,11 @@ People
 Core Faculty and Research Staff
 --------------------------------
 
+- `Yi Sun`_ |br|
+  Research Interests: probabilistic modelling of data, unsupervised learning, model selection
+
+.. _Yi Sun: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/yi-sun(0ea48521-5ead-4285-929c-8db4b2aef1f0).html
+
 - `Na Helian`_ |br|
   Research Interests: machine learning, cloud computing
 
@@ -29,26 +34,6 @@ Core Faculty and Research Staff
 
 .. _Rene te Boekhorst: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
 
-- `David Bowes`_ |br|
-  Research Interests: machine learning, software defect prediction
-
-.. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
-
-- `Neil Davey`_ |br|
-  Research Interests: computational neuroscience, machine learning, artificial intelligence
-
-.. _Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
-
-- `Chrystopher Nehaniv`_ |br|
-  Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
-
-.. _Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
-
-- `Maria Schilstra`_ |br|
-  Research Interests: biocomputation, systems biology, genetic regulatory networks
-
-.. _Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
-
 - `Michael Schmuker`_ |br|
   Research Interests: biocomputation, sensory computation and neuromorphic computing, olfaction, chemical sensing, data analytics
 
@@ -62,15 +47,15 @@ Core Faculty and Research Staff
 Research Fellows
 -----------------
 
+- `Mohammad Tayaraninajaran`_ |br|
+  Research Interests: optimisation algorithms, machine learning
+
+.. _Mohammad Tayaraninajaran: #
+
 - `Reinoud Maex`_ |br|
   Research Interests: cerebellar computation, modelling drug addiction
 
 .. _Reinoud Maex: #
-
-- `Yi Sun`_ |br|
-  Research Interests: probabilistic modelling of data, unsupervised learning, model selection
-
-.. _Yi Sun: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/yi-sun(0ea48521-5ead-4285-929c-8db4b2aef1f0).html
 
 - `Paolo Dini`_ |br|
   Research Interests: algebraic biology (BIOMICS)
@@ -139,8 +124,10 @@ PhD Students
 
 .. _Ohki Katakura: #
 
-- `Rebecca Miko <https://uk.linkedin.com/in/rebecca-miko>`__ |br|
+- `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, robotics and olfaction
+
+.. _Rebecca Miko: https://uk.linkedin.com/in/rebecca-miko
 
 - `Ronak Bhavsar`_ |br|
   Research Interests: machine learning and EEG analysis
@@ -189,11 +176,6 @@ PhD Students
 
 .. _Sudhir Sharma: #
 
-- `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
-  Research Interests: rehabilitation robotics
-
-.. _Azeemsha Poyil: #
-
 - `Deepak Panday`_ |br|
   Research Interests: machine learning
 
@@ -206,11 +188,6 @@ PhD Students
 
 - `Sam Sutton <https://uk.linkedin.com/in/samuel-sutton-582a00b5>`__ |br|
   Research Interests: machine learning, image processing, olfaction
-
-- `Anuradha Sulane`_ |br|
-  Research Interests: machine learning, neural networks and audio recognition
-
-.. _Anuradha Sulane: #
 
 Affiliated Faculty
 ------------------
@@ -279,13 +256,47 @@ Artists in Residence
 Previous Group Members
 ----------------------
 
+- `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
+  Research Interests: rehabilitation robotics
+
+.. _Azeemsha Poyil: #
+
+- `Anuradha Sulane`_ |br|
+  Research Interests: machine learning, neural networks and audio recognition
+
+.. _Anuradha Sulane: #
+
+- `David Bowes`_ |br|
+  Lancaster University, UK |br|
+  Research Interests: machine learning, software defect prediction
+
+.. _David Bowes: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
+
+- `Neil Davey`_ |br|
+  Research Interests: computational neuroscience, machine learning, artificial intelligence
+
+.. _Neil Davey: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/neil-davey(e4c7d820-49e3-4615-a599-b60a82e5c697).html
+
+- `Chrystopher Nehaniv`_ |br|
+  University of Waterloo, Canada |br|
+  Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
+
+.. _Chrystopher Nehaniv: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
+
+- `Maria Schilstra`_ |br|
+  Research Interests: biocomputation, systems biology, genetic regulatory networks
+
+.. _Maria Schilstra: http://vuh-la-risprt.herts.ac.uk/portal/en/persons/maria-schilstra(193a33f6-5a8f-4aae-9976-126d5295ec2e).html
+
 - `Cosme Llerena`_ |br|
   Research Interests: signal processing, data analysis, sound applications, machine learning
 
 .. _Cosme Llerena: #
 
-- `Jean Petrić <http://jeanpetric.github.io>`_ |br|
+- `Jean Petrić`_ |br|
   Research Interests: machine learning and software defect prediction
+
+.. _Jean Petrić: http://jeanpetric.github.io
 
 - `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
@@ -307,8 +318,10 @@ Previous Group Members
 
 .. _Parivash Ashrafi: #
 
-- `Hünkar Can Tunç <#>`__ |br|
+- `Hünkar Can Tunç`_ |br|
   Research Interests: computational neuroscience, balanced asynchronous irregular networks
+
+.. _Hünkar Can Tunç: #
 
 - `Kirsty Kidd`_ |br|
   Research Interests: evolutionary changes of neuronal morphologies
