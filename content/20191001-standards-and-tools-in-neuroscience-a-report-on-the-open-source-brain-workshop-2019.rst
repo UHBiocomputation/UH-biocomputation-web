@@ -62,6 +62,18 @@ References/URLs
 - NeuroML: https://www.neuroml.org
 - NeuroFedora: https://neuro.fedoraproject.org
 
+|
+|
+
+**Date:** 04/10/2019 |br|
+**Time:** 16:00 |br|
+**Location**: D449
+
+
+.. |br| raw:: html
+
+    <br />
+
 
 .. _Open Source Brain Workshop: http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019
 .. _Open Source Brain: http://www.opensourcebrain.org/
