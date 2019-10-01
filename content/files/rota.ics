@@ -9,7 +9,8 @@ LOCATION:D449\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Sinha - --
+SUMMARY:Ankur Sinha - Standards and Tools in Neuroscience: a report on the
+  Open Source Brain Workshop 2019
 DTSTART;TZID=Europe/London:20191004T160000
 DTEND;TZID=Europe/London:20191004T170000
 UID:2019-10-04T00:00:00-00:01
