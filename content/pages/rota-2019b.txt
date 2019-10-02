@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Vinesh Bhunjun, "`Variational AutoEncoders for fragrant molecule data and Topic Modeling for tags/annotations\ <{filename}/20190925-variational-autoencoders-for-fragrant-molecule-data-and-topic-modeling-for-tags-annotations.rst>`__", 27/09/19
+	1, Vinesh Bhunjun, "`Variational AutoEncoders for fragrant molecule data and Topic Modeling for tags/annotations\ <{filename}/20190925-variational-autoencoders-for-fragrant-molecule-data.rst>`__", 27/09/19
 	2, Ankur Sinha, "`Standards and Tools in Neuroscience: a report on the Open Source Brain Workshop 2019\ <{filename}/20191001-standards-and-tools-in-neuroscience-a-report-on-the-open-source-brain-workshop-2019.rst>`__", 04/10/19
 	3, Volker Steuber, "`--\ <#>`__", 11/10/19
 	4, Reinoud Maex, "`--\ <#>`__", 18/10/19

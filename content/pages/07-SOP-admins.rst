@@ -142,7 +142,7 @@ entry that must be added to the ical file and the seminar page
 rota page. The Makefile takes care of generating the rota and ical files, and
 copying them to the required locations. 
 
-Setting a speaker for the JC session requires 2 things: (1) generating a file with the abstract of the talk (2) and modifying the CSV file in the :code:`scripts` folder. Generation of the file with abstract (1) is done by adding a new post which content is the abstract of the talk. Adding a new post is described above. The CSV file should be appended with the information about the talk and should be done according to following formula:
+Setting a speaker for the JC session requires 2 things: (1) generating a file with the abstract of the talk and (2) modifying the CSV file in the :code:`scripts` folder. Generation of the file with abstract (1) is done by adding a new post which content is the abstract of the talk. Adding a new post is described above. The CSV file should be appended with the information about the talk and should be done according to following formula:
 
 
 .. code:: text
