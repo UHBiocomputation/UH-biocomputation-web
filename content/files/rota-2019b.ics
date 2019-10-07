@@ -18,7 +18,8 @@ LOCATION:D449\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volker Steuber - --
+SUMMARY:Volker Steuber - Computational models of synaptic plasticity and i
+ nformation processing in the cerebellum
 DTSTART;TZID=Europe/London:20191011T160000
 DTEND;TZID=Europe/London:20191011T170000
 UID:2019-10-11T00:00:00-00:01
