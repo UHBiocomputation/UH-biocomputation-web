@@ -11,8 +11,7 @@ A central theme of the computational neuroscience research in the Biocomputation
 
 
 **Date:** 11/10/2019 |br|
-**Time:** 16:00 |br|
-**Location**: D449
+**Time:** [cancelled] |br|
 
 .. |br| raw:: html
 

@@ -6,7 +6,7 @@
 
 	1, Vinesh Bhunjun, "`Variational AutoEncoders for fragrant molecule data and Topic Modeling for tags/annotations\ <{filename}/20190925-variational-autoencoders-for-fragrant-molecule-data.rst>`__", 27/09/19
 	2, Ankur Sinha, "`Standards and Tools in Neuroscience: a report on the Open Source Brain Workshop 2019\ <{filename}/20191001-standards-and-tools-in-neuroscience-a-report-on-the-open-source-brain-workshop-2019.rst>`__", 04/10/19
-	3, Volker Steuber, "`Computational models of synaptic plasticity and information processing in the cerebellum\ <{filename}/20191007-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__", 11/10/19
+	3, Volker Steuber, "`[cancelled] Computational models of synaptic plasticity and information processing in the cerebellum\ <{filename}/20191007-computational-models-of-synaptic-plasticity-and-information-processing-in-the-cerebellum.rst>`__", 11/10/19
 	4, Reinoud Maex, "`--\ <#>`__", 18/10/19
 	5, Ohki Katakura, "`--\ <#>`__", 25/10/19
 	6, Shabnam Kadir, "`--\ <#>`__", 01/11/19
