@@ -43,7 +43,7 @@ LOCATION:D449\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yaqoob Muhammad - --
+SUMMARY:Yaqoob Muhammad - Towards Explainable Artificial Intelligence
 DTSTART;TZID=Europe/London:20191108T160000
 DTEND;TZID=Europe/London:20191108T170000
 UID:2019-11-08T00:00:00-00:01

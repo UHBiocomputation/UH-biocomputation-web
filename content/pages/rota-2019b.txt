@@ -9,7 +9,7 @@
 	3, Reinoud Maex, "`Re-uptake of potassium by neurons and glial cells\ <{filename}/20191014-re-uptake-of-potassium-by-neurons-and-glial-cells.rst>`__", 18/10/19
 	4, Ohki Katakura, "`Neuronal modelling of cerebellar Purkinje cell\ <{filename}/20191023-neuronal-modelling-of-cerebellar-purkinje-cell.rst>`__", 25/10/19
 	5, Shabnam Kadir, "`Clique topology reveals intrinsic geometric structure in neural correlations\ <{filename}/20191030-clique-topology-reveals-intrinsic-geometric-structure-in-neural-correlations.rst>`__", 01/11/19
-	6, Yaqoob Muhammad, "`--\ <#>`__", 08/11/19
+	6, Yaqoob Muhammad, "`Towards Explainable Artificial Intelligence\ <{filename}/20191106-towards-explainable-artificial-intelligence.rst>`__", 08/11/19
 	7, Deepak Panday, "`--\ <#>`__", 15/11/19
 	8, Sam Sutton, "`--\ <#>`__", 22/11/19
 	9, Michael Schmuker, "`--\ <#>`__", 29/11/19
