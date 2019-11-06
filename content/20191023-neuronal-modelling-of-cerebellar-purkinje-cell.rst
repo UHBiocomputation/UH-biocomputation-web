@@ -21,22 +21,23 @@ session, I will introduce details of the models (i.e., morphology and
 embedded ion channels) and the differences between all three of them.
 
 Papers:
+
 - De Schutter, E., Bower, J.M., 1994a. `"An active membrane model of the 
-cerebellar Purkinje cell. I. Simulation of current clamps in slice"
-<https://doi.org/10.1152/jn.1994.71.1.375>`.
-Journal of Neurophysiology 71, 375–400. 
+  cerebellar Purkinje cell. I. Simulation of current clamps in slice"
+  <https://doi.org/10.1152/jn.1994.71.1.375>`__.
+  Journal of Neurophysiology 71, 375–400. 
 - De Schutter, E., Bower, J.M., 1994b. `"An active membrane model of the 
-cerebellar Purkinje cell II. Simulation of synaptic responses"
-<https://doi.org/10.1152/jn.1994.71.1.401>`. Journal 
-of Neurophysiology 71, 401–419. 
+  cerebellar Purkinje cell II. Simulation of synaptic responses"
+  <https://doi.org/10.1152/jn.1994.71.1.401>`__. Journal 
+  of Neurophysiology 71, 401–419. 
 - Masoli, S., Solinas, S., D’Angelo, E., 2015. `"Action potential 
-processing in a detailed Purkinje cell model reveals a critical role for 
-axonal compartmentalization"
-<https://doi.org/10.3389/fncel.2015.00047>`. Front. Cell. Neurosci. 9. 
+  processing in a detailed Purkinje cell model reveals a critical role for 
+  axonal compartmentalization"
+  <https://doi.org/10.3389/fncel.2015.00047>`__. Front. Cell. Neurosci. 9. 
 - Zang, Y., Dieudonné, S., De Schutter, E., 2018. `"Voltage- and 
-Branch-Specific Climbing Fiber Responses in Purkinje Cells"
-<https://doi.org/10.1016/j.celrep.2018.07.011>`. Cell Reports 
-24, 1536–1549. 
+  Branch-Specific Climbing Fiber Responses in Purkinje Cells"
+  <https://doi.org/10.1016/j.celrep.2018.07.011>`__. Cell Reports 
+  24, 1536–1549. 
 
 
 |
