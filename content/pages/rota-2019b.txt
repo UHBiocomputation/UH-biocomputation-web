@@ -10,7 +10,7 @@
 	4, Ohki Katakura, "`Neuronal modelling of cerebellar Purkinje cell\ <{filename}/20191023-neuronal-modelling-of-cerebellar-purkinje-cell.rst>`__", 25/10/19
 	5, Shabnam Kadir, "`Clique topology reveals intrinsic geometric structure in neural correlations\ <{filename}/20191030-clique-topology-reveals-intrinsic-geometric-structure-in-neural-correlations.rst>`__", 01/11/19
 	6, Yaqoob Muhammad, "`Towards Explainable Artificial Intelligence\ <{filename}/20191106-towards-explainable-artificial-intelligence.rst>`__", 08/11/19
-	7, Deepak Panday, "`--\ <#>`__", 15/11/19
+	7, Deepak Panday, "`Unsupervised Feature Selection for Large Data sets\ <{filename}/20191113-unsupervised-feature-selection-for-large-data-sets.rst>`__", 15/11/19
 	8, Sam Sutton, "`--\ <#>`__", 22/11/19
 	9, Michael Schmuker, "`--\ <#>`__", 29/11/19
 	10, Mohammad Tayarani-Najaran, "`--\ <#>`__", 06/12/19
