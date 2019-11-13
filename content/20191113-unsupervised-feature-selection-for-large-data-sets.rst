@@ -5,9 +5,9 @@ Unsupervised Feature Selection for Large Data sets
 :category: Seminars
 :tags: big data; clustering; unsupervised feature selection;
 :slug: unsupervised-feature-selection-for-large-data-sets
-:summary: Deepak Panday's journal club session where he will talk about the paper "Towards Explainable Artificial Intelligence". 
+:summary: Deepak Panday's journal club session where he will talk about the paper "Unsupervised Feature Selection for Large Data sets". 
 
-This week on Journal Club session Deepak Panday will talk about the paper "Towards Explainable Artificial Intelligence".
+This week on Journal Club session Deepak Panday will talk about the paper "Unsupervised Feature Selection for Large Data sets".
 
 
 ------------
