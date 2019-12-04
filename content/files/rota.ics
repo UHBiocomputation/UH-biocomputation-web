@@ -85,12 +85,4 @@ UID:2019-12-06T00:00:00-00:01
 LOCATION:D449\, University of Hertfordshire\, College Lane\, Hatfield\, UK
  \, AL10 9AB
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rene te Boekhorst - --
-DTSTART;TZID=Europe/London:20191213T160000
-DTEND;TZID=Europe/London:20191213T170000
-UID:2019-12-13T00:00:00-00:01
-LOCATION:D449\, University of Hertfordshire\, College Lane\, Hatfield\, UK
- \, AL10 9AB
-END:VEVENT
 END:VCALENDAR
