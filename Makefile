@@ -13,12 +13,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=homepages.herts.ac.uk
+# FTP_HOST=homepages.herts.ac.uk
+FTP_HOST=vmcr-la-homep01.herts.ac.uk
 FTP_USER=biocomp
 FTP_TARGET_DIR=./public_html
 FTP_PORT=21
 
-SSH_HOST=homepages.herts.ac.uk
+# SSH_HOST=homepages.herts.ac.uk
+SSH_HOST=vmcr-la-homep01.herts.ac.uk
 SSH_PORT=22
 SSH_USER=biocomp
 SSH_TARGET_DIR=./public_html
@@ -66,7 +68,7 @@ help:
 
 rota:
 	python3 scripts/generateRota.py
-	cp rota-2019b.ics rota.ics
+	cp rota-2020.ics rota.ics
 	mv -v rota*ics content/files/
 	mv -v rota*txt content/pages/
 
