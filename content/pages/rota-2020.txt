@@ -4,14 +4,27 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Reinoud Maex, "`Re-uptake of potassium by neurons and glial cells\ <{filename}/20191014-re-uptake-of-potassium-by-neurons-and-glial-cells.rst>`__", 18/10/19
-	2, Ohki Katakura, "`Neuronal modelling of cerebellar Purkinje cell\ <{filename}/20191023-neuronal-modelling-of-cerebellar-purkinje-cell.rst>`__", 25/10/19
-	3, Shabnam Kadir, "`Clique topology reveals intrinsic geometric structure in neural correlations\ <{filename}/20191030-clique-topology-reveals-intrinsic-geometric-structure-in-neural-correlations.rst>`__", 01/11/19
-	4, Yaqoob Muhammad, "`Towards Explainable Artificial Intelligence\ <{filename}/20191106-towards-explainable-artificial-intelligence.rst>`__", 08/11/19
-	5, Deepak Panday, "`Unsupervised Feature Selection for Large Data sets\ <{filename}/20191113-unsupervised-feature-selection-for-large-data-sets.rst>`__", 15/11/19
-	6, Sam Sutton, "`Efficient codes and balanced networks\ <{filename}/20191121-efficient-codes-and-balanced-networks.rst>`__", 22/11/19
-	7, Ankur Sinha, "`Growth rules for the repair of asynchronous irregular neuronal networks after peripheral lesions\ <{filename}/20191125-growth-rules-for-the-repair-of-asynchronous-irregular-neuronal-networks-after-peripheral-lesions.rst>`__", 29/11/19
-	8, Mohammad Tayarani-Najaran, "`What an Ehm Leaks About You: Mapping Fillers into Personality Traits with Quantum Evolutionary Feature Selection Algorithms\ <{filename}/20191129-what-an-ehm-leaks-about-you-mapping-fillers-into-personality-traits-with-quantum-evolutionary-feature-selection-algorithms.rst>`__", 06/12/19
-	9, Vinesh Bhunjun, "`Variational AutoEncoders for fragrant molecule data and Topic Modeling for tags/annotations\ <{filename}/20190925-variational-autoencoders-for-fragrant-molecule-data.rst>`__", 24/01/20
-	10, Ankur Sinha, "`Standards and Tools in Neuroscience: a report on the Open Source Brain Workshop 2019\ <{filename}/20191001-standards-and-tools-in-neuroscience-a-report-on-the-open-source-brain-workshop-2019.rst>`__", 31/01/20
+	1, Rene te Boekhorst, "`--\ <#>`__", 24/01/20
+	2, Yi Sun, "`--\ <#>`__", 31/01/20
+	3, Na Helian, "`--\ <#>`__", 07/02/20
+	4, Yaqoob Muhammad, "`--\ <#>`__", 14/02/20
+	5, Emil Dmitruk  , "`--\ <#>`__", 21/02/20
+	6, Rebecca Miko, "`--\ <#>`__", 28/02/20
+	7, Sam Sutton, "`--\ <#>`__", 06/03/20
+	8, Damien Drix, "`--\ <#>`__", 13/03/20
+	9, Rod Adams, "`--\ <#>`__", 20/03/20
+	10, Shabnam Kadir, "`--\ <#>`__", 27/03/20
+	11, Nathan Beka, "`--\ <#>`__", 03/04/20
+	12, Reinoud Maex, "`--\ <#>`__", 17/04/20
+	13, Mohammad Tayarani-Najaran, "`--\ <#>`__", 24/04/20
+	14, Volker Steuber, "`--\ <#>`__", 01/05/20
+	15, Ritesh Kumar, "`--\ <#>`__", 15/05/20
+	16, Ohki Katakura, "`--\ <#>`__", 22/05/20
+	17, Deepak Panday, "`--\ <#>`__", 29/05/20
+	18, Ankur Sinha, "`--\ <#>`__", 05/06/20
+	19, Emil Dmitruk  , "`--\ <#>`__", 12/06/20
+	20, Sam Sutton, "`--\ <#>`__", 19/06/20
+	21, Volker Steuber, "`--\ <#>`__", 26/06/20
+	22, Ritesh Kumar, "`--\ <#>`__", 03/07/20
+	23, Rod Adams, "`--\ <#>`__", 10/07/20
 
