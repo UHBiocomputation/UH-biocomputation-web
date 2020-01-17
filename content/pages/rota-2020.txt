@@ -4,28 +4,27 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Rene te Boekhorst, "`--\ <#>`__", 24/01/20
-	2, Yi Sun, "`--\ <#>`__", 31/01/20
-	3, Na Helian, "`--\ <#>`__", 07/02/20
-	4, Yaqoob Muhammad, "`--\ <#>`__", 14/02/20
-	5, Emil Dmitruk  , "`--\ <#>`__", 21/02/20
-	6, Rebecca Miko, "`--\ <#>`__", 28/02/20
-	7, Sam Sutton, "`--\ <#>`__", 06/03/20
-	8, Damien Drix, "`--\ <#>`__", 13/03/20
-	9, Rod Adams, "`--\ <#>`__", 20/03/20
-	10, Shabnam Kadir, "`--\ <#>`__", 27/03/20
-	11, Nathan Beka, "`--\ <#>`__", 03/04/20
-	12, Reinoud Maex, "`--\ <#>`__", 17/04/20
-	13, Mohammad Tayarani-Najaran, "`--\ <#>`__", 24/04/20
-	14, Volker Steuber, "`--\ <#>`__", 01/05/20
-	15, Ritesh Kumar, "`--\ <#>`__", 15/05/20
-	16, Ohki Katakura, "`--\ <#>`__", 22/05/20
-	17, Deepak Panday, "`--\ <#>`__", 29/05/20
-	18, Ankur Sinha, "`--\ <#>`__", 05/06/20
-	19, Emil Dmitruk  , "`--\ <#>`__", 12/06/20
-	20, Sam Sutton, "`--\ <#>`__", 19/06/20
-	21, Volker Steuber, "`--\ <#>`__", 26/06/20
-	22, Ritesh Kumar, "`--\ <#>`__", 03/07/20
-	23, Rod Adams, "`--\ <#>`__", 10/07/20
-	24, Yi Sun, "`--\ <#>`__", 17/07/20
+	1, Yi Sun, "`--\ <#>`__", 31/01/20
+	2, Rene te Boekhorst, "`--\ <#>`__", 07/02/20
+	3, Na Helian, "`--\ <#>`__", 14/02/20
+	4, Yaqoob Muhammad, "`--\ <#>`__", 21/02/20
+	5, Emil Dmitruk  , "`--\ <#>`__", 28/02/20
+	6, Rebecca Miko, "`--\ <#>`__", 06/03/20
+	7, Sam Sutton, "`--\ <#>`__", 13/03/20
+	8, Damien Drix, "`--\ <#>`__", 20/03/20
+	9, Rod Adams, "`--\ <#>`__", 27/03/20
+	10, Shabnam Kadir, "`--\ <#>`__", 03/04/20
+	11, Nathan Beka, "`--\ <#>`__", 17/04/20
+	12, Reinoud Maex, "`--\ <#>`__", 24/04/20
+	13, Mohammad Tayarani-Najaran, "`--\ <#>`__", 01/05/20
+	14, Volker Steuber, "`--\ <#>`__", 15/05/20
+	15, Ritesh Kumar, "`--\ <#>`__", 22/05/20
+	16, Ohki Katakura, "`--\ <#>`__", 29/05/20
+	17, Deepak Panday, "`--\ <#>`__", 05/06/20
+	18, Ankur Sinha, "`--\ <#>`__", 12/06/20
+	19, Emil Dmitruk  , "`--\ <#>`__", 19/06/20
+	20, Sam Sutton, "`--\ <#>`__", 26/06/20
+	21, Volker Steuber, "`--\ <#>`__", 03/07/20
+	22, Ritesh Kumar, "`--\ <#>`__", 10/07/20
+	23, Rod Adams, "`--\ <#>`__", 17/07/20
 
