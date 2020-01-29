@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Yi Sun, "`--\ <#>`__", 31/01/20
+	1, Yi Sun, "`Towards Discriminative representation learning for speech Emotion recognition\ <{filename}/20200129-towards-discriminative-representation-learning-for-speech-emotion-recognition.rst>`__", 31/01/20
 	2, Rene te Boekhorst, "`--\ <#>`__", 07/02/20
 	3, Na Helian, "`--\ <#>`__", 14/02/20
 	4, Yaqoob Muhammad, "`--\ <#>`__", 21/02/20
