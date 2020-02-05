@@ -5,7 +5,7 @@
 	:quote: "
 
 	1, Yi Sun, "`Towards Discriminative representation learning for speech Emotion recognition\ <{filename}/20200129-towards-discriminative-representation-learning-for-speech-emotion-recognition.rst>`__", 31/01/20
-	2, Rene te Boekhorst, "`--\ <#>`__", 07/02/20
+	2, Emil Dmitruk, "`Hyperbolic geometry of the olfactory space\ <{filename}/20200205-hyperbolic-geometry-of-the-olfactory-space.rst>`__", 07/02/20
 	3, Na Helian, "`--\ <#>`__", 14/02/20
 	4, Yaqoob Muhammad, "`--\ <#>`__", 21/02/20
 	5, Emil Dmitruk  , "`--\ <#>`__", 28/02/20
