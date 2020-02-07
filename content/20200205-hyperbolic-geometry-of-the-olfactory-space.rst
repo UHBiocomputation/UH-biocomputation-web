@@ -31,7 +31,7 @@ arise when mapping odors to perception.
 Papers:
 
 - Yuansheng Zhou et al. (2019) `"Hyperbolic geometry of the olfactory space" 
-  <https://www.ijcai.org/Proceedings/2019/703>`__ , 
+  <https://advances.sciencemag.org/content/4/8/eaaq1458>`__ , 
   Science Advances  29 Aug 2018: Vol. 4, no. 8.
 
 
