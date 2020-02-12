@@ -15,7 +15,8 @@ UID:2020-02-07T00:00:00-00:01
 LOCATION:B200
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Na Helian - --
+SUMMARY:Na Helian - Dynamic Hierarchical Structure for Cloud Computing Job
+  Scheduling Utilizing Artificial Intelligence Technologies
 DTSTART;TZID=Europe/London:20200214T160000
 DTEND;TZID=Europe/London:20200214T170000
 UID:2020-02-14T00:00:00-00:01
