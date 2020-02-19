@@ -7,7 +7,7 @@
 	1, Yi Sun, "`Towards Discriminative representation learning for speech Emotion recognition\ <{filename}/20200129-towards-discriminative-representation-learning-for-speech-emotion-recognition.rst>`__", 31/01/20
 	2, Emil Dmitruk, "`Hyperbolic geometry of the olfactory space\ <{filename}/20200205-hyperbolic-geometry-of-the-olfactory-space.rst>`__", 07/02/20
 	3, Na Helian, "`Dynamic Hierarchical Structure for Cloud Computing Job Scheduling Utilizing Artificial Intelligence Technologies\ <{filename}/20200212-dynamic-hierarchical-structure-for-cloud-computing-job-scheduling-utilizing-artificial-intelligence-technologies.rst>`__", 14/02/20
-	4, Yaqoob Muhammad, "`--\ <#>`__", 21/02/20
+	4, Yaqoob Muhammad, "`Autaptic Connections Shift Network Excitability and Bursting\ <{filename}/20200219-autaptic-connections-shift-network-excitability-and-bursting.rst>`__", 21/02/20
 	5, Emil Dmitruk  , "`--\ <#>`__", 28/02/20
 	6, Rebecca Miko, "`--\ <#>`__", 06/03/20
 	7, Rene te Boekhorst, "`--\ <#>`__", 13/03/20
