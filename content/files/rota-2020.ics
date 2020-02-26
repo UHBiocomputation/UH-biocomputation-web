@@ -31,7 +31,8 @@ UID:2020-02-21T00:00:00-00:01
 LOCATION:B200
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emil Dmitruk   - --
+SUMMARY:Emil Dmitruk - Cliques of Neurons Bound into Cavities Provide a Mi
+ ssing Link between Structure and Function
 DTSTART;TZID=Europe/London:20200228T160000
 DTEND;TZID=Europe/London:20200228T170000
 UID:2020-02-28T00:00:00-00:01
