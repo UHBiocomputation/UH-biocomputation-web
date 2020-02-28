@@ -13,13 +13,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-# FTP_HOST=homepages.herts.ac.uk
+# FTP_HOST=homepages.herts.ac.uk # old server
 FTP_HOST=vmcr-la-homep01.herts.ac.uk
 FTP_USER=biocomp
 FTP_TARGET_DIR=./public_html
-FTP_PORT=21
+# FTP_PORT=21
+FTP_PORT=22 # for sftp protocol
 
-# SSH_HOST=homepages.herts.ac.uk
+# SSH_HOST=homepages.herts.ac.uk # old server
 SSH_HOST=vmcr-la-homep01.herts.ac.uk
 SSH_PORT=22
 SSH_USER=biocomp
@@ -123,7 +124,7 @@ dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
 
 ftp_upload: publish
-	lftp ftp://$(FTP_USER)@$(FTP_HOST) -p $(FTP_PORT) -e "set ftp:ssl-force on; set ftp:ssl-protect-data on; set ssl:verify-certificate no; mirror -R --delete --parallel=3 --exclude cgi-bin/ --exclude .htaccess $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
+	lftp sftp://$(FTP_USER)@$(FTP_HOST) -p $(FTP_PORT) -e "set ftp:ssl-force on; set ftp:ssl-protect-data on; set ssl:verify-certificate no; mirror -R --delete --parallel=3 --exclude cgi-bin/ --exclude .htaccess $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
 s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
