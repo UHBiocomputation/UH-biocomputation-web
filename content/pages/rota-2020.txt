@@ -9,22 +9,22 @@
 	3, Na Helian, "`Dynamic Hierarchical Structure for Cloud Computing Job Scheduling Utilizing Artificial Intelligence Technologies\ <{filename}/20200212-dynamic-hierarchical-structure-for-cloud-computing-job-scheduling-utilizing-artificial-intelligence-technologies.rst>`__", 14/02/20
 	4, Yaqoob Muhammad, "`Autaptic Connections Shift Network Excitability and Bursting\ <{filename}/20200219-autaptic-connections-shift-network-excitability-and-bursting.rst>`__", 21/02/20
 	5, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function\ <{filename}/20200226-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function.rst>`__", 28/02/20
-	6, Rebecca Miko, "`--\ <#>`__", 06/03/20
-	7, Rene te Boekhorst, "`--\ <#>`__", 13/03/20
-	8, Damien Drix, "`--\ <#>`__", 20/03/20
-	9, Rod Adams, "`--\ <#>`__", 27/03/20
-	10, Shabnam Kadir, "`--\ <#>`__", 03/04/20
-	11, Nathan Beka, "`--\ <#>`__", 17/04/20
-	12, Reinoud Maex, "`--\ <#>`__", 24/04/20
-	13, Mohammad Tayarani-Najaran, "`--\ <#>`__", 01/05/20
-	14, Volker Steuber, "`--\ <#>`__", 15/05/20
-	15, Ritesh Kumar, "`--\ <#>`__", 22/05/20
-	16, Ohki Katakura, "`--\ <#>`__", 29/05/20
-	17, Deepak Panday, "`--\ <#>`__", 05/06/20
-	18, Ankur Sinha, "`--\ <#>`__", 12/06/20
-	19, Emil Dmitruk  , "`--\ <#>`__", 19/06/20
-	20, Sam Sutton, "`--\ <#>`__", 26/06/20
-	21, Volker Steuber, "`--\ <#>`__", 03/07/20
-	22, Ritesh Kumar, "`--\ <#>`__", 10/07/20
-	23, Rod Adams, "`--\ <#>`__", 17/07/20
+	6, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function- continued\ <{filename}/20200226-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function.rst>`__", 06/03/20
+	7, Rebecca Miko, "`--\ <#>`__", 13/03/20
+	8, Rene te Boekhorst, "`--\ <#>`__", 20/03/20
+	9, Damien Drix, "`--\ <#>`__", 27/03/20
+	10, Rod Adams, "`--\ <#>`__", 03/04/20
+	11, Shabnam Kadir, "`--\ <#>`__", 10/04/20
+	12, Nathan Beka, "`--\ <#>`__", 17/04/20
+	13, Reinoud Maex, "`--\ <#>`__", 24/04/20
+	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 01/05/20
+	15, Volker Steuber, "`--\ <#>`__", 15/05/20
+	16, Ritesh Kumar, "`--\ <#>`__", 22/05/20
+	17, Ohki Katakura, "`--\ <#>`__", 29/05/20
+	18, Deepak Panday, "`--\ <#>`__", 05/06/20
+	19, Ankur Sinha, "`--\ <#>`__", 12/06/20
+	20, Emil Dmitruk  , "`--\ <#>`__", 19/06/20
+	21, Sam Sutton, "`--\ <#>`__", 26/06/20
+	22, Volker Steuber, "`--\ <#>`__", 03/07/20
+	23, Ritesh Kumar, "`--\ <#>`__", 10/07/20
 
