@@ -104,7 +104,7 @@ PhD Students
 ------------
 
 - `Minghua Zheng`_ |br|
-  Interest: Cloud computing, computer vision and deep learning
+  Research Interests: Cloud computing, computer vision and deep learning
 
 .. _Minghua Zheng: #
 
