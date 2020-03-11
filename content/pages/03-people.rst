@@ -103,6 +103,12 @@ Visiting Post-graduate Students
 PhD Students
 ------------
 
+- `Minghua Zheng`
+  Interest: Cloud computing, computer vision and deep learning
+
+.. _Minghua Zheng: #
+
+
 - `Yaqoob Muhammad`_ |br|
   Research Interests: computational neuroscience, machine learning, and temporal pattern recognition
 
