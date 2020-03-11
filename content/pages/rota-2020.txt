@@ -10,7 +10,7 @@
 	4, Yaqoob Muhammad, "`Autaptic Connections Shift Network Excitability and Bursting\ <{filename}/20200219-autaptic-connections-shift-network-excitability-and-bursting.rst>`__", 21/02/20
 	5, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function\ <{filename}/20200226-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function.rst>`__", 28/02/20
 	6, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function- continued\ <{filename}/20200305-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function-continued.rst>`__", 06/03/20
-	7, Ohki Katakura, "`--\ <#>`__", 13/03/20
+	7, Ohki Katakura, "`Spatiotemporal network coding of physiological mossy fiber inputs by the cerebellar granular layer\ <{filename}/20200311-spatiotemporal-network-coding-of-physiological-mossy-fiber-inputs-by-the-cerebellar-granular-layer.rst>`__", 13/03/20
 	8, Rene te Boekhorst, "`--\ <#>`__", 20/03/20
 	9, Damien Drix, "`--\ <#>`__", 27/03/20
 	10, Rod Adams, "`--\ <#>`__", 03/04/20

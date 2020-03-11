@@ -47,7 +47,8 @@ UID:2020-03-06T00:00:00-00:01
 LOCATION:C154
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ohki Katakura - --
+SUMMARY:Ohki Katakura - Spatiotemporal network coding of physiological mos
+ sy fiber inputs by the cerebellar granular layer
 DTSTART;TZID=Europe/London:20200313T160000
 DTEND;TZID=Europe/London:20200313T170000
 UID:2020-03-13T00:00:00-00:01
