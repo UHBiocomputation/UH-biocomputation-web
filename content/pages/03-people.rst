@@ -103,7 +103,7 @@ Visiting Post-graduate Students
 PhD Students
 ------------
 
-- `Minghua Zheng`
+- `Minghua Zheng`_ |br|
   Interest: Cloud computing, computer vision and deep learning
 
 .. _Minghua Zheng: #
