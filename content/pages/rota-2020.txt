@@ -11,20 +11,21 @@
 	5, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function\ <{filename}/20200226-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function.rst>`__", 28/02/20
 	6, Emil Dmitruk, "`Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function- continued\ <{filename}/20200305-cliques-of-neurons-bound-into-cavities-provide-a-missing-link-between-structure-and-function-continued.rst>`__", 06/03/20
 	7, Ohki Katakura, "`Spatiotemporal network coding of physiological mossy fiber inputs by the cerebellar granular layer\ <{filename}/20200311-spatiotemporal-network-coding-of-physiological-mossy-fiber-inputs-by-the-cerebellar-granular-layer.rst>`__", 13/03/20
-	8, Rene te Boekhorst, "`--\ <#>`__", 20/03/20
-	9, Damien Drix, "`--\ <#>`__", 27/03/20
-	10, Rod Adams, "`--\ <#>`__", 03/04/20
-	11, Shabnam Kadir, "`--\ <#>`__", 10/04/20
-	12, Nathan Beka, "`--\ <#>`__", 17/04/20
-	13, Reinoud Maex, "`--\ <#>`__", 24/04/20
-	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 01/05/20
-	15, Volker Steuber, "`--\ <#>`__", 15/05/20
-	16, Ritesh Kumar, "`--\ <#>`__", 22/05/20
-	17, Rebecca Miko, "`--\ <#>`__", 29/05/20
-	18, Deepak Panday, "`--\ <#>`__", 05/06/20
-	19, Ankur Sinha, "`--\ <#>`__", 12/06/20
-	20, Emil Dmitruk  , "`--\ <#>`__", 19/06/20
-	21, Sam Sutton, "`--\ <#>`__", 26/06/20
-	22, Volker Steuber, "`--\ <#>`__", 03/07/20
-	23, Ritesh Kumar, "`--\ <#>`__", 10/07/20
+	8, Anna Dumitriu, "`Cyberspecies Proximity - Anna Dumitriu and Alex May\ <{filename}/20200401-cyberspecies-proximiy.rst>`__", 03/04/20
+	9, Rene te Boekhorst, "`--\ <#>`__", 10/04/20
+	10, Nathan Beka, "`--\ <#>`__", 17/04/20
+	11, Damien Drix, "`--\ <#>`__", 24/04/20
+	12, Rod Adams, "`--\ <#>`__", 01/05/20
+	13, Reinoud Maex, "`--\ <#>`__", 01/05/20
+	14, Shabnam Kadir, "`--\ <#>`__", 08/05/20
+	15, Mohammad Tayarani-Najaran, "`--\ <#>`__", 15/05/20
+	16, Volker Steuber, "`--\ <#>`__", 15/05/20
+	17, Ritesh Kumar, "`--\ <#>`__", 22/05/20
+	18, Rebecca Miko, "`--\ <#>`__", 29/05/20
+	19, Deepak Panday, "`--\ <#>`__", 05/06/20
+	20, Ankur Sinha, "`--\ <#>`__", 12/06/20
+	21, Emil Dmitruk  , "`--\ <#>`__", 19/06/20
+	22, Sam Sutton, "`--\ <#>`__", 26/06/20
+	23, Volker Steuber, "`--\ <#>`__", 03/07/20
+	24, Ritesh Kumar, "`--\ <#>`__", 10/07/20
 
