@@ -27,7 +27,7 @@ Cyberspecies Proximity is a project by Anna Dumitriu and Alex May, created in co
 
 NOTICE!
 
-Due to current unusual circumstances, this Journal Club will be held online as a conference on 8COM0108-0000-2019 module. In order to attend, you must be a member of that module. The conference room will be created on Friday and all the member will be notified with an email. Once the conference is created and started, module members will be able to join it by visiting the module web site on Canvas, and selecting "Conferences" section. Any queries can be directed to Emil Dmitruk via email (e.dmitruk@herts.ac.uk)
+Due to current unusual circumstances, this Journal Club will be held online as a conference on 8COM0108-0000-2019 module. In order to attend, you must be a member of that module. The conference room will be created on Friday and all of the module members will be notified about that with an email. Once the conference is created and started, module members will be able to join it by visiting the module website on Canvas, and then selecting "Conferences" section. Any queries should be directed to Emil Dmitruk via email (e.dmitruk@herts.ac.uk).
 
 |
 
