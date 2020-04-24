@@ -31,8 +31,9 @@ representations.
 Papers:
 
 - René Larisch, Lorenz Gönner, Michael Teichmann, Fred H. Hamker (2020) `" The control of plastic inhibition over excitatory synaptic plasticity leads to the joint emergence of sensory coding and contrast invariance" 
-  <https://doi.org/10.1101/2020.04.07.029157>`__ , 
-  bioRxiv 2020.04.07.029157; doi: https://doi.org/10.1101/2020.04.07.029157
+  <https://doi.org/10.1101/2020.04.07.029157>`__ , bioRxiv 2020.04.07.029157; doi: https://doi.org/10.1101/2020.04.07.029157
+
+
 |
 
 **Date:** 24/04/2020 |br|
