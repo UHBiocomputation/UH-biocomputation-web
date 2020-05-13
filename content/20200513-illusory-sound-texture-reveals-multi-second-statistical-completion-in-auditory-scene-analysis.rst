@@ -18,10 +18,8 @@ Sound sources in the world are experienced as stable even when intermittently ob
 
 Papers:
 
-- McWalter, R., McDermott, J.H. 
-
-  René Larisch, Lorenz Gönner, Michael Teichmann, Fred H. Hamker (2020) `"Illusory sound texture reveals multi-second statistical completion in auditory scene analysis" 
-  <https://doi.org/10.1101/2020.04.07.029157>`__ , Nat Commun 10, 5096 (2019). https://doi.org/10.1038/s41467-019-12893-0
+- R. McWalter, J.H. McDermott, `"Illusory sound texture reveals multi-second statistical completion in auditory scene analysis" 
+  <https://doi.org/10.1038/s41467-019-12893-0>`__ , Nat Commun 10, 5096 (2019). https://doi.org/10.1038/s41467-019-12893-0
 
 |
 
