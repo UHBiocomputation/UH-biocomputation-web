@@ -2,7 +2,7 @@ Illusory sound texture reveals multi-second statistical completion in auditory s
 ################################################################################################
 
 :date: 2020-05-13 15:27:47
-:author: Volker Steuber
+:author: Emil Dmitruk
 :category: Seminars
 :tags: 
 :slug: illusory-sound-texture-reveals-multi-second-statistical-completion-in-auditory-scene-analysis
