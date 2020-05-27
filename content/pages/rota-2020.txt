@@ -13,16 +13,16 @@
 	7, Ohki Katakura, "`Spatiotemporal network coding of physiological mossy fiber inputs by the cerebellar granular layer\ <{filename}/20200311-spatiotemporal-network-coding-of-physiological-mossy-fiber-inputs-by-the-cerebellar-granular-layer.rst>`__", 13/03/20
 	8, Anna Dumitriu, "`Cyberspecies Proximity - Anna Dumitriu and Alex May\ <{filename}/20200401-cyberspecies-proximiy.rst>`__", 03/04/20
 	9, Damien Drix, "`The control of plastic inhibition over excitatory synaptic plasticity leads to the joint emergence of sensory coding and contrast invariance\ <{filename}/20200424-the-control-of-plastic-inhibition-over-excitatory-synaptic-plasticity-leads-to-the-joint-emergence-of-sensory-coding-and-contrast-invariance.rst>`__", 24/04/20
-	10, Shabnam Kadir, "`Illusory sound texture reveals multi-second statistical completion in auditory scene analysis\ <{filename}/20200513-illusory-sound-texture-reveals-multi-second-statistical-completion-in-auditory-scene-analysis.rst>`__", 15/05/20
-	11, Volker Steuber, "`--\ <#>`__", 15/05/20
-	12, Reinoud Maex, "`--\ <#>`__", 22/05/20
-	13, Ritesh Kumar, "`--\ <#>`__", 29/05/20
-	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 05/06/20
-	15, Rebecca Miko, "`--\ <#>`__", 12/06/20
-	16, Deepak Panday, "`--\ <#>`__", 19/06/20
-	17, Ankur Sinha, "`--\ <#>`__", 26/06/20
-	18, Emil Dmitruk  , "`--\ <#>`__", 03/07/20
-	19, Sam Sutton, "`--\ <#>`__", 10/07/20
-	20, Volker Steuber, "`--\ <#>`__", 17/07/20
-	21, Ritesh Kumar, "`--\ <#>`__", 24/07/20
+	10, Shabnam Kadir, "`Illusory sound texture reveals multi-second statistical completion in auditory scene analysis\ <{filename}/20200513-illusory-sound-texture-reveals-multi-second-statistical-completion-in-auditory-scene-analysis.rst>`__", 22/05/20
+	11, Volker Steuber, "`On Robot Compliance: A Cerebellar Control Approach\ <{filename}/20200527-on-robot-compliance-a-cerebellar-control-approach.rst>`__", 29/05/20
+	12, Reinoud Maex, "`--\ <#>`__", 05/06/20
+	13, Ritesh Kumar, "`--\ <#>`__", 12/06/20
+	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 19/06/20
+	15, Rebecca Miko, "`--\ <#>`__", 26/06/20
+	16, Deepak Panday, "`--\ <#>`__", 03/07/20
+	17, Ankur Sinha, "`--\ <#>`__", 10/07/20
+	18, Emil Dmitruk  , "`--\ <#>`__", 17/07/20
+	19, Sam Sutton, "`--\ <#>`__", 24/07/20
+	20, Volker Steuber, "`--\ <#>`__", 31/07/20
+	21, Ritesh Kumar, "`--\ <#>`__", 07/08/20
 
