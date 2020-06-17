@@ -17,7 +17,7 @@
 	11, Volker Steuber, "`On Robot Compliance: A Cerebellar Control Approach\ <{filename}/20200527-on-robot-compliance-a-cerebellar-control-approach.rst>`__", 29/05/20
 	12, Reinoud Maex, "`A Kirchhoff-Nernst-Planck framework for modeling large scale extracellular electrodiffusion surrounding morphologically detailed neurons\ <{filename}/20200602-a-kirchhoff-nernst-planck-framework-for-modeling-large-scale-extracellular-electrodiffusion-surrounding-morphologically-detailed-neurons.rst>`__", 05/06/20
 	13, Ritesh Kumar, "`Extraordinary performance of semiconducting metal oxide gas sensors using dielectric excitation\ <{filename}/20200610-extraordinary-performance-of-semiconducting-metal-oxide-gas-sensors-using-dielectric-excitation.rst>`__", 12/06/20
-	14, Mohammad Tayarani-Najaran, "`--\ <#>`__", 19/06/20
+	14, Mohammad Tayarani-Najaran, "`Probabilistic Optimization Algorithms for Real-Coded Problems And Its Application in Latin Hypercube Problem\ <{filename}/20200617-probabilistic-optimization-algorithms-for-real-coded-problems-and-its-application-in-latin-hypercube-problem.rst>`__", 19/06/20
 	15, Rebecca Miko, "`--\ <#>`__", 26/06/20
 	16, Deepak Panday, "`--\ <#>`__", 03/07/20
 	17, Ankur Sinha, "`--\ <#>`__", 10/07/20

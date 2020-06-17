@@ -105,7 +105,8 @@ UID:2020-06-12T00:00:00-00:01
 LOCATION:online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mohammad Tayarani-Najaran - --
+SUMMARY:Mohammad Tayarani-Najaran - Probabilistic Optimization Algorithms 
+ for Real-Coded Problems And Its Application in Latin Hypercube Problem
 DTSTART;TZID=Europe/London:20200619T160000
 DTEND;TZID=Europe/London:20200619T170000
 UID:2020-06-19T00:00:00-00:01
