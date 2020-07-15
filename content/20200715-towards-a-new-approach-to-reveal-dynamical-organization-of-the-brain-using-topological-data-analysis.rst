@@ -28,8 +28,8 @@ interactive and behaviorally relevant representations.
 
 Papers:
 
-- Saggar, M., Sporns, O., Gonzalez-Castillo, J. et al.`"Towards a new approach to reveal dynamical organization of the brain using topological data analysis"
-  <doi.org/10.1038/s41467-018-03664-4>`__ ,Nat Commun 9, 1399 (2018).  doi.org/10.1038/s41467-018-03664-4 
+- Saggar, M., Sporns, O., Gonzalez-Castillo, J. et al. `"Towards a new approach to reveal dynamical organization of the brain using topological data analysis"
+  <https://www.nature.com/articles/s41467-018-03664-4>`__ ,Nat Commun 9, 1399 (2018).  doi.org/10.1038/s41467-018-03664-4 
 
 |
 
