@@ -22,7 +22,7 @@ The PhD will be supervised by Dr Shabnam Kadir (University of Hertfordshire), Dr
 
 Interested candidates are encouraged to make informal inquiries with Dr Shabnam Kadir (:code:`s.kadir2 AT herts.ac.uk`) before making a formal application.
 
-To apply, submit `an application form`_ (downloadable from https://www.herts.ac.uk/__data/assets/pdf_file/0010/31105/uh-application-form.pdf) together with a cover letter, CV, and scanned copies of  university transcripts and degree certificates (BSc, and if relevant MSc) via email to :code:`doctoralcollegeadmissions AT herts.ac.uk`, cc-ing Dr Shabnam on :code:`s.kadir2 AT herts.ac.uk` and Dr Antonova on :code:`elena.antonova AT brunel.ac.uk`
+To apply, submit `an application form`_ (downloadable from https://www.herts.ac.uk/__data/assets/pdf_file/0010/31105/uh-application-form.pdf) together with a cover letter, CV, and scanned copies of  university transcripts and degree certificates (BSc, and if relevant MSc) via email to :code:`doctoralcollegeadmissions AT herts.ac.uk`, cc-ing Dr Kadir on :code:`s.kadir2 AT herts.ac.uk` and Dr Antonova on :code:`elena.antonova AT brunel.ac.uk`
 
 .. _an application form: https://www.herts.ac.uk/__data/assets/pdf_file/0010/31105/uh-application-form.pdf
   
