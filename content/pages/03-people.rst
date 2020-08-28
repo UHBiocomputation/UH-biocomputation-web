@@ -418,12 +418,6 @@ Previous Group Members
 
 .. _Kevin A. J. Doherty: #
 
-- `Sarah Keating`_ |br|
-  European Bioinformatics Institute, Cambridge, UK |br|
-  Research Interests: biocomputation, SBML
-
-.. _Sarah Keating: #
-
 - `Nicolas Oros`_ |br|
   University of California Irvine, USA |br|
   Research Interests: evolving Spiking Neural Controllers for Simulated Robots
