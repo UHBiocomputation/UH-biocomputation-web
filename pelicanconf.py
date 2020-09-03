@@ -79,5 +79,5 @@ MENUITEMS = (
     ('Seminars', '/pages/05-seminars.html'),
     ('Collaborators', '/pages/06-collaborators.html'),
     ('CNS*2019 Workshop', '/pages/2019-cns-workshop.html'),
-    ('CS Research Colloquium', 'http://homepages.herts.ac.uk/~sk17acz/colloq/index.html'),
+    ('CS Research Colloquium', 'https://cs-colloq.cs.herts.ac.uk/'),
              )

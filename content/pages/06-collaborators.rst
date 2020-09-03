@@ -2,7 +2,7 @@ Collaborators
 ##############
 :slug: 06-collaborators
 
-.. _Silver Lab: http://www.ucl.ac.uk/silverlab/index.html
+.. _Silver Lab: https://silverlab.org
 
 - `Borys Wróbel`_ |br|
   Evolutionary Systems Laboratory |br|
@@ -10,7 +10,7 @@ Collaborators
   Adam Mickiewicz University |br|
   Poznań, Poland
 
-.. _Borys Wróbel: http://www.evosys.org/
+.. _Borys Wróbel:
 
 - `Padraig Gleeson`_ |br|
   `Open Source Brain <http://opensourcebrain.org/>`__ |br|
@@ -25,7 +25,7 @@ Collaborators
   Department of Neuroscience, Physiology, and Pharmacology |br|
   University College London
 
-.. _Angus Silver: http://www.ucl.ac.uk/npp/research/as
+.. _Angus Silver: https://iris.ucl.ac.uk/iris/browse/profile?upi=ASILV65
 
 - `Jason Rothman`_ |br|
   `Silver Lab`_ |br|
@@ -42,7 +42,7 @@ Collaborators
 .. _Freek Hoebeek: #
 
 - `Chris de Zeeuw`_ |br|
-  `Netherlands Institute for Neuroscience <http://www.herseninstituut.knaw.nl/Home/tabid/36/Default.aspx>`__ |br|
+  `Netherlands Institute for Neuroscience <https://nin.nl/research/researchgroups/de-zeeuw-groep/>`__ |br|
   Amsterdam |br|
   The Netherlands
 
@@ -69,7 +69,7 @@ Collaborators
   Emory University |br|
   Atlanta, USA
 
-.. _Dieter Jaeger: http://www.biology.emory.edu/research/Jaeger/
+.. _Dieter Jaeger: https://scholarblogs.emory.edu/jaegerlab/
 
 - `Aruna Shenoy`_ |br|
   National Physical Laboratory |br|
@@ -82,7 +82,7 @@ Collaborators
   Keele University |br|
   United Kingdom
 
-.. _Gary Moss: http://www.keele.ac.uk/pharmacy/staff/garymoss
+.. _Gary Moss: https://www.keele.ac.uk/pharmacy-bioengineering/ourpeople/garymoss/
 
 Software Developed in Collaboration with Other Institutions
 ------------------------------------------------------------

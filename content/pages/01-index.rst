@@ -50,7 +50,7 @@ Software developed by the group is made available at our `Github repository`_.
 Contact
 -------
 
-Dr. Volker Steuber |br|
+Prof. Volker Steuber |br|
 Head of the Biocomputation Research Group |br|
 School of Computer Science |br|
 Centre for Computer Science and Informatics Research |br|
