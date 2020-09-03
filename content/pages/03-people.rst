@@ -135,40 +135,10 @@ PhD Students
 
 .. _Rebecca Miko: https://uk.linkedin.com/in/rebecca-miko
 
-- `Ronak Bhavsar`_ |br|
-  Research Interests: machine learning and EEG analysis
-
-.. _Ronak Bhavsar: #
-
-- `Weam Binjumah`_ |br|
-  Research Interests: machine learning and optical data transmission
-
-.. _Weam Binjumah: #
-
 - `Udeshika Dissanayake`_ (with `Adaptive Systems`_) |br|
   Research Interests: EEG analysis and rehabilitation robotics
 
 .. _Udeshika Dissanayake: #
-
-- `Julia Goncharenko`_ |br|
-  Research Interests: dynamics of thalamo-cortical networks
-
-.. _Julia Goncharenko: #
-
-- `Nathan Beka`_ |br|
-  Research Interests: bioinformatics
-
-.. _Nathan Beka: #
-
-- `Ankur Sinha`_ |br|
-  Research Interests: cortical reorganisation and memory performance after lesions
-
-.. _Ankur Sinha: http://ankursinha.in/blog/
-
-- `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
-  Research Interests: artificial intelligence and technology supported learning
-
-.. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
 
 .. His last name requires a different character - can't use the standard linking way for it
 
@@ -261,6 +231,37 @@ Artists in Residence
 
 Previous Group Members
 ----------------------
+
+- `Julia Goncharenko`_ |br|
+  Research Interests: dynamics of thalamo-cortical networks
+
+.. _Julia Goncharenko: #
+
+- `Nathan Beka`_ |br|
+  Research Interests: bioinformatics
+
+.. _Nathan Beka: #
+
+- `Ankur Sinha`_ |br|
+  Research Interests: cortical reorganisation and memory performance after lesions
+
+.. _Ankur Sinha: http://ankursinha.in/blog/
+
+- `Ronak Bhavsar`_ |br|
+  Research Interests: machine learning and EEG analysis
+
+.. _Ronak Bhavsar: #
+
+- `Weam Binjumah`_ |br|
+  Research Interests: machine learning and optical data transmission
+
+.. _Weam Binjumah: #
+
+- `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
+  Research Interests: artificial intelligence and technology supported learning
+
+.. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
+
 
 - `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
   Research Interests: rehabilitation robotics
@@ -417,12 +418,6 @@ Previous Group Members
   Research Interests: competitive neural networks, hierarchical clustering, design patterns
 
 .. _Kevin A. J. Doherty: #
-
-- `Sarah Keating`_ |br|
-  European Bioinformatics Institute, Cambridge, UK |br|
-  Research Interests: biocomputation, SBML
-
-.. _Sarah Keating: #
 
 - `Nicolas Oros`_ |br|
   University of California Irvine, USA |br|
