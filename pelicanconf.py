@@ -76,6 +76,7 @@ MENUITEMS = (
     ('Research', '/pages/02-research.html'),
     ('People', '/pages/03-people.html'),
     ('Publications', '/pages/04-publications.html'),
+#     ('Publications', 'https://researchprofiles.herts.ac.uk/portal/en/publications/search.html?search=Sun%2C+Yi+OR+Helian%2C+Na+OR+Kadir%2C+Shabnam+OR+Adams%2C+Rod+OR+te+Boekhorst%2C+Rene+OR+Schmuker%2C+Michael+OR+Steuber%2C+Volker'),
     ('Seminars', '/pages/05-seminars.html'),
     ('Collaborators', '/pages/06-collaborators.html'),
     ('CNS*2019 Workshop', '/pages/2019-cns-workshop.html'),
