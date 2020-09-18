@@ -15,7 +15,7 @@ The project aims to build an explorative and predictive model of the brain that 
 
 We are seeking to appoint a graduate in Computer Science, Bioengineering, Physics, Mathematics, Neuroscience, or related fields, with an interest in cognitive neuroscience and neuroimaging, who has proven programming skills (e.g., Python, Matlab,  C++).  Knowledge of signal processing, time-series analysis, and machine learning would be an advantage. Previous experience of EEG and/or fMRI data analysis is highly desirable.
 
-The 3-year full-time PhD studentship includes a stipend of £15,285 per annum in addition to covering tuition fees. Only EU and UK citizens are eligible to apply. 
+The 3-year full-time PhD studentship includes a stipend of £15,285 per annum in addition to covering tuition fees. **Only EU and UK citizens are eligible to apply.** 
 The start date of the PhD will be January 2021. 
 
 The PhD will be supervised by Dr Shabnam Kadir (University of Hertfordshire), Dr Elena Antonova (Brunel University London), Prof Robert Leech (Institute of Psychiatry, Psychology and Neuroscience, King’s College London), and Prof Chrystopher Nehaniv (University of Hertfordshire, United Kingdom, and University of Waterloo, Ontario, Canada).
@@ -26,7 +26,7 @@ To apply, submit `an application form`_ (downloadable from https://www.herts.ac.
 
 .. _an application form: https://www.herts.ac.uk/__data/assets/pdf_file/0010/31105/uh-application-form.pdf
   
-**Closing Date for the applications: 28 September 2020.**
+**Closing Date for the applications:** 23rd October 2020 (Interviews are expected to be scheduled in the week commencing 16th November 2020).
 
 
 
