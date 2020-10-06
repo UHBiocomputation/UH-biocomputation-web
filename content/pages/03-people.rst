@@ -90,6 +90,11 @@ Visiting Research Fellows
 
 .. _Jim Bower:
 
+- `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
+  Research Interests: artificial intelligence and technology supported learning
+
+.. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
+
 Visiting Post-graduate Students
 --------------------------------
 
@@ -97,7 +102,6 @@ Visiting Post-graduate Students
   Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
 
 .. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
-
 
 
 PhD Students
@@ -257,12 +261,6 @@ Previous Group Members
 
 .. _Weam Binjumah:
 
-- `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
-  Research Interests: artificial intelligence and technology supported learning
-
-.. _Edward Wakelam: https://uk.linkedin.com/pub/ed-wakelam/1/152/aa9
-
-
 - `Azeemsha Poyil`_ (with `Adaptive Systems`_) |br|
   Research Interests: rehabilitation robotics
 
@@ -280,6 +278,7 @@ Previous Group Members
 .. _David Bowes: https://researchprofiles.herts.ac.uk/portal/en/persons/david-bowes(bb92daec-1377-4f23-a505-800dd314dceb).html
 
 - `Neil Davey`_ |br|
+  Open University, UK |br|
   Research Interests: computational neuroscience, machine learning, artificial intelligence
 
 .. _Neil Davey:
