@@ -20,7 +20,4 @@
 	14, Mohammad Tayarani-Najaran, "`Probabilistic Optimization Algorithms for Real-Coded Problems And Its Application in Latin Hypercube Problem\ <{filename}/20200617-probabilistic-optimization-algorithms-for-real-coded-problems-and-its-application-in-latin-hypercube-problem.rst>`__", 19/06/20
 	15, Emil Dmitruk , "`Towards a new approach to reveal dynamical organization of the brain using topological data analysis\ <{filename}/20200715-towards-a-new-approach-to-reveal-dynamical-organization-of-the-brain-using-topological-data-analysis.rst>`__", 10/07/20
 	16, Muhammad Aamir Khan, "`Spiking Neural Networks Evolved to Perform Multiplicative Operations\ <{filename}/20200715-spiking-neural-networks-evolved-to-perform-multiplicative-operations.rst>`__", 17/07/20
-	17, Sam Sutton, "`--\ <#>`__", 24/07/20
-	18, Volker Steuber, "`--\ <#>`__", 31/07/20
-	19, Ritesh Kumar, "`--\ <#>`__", 07/08/20
 

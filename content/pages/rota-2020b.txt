@@ -4,5 +4,11 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Ohki Katakura, "`--\ <#>`__", 25/09/20
+	1, Sam Sutton, "`--\ <#>`__", 06/11/20
+	2, Shavika Rastogi, "`--\ <#>`__", 13/11/20
+	3, Minghua Zheng, "`--\ <#>`__", 20/11/20
+	4, Ohki Katakura, "`--\ <#>`__", 27/11/20
+	5, Na Helian, "`--\ <#>`__", 04/12/20
+	6, Michael Schmucker, "`--\ <#>`__", 11/12/20
+	7, Yi Sun, "`--\ <#>`__", 18/12/20
 
