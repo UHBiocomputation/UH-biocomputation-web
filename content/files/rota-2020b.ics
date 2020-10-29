@@ -8,7 +8,7 @@ LOCATION:Online\, University of Hertfordshire\, College Lane\, Hatfield\,
  UK\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shavika Rastogi - --
+SUMMARY:Minghua Zheng - --
 DTSTART;TZID=Europe/London:20201113T160000
 DTEND;TZID=Europe/London:20201113T170000
 UID:2020-11-13T00:00:00-00:01
@@ -16,7 +16,7 @@ LOCATION:Online\, University of Hertfordshire\, College Lane\, Hatfield\,
  UK\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minghua Zheng - --
+SUMMARY:Shavika Rastogi - --
 DTSTART;TZID=Europe/London:20201120T160000
 DTEND;TZID=Europe/London:20201120T170000
 UID:2020-11-20T00:00:00-00:01
