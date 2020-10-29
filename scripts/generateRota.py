@@ -78,9 +78,11 @@ class generateRota:
         self.rota_time_start = 16
         self.rota_time_end = 17
         # default location
-        self.rota_location = ("D449, University of Hertfordshire, " +
-                              "College Lane, Hatfield, UK, AL10 9AB")
+        # self.rota_location = ("D449, University of Hertfordshire, " +
+        #                       "College Lane, Hatfield, UK, AL10 9AB")
 
+        self.rota_location = ("Online, University of Hertfordshire, " +
+                              "College Lane, Hatfield, UK, AL10 9AB")
         # Update these to change the source csv and the output files
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
 
