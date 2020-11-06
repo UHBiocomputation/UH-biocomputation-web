@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Sam Sutton, "`--\ <#>`__", 06/11/20
+	1, Sam Sutton, "`Navigation Along Windborne Plumes of Pheromone and Resource-Linked Odors\ <{filename}/20201106-navigation-along-windborne-plumes-of-pheromone-and-resource-linked-odors.rst>`__", 06/11/20
 	2, Minghua Zheng, "`--\ <#>`__", 13/11/20
 	3, Shavika Rastogi, "`--\ <#>`__", 20/11/20
 	4, Ohki Katakura, "`--\ <#>`__", 27/11/20
