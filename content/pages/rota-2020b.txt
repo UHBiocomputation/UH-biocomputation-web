@@ -6,7 +6,7 @@
 
 	1, Sam Sutton, "`Navigation Along Windborne Plumes of Pheromone and Resource-Linked Odors\ <{filename}/20201106-navigation-along-windborne-plumes-of-pheromone-and-resource-linked-odors.rst>`__", 06/11/20
 	2, Minghua Zheng, "`Bacterial colony counting with Convolutional Neural Networks in Digital Microbiology Imaging\ <{filename}/20201109-bacterial-colony-counting-with-convolutional-neural-networks-in-digital-microbiology-imaging.rst>`__", 13/11/20
-	3, Shavika Rastogi, "`--\ <#>`__", 20/11/20
+	3, Shavika Rastogi, "`Prediction of Electrode Position inside rat brain using Neuromorphic Hardware\ <{filename}/20201118-prediction-of-electrode-position-inside-rat-brain-using-neuromorphichardware.rst>`__", 20/11/20
 	4, Ohki Katakura, "`--\ <#>`__", 27/11/20
 	5, Na Helian, "`--\ <#>`__", 04/12/20
 	6, Michael Schmucker, "`--\ <#>`__", 11/12/20
