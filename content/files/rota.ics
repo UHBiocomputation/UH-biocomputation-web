@@ -27,7 +27,8 @@ LOCATION:Online\, University of Hertfordshire\, College Lane\, Hatfield\,
  UK\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ohki Katakura - --
+SUMMARY:Ohki Katakura - Complex Dynamics in Simplified Neuronal Models: Re
+ producing Golgi Cell Electroresponsiveness
 DTSTART;TZID=Europe/London:20201127T160000
 DTEND;TZID=Europe/London:20201127T170000
 UID:2020-11-27T00:00:00-00:01
