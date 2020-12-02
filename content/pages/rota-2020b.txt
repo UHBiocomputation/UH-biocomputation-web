@@ -8,7 +8,7 @@
 	2, Minghua Zheng, "`Bacterial colony counting with Convolutional Neural Networks in Digital Microbiology Imaging\ <{filename}/20201109-bacterial-colony-counting-with-convolutional-neural-networks-in-digital-microbiology-imaging.rst>`__", 13/11/20
 	3, Shavika Rastogi, "`Prediction of Electrode Position inside rat brain using Neuromorphic Hardware\ <{filename}/20201118-prediction-of-electrode-position-inside-rat-brain-using-neuromorphichardware.rst>`__", 20/11/20
 	4, Ohki Katakura, "`Complex Dynamics in Simplified Neuronal Models: Reproducing Golgi Cell Electroresponsiveness\ <{filename}/20201125-complex-dynamics-in-simplified-neuronal-models-reproducing-golgi-cell-electroresponsiveness.rst>`__", 27/11/20
-	5, Na Helian, "`--\ <#>`__", 04/12/20
+	5, Emil Dmitruk, "`Cliques and cavities in human connectome\ <{filename}/20201202-cliques-and-cavities-in-human-connectome.rst>`__", 04/12/20
 	6, Michael Schmucker, "`--\ <#>`__", 11/12/20
 	7, Yi Sun, "`--\ <#>`__", 18/12/20
 
