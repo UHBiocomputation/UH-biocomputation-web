@@ -44,7 +44,8 @@ LOCATION:Online\, University of Hertfordshire\, College Lane\, Hatfield\,
  UK\, AL10 9AB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Schmucker - --
+SUMMARY:Michael Schmucker - A comparison between mouse\, in silico\, and r
+ obot odor plume navigation reveals advantages of mouse odor-tracking
 DTSTART;TZID=Europe/London:20201211T160000
 DTEND;TZID=Europe/London:20201211T170000
 UID:2020-12-11T00:00:00-00:01
