@@ -9,6 +9,11 @@ People
 Core Faculty and Research Staff
 --------------------------------
 
+- `Manal Helal`_ |br|
+  Research Interests: Network Models, Complex Systems, Tensor Multi-way Analysis
+
+.. _Manal Helal:
+
 - `Yi Sun`_ |br|
   Research Interests: probabilistic modelling of data, unsupervised learning, model selection
 
