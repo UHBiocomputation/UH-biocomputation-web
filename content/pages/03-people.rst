@@ -77,6 +77,14 @@ Research Fellows
 
 .. _Ritesh Kumar: https://scholar.google.com/citations?user=ls5bkwsAAAAJ&hl=en
 
+Visiting Professor
+-------------------
+
+- `Jim Bower`_ |br|
+  Research Interests: computations in the cerebellum and olfactory system, simulator development, educational technology
+
+.. _Jim Bower:
+
 Visiting Research Fellows
 -------------------------
 
@@ -89,11 +97,6 @@ Visiting Research Fellows
   Research Interests: information processing in the olfactory system
 
 .. _Simon O'Connor:
-
-- `Jim Bower`_ |br|
-  Research Interests: computations in the cerebellum and olfactory system, simulator development, educational technology
-
-.. _Jim Bower:
 
 - `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
   Research Interests: artificial intelligence and technology supported learning
