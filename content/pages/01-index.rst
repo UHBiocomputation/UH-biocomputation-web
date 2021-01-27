@@ -37,13 +37,13 @@ Research in the Biocomputation Group concentrates on the following areas:
 
 - `Computational Neuroscience <#>`__
 - `Machine Learning and Data Science <#>`__
-- `Neuromorphic Computing and Neurorobotics <http://biomachinelearning.net>`__
+- `Neuromorphic Computing and Neurorobotics <https://biomachinelearning.net>`__
 - `Systems Biology <#>`__
 - `Bioinformatics <#>`__
 - `Algebraic Biology <#>`__
 
-.. _University of Hertfordshire: http://www.herts.ac.uk/
-.. _Centre for Computer Science and Informatics Research (CCSIR): http://www.herts.ac.uk/research/centres-and-groups/ccsir
+.. _University of Hertfordshire: https://www.herts.ac.uk/
+.. _Centre for Computer Science and Informatics Research (CCSIR): https://www.herts.ac.uk/research/centres/ccsir
 
 Software developed by the group is made available at our `Github repository`_.
 
