@@ -115,6 +115,12 @@ Visiting Post-graduate Students
 PhD Students
 ------------
 
+- `David Haydock`_ |br|
+  Research Interests: Computational Neuroscience, Cognitive Neuroscience, EEG and fMRI analysis
+
+.. _David Haydock:
+
+
 - `Minghua Zheng`_ |br|
   Research Interests: Cloud computing, computer vision and deep learning
 
