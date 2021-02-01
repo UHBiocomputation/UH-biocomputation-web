@@ -44,7 +44,29 @@ function generate_mbox ()
     SECONDLINE="Title and abstract of the talk is below:\n$POST_HEADER\n\n"
     UNDERLINE=$(printf '%0.s-' $(seq 1 40))
 
-    echo -e "$GREETING""$SECONDLINE""$UNDERLINE""$MESSAGE" | mail -s "$SUBJECT" -S "from=$ADMIN" -F "$TO_ADDRESS"
+    #echo -e "$GREETING""$SECONDLINE""$UNDERLINE""$MESSAGE" | mail -s "$SUBJECT" -r "from=$ADMIN" to-addr "$TO_ADDRESS"
+    echo -e "$SUBJECT""$GREETING""$SECONDLINE""$UNDERLINE""$MESSAGE" >> new_mail.txt
+    echo "Output file is called 'com-bio'. Run 'evolution com-bio' and that should be it."
+    echo "NOTE: Please verify the e-mail before sending it. This is only a convenience tool and may have made errors."
+}
+
+function generate_mbox_new ()
+{
+   # Parse the data info into paper title, zoom link, current date, papers, abstract, next 3 speakers
+    SEPARATOR=$(printf '%0.s=' $(seq 1 40))
+
+    PRESENTER_INFO="Hello everyone,\n\n$AUTHOR will present at the Journal Club this $SESSION_DATE.\n\n"
+    PAPER_INFO="He will talk about a paper . Please see the abstract below.\n\n"
+    ZOOM_INFO="The meeting is held online on Zoom, please follow this link to join:\n\n\n\n "
+    REMINDER="A reminder on the next three Journal Club speakers:\na)\nb)\nc)\n"
+    TITLE="$SEPARATOR\n\n title \n\n$SEPARATOR"
+    MESSAGE=$(sed -n "9,$ p" $INPUT_FILE | sed '/\*\*Date:\*\*/,$ d')
+
+    FINAL_MESSAGE="$PRESENTER_INFO$PAPER_INFO$ZOOM_INFO$REMINDER$TITLE"
+
+    #echo -e "$GREETING""$SECONDLINE""$UNDERLINE""$MESSAGE" | mail -s "$SUBJECT" -r "from=$ADMIN" to-addr "$TO_ADDRESS"
+    # echo -e "$SUBJECT""$GREETING""$SECONDLINE""$UNDERLINE""$MESSAGE" >> new_mail.txt
+    echo -e "$FINAL_MESSAGE" >> new_mail.txt
     echo "Output file is called 'com-bio'. Run 'evolution com-bio' and that should be it."
     echo "NOTE: Please verify the e-mail before sending it. This is only a convenience tool and may have made errors."
 }

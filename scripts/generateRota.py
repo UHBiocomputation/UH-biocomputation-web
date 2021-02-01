@@ -66,7 +66,7 @@ class generateRota:
         # print("A week is: {}".format(self.a_week))
         self.tz = pytz.timezone("Europe/London")
         # The date this rota starts at
-        self.start_date = date(2020, 11, 6)
+        self.start_date = date(2021, 2, 5)
         # defaults
         self.year = str(datetime.now().year)
         
@@ -81,8 +81,7 @@ class generateRota:
         # self.rota_location = ("D449, University of Hertfordshire, " +
         #                       "College Lane, Hatfield, UK, AL10 9AB")
 
-        self.rota_location = ("Online, University of Hertfordshire, " +
-                              "College Lane, Hatfield, UK, AL10 9AB")
+        self.rota_location = ("Online")
         # Update these to change the source csv and the output files
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
 
