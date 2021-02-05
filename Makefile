@@ -10,6 +10,7 @@ AUTHOR := Volker Steuber
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
+SCRIPTDIR=$(BASEDIR)/scripts
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -151,6 +152,51 @@ ifdef NAME
 	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	${EDITOR} ${INPUTDIR}/$(DATEYYMMDD)-${SLUG}.${EXT}
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+endif
+
+newseminar:
+ifdef NAME
+	SEMINAR_FILE=$(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "$(NAME)" >  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo -n "$(NAME)" | sed "s/./#/g" >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":category: Seminar" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":tags: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":summary: $(AUTHOR)'s Journal Club session where he will talk about a paper \"$(NAME)\"">> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "This week on Journal Club session $(AUTHOR) will talk about a paper \"$(NAME)\"."              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "------------"              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "ABSTRACT"              		>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "|"              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "Papers:"              		>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "- AUTHORS \`\"\""             >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "  <>\`__, "              		>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "**Date:** $(DATEYYMMDD) |br|" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "**Time:** 16:00 |br|" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "**Location**: online" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ".. |br| raw:: html" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "	<br />" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+
+	# Append properly formated line to script file- should be replaced with (find and replace)
+	echo ""              				>> $(SCRIPTDIR)/rota-data-2021.csv
+	echo "$(AUTHOR),\"$(NAME)\",\"$(DATEYYMMDD)-$(SLUG).$(EXT)\",0,0,0,0,1"              				>> $(SCRIPTDIR)/rota-data-2021.csv
+
+	${EDITOR} $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 else
 	@echo 'Variable NAME is not defined.'
 	@echo 'Do make newpost NAME='"'"'Post Name'"'"
