@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Damien Drix - --
+SUMMARY:Damien Drix - Rapid online learning and robust recall in a neuromo
+ rphic olfactory circuit
 DTSTART;TZID=Europe/London:20210205T160000
 DTEND;TZID=Europe/London:20210205T170000
 UID:2021-02-05T00:00:00-00:01

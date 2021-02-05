@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Damien Drix, "`--\ <#>`__", 05/02/21
+	1, Damien Drix, "`Rapid online learning and robust recall in a neuromorphic olfactory circuit\ <{filename}/20210204-rapid-online-learning-and-robust-recall-in-a-neuromorphic-olfactory-circuit.rst>`__", 05/02/21
 	2, Reinoud Maex, "`--\ <#>`__", 12/02/21
 	3, Manal Helal, "`--\ <#>`__", 19/02/21
 	4, Chinthani Karandeni Dewage, "`--\ <#>`__", 26/02/21
