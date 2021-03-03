@@ -7,7 +7,7 @@
 	1, Damien Drix, "`Rapid online learning and robust recall in a neuromorphic olfactory circuit\ <{filename}/20210204-rapid-online-learning-and-robust-recall-in-a-neuromorphic-olfactory-circuit.rst>`__", 05/02/21
 	2, Reinoud Maex, "`Packaging Life: The Origin of Ion-Selective Channels\ <{filename}/20210211-packaging-life-the-origin-of-ion-selective-channels.rst>`__", 12/02/21
 	3, Chinthani Karandeni Dewage, "`Interactions between Brassica Napus and Extracellular Fungal Pathogen Pyrenopeziza Brassicae\ <{filename}/20210225-interactions-between-brassica-napus-and-extracellular-fungal-pathogen-pyrenopeziza-brassicae.rst>`__", 26/02/21
-	4, David Haydock, "`--\ <#>`__", 05/03/21
+	4, David Haydock, "`Spatiotemporal Dynamics of the Brain at Rest Exploring EEG Microstates as Electrophysiological Signatures of BOLD Resting State Networks\ <{filename}/20210303-spatiotemporal-dynamics-of-the-brain-at-rest-exploring-eeg-microstates-as-electrophysiological-signatures-of-bold-resting-state-networks.rst>`__", 05/03/21
 	5, Deepak Panday, "`--\ <#>`__", 12/03/21
 	6, Mohammad Tayarani-Najaran, "`--\ <#>`__", 19/03/21
 	7, Shabnam Kadir, "`--\ <#>`__", 16/04/21
