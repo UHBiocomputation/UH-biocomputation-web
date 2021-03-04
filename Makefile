@@ -6,6 +6,7 @@ DATEYYMMDD := $(shell date +'%Y%m%d')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= rst
 AUTHOR := Volker Steuber
+SESSIONTIME := 14:00
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -185,7 +186,7 @@ ifdef NAME
 	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo "**Date:** $(DATEYYMMDD) |br|" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
-	echo "**Time:** 16:00 |br|" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo "**Time:** $(SESSIONTIME) |br|" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo "**Location**: online" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ""              				>> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ".. |br| raw:: html" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
