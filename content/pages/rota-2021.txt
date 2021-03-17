@@ -9,7 +9,7 @@
 	3, Chinthani Karandeni Dewage, "`Interactions between Brassica Napus and Extracellular Fungal Pathogen Pyrenopeziza Brassicae\ <{filename}/20210225-interactions-between-brassica-napus-and-extracellular-fungal-pathogen-pyrenopeziza-brassicae.rst>`__", 26/02/21
 	4, David Haydock, "`Spatiotemporal Dynamics of the Brain at Rest Exploring EEG Microstates as Electrophysiological Signatures of BOLD Resting State Networks\ <{filename}/20210303-spatiotemporal-dynamics-of-the-brain-at-rest-exploring-eeg-microstates-as-electrophysiological-signatures-of-bold-resting-state-networks.rst>`__", 05/03/21
 	5, Deepak Panday, "`Minkowski metric, feature weighting and anomalous cluster initializing in K-Means clustering\ <{filename}/20210310-minkowski-metric-feature-weighting-and-anomalous-cluster-initializing-in-k-means-clustering.rst>`__", 12/03/21
-	6, Mohammad Tayarani-Najaran, "`--\ <#>`__", 19/03/21
+	6, Mohammad Tayarani-Najaran, "`How to Exploit Fitness Landscape Properties of Timetabling Problem: A New Operator for Quantum Evolutionary Algorithm\ <{filename}/20210317-how-to-exploit-fitness-landscape-properties-of-timetabling-problem-a-new-operator-for-quantum-evolutionary-algorithm.rst>`__", 19/03/21
 	7, Shabnam Kadir, "`--\ <#>`__", 16/04/21
 	8, Volker Steuber, "`--\ <#>`__", 23/04/21
 	9, Yaqoob Muhammad, "`--\ <#>`__", 30/04/21
