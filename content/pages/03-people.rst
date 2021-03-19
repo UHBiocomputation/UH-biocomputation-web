@@ -85,6 +85,12 @@ Visiting Professor
 
 .. _Jim Bower:
 
+- `Chrystopher Nehaniv`_ |br|
+  University of Waterloo, Canada |br|
+  Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
+
+.. _Chrystopher Nehaniv: https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv
+
 Visiting Research Fellows
 -------------------------
 
@@ -296,12 +302,6 @@ Previous Group Members
   Research Interests: computational neuroscience, machine learning, artificial intelligence
 
 .. _Neil Davey:
-
-- `Chrystopher Nehaniv`_ |br|
-  University of Waterloo, Canada |br|
-  Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
-
-.. _Chrystopher Nehaniv: https://researchprofiles.herts.ac.uk/portal/en/persons/chrystopher-nehaniv(820b26d8-d3ca-400b-9d71-e26a3eabb835).html
 
 - `Maria Schilstra`_ |br|
   Research Interests: biocomputation, systems biology, genetic regulatory networks
