@@ -77,7 +77,7 @@ Research Fellows
 
 .. _Ritesh Kumar: https://scholar.google.com/citations?user=ls5bkwsAAAAJ&hl=en
 
-Visiting Professor
+Visiting Professors
 -------------------
 
 - `Jim Bower`_ |br|
@@ -87,7 +87,7 @@ Visiting Professor
 
 - `Chrystopher Nehaniv`_ |br|
   University of Waterloo, Canada |br|
-  Research Interests: algebraic biology, constructive biology, bioinformatics, evolution
+  Research Interests: algebraic biology, constructive biology, evolution, mathematical methods for systems biology, genetic regulatory networks, cognitive and computational neuroscience
 
 .. _Chrystopher Nehaniv: https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv
 
@@ -150,9 +150,9 @@ PhD Students
 .. _Wajih ul Islam:
 
 - `Ohki Katakura`_ |br|
-  Research Interests: cerebellar computation
+  Research Interests: computational neuroscience, cerebellar computation, motor learning
 
-.. _Ohki Katakura:
+.. _Ohki Katakura: https://neuronalpail.com
 
 - `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, robotics and olfaction
