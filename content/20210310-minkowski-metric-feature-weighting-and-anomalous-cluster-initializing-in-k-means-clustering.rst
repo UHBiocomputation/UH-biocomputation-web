@@ -1,6 +1,6 @@
 Minkowski Metric, Feature Weighting and Anomalous Cluster Initializing in K-Means Clustering
 #############################################################################################
-:date: 10/03/2021 15:01
+:date: 2021-03-10 15:01
 :author: Deepak Panday
 :category: Seminar
 :tags: Anomalous cluster,Feature weights,K-means,Minkowski metric,Noise feature
