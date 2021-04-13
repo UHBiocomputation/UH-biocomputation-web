@@ -250,6 +250,7 @@ Academic Staff
 .. _Epaminondas Kapetanios: 
 
 - `Epaminondas Kapetanios`_ |br|
+  Senior Lecturer
 
 Artists in Residence
 ----------------------
