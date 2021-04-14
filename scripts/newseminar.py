@@ -41,20 +41,28 @@ def produce_reference_entry(bib_entry, formatting="post"):
         except(KeyError):
             pass
 
+        # Check if doi link is correct
+        prefix = ""
+        if not ("https" in b['doi']):
+            prefix += "https://"
+        if not ("doi.org/" in b['doi']):
+            prefix += "doi.org/"
+
+        b['doi'] = prefix + b['doi']
+
         # Format lines according to where will it be used
         if formatting == "post":
             papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
             papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
         elif formatting == "email":
             papers_line1 = f"- {all_authors}`\"{b['title']}\""
-            papers_line2 = f"  {paper_reference}, doi:{b['doi']}" + newline
+            papers_line2 = f"  {paper_reference}, doi: {b['doi']} " + newline
         else:
             print("Unknown reference formatting, using default one")
             papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
             papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
 
-
-    except(KeyError): # field may not exist for a reference
+    except(KeyError):  # field may not exist for a reference
         pass
 
     return papers_line1 + papers_line2
@@ -101,7 +109,9 @@ parser.add_argument("-s", "--seminar_file",
 parser.add_argument("-k", "--citation_key",
                         # type=String,
                         help="Citation key, from which main information about the talk has to be extracted")
-
+parser.add_argument("-n", "--paper_name",
+                        # type=String,
+                        help="Paper name, from which main information about the talk has to be extracted")
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Generate message elements
 args = parser.parse_args()
@@ -134,10 +144,18 @@ if len(papers_keys) == 1:
     # bib_entry = bibdata.entries[bibdata.entries.keys()[0]]
     # bib_entry = bibdata.entries[papers_keys[0]]
 else:
+    target_title = args.paper_name.lower()
+    # print("target: {}".format(target_title))
+
     for bib_id in bibdata.entries:
-        if bib_id == args.citation_key:
+        entry_title = bibdata.entries[bib_id].fields['title'].lower()
+        # print("entry_title: {}".format(entry_title))
+
+        if entry_title == target_title:
+            # if bib_id == args.citation_key:
             bib_entry = bibdata.entries[bib_id]
             break
+
 if bib_entry == "":
     raise ValueError("For multiple entries in library, -k option has to be specified")
 
@@ -158,20 +176,21 @@ except(KeyError):
 
 
 # find next speaker in rota
-if False:
-    speaker_index = -1
-    for (index, line) in enumerate(rota_list):
-        line_fragments = line.split(",")
-        title_and_slug = ",".join(line_fragments[1:2])
-        if len(title_and_slug) < 5:  # lenght of apostrohpes and a coma in between
-            if line_fragments[0] != author_name:
-                print("Skipping empty line, presenter does not match.")
-                continue
+# if False:
+#     speaker_index = -1
+#     for (index, line) in enumerate(rota_list):
+#         line_fragments = line.split(",")
+#         title_and_slug = ",".join(line_fragments[1:2])
+#         if len(title_and_slug) < 5:  # lenght of apostrohpes and a coma in between
+#             if line_fragments[0] != author_name:
+#                 print("Skipping empty line, presenter does not match.")
+#                 continue
+#
+#             date = line_fragments[3]
+#             speaker_index = index
+#             break
+#     next_speakers = get_next_speakers()
 
-            date = line_fragments[3]
-            speaker_index = index
-            break
-    next_speakers = get_next_speakers()
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Generate lines of text
 # ===-===-

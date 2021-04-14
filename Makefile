@@ -167,7 +167,7 @@ endif
 
 newseminar:
 ifdef AUTHOR
-	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib"
+	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}"
 	${EDITOR} $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 else
 	@echo 'Variable NAME is not defined.'
