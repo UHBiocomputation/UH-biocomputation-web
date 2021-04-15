@@ -22,7 +22,7 @@ Core Faculty and Research Staff
 .. _Michael Schmuker: https://researchprofiles.herts.ac.uk/portal/en/persons/michael-schmuker(fda08dd2-790b-4871-92cb-324b9f1e4267).html
 
 - `Michael Schmuker`_ |br|
-  Research Interests: biocomputation, sensory computation and neuromorphic computing, olfaction, chemical sensing, data analytics
+  Research Interests: Neuromorphic Computing, Olfaction (in animals and machines), Chemical Fragrance Space, Smart Agriculture
 
 .. _Na Helian: https://researchprofiles.herts.ac.uk/portal/en/persons/na-helian(acd0e94e-caa1-4ffe-8f0d-ee5dccbd923f).html
 
