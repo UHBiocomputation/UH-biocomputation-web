@@ -62,7 +62,7 @@ Research Fellows
 - `Damien Drix`_ |br|
   Research Interests: neuroscience, dendritic computation, neuromorphic hardware
 
-.. Maria Psarrou:
+.. _Maria Psarrou:
 
 - `Maria Psarrou`_ |br|
   Research Interests: Network modelling of neuronal circuits, neuronal computations and their determinants, data analytics
@@ -71,11 +71,6 @@ Research Fellows
 
 - `Mohammad Tayaraninajaran`_ |br|
   Research Interests: optimisation algorithms, machine learning
-
-.. _Paolo Dini:
-
-- `Paolo Dini`_ |br|
-  Research Interests: algebraic biology (BIOMICS)
 
 .. _Reinoud Maex:
 
@@ -120,6 +115,16 @@ Visiting Research Fellows
 - `Edward Wakelam`_ (with `Technology Supported Learning`_) |br|
   Research Interests: artificial intelligence and technology supported learning
 
+.. _Maria Schilstra:
+
+- `Maria Schilstra`_ |br|
+  Research Interests: biocomputation, systems biology, genetic regulatory networks
+
+.. _Paolo Dini:
+
+- `Paolo Dini`_ |br|
+  Research Interests: algebraic biology (BIOMICS)
+
 .. _Simon O'Connor:
 
 - `Simon O'Connor`_ |br|
@@ -131,6 +136,18 @@ Visiting Research Fellows
 
 PhD Students
 ------------
+
+.. _Agnes Bonivart:
+
+- `Agnes Bonivart`_ |br|
+
+.. _Bente Riegler:
+
+- `Bente Riegler`_ |br|
+
+.. _Chama Bensmail:
+
+- `Chama Bensmail`_ |br|
 
 .. _David Haydock:
 
@@ -147,6 +164,11 @@ PhD Students
 - `Emil Dmitruk`_ |br|
   Research Interests: computational homology, neural coding, and sensory systems.
 
+.. _Julia Goncharenko:
+
+- `Julia Goncharenko`_ |br|
+  Research Interests: dynamics of thalamo-cortical networks
+
 .. His last name requires a different character - can't use the standard linking way for it
 
 .. _Marco Craveiro: https://mcraveiro.blogspot.co.uk/
@@ -158,6 +180,15 @@ PhD Students
 
 - `Minghua Zheng`_ |br|
   Research Interests: Cloud computing, computer vision and deep learning
+
+.. _Mohammad Yaqoob:
+
+- `Mohammad Yaqoob`_ |br|
+  Research Interests: computational neuroscience, machine learning, and temporal pattern recognition
+
+.. _Muhammad Umer:
+
+- `Muhammad Umer`_ |br|
 
 .. _Nik Dennler:
 
@@ -179,15 +210,27 @@ PhD Students
 - `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, robotics and olfaction
   
-.. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
+.. .. _Sam Sutton: https://uk.linkedin.com/in/samuel-sutton-582a00b5
 
-- `Shavika Rastogi`_ |br|
+- `Sam Sutton`_ |br|
+  Research Interests: machine learning, image processing, olfaction
+
+.. _Shadiya Alingal Meethal:
+
+- `Shadiya Alingal Meethal`_ |br|
+
+.. .. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
+
+.. - `Shavika Rastogi`_ |br|
   Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
 
+.. _Simon McCool:
 
-.. _Sudhir Sharma:
+- `Simon McCool`_ |br|
 
-- `Sudhir Sharma`_ (with `Adaptive Systems`_) |br|
+.. .. _Sudhir Sharma:
+
+.. - `Sudhir Sharma`_ (with `Adaptive Systems`_) |br|
   Research Interests: rehabilitation robotics
 
 .. _Udeshika Dissanayake:
@@ -199,11 +242,6 @@ PhD Students
 
 - `Wajih ul Islam`_ |br|
   Research Interests: machine learning and image processing
-
-.. _Yaqoob Muhammad:
-
-- `Yaqoob Muhammad`_ |br|
-  Research Interests: computational neuroscience, machine learning, and temporal pattern recognition
 
 Affiliated Faculty
 ------------------
@@ -409,9 +447,9 @@ Previous Group Members
   Karolinska Institute, Stockholm, Sweden |br|
   Research Interests: computational biology
 
-.. _Julia Goncharenko:
+.. .. _Julia Goncharenko:
 
-- `Julia Goncharenko`_ |br|
+.. - `Julia Goncharenko`_ |br|
   Research Interests: dynamics of thalamo-cortical networks
 
 .. _Karen Safaryan:
@@ -449,14 +487,14 @@ Previous Group Members
   Emeritus Professor |br|
   Research Interests: optimisation, radial basis function networks, evolutionary neural networks, generalisation
 
-.. _Maria Psarrou:
-..
-  `Maria Psarrou`_ |br|
+.. .. _Maria Psarrou:
+
+.. - `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
 
-.. _Maria Schilstra:
+.. .. _Maria Schilstra:
 
-- `Maria Schilstra`_ |br|
+.. - `Maria Schilstra`_ |br|
   Research Interests: biocomputation, systems biology, genetic regulatory networks
 
 .. _Mark McAuley:
@@ -506,6 +544,16 @@ Previous Group Members
 - `Sarah Keating`_ |br|
   Senior software developer at European Bioinformatics Institute, Hinxton, UK |br|
   Research Interests: computational systems biology
+
+.. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
+
+- `Shavika Rastogi`_ |br|
+  Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
+
+.. _Sudhir Sharma:
+
+- `Sudhir Sharma`_ (with `Adaptive Systems`_) |br|
+  Research Interests: rehabilitation robotics
 
 .. _Sylvia Beka:
 
