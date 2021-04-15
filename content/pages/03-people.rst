@@ -62,6 +62,11 @@ Research Fellows
 - `Damien Drix`_ |br|
   Research Interests: neuroscience, dendritic computation, neuromorphic hardware
 
+.. Maria Psarrou:
+
+- `Maria Psarrou`_ |br|
+  Research Interests: Morphological and network modelling of neuronal circuits, data analytics
+
 .. _Mohammad Tayaraninajaran:
 
 - `Mohammad Tayaraninajaran`_ |br|
@@ -81,6 +86,12 @@ Research Fellows
 
 - `Ritesh Kumar`_ |br|
   Research Interests: olfaction, machine learning
+  
+.. _Sam Sutton: https://uk.linkedin.com/in/samuel-sutton-582a00b5
+
+- `Sam Sutton`_ |br|
+  Research Interests: machine learning, image processing, olfaction
+
 
 Visiting Professors
 -------------------
@@ -114,13 +125,8 @@ Visiting Research Fellows
 - `Simon O'Connor`_ |br|
   Research Interests: information processing in the olfactory system
 
-Visiting Post-graduate Students
---------------------------------
-
-.. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
-
-- `Shavika Rastogi`_ |br|
-  Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
+.. Visiting Post-graduate Students
+.. --------------------------------
 
 
 PhD Students
@@ -153,6 +159,11 @@ PhD Students
 - `Minghua Zheng`_ |br|
   Research Interests: Cloud computing, computer vision and deep learning
 
+.. _Nik Dennler:
+
+- `Nik Dennler`_ |br|
+  Research Interests: Neuromorphic Olfaction
+
 .. _Ohki Katakura: https://neuronalpail.com
 
 - `Ohki Katakura`_ |br|
@@ -167,11 +178,12 @@ PhD Students
 
 - `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, robotics and olfaction
+  
+.. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
 
-.. _Sam Sutton: https://uk.linkedin.com/in/samuel-sutton-582a00b5
+- `Shavika Rastogi`_ |br|
+  Research Interests: computational neuroscience, neuromorphic cognition, brain inspired neuromorphic computing
 
-- `Sam Sutton`_ |br|
-  Research Interests: machine learning, image processing, olfaction
 
 .. _Sudhir Sharma:
 
@@ -438,8 +450,8 @@ Previous Group Members
   Research Interests: optimisation, radial basis function networks, evolutionary neural networks, generalisation
 
 .. _Maria Psarrou:
-
-- `Maria Psarrou`_ |br|
+..
+  `Maria Psarrou`_ |br|
   Research Interests: stochastic ion channel gating and neural computation
 
 .. _Maria Schilstra:
