@@ -65,7 +65,7 @@ Research Fellows
 .. Maria Psarrou:
 
 - `Maria Psarrou`_ |br|
-  Research Interests: Morphological and network modelling of neuronal circuits, data analytics
+  Research Interests: Network modelling of neuronal circuits, neuronal computations and their determinants, data analytics
 
 .. _Mohammad Tayaraninajaran:
 
