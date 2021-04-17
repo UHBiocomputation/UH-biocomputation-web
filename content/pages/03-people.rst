@@ -144,8 +144,8 @@ PhD Students
 
 .. _Bente Riegler:
 
-- `Bente Riegler`_ |br|
-  Research Interests: information theory, motor control (with Adaptive Systems)
+- `Bente Riegler`_ (with `Adaptive Systems`_) |br|
+  Research Interests: information theory, motor control
 
 .. _Chama Bensmail:
 
@@ -221,8 +221,8 @@ PhD Students
 
 .. _Shadiya Alingal Meethal:
 
-- `Shadiya Alingal Meethal`_ |br|
-  Research Interests: rehabilitation robotics, EEG and EMG analysis (with Adaptive Systems)
+- `Shadiya Alingal Meethal`_ (with `Adaptive Systems`_) |br|
+  Research Interests: rehabilitation robotics, EEG and EMG analysis
 
 .. .. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
 
@@ -316,9 +316,9 @@ Artists in Residence
 Previous Group Members
 ----------------------
 
-.. _Ahmed Otman Abdelmotaleb (with University of Poznan):
+.. _Ahmed Otman Abdelmotaleb:
 
-- `Ahmed Otman Abdelmotaleb (with University of Poznan)`_ |br|
+- `Ahmed Otman Abdelmotaleb`_ (with University of Poznan) |br|
   Research Interests: evolution of spiking neural networks
 
 .. _Alex Metaxas:
