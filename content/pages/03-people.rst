@@ -140,14 +140,17 @@ PhD Students
 .. _Agnes Bonivart:
 
 - `Agnes Bonivart`_ |br|
+  Research Interests: functional systems biology
 
 .. _Bente Riegler:
 
 - `Bente Riegler`_ |br|
+  Research Interests: information theory, motor control (with Adaptive Systems)
 
 .. _Chama Bensmail:
 
 - `Chama Bensmail`_ |br|
+  Research Interests: computational neuroscience, simulated agents, evolutionary systems
 
 .. _David Haydock:
 
@@ -189,6 +192,7 @@ PhD Students
 .. _Muhammad Umer:
 
 - `Muhammad Umer`_ |br|
+  Research Interests: machine learning, text analysis
 
 .. _Nik Dennler:
 
@@ -218,6 +222,7 @@ PhD Students
 .. _Shadiya Alingal Meethal:
 
 - `Shadiya Alingal Meethal`_ |br|
+  Research Interests: rehabilitation robotics, EEG and EMG analysis (with Adaptive Systems)
 
 .. .. _Shavika Rastogi: https://www.linkedin.com/in/shavika-rastogi-03293371/
 
@@ -227,6 +232,7 @@ PhD Students
 .. _Simon McCool:
 
 - `Simon McCool`_ |br|
+  Research Interests: machine learning, autonomous vehicles
 
 .. .. _Sudhir Sharma:
 
