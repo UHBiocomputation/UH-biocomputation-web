@@ -167,6 +167,11 @@ PhD Students
 - `Emil Dmitruk`_ |br|
   Research Interests: computational homology, neural coding, and sensory systems.
 
+.. _Harpreet Singh:
+
+- `Harpreet Singh`_ |br|
+  Research Interests: machine learning, sentiment analysis
+
 .. _Julia Goncharenko:
 
 - `Julia Goncharenko`_ |br|
