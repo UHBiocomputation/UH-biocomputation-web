@@ -10,9 +10,11 @@
 import argparse
 # import datetime
 from datetime import datetime
-from datetime import date
+# from datetime import date
 from pybtex.database.input import bibtex
 from textwrap import wrap
+import os
+import csv
 
 
 def produce_reference_entry(bib_entry, formatting="post"):
@@ -32,11 +34,11 @@ def produce_reference_entry(bib_entry, formatting="post"):
 
         # Prepare additional info about the paper
         paper_reference = f" {b['year']}, {b['journal']}, "
-        try: # field may not exist for a reference
+        try:  # field may not exist for a reference
             paper_reference += f"{b['volume']}, "
         except(KeyError):
             pass
-        try: # field may not exist for a reference
+        try:  # field may not exist for a reference
             paper_reference += f"{b['pages']}"
         except(KeyError):
             pass
@@ -66,6 +68,7 @@ def produce_reference_entry(bib_entry, formatting="post"):
         pass
 
     return papers_line1 + papers_line2
+
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
@@ -112,6 +115,9 @@ parser.add_argument("-k", "--citation_key",
 parser.add_argument("-n", "--paper_name",
                         # type=String,
                         help="Paper name, from which main information about the talk has to be extracted")
+parser.add_argument("-g", "--slug",
+                        # type=String,
+                        help="Formated name of the file in which post content is located")
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Generate message elements
 args = parser.parse_args()
@@ -123,6 +129,14 @@ full_file_name = args.file_name
 creation_date = datetime.now().strftime('%d/%m/%Y')
 creation_hour = datetime.now().strftime('%H:%M')
 
+slug_info = args.slug
+
+year = str(datetime.now().year)
+# if Sept - Dec add b to file name
+if datetime.now().month >= 9:
+    year += 'b'
+
+rota_data_file = "scripts/rota-data-{}.csv".format(year)
 
 # ===-===-===-===-
 # Process bibtex  file
@@ -195,11 +209,11 @@ except(KeyError):
 # Generate lines of text
 # ===-===-
 # For website >>>
-newline = f"\n"
-empty_line = f"\n"
+newline = "\n"
+empty_line = "\n"
 
 post_title = f"{title}" + newline
-title_underline = "#"*len(post_title) + newline
+title_underline = "#" * len(post_title) + newline
 post_date = f":date: {creation_date} {creation_hour}" + newline
 post_author = f":author: {author_name}" + newline
 post_category = ":category: Seminar" + newline
@@ -210,9 +224,9 @@ slug = "-".join(full_slug.split('-')[1:])
 post_slug = f":slug: {slug}" + newline
 post_sumamry = f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"' + newline
 post_description = f'This week on Journal Club session {author_name} will talk about a paper "{title}".' + newline
-separator = f"------------" + newline
-vertical_separator = f"|" + newline
-papers_section = f"Papers:" + newline
+separator = "------------" + newline
+vertical_separator = "|" + newline
+papers_section = "Papers:" + newline
 
 # BIB2 >>>
 # loop through the individual references
@@ -223,21 +237,21 @@ for bib_id in bibdata.entries:
 # BIB2 <<<
 
 footer_date = f"**Date:** {seminar_date} |br|" + newline
-footer_time = f"**Time:** 14:00 |br|" + newline
-footer_location = f"**Location**: online" + newline
-footer_html1 = f".. |br| raw:: html" + newline
-footer_html2 = f"	<br />"
+footer_time = "**Time:** 14:00 |br|" + newline
+footer_location = "**Location**: online" + newline
+footer_html1 = ".. |br| raw:: html" + newline
+footer_html2 = "	<br />"
 
 # For website <<<
 # ===-===-
 # For email >>>
-message_subject = f"[Journal Club] - {author} - {title} - online"+ newline
+message_subject = f"[Journal Club] - {author} - {title} - online" + newline
 greeting = "Hello everyone," + newline
 # formated_date = date(seminar_date) + newline
 # paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
 
 formated_date = datetime.strptime(seminar_date, "%Y/%m/%d")
-print(formated_date )
+print(formated_date)
 # formated_date = seminar_date + newline
 paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
 
@@ -284,18 +298,18 @@ if False:
 # ===-===-
 # Generate post
 post_text = [post_title,
-                title_underline,
-                post_date,
-                post_author,
-                post_category,
-                post_tags,
-                post_slug,
-                post_sumamry,
-                empty_line,
-                post_description,
-                empty_line,
-                separator,
-                empty_line]
+             title_underline,
+             post_date,
+             post_author,
+             post_category,
+             post_tags,
+             post_slug,
+             post_sumamry,
+             empty_line,
+             post_description,
+             empty_line,
+             separator,
+             empty_line]
 
 for line in paper_abstract:
     post_text.append(line + newline)
@@ -310,20 +324,19 @@ post_text.extend((
 for reference in all_references:
     post_text.append(reference)
 
-post_text.extend((
-                empty_line,
-                empty_line,
-                footer_date,
-                footer_time,
-                footer_location,
-                empty_line,
-                footer_html1,
-                newline,
-                footer_html2))
+post_text.extend((empty_line,
+                  empty_line,
+                  footer_date,
+                  footer_time,
+                  footer_location,
+                  empty_line,
+                  footer_html1,
+                  newline,
+                  footer_html2))
 
 # ===-===-
 # Generate email
-message_text =[message_subject,
+message_text = [message_subject,
                 empty_line,
                 greeting,
                 empty_line]
@@ -332,35 +345,33 @@ paragraph1 = wrap(paragraph1)
 for line in paragraph1:
     message_text.append(line + newline)
 
-message_text.extend((
-                empty_line,
-                zoom_notification1,
-                zoom_notification2,
-                empty_line,
-                zoom_notification3,
-                zoom_notification4,
-                empty_line,
-                reminder_part1,
-                reminder_part2,
-                empty_line,
-                title_separator,
-                empty_line,
-                empty_line,
-                title,
-                empty_line,
-                empty_line,
-                title_separator,
-                empty_line))
+message_text.extend((empty_line,
+                     zoom_notification1,
+                     zoom_notification2,
+                     empty_line,
+                     zoom_notification3,
+                     zoom_notification4,
+                     empty_line,
+                     reminder_part1,
+                     reminder_part2,
+                     empty_line,
+                     title_separator,
+                     empty_line,
+                     empty_line,
+                     title,
+                     empty_line,
+                     empty_line,
+                     title_separator,
+                     empty_line))
 
 for line in paper_abstract:
     message_text.append(line + newline)
 
-message_text.extend((
-                empty_line,
-                vertical_separator,
-                empty_line,
-                papers_section,
-                empty_line))
+message_text.extend((empty_line,
+                     vertical_separator,
+                     empty_line,
+                     papers_section,
+                     empty_line))
 
 for reference in all_references_email:
     message_text.append(reference)
@@ -375,21 +386,48 @@ with open(full_file_name, "a") as seminar_file:
 with open("new_seminar_email.txt", "w") as email_file:
     email_file.writelines(message_text)
 
+
 # ===-===-
 # Modify Rota file
+def find_speaker(rota_list, author):
+    for (index, line) in enumerate(rota_list):
+        line_sections = line.split(",")
+
+        # Find author
+        if line_sections[0] == author:
+
+            # Check if the title for his talk is set (omit overwritting prevoius talks)
+            if len(line_sections[2]) < 3:
+                return index
+
+
+def prepare_rota_info(rota_line, title, slug_info):
+    line_fragments = rota_line.split(",")
+    line_fragments[1] = title
+    line_fragments[2] = slug_info
+
+    return ",".join(line_fragments)
+
+def add_quotation(text):
+    return '\"' + text + '\"'
+
 
 # Read file into list
-if False:
-    rota_list = []
-    with open(rota_file_name) as file:
-        for line in file:
-            line.strip()
-            rota_list .append(line)
+rota_list = []
+with open(rota_data_file) as file:
+    for line in file:
+        line.strip()
+        rota_list.append(line)
 
-    # replace row
-    rota_list[speaker_index] = rota_data
+# replace row
+speaker_index = find_speaker(rota_list, author)
+rota_list[speaker_index] = prepare_rota_info(rota_list[speaker_index], add_quotation(title), add_quotation(slug_info))
 
-    # save new file
-    with open(rota_file_name, "w") as rota_file:
-        rota_file.writelines(rota_list)
+# Move old file for backup
+r_file_parts = rota_data_file.split(".")
+os.replace(rota_data_file, f"{r_file_parts[0]}_backup.{r_file_parts[1]}")
+
+# save new file in place of old file
+with open(rota_data_file, "w") as rota_file:
+    rota_file.writelines(rota_list)
 
