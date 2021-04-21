@@ -12,3 +12,7 @@ scripts/*.ics
 tags
 tags.*
 com-bio
+
+# Temporary files used for newsemminar command:
+new_semminar_email.txt
+seminar_file.bib
