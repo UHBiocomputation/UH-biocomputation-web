@@ -55,7 +55,7 @@ function generate_mbox_new ()
    # Parse the data info into paper title, zoom link, current date, papers, abstract, next 3 speakers
     SEPARATOR=$(printf '%0.s=' $(seq 1 40))
 
-    PRESENTER_INFO="Hello everyone,\n\n$AUTHOR will present at the Journal Club this $SESSION_DATE.\n\n"
+    PRESENTER_INFO="\nHello everyone,\n\n$AUTHOR will present at the Journal Club this $SESSION_DATE.\n\n"
     PAPER_INFO="He will talk about a paper . Please see the abstract below.\n\n"
     ZOOM_INFO="The meeting is held online on Zoom, please follow this link to join:\n\n\n\n "
     REMINDER="A reminder on the next three Journal Club speakers:\na)\nb)\nc)\n"
