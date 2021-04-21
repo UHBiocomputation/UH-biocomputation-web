@@ -50,7 +50,7 @@ import textwrap
 import pytz
 import csv
 import logging
-from datetime import datetime
+
 
 class generateRota:
 
@@ -69,11 +69,10 @@ class generateRota:
         self.start_date = date(2021, 2, 5)
         # defaults
         self.year = str(datetime.now().year)
-        
-        #if Sept - Dec add b to file name
+
+        # if Sept - Dec add b to file name
         if datetime.now().month >= 9:
             self.year += 'b'
-
 
         self.rota_time_start = 16
         self.rota_time_end = 17
@@ -269,6 +268,7 @@ class generateRota:
 
         for row in self.all_events:
             if row[3] > date.today():
+                # TODO replace with f string
                 logging.info(
                     "Next session: {} on {} from {} to {} in {}.".format(
                         row[0], row[3].strftime("%d/%m/%y"), row[4], row[5],
@@ -290,11 +290,13 @@ class generateRota:
             # Only publish to website if we want it to
             if to_post == '1':
                 if name == "Holiday" or name == "Cancelled" or name == "--":
+                    # TODO replace with f string
                     print("\t{}, {}, \"`{} {}`__\", {}".format(
                         "--", name, talk_title, title_blog,
                         rota_date.strftime("%d/%m/%y")), file=rst_file)
                 else:
                     print("\t{}, {}, \"`{}\ {}`__\", {}".format(
+                    # TODO replace with f string
                         counter, name, talk_title, title_blog,
                         rota_date.strftime("%d/%m/%y")), file=rst_file)
                     counter += 1
