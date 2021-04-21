@@ -11,7 +11,7 @@
 	5, Deepak Panday, "`Minkowski metric, feature weighting and anomalous cluster initializing in K-Means clustering\ <{filename}/20210310-minkowski-metric-feature-weighting-and-anomalous-cluster-initializing-in-k-means-clustering.rst>`__", 12/03/21
 	6, Mohammad Tayarani-Najaran, "`How to Exploit Fitness Landscape Properties of Timetabling Problem: A New Operator for Quantum Evolutionary Algorithm\ <{filename}/20210317-how-to-exploit-fitness-landscape-properties-of-timetabling-problem-a-new-operator-for-quantum-evolutionary-algorithm.rst>`__", 19/03/21
 	7, Emil Dmitruk, "`Organization of Cell Assemblies in the Hippocampus\ <{filename}/20210414-organization-of-cell-assemblies-in-the-hippocampus.rst>`__", 16/04/21
-	8, Volker Steuber, "`--\ <#>`__", 23/04/21
+	8, Volker Steuber, "`Bursting Neurons Signal Input Slope\ <{filename}/20210421-bursting-neurons-signal-input-slope.rst>`__", 23/04/21
 	9, Yaqoob Muhammad, "`--\ <#>`__", 30/04/21
 	10, Maria Psarrou, "`--\ <#>`__", 07/05/21
 	11, Michael Schmucker, "`--\ <#>`__", 14/05/21
