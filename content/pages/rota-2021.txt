@@ -14,11 +14,11 @@
 	8, Volker Steuber, "`Bursting Neurons Signal Input Slope\ <{filename}/20210421-bursting-neurons-signal-input-slope.rst>`__", 23/04/21
 	9, Yaqoob Muhammad, "`--\ <#>`__", 30/04/21
 	10, Maria Psarrou, "`--\ <#>`__", 07/05/21
-	11, Michael Schmucker, "`--\ <#>`__", 14/05/21
+	11, Nik Dennler, "`--\ <#>`__", 14/05/21
 	12, Shabnam Kadir, "`--\ <#>`__", 21/05/21
 	13, Muhammad Aamir Khan, "`--\ <#>`__", 28/05/21
 	14, Minghua Zheng, "`--\ <#>`__", 04/06/21
-	15, Maria Psarrou, "`--\ <#>`__", 11/06/21
+	15, Michael Schmucker, "`--\ <#>`__", 11/06/21
 	16, Ohki Katakura, "`--\ <#>`__", 18/06/21
 	17, Shavika Rastogi, "`--\ <#>`__", 25/06/21
 	18, Sam Sutton, "`--\ <#>`__", 02/07/21
