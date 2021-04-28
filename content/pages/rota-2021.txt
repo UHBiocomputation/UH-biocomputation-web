@@ -12,7 +12,7 @@
 	6, Mohammad Tayarani-Najaran, "`How to Exploit Fitness Landscape Properties of Timetabling Problem: A New Operator for Quantum Evolutionary Algorithm\ <{filename}/20210317-how-to-exploit-fitness-landscape-properties-of-timetabling-problem-a-new-operator-for-quantum-evolutionary-algorithm.rst>`__", 19/03/21
 	7, Emil Dmitruk, "`Organization of Cell Assemblies in the Hippocampus\ <{filename}/20210414-organization-of-cell-assemblies-in-the-hippocampus.rst>`__", 16/04/21
 	8, Volker Steuber, "`Bursting Neurons Signal Input Slope\ <{filename}/20210421-bursting-neurons-signal-input-slope.rst>`__", 23/04/21
-	9, Yaqoob Muhammad, "`--\ <#>`__", 30/04/21
+	9, Yaqoob Muhammad, "`Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons\ <{filename}/20210428-learning-compositional-sequences-with-multiple-time-scales-through-a-hierarchical-network-of-spiking-neurons.rst>`__", 30/04/21
 	10, Maria Psarrou, "`--\ <#>`__", 07/05/21
 	11, Nik Dennler, "`--\ <#>`__", 14/05/21
 	12, Shabnam Kadir, "`--\ <#>`__", 21/05/21
