@@ -14,7 +14,7 @@
 	8, Volker Steuber, "`Bursting Neurons Signal Input Slope\ <{filename}/20210421-bursting-neurons-signal-input-slope.rst>`__", 23/04/21
 	9, Yaqoob Muhammad, "`Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons\ <{filename}/20210428-learning-compositional-sequences-with-multiple-time-scales-through-a-hierarchical-network-of-spiking-neurons.rst>`__", 30/04/21
 	10, Maria Psarrou, "`Fast Odour Dynamics Are Encoded in the Olfactory System and Guide Behaviour\ <{filename}/20210506-fast-odour-dynamics-are-encoded-in-the-olfactory-system-and-guide-behaviour.rst>`__", 07/05/21
-	11, Nik Dennler, "`--\ <#>`__", 14/05/21
+	11, Nik Dennler, "`Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms\ <{filename}/20210512-event-driven-sensing-for-efficient-perception-vision-and-audition-algorithms.rst>`__", 14/05/21
 	12, Shabnam Kadir, "`--\ <#>`__", 21/05/21
 	13, Muhammad Aamir Khan, "`--\ <#>`__", 28/05/21
 	14, Minghua Zheng, "`--\ <#>`__", 04/06/21
