@@ -1,6 +1,6 @@
 Learning Compositional Sequences with Multiple Time Scales through a Hierarchical Network of Spiking Neurons
 #############################################################################################################
-:date: 28/04/2021 16:53
+:date: 2021-04-28 16:53
 :author: Muhammad Yaqoob
 :category: Seminar
 :tags: Interneurons,Learning,Network motifs,Neural networks,Neurons,Sequence motif analysis,Synapses,Synta

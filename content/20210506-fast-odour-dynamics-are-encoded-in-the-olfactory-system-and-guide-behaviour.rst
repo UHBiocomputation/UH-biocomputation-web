@@ -1,6 +1,6 @@
 Fast Odour Dynamics Are Encoded in the Olfactory System and Guide Behaviour
 ############################################################################
-:date: 06/05/2021 11:21
+:date: 2021-05-06 11:21
 :author: Maria Psarrou
 :category: Seminar
 :tags: olfaction; odor navigation; odour source separaion

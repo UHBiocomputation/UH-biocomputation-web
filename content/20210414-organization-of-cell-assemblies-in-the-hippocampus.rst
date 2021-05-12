@@ -1,6 +1,6 @@
 Organization of Cell Assemblies in the Hippocampus
 ###################################################
-:date: 14/04/2021 15:00
+:date: 2021-04-14 15:00
 :author: Emil Dmitruk
 :category: Seminar
 :tags: cell assemblies; CA1; place cells; topological data analysis;

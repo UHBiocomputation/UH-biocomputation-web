@@ -1,6 +1,6 @@
 Bursting Neurons Signal Input Slope
 ########################################
-:date: 21/04/2021 11:37
+:date: 2021-04-21 11:37
 :author: Volker Steuber
 :category: Seminar
 :tags: biophysical model,burst,ELL,Neural coding,pyramidal cell,simulation,weakly electric fis
