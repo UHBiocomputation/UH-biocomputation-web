@@ -1,6 +1,6 @@
 Interactions between Brassica Napus and Extracellular Fungal Pathogen Pyrenopeziza Brassicae
 #############################################################################################
-:date: 25/02/2021 10:29
+:date: 2021-02-25 10:29
 :author: Chinthani Karandeni Dewage
 :category: Seminar
 :tags: cultivar resistance; genetics
