@@ -126,8 +126,8 @@ author_name = args.author[0]
 author = author_name
 seminar_date = args.date
 full_file_name = args.file_name
-creation_date = datetime.now().strftime('%d/%m/%Y')
-creation_hour = datetime.now().strftime('%H:%M')
+creation_date = datetime.now().strftime('%Y-%m-%d')
+creation_hour = datetime.now().strftime('%H:%M:%S')
 
 slug_info = args.slug
 
