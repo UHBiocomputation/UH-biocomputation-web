@@ -18,56 +18,67 @@ import csv
 
 
 def produce_reference_entry(bib_entry, formatting="post"):
+    """
+    Year, journal, author, doi have to be included in the reference.
+    """
     newline = '\n'
     b = bib_entry.fields
 
-    try:
-        # deal with multiple authors
-        all_authors = ""
-        for author in bib_entry.persons["author"]:
-            author_full_name = ""
-            for names in author.first_names:
-                author_full_name += f"{names[0]}. "
-            for lnames in author.last_names:
-                author_full_name += f"{lnames}, "
-            all_authors += author_full_name
+    # TODO add check for all required keys and inform whenever they are not present
 
-        # Prepare additional info about the paper
-        paper_reference = f" {b['year']}, {b['journal']}, "
-        try:  # field may not exist for a reference
-            paper_reference += f"{b['volume']}, "
-        except(KeyError):
-            pass
-        try:  # field may not exist for a reference
-            paper_reference += f"{b['pages']}"
-        except(KeyError):
-            pass
+    # TODO this has to be refactored- variables should not be allocated within try-catch
+    all_authors = ""
+    prefix = ""
 
-        # Check if doi link is correct
-        prefix = ""
-        if not ("https" in b['doi']):
-            prefix += "https://"
-        if not ("doi.org/" in b['doi']):
-            prefix += "doi.org/"
+    # try:
+    # deal with multiple authors
+    for author in bib_entry.persons["author"]:
+        author_full_name = ""
+        for names in author.first_names:
+            author_full_name += f"{prune_text(names[0])}. "
+        for lnames in author.last_names:
+            author_full_name += f"{prune_text(lnames)}, "
+        all_authors += author_full_name
 
-        b['doi'] = prefix + b['doi']
-
-        # Format lines according to where will it be used
-        if formatting == "post":
-            papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
-            papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
-        elif formatting == "email":
-            papers_line1 = f"- {all_authors}`\"{b['title']}\""
-            papers_line2 = f"  {paper_reference}, doi: {b['doi']} " + newline
-        else:
-            print("Unknown reference formatting, using default one")
-            papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
-            papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
-
-    except(KeyError):  # field may not exist for a reference
+    # Prepare additional info about the paper
+    paper_reference = f" {b['year']}, {b['journal']}, "
+    try:  # field may not exist for a reference
+        paper_reference += f"{b['volume']}, "
+    except(KeyError):
+        pass
+    try:  # field may not exist for a reference
+        paper_reference += f"{b['pages']}"
+    except(KeyError):
         pass
 
+    # Check if doi link is correct
+    if not ("https" in b['doi']):
+        prefix += "https://"
+    if not ("doi.org/" in b['doi']):
+        prefix += "doi.org/"
+
+    b['doi'] = prefix + b['doi']
+
+    # Format lines according to where will it be used
+    if formatting == "post":
+        papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
+        papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
+    elif formatting == "email":
+        papers_line1 = f"- {all_authors}`\"{b['title']}\""
+        papers_line2 = f"  {paper_reference}, doi: {b['doi']} " + newline
+    else:
+        print("Unknown reference formatting, using default one")
+        papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
+        papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
+
+    papers_line1 = prune_text(papers_line1)
+    papers_line2 = prune_text(papers_line2)
+
     return papers_line1 + papers_line2
+
+    # except(KeyError):  # field may not exist for a reference
+    #     pass
+
 
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
@@ -118,6 +129,14 @@ parser.add_argument("-n", "--paper_name",
 parser.add_argument("-g", "--slug",
                         # type=String,
                         help="Formated name of the file in which post content is located")
+
+
+def prune_text(some_text):
+    some_text = some_text.replace("{","")
+    some_text = some_text.replace("}","")
+    some_text = some_text.replace("\textemdash", "-")
+    return some_text
+
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Generate message elements
 args = parser.parse_args()
@@ -159,10 +178,12 @@ if len(papers_keys) == 1:
     # bib_entry = bibdata.entries[papers_keys[0]]
 else:
     target_title = args.paper_name.lower()
+    target_title = prune_text(target_title)
     # print("target: {}".format(target_title))
 
     for bib_id in bibdata.entries:
         entry_title = bibdata.entries[bib_id].fields['title'].lower()
+        entry_title = prune_text(entry_title)
         # print("entry_title: {}".format(entry_title))
 
         if entry_title == target_title:
@@ -171,14 +192,14 @@ else:
             break
 
 if bib_entry == "":
-    raise ValueError("For multiple entries in library, -k option has to be specified")
+    raise ValueError("For multiple entries in library, -k option (main paper citation key) has to be specified")
 
 b = bib_entry.fields
 
 try:
     # Use info from paper to set up variables
     title = b['title']
-    paper_abstract = wrap(b['abstract'], width=70)
+    paper_abstract = wrap(prune_text(b['abstract']), width=70)
     paper_link = b['doi']
     paper_tags = ""
     try:
@@ -268,17 +289,16 @@ if False:
         next_date = data["date"]
         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
 title_separator = "================================================================"
+
 all_references_email = []
 for bib_id in bibdata.entries:
     bib_entry = bibdata.entries[bib_id]
-    all_references_email.extend(
-                            wrap(
-                                produce_reference_entry(bib_entry,
-                                                        formatting="email"
-                                                        ),
-                                width=70
-                                )
-                            )
+    reference_entry = produce_reference_entry(bib_entry, formatting="email")
+    print(reference_entry)
+    if reference_entry == None:
+        print(f"Empty bib entry- will have to verify this")
+    else:
+        all_references_email.extend(wrap(reference_entry, width=70))
 
 # For email <<<
 # ===-===-
