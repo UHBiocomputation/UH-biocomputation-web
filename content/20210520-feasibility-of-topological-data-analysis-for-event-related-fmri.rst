@@ -21,8 +21,8 @@ data; however, to our knowledge, TDA has not been successfully applied to data
 from event-related fMRI designs. Event-related fMRI is very common but limited
 in terms of the number of events that can be run within a practical time frame
 and the effect size that can be expected. Here, we investigate whether
-persistent homology\textemdash a popular TDA tool that identifies topological
-features in data and quantifies their robustness\textemdash can identify known
+persistent homology- a popular TDA tool that identifies topological
+features in data and quantifies their robustness- can identify known
 signals given these constraints. We use fmrisim, a Python-based simulator of
 realistic fMRI data, to assess the plausibility of recovering a simple
 topological representation under a variety of conditions. Our results suggest
@@ -44,8 +44,14 @@ recommendations for how to make the most out of TDA for fMRI analysis.
 
 Papers:
 
-- C. Ellis, M. Lesnick, G. Henselman-Petrusek, B. Keller, J. Cohen, `"Feasibility of Topological Data Analysis for Event-Related fMRI"
+- C. Ellis, M. Lesnick, G. {Henselman-Petrusek}, B. Keller, J. Cohen, `"Feasibility of Topological Data Analysis for Event-Related {{fMRI}}"
   <https://doi.org/10.1162/netn_a_00095>`__,  2019, Network Neuroscience, 3, 695--706
+- C. Giusti, E. Pastalkova, C. Curto, V. Itskov, `"Clique Topology Reveals Intrinsic Geometric Structure in Neural Correlations"
+  <https://doi.org/10.1073/pnas.1506407112>`__,  2015, National Academy of Sciences, 13455--13460
+- B. Stolz, H. Harrington, M. Porter, `"Persistent Homology of Time-Dependent Functional Networks Constructed from Coupled Time Series"
+  <https://doi.org/10.1063/1.4978997>`__,  2017, Chaos: An Interdisciplinary Journal of Nonlinear Science, 27, 047410
+- A. Zomorodian, `"Computing Persistent Homology"
+  <https://doi.org/10.1007/s00454-004-1146-y>`__,  2005, Discrete \& Computational Geometry, 33, 249--274
 
 
 **Date:** 2021/05/21 |br|
