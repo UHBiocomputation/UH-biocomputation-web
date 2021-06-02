@@ -16,6 +16,11 @@ from textwrap import wrap
 import os
 import csv
 
+def prune_text(some_text):
+    some_text = some_text.replace("{","")
+    some_text = some_text.replace("}","")
+    some_text = some_text.replace("\textemdash", "-")
+    return some_text
 
 def produce_reference_entry(bib_entry, formatting="post"):
     """
@@ -131,11 +136,6 @@ parser.add_argument("-g", "--slug",
                         help="Formated name of the file in which post content is located")
 
 
-def prune_text(some_text):
-    some_text = some_text.replace("{","")
-    some_text = some_text.replace("}","")
-    some_text = some_text.replace("\textemdash", "-")
-    return some_text
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Generate message elements
@@ -198,7 +198,7 @@ b = bib_entry.fields
 
 try:
     # Use info from paper to set up variables
-    title = b['title']
+    title = prune_text(b['title'])
     paper_abstract = wrap(prune_text(b['abstract']), width=70)
     paper_link = b['doi']
     paper_tags = ""
