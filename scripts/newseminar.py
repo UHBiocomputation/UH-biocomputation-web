@@ -266,15 +266,17 @@ footer_html2 = "	<br />"
 # For website <<<
 # ===-===-
 # For email >>>
-message_subject = f"[Journal Club] - {author} - {title} - online" + newline
+formated_date = datetime.strptime(seminar_date, "%Y/%m/%d")
+print(formated_date)
+formated_date = formated_date.strftime("%-d %B %Y")
+
+message_subject = f"[Journal Club] - {author} - {title} - {formated_date} - online" + newline
 greeting = "Hello everyone," + newline
 # formated_date = date(seminar_date) + newline
 # paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
 
-formated_date = datetime.strptime(seminar_date, "%Y/%m/%d")
-print(formated_date)
 # formated_date = seminar_date + newline
-paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
+paragraph1 = f'{author} will present at the journal club this Friday {formated_date} at 14:00.' + newline
 
 paragraph1 += f'He will talk about a paper "{title}". Please see the abstract below.' + newline
 zoom_notification1 = "The meeting is held online on Zoom, please follow this link to join:" + newline
@@ -288,7 +290,7 @@ if False:
         next_speaker = data["speaker"]
         next_date = data["date"]
         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
-title_separator = "================================================================"
+title_separator = "================================================================" + newline
 
 all_references_email = []
 for bib_id in bibdata.entries:
