@@ -1,8 +1,8 @@
 UH-biocomputation-web 
 ---------------------
 
-.. image:: https://travis-ci.org/UHBiocomputation/UH-biocomputation-web.svg?branch=master
-    :target: https://travis-ci.org/UHBiocomputation/UH-biocomputation-web
+.. image:: https://github.com/UHBiocomputation/UH-biocomputation-web/workflows/Test%20build/badge.svg
+    :target: https://github.com/UHBiocomputation/UH-biocomputation-web/actions/workflows/publish.yml
 
 |
 
