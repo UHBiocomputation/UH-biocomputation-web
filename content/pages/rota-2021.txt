@@ -19,7 +19,7 @@
 	13, Muhammad Aamir Khan, "`Study of weak / strong multiplication in gain modulation\ <{filename}/20210526-study-of-weak-strong-multiplication-in-gain-modulation.rst>`__", 28/05/21
 	14, Minghua Zheng, "`Class-Balanced Loss Based on Effective Number of Samples\ <{filename}/20210602-class-balanced-loss-based-on-effective-number-of-samples.rst>`__", 04/06/21
 	15, Michael Schmucker, "`--\ <#>`__", 11/06/21
-	16, Ohki Katakura, "`--\ <#>`__", 18/06/21
+	16, Bente Riegler, "`--\ <#>`__", 18/06/21
 	17, Shavika Rastogi, "`--\ <#>`__", 25/06/21
 	18, Sam Sutton, "`--\ <#>`__", 02/07/21
 	19, Yi Sun, "`--\ <#>`__", 09/07/21
