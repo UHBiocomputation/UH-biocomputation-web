@@ -18,7 +18,7 @@
 	12, Shabnam Kadir, "`Feasibility of Topological Data Analysis for Event-Related fMRI\ <{filename}/20210520-feasibility-of-topological-data-analysis-for-event-related-fmri.rst>`__", 21/05/21
 	13, Muhammad Aamir Khan, "`Study of weak / strong multiplication in gain modulation\ <{filename}/20210526-study-of-weak-strong-multiplication-in-gain-modulation.rst>`__", 28/05/21
 	14, Minghua Zheng, "`Class-Balanced Loss Based on Effective Number of Samples\ <{filename}/20210602-class-balanced-loss-based-on-effective-number-of-samples.rst>`__", 04/06/21
-	15, Michael Schmucker, "`--\ <#>`__", 11/06/21
+	15, Michael Schmuker, "`Feed-Forward and Noise-Tolerant Detection of Feature Homogeneity in Spiking Networks with a Latency Code\ <{filename}/20210609-feed-forward-and-noise-tolerant-detection-of-feature-homogeneity-in-spiking-networks-with-a-latency-code.rst>`__", 11/06/21
 	16, Bente Riegler, "`--\ <#>`__", 18/06/21
 	17, Shavika Rastogi, "`--\ <#>`__", 25/06/21
 	18, Sam Sutton, "`--\ <#>`__", 02/07/21
