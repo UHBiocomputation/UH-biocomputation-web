@@ -16,11 +16,13 @@ from textwrap import wrap
 import os
 import csv
 
+
 def prune_text(some_text):
-    some_text = some_text.replace("{","")
-    some_text = some_text.replace("}","")
+    some_text = some_text.replace("{", "")
+    some_text = some_text.replace("}", "")
     some_text = some_text.replace("\textemdash", "-")
     return some_text
+
 
 def produce_reference_entry(bib_entry, formatting="post"):
     """
@@ -85,6 +87,30 @@ def produce_reference_entry(bib_entry, formatting="post"):
     #     pass
 
 
+# ===-
+# Modify Rota file
+def find_speaker(rota_list, author):
+    for (index, line) in enumerate(rota_list):
+        line_sections = line.split(",")
+
+        # Find author
+        if line_sections[0] == author:
+
+            # Check if the title for his talk is set (omit overwritting prevoius talks)
+            if len(line_sections[2]) < 3:
+                return index
+
+
+def prepare_rota_info(rota_line, title, slug_info):
+    line_fragments = rota_line.split(",")
+    line_fragments[1] = title
+    line_fragments[2] = slug_info
+
+    return ",".join(line_fragments)
+
+
+def add_quotation(text):
+    return '\"' + text + '\"'
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
@@ -94,6 +120,7 @@ parser = argparse.ArgumentParser()
 #                         required=True,
 #                         action="append",
 #                         help="Title of the talk")
+
 parser.add_argument("-a", "--author",
                         # type=String,
                         required=True,
@@ -134,7 +161,6 @@ parser.add_argument("-n", "--paper_name",
 parser.add_argument("-g", "--slug",
                         # type=String,
                         help="Formated name of the file in which post content is located")
-
 
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
@@ -285,11 +311,13 @@ zoom_notification3 = "Meeting ID: " + newline
 zoom_notification4 = "Passcode: " + newline
 reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
 reminder_part2 = ""
+
 if False:
     for (k, data) in enumerate(next_speakers):
         next_speaker = data["speaker"]
         next_date = data["date"]
         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
+
 title_separator = "================================================================" + newline
 
 all_references_email = []
@@ -297,8 +325,8 @@ for bib_id in bibdata.entries:
     bib_entry = bibdata.entries[bib_id]
     reference_entry = produce_reference_entry(bib_entry, formatting="email")
     print(reference_entry)
-    if reference_entry == None:
-        print(f"Empty bib entry- will have to verify this")
+    if reference_entry is None:
+        print("Empty bib entry- will have to verify this")
     else:
         all_references_email.extend(wrap(reference_entry, width=70))
 
@@ -336,12 +364,11 @@ post_text = [post_title,
 for line in paper_abstract:
     post_text.append(line + newline)
 
-post_text.extend((
-                empty_line,
-                vertical_separator,
-                empty_line,
-                papers_section,
-                empty_line))
+post_text.extend((empty_line,
+                  vertical_separator,
+                  empty_line,
+                  papers_section,
+                  empty_line))
 
 for reference in all_references:
     post_text.append(reference)
@@ -398,41 +425,10 @@ message_text.extend((empty_line,
 for reference in all_references_email:
     message_text.append(reference)
 
-# ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
-# File creation and modification
-# Save post
-with open(full_file_name, "a") as seminar_file:
-    seminar_file.writelines(post_text)
-
-# Save email
-with open("new_seminar_email.txt", "w") as email_file:
-    email_file.writelines(message_text)
 
 
 # ===-===-
-# Modify Rota file
-def find_speaker(rota_list, author):
-    for (index, line) in enumerate(rota_list):
-        line_sections = line.split(",")
-
-        # Find author
-        if line_sections[0] == author:
-
-            # Check if the title for his talk is set (omit overwritting prevoius talks)
-            if len(line_sections[2]) < 3:
-                return index
-
-
-def prepare_rota_info(rota_line, title, slug_info):
-    line_fragments = rota_line.split(",")
-    line_fragments[1] = title
-    line_fragments[2] = slug_info
-
-    return ",".join(line_fragments)
-
-def add_quotation(text):
-    return '\"' + text + '\"'
-
+# Prepare rota file
 
 # Read file into list
 rota_list = []
@@ -442,14 +438,36 @@ with open(rota_data_file) as file:
         rota_list.append(line)
 
 # replace row
-speaker_index = find_speaker(rota_list, author)
-rota_list[speaker_index] = prepare_rota_info(rota_list[speaker_index], add_quotation(title), add_quotation(slug_info))
 
+speaker_index = find_speaker(rota_list, author)
+
+if speaker_index is None:
+    print("\n!WARNING! Speaker was not found on the rota list!\n\n")
+
+rota_list[speaker_index] = prepare_rota_info(rota_list[speaker_index],
+                                             add_quotation(title),
+                                             add_quotation(slug_info))
+
+
+# ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
+# File creation and modification
+# Save post
+with open(full_file_name, "a") as seminar_file:
+    seminar_file.writelines(post_text)
+
+# ===-===-
+# Save email
+with open("new_seminar_email.txt", "w") as email_file:
+    email_file.writelines(message_text)
+
+# ===-===-
+# Change rota file
+# ===-
 # Move old file for backup
 r_file_parts = rota_data_file.split(".")
 os.replace(rota_data_file, f"{r_file_parts[0]}_backup.{r_file_parts[1]}")
 
-# save new file in place of old file
+# ===-
 with open(rota_data_file, "w") as rota_file:
     rota_file.writelines(rota_list)
 
