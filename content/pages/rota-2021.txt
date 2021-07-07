@@ -21,7 +21,6 @@
 	15, Michael Schmuker, "`Feed-Forward and Noise-Tolerant Detection of Feature Homogeneity in Spiking Networks with a Latency Code\ <{filename}/20210609-feed-forward-and-noise-tolerant-detection-of-feature-homogeneity-in-spiking-networks-with-a-latency-code.rst>`__", 11/06/21
 	16, Bente Riegler, "`Toward a New Theory of Motor Synergies\ <{filename}/20210616-toward-a-new-theory-of-motor-synergies.rst>`__", 18/06/21
 	17, Shavika Rastogi, "`A Spiking Neural Program for Sensorimotor Control during Foraging in Flying Insects\ <{filename}/20210623-a-spiking-neural-program-for-sensorimotor-control-during-foraging-in-flying-insects.rst>`__", 25/06/21
-	18, Sam Sutton, "`--\ <#>`__", 02/07/21
-	19, Yi Sun, "`--\ <#>`__", 09/07/21
-	20, Na Helian, "`--\ <#>`__", 16/07/21
+	18, Na Helian, "`Feature Weighted Density-based Clustering\ <{filename}/20210707-feature-weighted-density-based-clustering.rst>`__", 07/07/21
+	19, Yi Sun, "`--\ <#>`__", 14/07/21
 
