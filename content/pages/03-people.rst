@@ -29,6 +29,11 @@ Core Faculty and Research Staff
 - `Na Helian`_ |br|
   Research Interests: machine learning, cloud computing
 
+.. _Olga Tveretina:
+
+- `Olga Tveretina`_ |br|
+  Research Interests: verification of hybrid systems, propositional proof complexity​, dynamical systems
+
 .. _Rene te Boekhorst: https://researchprofiles.herts.ac.uk/portal/en/persons/rene-te-boekhorst(9d93242e-fc6f-46e3-9bd9-a59cbbbb8288).html
 
 - `Rene te Boekhorst`_ |br|
@@ -286,11 +291,6 @@ Affiliated Faculty
 
 - `Lola Cañamero`_ |br|
   Research Interests: motivation and emotion modelling for autonomous and social agents, neural controllers
-
-.. _Olga Tveretina:
-
-- `Olga Tveretina`_ |br|
-  Research Interests: verification of hybrid systems, propositional proof complexity​, dynamical systems
 
 .. _Peter Lane: https://researchprofiles.herts.ac.uk/portal/en/persons/peter-lane(bb457ee3-4eb1-4e04-97bb-6e9f1cf2ac91).html
 
