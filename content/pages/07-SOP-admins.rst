@@ -136,39 +136,49 @@ Updating the journal club rota
 ================================
 
 The rota is mangaged using a CSV file in the :code:`scripts` folder. The
-current file is :code:`rota-2019b.csv`. Each line in this file represents an
+current file is :code:`rota-2021b.csv`. Each line in this file represents an
 entry that must be added to the ical file and the seminar page
 :code:`05-seminars.rst`. The seminar page is set up to source the generated
 rota page. The Makefile takes care of generating the rota and ical files, and
-copying them to the required locations. 
+copying them to the required locations.
 
-Setting a speaker for the JC session requires 2 things: (1) generating a file with the abstract of the talk and (2) modifying the CSV file in the :code:`scripts` folder. Generation of the file with abstract (1) is done by adding a new post which content is the abstract of the talk. Adding a new post is described above. The CSV file should be appended with the information about the talk and should be done according to following formula:
+Setting a speaker for the JC session requires 2 steps: (1) generating a file
+with the abstract of the talk and (2) modifying the CSV file in the
+:code:`scripts` folder. Generation of the file with abstract (1) is done by
+adding a new post which content is the abstract of the talk. Adding a new post
+is described above. The CSV file should be appended with the information about
+the talk and should be done according to following formula:
 
 
 .. code:: text
 
-    Name of presenter,"Title of talk","Location of rst post in contents folder",Date of event(YYYY-MM-DD),Start time in 24h format,End time in 24h format,Location(0 represents default, LB252),Whether or not this entry should be added to the seminars page: 1 = Yes, 2 = No
+    Name of presenter,"Title of talk","Location of rst post in contents
+    folder",Date of event(YYYY-MM-DD),Start time in 24h format,End time in 24h
+    format,Location(0 represents default, LB252),Whether or not this entry
+    should be added to the seminars page: 1 = Yes, 2 = No
 
-It is possible to add a speaker without title and abstract file (leave the both sets of quotation marks empty). The abstract file name is the name of the post file created in (1). An example of fully modified formula is presented below:
+It is possible to add a speaker without title and abstract file (leave the both
+sets of quotation marks empty). The abstract file name is the name of the post
+file created in (1). An example of fully modified formula is presented below:
 
 .. code:: text
 
     Ankur Sinha,"Associative properties of structural plasticity based on firing rate homeostasis in a balanced recurrent network of spiking neurons","20170904-associative-properties-of-structural-plasticity-based-on-firing-rate-homeostasis-in-a-balanced-recurrent-network-of-spiking-neurons.rst",2017-09-08,1600,1700,0,1
 
 
-Note that when a new rota is started (at the beginning of September and January), 
-there are 2 things to be done. First of all, a new CSV file should be added 
-to the :code:`scripts` folder (as described above). Second of all, the newly 
-created CSV file needs to be sourced in the :code:`content/pages/05-seminars.rst` 
-file. The following example shows what text should be added just below the first 
+Note that when a new rota is started (at the beginning of September and January),
+there are 2 steps to be done. First of all, a new CSV file should be added
+to the :code:`scripts` folder (as described above). Second of all, the newly
+created CSV file needs to be sourced in the :code:`content/pages/05-seminars.rst`
+file. The following example shows what text should be added just below the first
 paragraph:
 
 .. code:: text
-    
-    September 2019 -
+
+    September 2021 -
     ----------------
 
-    .. include:: rota-2019b.txt
+    .. include:: rota-2021b.txt
 
 
 If an entry should be added to the ical file, but not to the seminar page, for
