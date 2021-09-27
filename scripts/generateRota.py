@@ -66,7 +66,7 @@ class generateRota:
         # print("A week is: {}".format(self.a_week))
         self.tz = pytz.timezone("Europe/London")
         # The date this rota starts at
-        self.start_date = date(2021, 2, 5)
+        self.start_date = date(2021, 10, 8) # TODO this should be changed to be loaded from the rota csv files
         # defaults
         self.year = str(datetime.now().year)
 
