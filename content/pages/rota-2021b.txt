@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Manal Helal, "`--\ <#>`__", 08/10/21
+	1, Manal Helal, "`Spinal Muscle Atrophy Disease Modelling as Bayesian Network\ <{filename}/20211006-spinal-muscle-atrophy-disease-modelling-as-bayesian-network.rst>`__", 08/10/21
 	2, Volker Steuber, "`--\ <#>`__", 15/10/21
 	3, Chama Bensmail, "`--\ <#>`__", 22/10/21
 	4, Muhammad Umer, "`--\ <#>`__", 29/10/21
@@ -12,7 +12,7 @@
 	6, Olga Tveretina, "`--\ <#>`__", 12/11/21
 	7, David Haydock, "`--\ <#>`__", 19/11/21
 	8, Shavika Rastogi, "`--\ <#>`__", 26/11/21
-	9, Epaminondas Kapetanios, "`--\ <#>`__", 03/12/21
-	10, Michael Schmuker, "`--\ <#>`__", 10/12/21
-	11, Harpreet Singh, "`--\ <#>`__", 17/12/21
+	9, Michael Schmuker, "`--\ <#>`__", 03/12/21
+	10, Harpreet Singh, "`--\ <#>`__", 10/12/21
+	11, Maria Psarrou, "`--\ <#>`__", 17/12/21
 
