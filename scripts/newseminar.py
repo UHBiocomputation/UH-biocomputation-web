@@ -48,6 +48,7 @@ def produce_reference_entry(bib_entry, formatting="post"):
         all_authors += author_full_name
 
     # Prepare additional info about the paper
+    # TODO Change the error output for crucial keys
     paper_reference = f" {b['year']}, {b['journal']}, "
     try:  # field may not exist for a reference
         paper_reference += f"{b['volume']}, "
@@ -295,8 +296,9 @@ footer_html2 = "	<br />"
 formated_date = datetime.strptime(seminar_date, "%Y/%m/%d")
 print(formated_date)
 formated_date = formated_date.strftime("%-d %B %Y")
+seminar_time = "14:00"
 
-message_subject = f"[Journal Club] - {author} - {title} - {formated_date} - online" + newline
+message_subject = f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online" + newline
 greeting = "Hello everyone," + newline
 # formated_date = date(seminar_date) + newline
 # paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
@@ -304,12 +306,15 @@ greeting = "Hello everyone," + newline
 # formated_date = seminar_date + newline
 paragraph1 = f'{author} will present at the journal club this Friday {formated_date} at 14:00.' + newline
 
-paragraph1 += f'He will talk about a paper "{title}". Please see the abstract below.' + newline
+paragraph1 += f'She/He will talk about a paper "{title}". For more information, please see the abstract below.' + newline
 zoom_notification1 = "The meeting is held online on Zoom, please follow this link to join:" + newline
+
+# TODO zoom link may be loaded from a local file
 zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
 zoom_notification3 = "Meeting ID: " + newline
 zoom_notification4 = "Passcode: " + newline
 reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
+# TODO Add a method for loading next speakers
 reminder_part2 = ""
 
 if False:
@@ -405,7 +410,6 @@ message_text.extend((empty_line,
                      reminder_part2,
                      empty_line,
                      title_separator,
-                     empty_line,
                      empty_line,
                      title,
                      empty_line,
