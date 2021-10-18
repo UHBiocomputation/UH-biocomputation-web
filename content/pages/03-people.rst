@@ -184,6 +184,11 @@ PhD Students
 
 .. His last name requires a different character - can't use the standard linking way for it
 
+.. _Mahsa Aliakbarzadeh:
+
+- `Mahsa Aliakbarzadeh`_ |br|
+  Research Interests: cerebellar computation, robotics and medical applications
+
 .. _Marco Craveiro: https://mcraveiro.blogspot.co.uk/
 
 - `Marco Craveiro`_ |br|
@@ -291,6 +296,11 @@ Affiliated Faculty
 
 - `Lola Cañamero`_ |br|
   Research Interests: motivation and emotion modelling for autonomous and social agents, neural controllers
+
+.. _Nada Yousif:
+
+- `Nada Yousif`_ |br|
+  Research Interests: computational neuroscience, movement disorders, neurostimulation
 
 .. _Peter Lane: https://researchprofiles.herts.ac.uk/portal/en/persons/peter-lane(bb457ee3-4eb1-4e04-97bb-6e9f1cf2ac91).html
 
