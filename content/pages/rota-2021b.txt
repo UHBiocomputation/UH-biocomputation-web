@@ -7,11 +7,11 @@
 	1, Manal Helal, "`Spinal Muscle Atrophy Disease Modelling as Bayesian Network\ <{filename}/20211006-spinal-muscle-atrophy-disease-modelling-as-bayesian-network.rst>`__", 08/10/21
 	2, Volker Steuber, "`A Cerebellar-Based Solution to the Nondeterministic Time Delay Problem in Robotic Control\ <{filename}/20211013-a-cerebellar-based-solution-to-the-nondeterministic-time-delay-problem-in-robotic-control.rst>`__", 15/10/21
 	3, Chama Bensmail, "`--\ <#>`__", 22/10/21
-	4, Muhammad Umer, "`--\ <#>`__", 29/10/21
-	5, Nik Dennler, "`--\ <#>`__", 05/11/21
-	6, Olga Tveretina, "`--\ <#>`__", 12/11/21
-	7, David Haydock, "`--\ <#>`__", 19/11/21
-	8, Shavika Rastogi, "`--\ <#>`__", 26/11/21
+	4, Nik Dennler, "`--\ <#>`__", 29/10/21
+	5, Olga Tveretina, "`--\ <#>`__", 05/11/21
+	6, David Haydock, "`--\ <#>`__", 12/11/21
+	7, Shavika Rastogi, "`--\ <#>`__", 19/11/21
+	8, Muhammad Umer, "`--\ <#>`__", 26/11/21
 	9, Michael Schmuker, "`--\ <#>`__", 03/12/21
 	10, Harpreet Singh, "`--\ <#>`__", 10/12/21
 	11, Maria Psarrou, "`--\ <#>`__", 17/12/21
