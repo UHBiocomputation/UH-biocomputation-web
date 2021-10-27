@@ -15,7 +15,8 @@ from pybtex.database.input import bibtex
 from textwrap import wrap
 import os
 import csv
-
+from pathlib import Path
+from string import ascii_lowercase
 
 def prune_text(some_text):
     some_text = some_text.replace("{", "")
@@ -113,6 +114,36 @@ def prepare_rota_info(rota_line, title, slug_info):
 def add_quotation(text):
     return '\"' + text + '\"'
 
+# Read file into list
+def get_rota_file(rota_data_file):
+    rota_list = []
+    with open(rota_data_file) as file:
+        for line in file:
+            line.strip()
+            rota_list.append(line)
+    return rota_list
+
+def get_next_speakers(rota_file, speaker_index):
+    if len(rota_file[speaker_index::])<3:
+        last_speaker=len(rota_file)
+    else:
+        last_speaker = speaker_index+3
+
+    speakers_list = rota_file[speaker_index:last_speaker]
+    speakers = []
+    for a_line in speakers_list:
+        line = a_line.split(",")
+        speakers.append(line[0])
+    return speakers
+
+def get_speaker_line(speakers_list):
+    speaker_lines = []
+    alphabet = list(ascii_lowercase)
+
+    for index, person in enumerate(speakers_list):
+        speaker_lines.append(f"{alphabet[index]}) {person} -- somedate")
+
+    return speaker_lines
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
 parser = argparse.ArgumentParser()
@@ -183,6 +214,18 @@ if datetime.now().month >= 9:
     year += 'b'
 
 rota_data_file = "scripts/rota-data-{}.csv".format(year)
+zoom_data_file = "scripts/zoom_info.txt"
+
+# ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
+# Get rota list
+
+rota_list = get_rota_file(rota_data_file)
+
+speaker_index = find_speaker(rota_list, author)
+
+if speaker_index is None:
+    print("\n!WARNING! Speaker was not found on the rota list!\n\n")
+    error()
 
 # ===-===-===-===-
 # Process bibtex  file
@@ -309,19 +352,39 @@ paragraph1 = f'{author} will present at the journal club this Friday {formated_d
 paragraph1 += f'She/He will talk about a paper "{title}". For more information, please see the abstract below.' + newline
 zoom_notification1 = "The meeting is held online on Zoom. To join, please use the following link:" + newline
 
-# TODO zoom link may be loaded from a local file
-zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
-zoom_notification3 = "Meeting ID: " + newline
-zoom_notification4 = "Passcode: " + newline
-reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
-# TODO Add a method for loading next speakers
-reminder_part2 = ""
+path = Path(zoom_data_file)
+if path.is_file():
+    # Read file into list
+    zoom_file = []
+    with open(zoom_data_file) as file:
+        for line in file:
+            line.strip()
+            zoom_file.append(line)
+    zoom_notification2 = zoom_file[0]
+    zoom_notification3 = zoom_file[2]
+    zoom_notification4 = zoom_file[3]
 
-if False:
-    for (k, data) in enumerate(next_speakers):
-        next_speaker = data["speaker"]
-        next_date = data["date"]
-        reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
+else:
+    zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
+    zoom_notification3 = "Meeting ID: " + newline
+    zoom_notification4 = "Passcode: " + newline
+
+
+# TODO Add a method for loading next speakers
+reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
+
+if ~(speaker_index is None):
+    next_speakers = get_next_speakers(rota_list, speaker_index)
+    speakers_list = get_speaker_line(next_speakers)
+    reminder_part2 = "\n".join(speakers_list)
+else:
+    reminder_part2 = ""
+
+# if False:
+#     for (k, data) in enumerate(next_speakers):
+#         next_speaker = data["speaker"]
+#         next_date = data["date"]
+#         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
 
 title_separator = "================================================================" + newline
 
@@ -434,19 +497,7 @@ for reference in all_references_email:
 # ===-===-
 # Prepare rota file
 
-# Read file into list
-rota_list = []
-with open(rota_data_file) as file:
-    for line in file:
-        line.strip()
-        rota_list.append(line)
-
 # replace row
-
-speaker_index = find_speaker(rota_list, author)
-
-if speaker_index is None:
-    print("\n!WARNING! Speaker was not found on the rota list!\n\n")
 
 rota_list[speaker_index] = prepare_rota_info(rota_list[speaker_index],
                                              add_quotation(title),
@@ -475,3 +526,4 @@ os.replace(rota_data_file, f"{r_file_parts[0]}_backup.{r_file_parts[1]}")
 with open(rota_data_file, "w") as rota_file:
     rota_file.writelines(rota_list)
 
+# DONE: zoom link may be loaded from a local file
