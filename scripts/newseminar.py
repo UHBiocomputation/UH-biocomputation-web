@@ -307,7 +307,7 @@ greeting = "Hello everyone," + newline
 paragraph1 = f'{author} will present at the journal club this Friday {formated_date} at 14:00.' + newline
 
 paragraph1 += f'She/He will talk about a paper "{title}". For more information, please see the abstract below.' + newline
-zoom_notification1 = "The meeting is held online on Zoom, please follow this link to join:" + newline
+zoom_notification1 = "The meeting is held online on Zoom. To join, please use the following link:" + newline
 
 # TODO zoom link may be loaded from a local file
 zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
