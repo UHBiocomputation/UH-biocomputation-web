@@ -9,7 +9,7 @@
 	3, --- , "`--\ <#>`__", 22/10/21
 	4, Nik Dennler, "`Evolving the Olfactory System with Machine Learning\ <{filename}/20211027-evolving-the-olfactory-system-with-machine-learning.rst>`__", 29/10/21
 	5, Emil Dmitruk, "`Brain Network Dynamics during Working Memory Are Modulated by Dopamine and Diminished in Schizophrenia\ <{filename}/20211103-brain-network-dynamics-during-working-memory-are-modulated-by-dopamine-and-diminished-in-schizophrenia.rst>`__", 05/11/21
-	6, David Haydock, "`--\ <#>`__", 12/11/21
+	6, David Haydock, "`Simulating and Reconstructing Neurodynamics with Epsilon-Automata Applied to Electroencephalography (EEG) Microstate Sequences\ <{filename}/20211110-simulating-and-reconstructing-neurodynamics-with-epsilon-automata-applied-to-electroencephalography-eeg-microstate-sequences.rst>`__", 12/11/21
 	7, Shavika Rastogi, "`--\ <#>`__", 19/11/21
 	8, Muhammad Umer, "`--\ <#>`__", 26/11/21
 	9, Christoph Mentzner, "`--\ <#>`__", 03/12/21
