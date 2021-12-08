@@ -13,6 +13,6 @@
 	7, Shavika Rastogi, "`Complementary Codes for Odor Identity and Intensity in Olfactory Cortex\ <{filename}/20211117-complementary-codes-for-odor-identity-and-intensity-in-olfactory-cortex.rst>`__", 19/11/21
 	8, --- , "`--\ <#>`__", 26/11/21
 	9, Christoph Metzner, "`Synchronization through Uncorrelated Noise in Excitatory-Inhibitory Networks\ <{filename}/20211201-synchronization-through-uncorrelated-noise-in-excitatory-inhibitory-networks.rst>`__", 03/12/21
-	10, Harpreet Singh, "`--\ <#>`__", 10/12/21
+	10, Harpreet Singh, "`Attention Is All You Need\ <{filename}/20211208-attention-is-all-you-need.rst>`__", 10/12/21
 	11, Maria Psarrou, "`--\ <#>`__", 17/12/21
 
