@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Manal Helal - Spinal Muscle Atrophy Disease Modelling as Bayesian 
+SUMMARY:Manal Helal - Spinal Muscle Atrophy Disease Modelling as Bayesian
  Network
 DTSTART;TZID=Europe/London:20211008T160000
 DTEND;TZID=Europe/London:20211008T170000
@@ -62,7 +62,7 @@ UID:2021-11-26T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christoph Metzner - Synchronization through Uncorrelated Noise in 
+SUMMARY:Christoph Metzner - Synchronization through Uncorrelated Noise in
  Excitatory-Inhibitory Networks
 DTSTART;TZID=Europe/London:20211203T160000
 DTEND;TZID=Europe/London:20211203T170000
@@ -77,7 +77,7 @@ UID:2021-12-10T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Psarrou - --
+SUMMARY:--- - --
 DTSTART;TZID=Europe/London:20211217T160000
 DTEND;TZID=Europe/London:20211217T170000
 UID:2021-12-17T00:00:00-00:01
