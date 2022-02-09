@@ -5,7 +5,7 @@
 	:quote: "
 
 	1, Maria Psarrou, "`Manipulating Synthetic Optogenetic Odors Reveals the Coding Logic of Olfactory Perception\ <{filename}/20220202-manipulating-synthetic-optogenetic-odors-reveals-the-coding-logic-of-olfactory-perception.rst>`__", 04/02/22
-	2, Minghua Zheng, "`--\ <#>`__", 11/02/22
+	2, Minghua Zheng, "`Learning To Count Everything\ <{filename}/20220209-learning-to-count-everything.rst>`__", 11/02/22
 	3, Epaminondas Kapetanios, "`--\ <#>`__", 18/02/22
 	4, Michael Schmuker, "`--\ <#>`__", 25/02/22
 	5, Damien Drix, "`--\ <#>`__", 04/03/22

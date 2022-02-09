@@ -1,0 +1,48 @@
+Learning To Count Everything
+#############################
+:date: 2022-02-09 11:19:02
+:author: Minghua Zheng
+:category: Seminar
+:tags: Neural networks; objects identification
+:slug: learning-to-count-everything
+:summary: Minghua Zheng's Journal Club session where he will talk about a paper "Learning To Count Everything"
+
+This week on Journal Club session Minghua Zheng will talk about a paper "Learning To Count Everything".
+
+------------
+
+Existing works on visual counting primarily focus on one specific
+category at a time, such as people, animals, and cells. In this paper,
+we are interested in counting everything, that is to count objects
+from any category given only a few annotated instances from that
+category. To this end, we pose counting as a few-shot regression task.
+To tackle this task, we present a novel method that takes a query
+image together with a few exemplar objects from the query image and
+predicts a density map for the presence of all objects of interest in
+the query image. We also present a novel adaptation strategy to adapt
+our network to any novel visual category at test time, using only a
+few exemplar objects from the novel category. We also introduce a
+dataset of 147 object categories containing over 6000 images that are
+suitable for the few-shot counting task. The images are annotated with
+two types of annotation, dots and bounding boxes, and they can be used
+for developing few-shot counting models. Experiments on this dataset
+shows that our method outperforms several state-of-the-art object
+detectors and few-shot counting approaches. Our code and dataset can
+be found at https://github.com/cvlab-stonybrook/LearningToCountEverything .
+
+|
+
+Papers:
+
+- V. Ranjan, U. Sharma, T. Nguyen, M. Hoai, `"Learning To Count Everything"
+  <https://doi.org/10.1109/CVPR46437.2021.00340>`__,  2021, 2021 IEEE/CV
+  Conference on Computer Vision and Pattern Recognition (CVPR), 3393--3402
+
+
+**Date:** 2022/02/11 |br|
+**Time:** 14:00 |br|
+**Location**: online
+
+.. |br| raw:: html
+
+	<br />
