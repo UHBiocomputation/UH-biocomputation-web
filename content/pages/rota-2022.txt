@@ -9,8 +9,8 @@
 	3, Epaminondas Kapetanios, "`--\ <#>`__", 18/02/22
 	4, Michael Schmuker, "`--\ <#>`__", 25/02/22
 	5, Damien Drix, "`--\ <#>`__", 04/03/22
-	6, Shabnam Kadir, "`--\ <#>`__", 11/03/22
-	7, Olga Tveretina, "`--\ <#>`__", 18/03/22
+	6, Olga Tveretina, "`--\ <#>`__", 11/03/22
+	7, Shabnam Kadir, "`--\ <#>`__", 18/03/22
 	8, Mohammad Tayarani-Najaran, "`--\ <#>`__", 25/03/22
 	9, Na Helian, "`--\ <#>`__", 22/04/22
 	10, Manal Helal, "`--\ <#>`__", 29/04/22
