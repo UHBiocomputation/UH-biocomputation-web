@@ -8,7 +8,7 @@
 	2, Minghua Zheng, "`Learning To Count Everything\ <{filename}/20220209-learning-to-count-everything.rst>`__", 11/02/22
 	3, Stavros Anagnou, "`Spurious Normativity Enhances Learning of Compliance and Enforcement Behavior in Artificial Agents\ <{filename}/20220216-spurious-normativity-enhances-learning-of-compliance-and-enforcement-behavior-in-artificial-agents.rst>`__", 18/02/22
 	4, Michael Schmuker, "`Using Head-Mounted Ethanol Sensors to Monitor Olfactory Information and Determine Behavioral Changes Associated with Ethanol-Plume Contact during Mouse Odor-Guided Navigation\ <{filename}/20220224-using-head-mounted-ethanol-sensors-to-monitor-olfactory-information-and-determine-behavioral-changes-associated-with-ethanol-plume-contact-during-mouse-odor-guided-navigation.rst>`__", 25/02/22
-	5, Damien Drix, "`--\ <#>`__", 04/03/22
+	5, --- , "`--\ <#>`__", 04/03/22
 	6, Olga Tveretina, "`--\ <#>`__", 11/03/22
 	7, Shabnam Kadir, "`--\ <#>`__", 18/03/22
 	8, Mohammad Tayarani-Najaran, "`--\ <#>`__", 25/03/22
