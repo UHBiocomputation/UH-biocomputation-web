@@ -9,18 +9,20 @@
 	3, Stavros Anagnou, "`Spurious Normativity Enhances Learning of Compliance and Enforcement Behavior in Artificial Agents\ <{filename}/20220216-spurious-normativity-enhances-learning-of-compliance-and-enforcement-behavior-in-artificial-agents.rst>`__", 18/02/22
 	4, Michael Schmuker, "`Using Head-Mounted Ethanol Sensors to Monitor Olfactory Information and Determine Behavioral Changes Associated with Ethanol-Plume Contact during Mouse Odor-Guided Navigation\ <{filename}/20220224-using-head-mounted-ethanol-sensors-to-monitor-olfactory-information-and-determine-behavioral-changes-associated-with-ethanol-plume-contact-during-mouse-odor-guided-navigation.rst>`__", 25/02/22
 	5, --- , "`--\ <#>`__", 04/03/22
-	6, Olga Tveretina, "`Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems\ <{filename}/20220309-complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems.rst>`__", 11/03/22
-	7, Shabnam Kadir, "`--\ <#>`__", 18/03/22
+	6, --- , "`--\ <#>`__", 11/03/22
+	7, --- , "`--\ <#>`__", 18/03/22
 	8, Mohammad Tayarani-Najaran, "`--\ <#>`__", 25/03/22
-	9, Na Helian, "`--\ <#>`__", 22/04/22
-	10, Manal Helal, "`--\ <#>`__", 29/04/22
-	11, Harpreet Singh, "`--\ <#>`__", 06/05/22
-	12, Yi Sun, "`--\ <#>`__", 13/05/22
-	13, Simon McCool, "`--\ <#>`__", 20/05/22
-	14, Nik Dennler, "`--\ <#>`__", 27/05/22
-	15, Reinoud Maex, "`--\ <#>`__", 03/06/22
-	16, David Haydock, "`--\ <#>`__", 10/06/22
-	17, Volker Steuber, "`--\ <#>`__", 17/06/22
-	18, Shavika Rastogi, "`--\ <#>`__", 24/06/22
-	19, Epaminondas Kapetanios, "`--\ <#>`__", 01/07/22
+	9, Shabnam Kadir, "`--\ <#>`__", 01/04/22
+	10, Manal Helal, "`--\ <#>`__", 08/04/22
+	11, Olga Tveretina, "`Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems\ <{filename}/20220309-complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems.rst>`__", 22/04/22
+	12, Na Helian, "`--\ <#>`__", 29/04/22
+	13, Harpreet Singh, "`--\ <#>`__", 06/05/22
+	14, Yi Sun, "`--\ <#>`__", 13/05/22
+	15, Simon McCool, "`--\ <#>`__", 20/05/22
+	16, Nik Dennler, "`--\ <#>`__", 27/05/22
+	17, Reinoud Maex, "`--\ <#>`__", 03/06/22
+	18, David Haydock, "`--\ <#>`__", 10/06/22
+	19, Volker Steuber, "`--\ <#>`__", 17/06/22
+	20, Shavika Rastogi, "`--\ <#>`__", 24/06/22
+	21, Epaminondas Kapetanios, "`--\ <#>`__", 01/07/22
 
