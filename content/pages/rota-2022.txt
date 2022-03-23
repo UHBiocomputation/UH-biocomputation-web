@@ -11,7 +11,7 @@
 	5, --- , "`--\ <#>`__", 04/03/22
 	6, --- , "`--\ <#>`__", 11/03/22
 	7, --- , "`--\ <#>`__", 18/03/22
-	8, Mohammad Tayarani-Najaran, "`--\ <#>`__", 25/03/22
+	8, Mohammad Tayarani-Najaran, "`A Novel Ensemble Machine Learning and an Evolutionary Algorithm in Modeling the COVID-19 Epidemic and Optimizing Government Policies\ <{filename}/20220323-a-novel-ensemble-machine-learning-and-an-evolutionary-algorithm-in-modeling-the-covid-19-epidemic-and-optimizing-government-policies.rst>`__", 25/03/22
 	9, Emil Dmitruk, "`Uncovering the Topology of Time-Varying fMRI Data Using Cubical Persistence\ <{filename}/20220316-uncovering-the-topology-of-time-varying-fmri-data-using-cubical-persistence.rst>`__", 01/04/22
 	10, Shabnam Kadir, "`--\ <#>`__", 08/04/22
 	11, Olga Tveretina, "`Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems\ <{filename}/20220309-complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems.rst>`__", 22/04/22

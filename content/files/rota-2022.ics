@@ -53,7 +53,9 @@ UID:2022-03-18T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mohammad Tayarani-Najaran - --
+SUMMARY:Mohammad Tayarani-Najaran - A Novel Ensemble Machine Learning and 
+ an Evolutionary Algorithm in Modeling the COVID-19 Epidemic and Optimizing
+  Government Policies
 DTSTART;TZID=Europe/London:20220325T140000
 DTEND;TZID=Europe/London:20220325T150000
 UID:2022-03-25T00:00:00-00:01
