@@ -10,7 +10,7 @@
 	4, Michael Schmuker, "`Using Head-Mounted Ethanol Sensors to Monitor Olfactory Information and Determine Behavioral Changes Associated with Ethanol-Plume Contact during Mouse Odor-Guided Navigation\ <{filename}/20220224-using-head-mounted-ethanol-sensors-to-monitor-olfactory-information-and-determine-behavioral-changes-associated-with-ethanol-plume-contact-during-mouse-odor-guided-navigation.rst>`__", 25/02/22
 	5, --- , "`--\ <#>`__", 04/03/22
 	6, --- , "`--\ <#>`__", 11/03/22
-	7, --- , "`--\ <#>`__", 18/03/22
+	7, Emil Dmitruk, "`Uncovering the Topology of Time-Varying fMRI Data Using Cubical Persistence\ <{filename}/20220316-uncovering-the-topology-of-time-varying-fmri-data-using-cubical-persistence.rst>`__", 18/03/22
 	8, Mohammad Tayarani-Najaran, "`--\ <#>`__", 25/03/22
 	9, Shabnam Kadir, "`--\ <#>`__", 01/04/22
 	10, Manal Helal, "`--\ <#>`__", 08/04/22
