@@ -16,14 +16,15 @@
 	10, Shabnam Kadir, "`--\ <#>`__", 08/04/22
 	11, Olga Tveretina, "`Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems\ <{filename}/20220309-complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems.rst>`__", 22/04/22
 	12, Na Helian, "`Boosting Ant Colony Optimization with Reptile Search Algorithm for Churn Prediction\ <{filename}/20220427-boosting-ant-colony-optimization-with-reptile-search-algorithm-for-churn-prediction.rst>`__", 29/04/22
-	13, Manal Helal, "`--\ <#>`__", 06/05/22
-	14, Harpreet Singh, "`--\ <#>`__", 13/05/22
-	15, Yi Sun, "`--\ <#>`__", 20/05/22
-	16, Simon McCool, "`--\ <#>`__", 27/05/22
-	17, Nik Dennler, "`--\ <#>`__", 03/06/22
-	18, Reinoud Maex, "`--\ <#>`__", 10/06/22
-	19, David Haydock, "`--\ <#>`__", 17/06/22
-	20, Volker Steuber, "`--\ <#>`__", 24/06/22
-	21, Shavika Rastogi, "`--\ <#>`__", 01/07/22
-	22, Epaminondas Kapetanios, "`--\ <#>`__", 08/07/22
+	13, --- , "`--\ <#>`__", 06/05/22
+	14, Manal Helal, "`Tensor Decomposition with Relational Constraints for Predicting Multiple Types of microRNA-disease Associations\ <{filename}/20220511-tensor-decomposition-with-relational-constraints-for-predicting-multiple-types-of-microrna-disease-associations.rst>`__", 13/05/22
+	15, Harpreet Singh, "`--\ <#>`__", 20/05/22
+	16, Yi Sun, "`--\ <#>`__", 27/05/22
+	17, Simon McCool, "`--\ <#>`__", 03/06/22
+	18, Nik Dennler, "`--\ <#>`__", 10/06/22
+	19, Reinoud Maex, "`--\ <#>`__", 17/06/22
+	20, David Haydock, "`--\ <#>`__", 24/06/22
+	21, Volker Steuber, "`--\ <#>`__", 01/07/22
+	22, Shavika Rastogi, "`--\ <#>`__", 08/07/22
+	23, Epaminondas Kapetanios, "`--\ <#>`__", 15/07/22
 
