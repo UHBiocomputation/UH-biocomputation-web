@@ -18,7 +18,7 @@
 	12, Na Helian, "`Boosting Ant Colony Optimization with Reptile Search Algorithm for Churn Prediction\ <{filename}/20220427-boosting-ant-colony-optimization-with-reptile-search-algorithm-for-churn-prediction.rst>`__", 29/04/22
 	13, --- , "`--\ <#>`__", 06/05/22
 	14, Manal Helal, "`Tensor Decomposition with Relational Constraints for Predicting Multiple Types of microRNA-disease Associations\ <{filename}/20220511-tensor-decomposition-with-relational-constraints-for-predicting-multiple-types-of-microrna-disease-associations.rst>`__", 13/05/22
-	15, Harpreet Singh, "`--\ <#>`__", 20/05/22
+	15, Harpreet Singh, "`Sentiment Analysis Using BLSTM-ResNet on Textual Images\ <{filename}/20220518-sentiment-analysis-using-blstm-resnet-on-textual-images.rst>`__", 20/05/22
 	16, Yi Sun, "`--\ <#>`__", 27/05/22
 	17, Simon McCool, "`--\ <#>`__", 03/06/22
 	18, Nik Dennler, "`--\ <#>`__", 10/06/22
