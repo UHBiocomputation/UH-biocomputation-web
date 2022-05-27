@@ -37,7 +37,7 @@ Papers:
   <https://doi.org/10.1016/j.jmva.2021.104890>`__,  2022, Journal of Multivariate Analysis, 189, 104890
 
 
-**Date:** 2022/05/26 |br|
+**Date:** 2022/05/27 |br|
 **Time:** 14:00 |br|
 **Location**: online
 

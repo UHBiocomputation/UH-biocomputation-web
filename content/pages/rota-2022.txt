@@ -19,7 +19,7 @@
 	13, --- , "`--\ <#>`__", 06/05/22
 	14, Manal Helal, "`Tensor Decomposition with Relational Constraints for Predicting Multiple Types of microRNA-disease Associations\ <{filename}/20220511-tensor-decomposition-with-relational-constraints-for-predicting-multiple-types-of-microrna-disease-associations.rst>`__", 13/05/22
 	15, Harpreet Singh, "`Sentiment Analysis Using BLSTM-ResNet on Textual Images\ <{filename}/20220518-sentiment-analysis-using-blstm-resnet-on-textual-images.rst>`__", 20/05/22
-	16, Yi Sun, "`--\ <#>`__", 27/05/22
+	16, Yi Sun, "`On Projection Methods for Functional Time Series Forecasting\ <{filename}/20220526-on-projection-methods-for-functional-time-series-forecasting.rst>`__", 27/05/22
 	17, Simon McCool, "`--\ <#>`__", 03/06/22
 	18, Nik Dennler, "`--\ <#>`__", 10/06/22
 	19, Reinoud Maex, "`--\ <#>`__", 17/06/22
