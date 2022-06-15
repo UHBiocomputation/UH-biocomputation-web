@@ -13,18 +13,16 @@
 	7, --- , "`--\ <#>`__", 18/03/22
 	8, Mohammad Tayarani-Najaran, "`A Novel Ensemble Machine Learning and an Evolutionary Algorithm in Modeling the COVID-19 Epidemic and Optimizing Government Policies\ <{filename}/20220323-a-novel-ensemble-machine-learning-and-an-evolutionary-algorithm-in-modeling-the-covid-19-epidemic-and-optimizing-government-policies.rst>`__", 25/03/22
 	9, Emil Dmitruk, "`Uncovering the Topology of Time-Varying fMRI Data Using Cubical Persistence\ <{filename}/20220316-uncovering-the-topology-of-time-varying-fmri-data-using-cubical-persistence.rst>`__", 01/04/22
-	10, Shabnam Kadir, "`--\ <#>`__", 08/04/22
+	10, --- , "`--\ <#>`__", 08/04/22
 	11, Olga Tveretina, "`Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems\ <{filename}/20220309-complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems.rst>`__", 22/04/22
 	12, Na Helian, "`Boosting Ant Colony Optimization with Reptile Search Algorithm for Churn Prediction\ <{filename}/20220427-boosting-ant-colony-optimization-with-reptile-search-algorithm-for-churn-prediction.rst>`__", 29/04/22
 	13, --- , "`--\ <#>`__", 06/05/22
 	14, Manal Helal, "`Tensor Decomposition with Relational Constraints for Predicting Multiple Types of microRNA-disease Associations\ <{filename}/20220511-tensor-decomposition-with-relational-constraints-for-predicting-multiple-types-of-microrna-disease-associations.rst>`__", 13/05/22
 	15, Harpreet Singh, "`Sentiment Analysis Using BLSTM-ResNet on Textual Images\ <{filename}/20220518-sentiment-analysis-using-blstm-resnet-on-textual-images.rst>`__", 20/05/22
 	16, Yi Sun, "`On Projection Methods for Functional Time Series Forecasting\ <{filename}/20220526-on-projection-methods-for-functional-time-series-forecasting.rst>`__", 27/05/22
-	17, Simon McCool, "`--\ <#>`__", 10/06/22
-	18, Nik Dennler, "`--\ <#>`__", 17/06/22
-	19, Reinoud Maex, "`--\ <#>`__", 24/06/22
-	20, David Haydock, "`--\ <#>`__", 01/07/22
-	21, Volker Steuber, "`--\ <#>`__", 08/07/22
-	22, Shavika Rastogi, "`--\ <#>`__", 15/07/22
-	23, Epaminondas Kapetanios, "`--\ <#>`__", 22/07/22
+	17, Reinoud Maex, "`Effect of Extracellular Volume on the Energy Stored in Transmembrane Concentration Gradients\ <{filename}/20220615-effect-of-extracellular-volume-on-the-energy-stored-in-transmembrane-concentration-gradients.rst>`__", 17/06/22
+	18, David Haydock, "`--\ <#>`__", 24/06/22
+	19, Volker Steuber, "`--\ <#>`__", 01/07/22
+	20, Shavika Rastogi, "`--\ <#>`__", 08/07/22
+	21, Epaminondas Kapetanios, "`--\ <#>`__", 15/07/22
 
