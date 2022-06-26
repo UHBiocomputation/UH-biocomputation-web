@@ -2,7 +2,7 @@ People
 ######
 :slug: 03-people
 
-.. _Adaptive Systems: #
+.. _Adaptive Systems: https://adapsys.cs.herts.ac.uk
 .. _Technology Supported Learning: #
 
 
@@ -12,12 +12,7 @@ Core Faculty and Research Staff
 .. _Epaminondas Kapetanios: https://researchprofiles.herts.ac.uk/portal/en/persons/epameinondas-kapetanios(38bf0ddf-fd2e-477c-b5b5-ee1036055e0a).html
 
 - `Epaminondas Kapetanios`_ |br|
-  Research Interests: cognitive and semantic computing, explainable data-driven AI.
-
-.. _Manal Helal: http://www.manalhelal.com/research/
-
-- `Manal Helal`_ |br|
-  Research Interests: Network Models, Complex Systems, Tensor Multi-way Analysis
+  Research Interests: cognitive and semantic computing, explainable data-driven AI
 
 .. _Michael Schmuker: https://researchprofiles.herts.ac.uk/portal/en/persons/michael-schmuker(fda08dd2-790b-4871-92cb-324b9f1e4267).html
 
@@ -170,7 +165,12 @@ PhD Students
 .. _Emil Dmitruk:
 
 - `Emil Dmitruk`_ |br|
-  Research Interests: computational homology, neural coding, and sensory systems.
+  Research Interests: computational homology, neural coding, and sensory systems
+
+.. _Eleonora Bernasconi: https://www.linkedin.com/in/eleonora-bernasconi-62897b1b6/
+
+- `Eleonora Bernasconi`_ |br|
+  Research Interests: Computational neuroscience
 
 .. _Harpreet Singh:
 
@@ -296,6 +296,11 @@ Affiliated Faculty
 
 - `Lola Cañamero`_ |br|
   Research Interests: motivation and emotion modelling for autonomous and social agents, neural controllers
+
+.. _Manal Helal: http://www.manalhelal.com/research/
+
+- `Manal Helal`_ |br|
+  Research Interests: Network Models, Complex Systems, Tensor Multi-way Analysis
 
 .. _Nada Yousif:
 

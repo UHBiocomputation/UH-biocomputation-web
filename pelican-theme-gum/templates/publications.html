@@ -3,13 +3,13 @@
 {% block metadesc %}{{ SITETAGALT }} List of Publications{% endblock %}
 {% block page%}active{% endblock %}
 
-{% block    custom_header %}
+{% block custom_header %}
 {% if CUSTOM_HEADER_ARCHIVES %}
 {% include "includes/" + CUSTOM_HEADER_ARCHIVES %}
 {% endif %}
 {% endblock custom_header %}
 
-{% block    container_header %}
+{% block container_header %}
 {% if CUSTOM_CONTAINER_TOP_ARCHIVES %}
 {% include "includes/" + CUSTOM_CONTAINER_TOP_ARCHIVES %}
 {% endif %}
@@ -17,21 +17,23 @@
 
 {% block content %}
 <script type="text/javascript">
-function disp(s) {
-  var win;
-  var doc;
-  win = window.open("", "WINDOWID");
-  doc = win.document;
-  doc.open("text/plain");
-  doc.write(s);
-  doc.close();
-}
+  function disp(s) {
+    var win;
+    var doc;
+    win = window.open("", "WINDOWID");
+    doc = win.document;
+    doc.open("text/plain");
+    doc.write(s);
+    doc.close();
+  }
 </script>
 
 <h1>List of Publications</h1>
 
 <!-- Add new member with +OR+%22<family name>+<initial of first name> to the link. -->
-<p><strong>Latest articles are listed on <a href=https://researchprofiles.herts.ac.uk/portal/en/publications/search.html?search=%22Epaminondas+Kapetanios%22+OR+%22Manal+Helal%22+OR+%22Michael+Schmuker%22+OR+%22Na+Helian%22+OR+%22Rene+te+Boekhorst%22+OR+%22Rod+Adams%22+OR+%22Shabnam+Kadir%22+OR+%22Volker+Steuber%22+OR+%22Yi+Sun%22>UH Research Database</a>.</strong></p>
+<p><strong>Latest articles are listed on <a
+      href=https://researchprofiles.herts.ac.uk/portal/en/publications/search.html?search=%22Epaminondas+Kapetanios%22+OR+%22Michael+Schmuker%22+OR+%22Na+Helian%22+OR+%22Rene+te+Boekhorst%22+OR+%22Rod+Adams%22+OR+%22Shabnam+Kadir%22+OR+%22Volker+Steuber%22+OR+%22Yi+Sun%22>UH
+      Research Database</a>.</strong></p>
 
 <!-- Publication list from bibtex. -->
 <div class="content-body" itemprop="text">
@@ -41,7 +43,8 @@ function disp(s) {
     {% for publication in group.list %}
     <li id="{{ publication.key }}">{{ publication.text }}
       [&nbsp;<a href="javascript:disp('{{ publication.bibtex|replace('\n', '\\n')|escape}}');">Bibtex</a>&nbsp;]
-      {% for label, target in [('PDF', publication.pdf), ('Slides', publication.slides), ('Poster', publication.poster)] %}
+      {% for label, target in [('PDF', publication.pdf), ('Slides', publication.slides), ('Poster', publication.poster)]
+      %}
       {{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
       {% endfor %}
     </li>
@@ -51,13 +54,13 @@ function disp(s) {
 </div>
 {% endblock content %}
 
-{% block    content_footer %}
+{% block content_footer %}
 {% if CUSTOM_CONTENT_BOTTOM_ARCHIVES %}
 {% include "includes/" + CUSTOM_CONTENT_BOTTOM_ARCHIVES %}
 {% endif %}
 {% endblock content_footer %}
 
-{% block    container_footer %}
+{% block container_footer %}
 {% if CUSTOM_CONTAINER_BOTTOM_ARCHIVES %}
 {% include "includes/" + CUSTOM_CONTAINER_BOTTOM_ARCHIVES %}
 {% endif %}
