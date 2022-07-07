@@ -23,6 +23,6 @@
 	17, Reinoud Maex, "`Effect of Extracellular Volume on the Energy Stored in Transmembrane Concentration Gradients\ <{filename}/20220615-effect-of-extracellular-volume-on-the-energy-stored-in-transmembrane-concentration-gradients.rst>`__", 17/06/22
 	18, David Haydock, "`--\ <#>`__", 24/06/22
 	19, Volker Steuber, "`Long-Term Depression and Recognition of Parallel Fibre Patterns in a Multi-Compartmental Model of a Cerebellar Purkinje Cell\ <{filename}/20220628-temporal-coding-and-rank-order-coding.rst>`__", 01/07/22
-	20, Shavika Rastogi, "`--\ <#>`__", 08/07/22
+	20, Shavika Rastogi, "`Distinct Lateral Inhibitory Circuits Drive Parallel Processing of Sensory Information in the Mammalian Olfactory Bulb\ <{filename}/20220707-distinct-lateral-inhibitory-circuits-drive-parallel-processing-of-sensory-information-in-the-mammalian-olfactory-bulb.rst>`__", 08/07/22
 	21, Epaminondas Kapetanios, "`--\ <#>`__", 15/07/22
 
