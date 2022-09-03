@@ -69,7 +69,7 @@ class generateRota:
 
         # ===-===-===-===-===-===-===-===-===-===-===-===-
         # TODO this should be changed to be loaded from the rota csv files
-        self.start_date = date(2022, 2, 4)
+        self.start_date = date(2022, 9, 30)
         # ===-===-===-===-===-===-===-===-===-===-===-===-
 
         # defaults
@@ -77,7 +77,7 @@ class generateRota:
 
         # if Sept - Dec add b to file name
         if datetime.now().month >= 9:
-            self.year += 'b'
+            self.year += "b"
 
         self.rota_time_start = 14
         self.rota_time_end = 15
@@ -85,7 +85,7 @@ class generateRota:
         # self.rota_location = ("D449, University of Hertfordshire, " +
         #                       "College Lane, Hatfield, UK, AL10 9AB")
 
-        self.rota_location = ("Online")
+        self.rota_location = "Online"
         # Update these to change the source csv and the output files
         self.rota_data_file = "scripts/rota-data-{}.csv".format(self.year)
 
@@ -121,61 +121,48 @@ class generateRota:
             logging.debug("Processing {}".format(aline))
             v1, v2, v3, s_date, stime, etime, location, to_post = aline
             # Only automatically fill in regular seminar sessions
-            if to_post == '1':
-                if s_date != '0':
+            if to_post == "1":
+                if s_date != "0":
                     rota_date = datetime.strptime(s_date, "%Y-%m-%d").date()
                 else:
                     rota_date = None
 
-                if stime != '0':
+                if stime != "0":
                     rota_time_start = datetime.strptime(stime, "%H%M").time()
                 else:
                     rota_time_start = None
 
-                if etime != '0':
+                if etime != "0":
                     rota_time_end = datetime.strptime(etime, "%H%M").time()
                 else:
                     rota_time_end = None
 
-                if location == '0':
+                if location == "0":
                     location = None
 
-                logging.debug(
-                    "Added to rota_data: {}".format(
-                        [v1, v2, v3, rota_date, rota_time_start,
-                         rota_time_end, location, to_post]))
-                self.rota_data.append([v1, v2, v3, rota_date, rota_time_start,
-                                       rota_time_end, location, to_post])
+                logging.debug("Added to rota_data: {}".format([v1, v2, v3, rota_date, rota_time_start, rota_time_end, location, to_post]))
+                self.rota_data.append([v1, v2, v3, rota_date, rota_time_start, rota_time_end, location, to_post])
             else:
-                if s_date != '0':
+                if s_date != "0":
                     rota_date = datetime.strptime(s_date, "%Y-%m-%d").date()
                 else:
-                    logging.error(
-                        "Date must be provided for all ad-hoc sessions.")
+                    logging.error("Date must be provided for all ad-hoc sessions.")
 
-                if stime != '0':
+                if stime != "0":
                     rota_time_start = datetime.strptime(stime, "%H%M").time()
                 else:
-                    logging.error(
-                        "Start time must be provided for all ad-hoc sessions.")
+                    logging.error("Start time must be provided for all ad-hoc sessions.")
 
-                if etime != '0':
+                if etime != "0":
                     rota_time_end = datetime.strptime(etime, "%H%M").time()
                 else:
-                    logging.error(
-                        "Start time must be provided for all ad-hoc sessions.")
+                    logging.error("Start time must be provided for all ad-hoc sessions.")
 
-                if location == '0':
-                    logging.error(
-                        "Location must be provided for all ad-hoc sessions.")
+                if location == "0":
+                    logging.error("Location must be provided for all ad-hoc sessions.")
 
-                logging.debug(
-                    "Added to additional_sessions: {}".format(
-                        [v1, v2, v3, rota_date, rota_time_start,
-                         rota_time_end, location, to_post]))
-                self.additional_sessions.append(
-                    [v1, v2, v3, rota_date, rota_time_start,
-                     rota_time_end, location, to_post])
+                logging.debug("Added to additional_sessions: {}".format([v1, v2, v3, rota_date, rota_time_start, rota_time_end, location, to_post]))
+                self.additional_sessions.append([v1, v2, v3, rota_date, rota_time_start, rota_time_end, location, to_post])
 
     def fill_up_dates(self):
         """Fill in missing dates."""
@@ -185,8 +172,7 @@ class generateRota:
         skipped_dates = []
 
         for data in self.rota_data:
-            [name, talk_title, title_blog, rota_date, start_time, end_time,
-             location, post] = data
+            [name, talk_title, title_blog, rota_date, start_time, end_time, location, post] = data
             # if a date is given
             if rota_date:
                 # if it is marked as a holiday, add it to skip list
@@ -204,8 +190,7 @@ class generateRota:
 
         # first fill up our regular sessions
         for data in self.rota_data:
-            [name, talk_title, title_blog, rota_date, start_time, end_time,
-             location, to_post] = data
+            [name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post] = data
 
             # Fill up defaults for information that hasn't been mentioned in
             # the CSV, but only for Biocomputation seminars
@@ -232,14 +217,12 @@ class generateRota:
             if not start_time:
                 start_time = timedelta(hours=self.rota_time_start)
             else:
-                start_time = timedelta(hours=start_time.hour,
-                                       minutes=start_time.minute)
+                start_time = timedelta(hours=start_time.hour, minutes=start_time.minute)
 
             if not end_time:
                 end_time = timedelta(hours=self.rota_time_end)
             else:
-                end_time = timedelta(hours=end_time.hour,
-                                     minutes=end_time.minute)
+                end_time = timedelta(hours=end_time.hour, minutes=end_time.minute)
 
             current_date = rota_date + self.a_week
 
@@ -247,42 +230,29 @@ class generateRota:
             if name == "---":
                 logging.debug("Skipping session on {}".format(rota_date))
             else:
-                logging.debug("Added to rota: {}".format(
-                    [name, talk_title, title_blog, rota_date, start_time,
-                     end_time, location, to_post]))
-                self.all_events.append((name, talk_title, title_blog,
-                                        rota_date, start_time, end_time,
-                                        location, to_post))
+                logging.debug("Added to rota: {}".format([name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post]))
+                self.all_events.append((name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post))
 
         # fill up the ad-hoc sessions
         for data in self.additional_sessions:
-            [name, talk_title, title_blog, rota_date, start_time, end_time,
-             location, to_post] = data
-            start_time = timedelta(hours=start_time.hour,
-                                   minutes=start_time.minute)
-            end_time = timedelta(hours=end_time.hour,
-                                 minutes=end_time.minute)
+            [name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post] = data
+            start_time = timedelta(hours=start_time.hour, minutes=start_time.minute)
+            end_time = timedelta(hours=end_time.hour, minutes=end_time.minute)
 
-            logging.debug("Added to additional: {}".format(
-                [name, talk_title, title_blog, rota_date, start_time, end_time,
-                 location, to_post]))
-            self.all_events.append((name, talk_title, title_blog, rota_date,
-                                    start_time, end_time, location, to_post))
+            logging.debug("Added to additional: {}".format([name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post]))
+            self.all_events.append((name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post))
         # sort by date so that I don't have to
         self.all_events.sort(key=lambda x: x[3])
 
         for row in self.all_events:
             if row[3] > date.today():
                 # TODO replace with f string
-                logging.info(
-                    "Next session: {} on {} from {} to {} in {}.".format(
-                        row[0], row[3].strftime("%d/%m/%y"), row[4], row[5],
-                        row[6]))
+                logging.info("Next session: {} on {} from {} to {} in {}.".format(row[0], row[3].strftime("%d/%m/%y"), row[4], row[5], row[6]))
                 break
 
     def print_to_rst(self):
         """Print an rst file."""
-        rst_file = open(self.rota_rst, 'w')
+        rst_file = open(self.rota_rst, "w")
         counter = 1
         if not rst_file:
             logging.critical("Error creating RST file")
@@ -290,20 +260,24 @@ class generateRota:
 
         print(textwrap.dedent(self.table_header), file=rst_file)
         for data in self.all_events:
-            name, talk_title, title_blog, rota_date, start_time, end_time,\
-                location, to_post = data
+            name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post = data
             # Only publish to website if we want it to
-            if to_post == '1':
+            if to_post == "1":
                 if name == "Holiday" or name == "Cancelled" or name == "--":
                     # TODO replace with f string
-                    print("\t{}, {}, \"`{} {}`__\", {}".format(
-                        "--", name, talk_title, title_blog,
-                        rota_date.strftime("%d/%m/%y")), file=rst_file)
+                    print('\t{}, {}, "`{} {}`__", {}'.format("--", name, talk_title, title_blog, rota_date.strftime("%d/%m/%y")), file=rst_file)
                 else:
-                    print("\t{}, {}, \"`{}\ {}`__\", {}".format(
-                    # TODO replace with f string
-                        counter, name, talk_title, title_blog,
-                        rota_date.strftime("%d/%m/%y")), file=rst_file)
+                    print(
+                        '\t{}, {}, "`{}\ {}`__", {}'.format(
+                            # TODO replace with f string
+                            counter,
+                            name,
+                            talk_title,
+                            title_blog,
+                            rota_date.strftime("%d/%m/%y"),
+                        ),
+                        file=rst_file,
+                    )
                     counter += 1
 
         print(file=rst_file)
@@ -314,7 +288,7 @@ class generateRota:
         """Generate an ical file."""
         logging.debug("Printing ics file")
         cal = icalendar.Calendar()
-        ical_file = open(self.rota_ical, 'w')
+        ical_file = open(self.rota_ical, "w")
         counter = 1
 
         if not ical_file:
@@ -323,25 +297,21 @@ class generateRota:
 
         for data in self.all_events:
             logging.debug("{}".format(data))
-            name, talk_title, title_blog, rota_date, start_time, end_time,\
-                location, publish = data
+            name, talk_title, title_blog, rota_date, start_time, end_time, location, publish = data
             rota_date = datetime.combine(rota_date, datetime.min.time())
             rota_date = rota_date.replace(tzinfo=self.tz)
             session = icalendar.Event()
-            session['uid'] = rota_date.isoformat()
-            session['dtstart'] = icalendar.vDatetime(rota_date +
-                                                     start_time)
-            session['dtend'] = icalendar.vDatetime(rota_date +
-                                                   end_time)
-            session['location'] = icalendar.vText(location)
-            session['summary'] = icalendar.vText("{} - {}".format(name,
-                                                                  talk_title))
+            session["uid"] = rota_date.isoformat()
+            session["dtstart"] = icalendar.vDatetime(rota_date + start_time)
+            session["dtend"] = icalendar.vDatetime(rota_date + end_time)
+            session["location"] = icalendar.vText(location)
+            session["summary"] = icalendar.vText("{} - {}".format(name, talk_title))
 
             cal.add_component(session)
 
             counter += 1
 
-        new_cal = cal.to_ical().decode('utf-8').replace('\r\n', '\n').strip()
+        new_cal = cal.to_ical().decode("utf-8").replace("\r\n", "\n").strip()
         # print(new_cal)
         print(new_cal, file=ical_file)
         ical_file.close()
@@ -349,9 +319,7 @@ class generateRota:
 
 
 if __name__ == "__main__":
-    logging.basicConfig(
-        format='%(funcName)s: %(levelname)s: %(message)s',
-        level=logging.INFO)
+    logging.basicConfig(format="%(funcName)s: %(levelname)s: %(message)s", level=logging.INFO)
     generator = generateRota()
     generator.get_rota_data()
     generator.fill_up_dates()

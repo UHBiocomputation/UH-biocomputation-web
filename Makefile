@@ -70,7 +70,7 @@ help:
 
 rota:
 	python3 scripts/generateRota.py
-	cp rota-2022.ics rota.ics
+	cp rota-*.ics rota.ics
 	mv -v rota*ics content/files/
 	mv -v rota*txt content/pages/
 

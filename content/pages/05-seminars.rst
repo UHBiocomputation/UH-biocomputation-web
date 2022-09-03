@@ -6,8 +6,13 @@ Seminars
 The biocomputation group hosts a weekly journal club meeting. Please contact Emil Dmitruk at e.dmitruk AT herts.ac.uk or Ohki Katakura at o.katakura AT herts.ac.uk if you have any queries.
 Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
-February 2022 -
----------------
+September 2022 -
+----------------
+
+.. include:: rota-2022b.txt
+
+February 2022 - July 2022
+-------------------------
 
 .. include:: rota-2022.txt
 
