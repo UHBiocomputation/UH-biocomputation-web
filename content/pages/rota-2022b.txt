@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, David Haydock , "`--\ <#>`__", 21/10/22
+	1, David Haydock , "`Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering\ <{filename}/20221018-novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering.rst>`__", 21/10/22
 	2, Shabnam Kadir , "`--\ <#>`__", 28/10/22
 	3, Nik Dennler , "`--\ <#>`__", 04/11/22
 	4, Mahsa Aliakbarzadeh , "`--\ <#>`__", 11/11/22

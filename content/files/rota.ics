@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:David Haydock  - --
+SUMMARY:David Haydock  - Novel Computational Methods for Predicting Transi
+ tions in Spatiotemporal Neurodynamics between Attention and Mind-wandering
 DTSTART;TZID=Europe/London:20221021T140000
 DTEND;TZID=Europe/London:20221021T150000
 UID:2022-10-21T00:00:00-00:01
