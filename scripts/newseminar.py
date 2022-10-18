@@ -251,12 +251,12 @@ else:
     target_title = prune_text(target_title)
     # print("target: {}".format(target_title))
 
-    for bib_id in bibdata.entries:
+    for (k, bib_id) in enumerate(bibdata.entries):
         entry_title = bibdata.entries[bib_id].fields['title'].lower()
         entry_title = prune_text(entry_title)
         # print("entry_title: {}".format(entry_title))
 
-        if entry_title == target_title:
+        if entry_title == target_title or k == 1:
             # if bib_id == args.citation_key:
             bib_entry = bibdata.entries[bib_id]
             break
