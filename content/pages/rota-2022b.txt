@@ -4,5 +4,13 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, --- , "`--\ <#>`__", 30/09/22
+	1, David Haydock , "`--\ <#>`__", 21/10/22
+	2, Shabnam Kadir , "`--\ <#>`__", 28/10/22
+	3, Nik Dennler , "`--\ <#>`__", 04/11/22
+	4, Mahsa Aliakbarzadeh , "`--\ <#>`__", 11/11/22
+	5, Eleonora Bernasconi , "`--\ <#>`__", 18/11/22
+	6, Nada Yousif , "`--\ <#>`__", 25/11/22
+	7, Mohammad Tayarani-Najaran , "`--\ <#>`__", 02/12/22
+	8, Epaminondas Kapetanios , "`--\ <#>`__", 09/12/22
+	9, Reinoud Maex , "`--\ <#>`__", 16/12/22
 
