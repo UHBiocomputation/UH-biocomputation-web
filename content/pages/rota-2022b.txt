@@ -4,12 +4,12 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Mahsa Aliakbarzadeh , "`--\ <#>`__", 11/11/22
-	2, Nik Dennler , "`--\ <#>`__", 18/11/22
-	3, David Haydock , "`Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering\ <{filename}/20221018-novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering.rst>`__", 25/11/22
-	4, Eleonora Bernasconi , "`--\ <#>`__", 02/12/22
-	5, Nada Yousif , "`--\ <#>`__", 09/12/22
-	6, Mohammad Tayarani-Najaran , "`--\ <#>`__", 16/12/22
+	1, Mahsa Aliakbarzadeh, "`On Robot Compliance: A Cerebellar Control Approach\ <{filename}/20221109-on-robot-compliance-a-cerebellar-control-approach.rst>`__", 11/11/22
+	2, Nik Dennler, "`--\ <#>`__", 18/11/22
+	3, David Haydock, "`Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering\ <{filename}/20221018-novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering.rst>`__", 25/11/22
+	4, Eleonora Bernasconi, "`--\ <#>`__", 02/12/22
+	5, Nada Yousif, "`--\ <#>`__", 09/12/22
+	6, Mohammad Tayarani-Najaran, "`--\ <#>`__", 16/12/22
 	7, Epaminondas Kapetanios , "`--\ <#>`__", 23/12/22
-	8, Reinoud Maex , "`--\ <#>`__", 30/12/22
+	8, Reinoud Maex, "`--\ <#>`__", 30/12/22
 

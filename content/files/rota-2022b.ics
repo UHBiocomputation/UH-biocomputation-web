@@ -1,42 +1,43 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Mahsa Aliakbarzadeh  - --
+SUMMARY:Mahsa Aliakbarzadeh - On Robot Compliance: A Cerebellar Control Ap
+ proach
 DTSTART;TZID=Europe/London:20221111T140000
 DTEND;TZID=Europe/London:20221111T150000
 UID:2022-11-11T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nik Dennler  - --
+SUMMARY:Nik Dennler - --
 DTSTART;TZID=Europe/London:20221118T140000
 DTEND;TZID=Europe/London:20221118T150000
 UID:2022-11-18T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:David Haydock  - Novel Computational Methods for Predicting Transi
- tions in Spatiotemporal Neurodynamics between Attention and Mind-wandering
+SUMMARY:David Haydock - Novel Computational Methods for Predicting Transit
+ ions in Spatiotemporal Neurodynamics between Attention and Mind-wandering
 DTSTART;TZID=Europe/London:20221125T140000
 DTEND;TZID=Europe/London:20221125T150000
 UID:2022-11-25T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eleonora Bernasconi  - --
+SUMMARY:Eleonora Bernasconi - --
 DTSTART;TZID=Europe/London:20221202T140000
 DTEND;TZID=Europe/London:20221202T150000
 UID:2022-12-02T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nada Yousif  - --
+SUMMARY:Nada Yousif - --
 DTSTART;TZID=Europe/London:20221209T140000
 DTEND;TZID=Europe/London:20221209T150000
 UID:2022-12-09T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mohammad Tayarani-Najaran  - --
+SUMMARY:Mohammad Tayarani-Najaran - --
 DTSTART;TZID=Europe/London:20221216T140000
 DTEND;TZID=Europe/London:20221216T150000
 UID:2022-12-16T00:00:00-00:01
@@ -50,7 +51,7 @@ UID:2022-12-23T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reinoud Maex  - --
+SUMMARY:Reinoud Maex - --
 DTSTART;TZID=Europe/London:20221230T140000
 DTEND;TZID=Europe/London:20221230T150000
 UID:2022-12-30T00:00:00-00:01
