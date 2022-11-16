@@ -5,7 +5,7 @@
 	:quote: "
 
 	1, Mahsa Aliakbarzadeh, "`On Robot Compliance: A Cerebellar Control Approach\ <{filename}/20221109-on-robot-compliance-a-cerebellar-control-approach.rst>`__", 11/11/22
-	2, Nik Dennler, "`--\ <#>`__", 18/11/22
+	2, Nik Dennler, "`Neuromorphic Engineering Needs Closed-Loop Benchmarks\ <{filename}/20221116-neuromorphic-engineering-needs-closed-loop-benchmarks.rst>`__", 18/11/22
 	3, David Haydock, "`Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering\ <{filename}/20221018-novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering.rst>`__", 25/11/22
 	4, Eleonora Bernasconi, "`--\ <#>`__", 02/12/22
 	5, Nada Yousif, "`--\ <#>`__", 09/12/22
