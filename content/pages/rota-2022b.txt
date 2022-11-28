@@ -7,7 +7,7 @@
 	1, Mahsa Aliakbarzadeh, "`On Robot Compliance: A Cerebellar Control Approach\ <{filename}/20221109-on-robot-compliance-a-cerebellar-control-approach.rst>`__", 11/11/22
 	2, Nik Dennler, "`Neuromorphic Engineering Needs Closed-Loop Benchmarks\ <{filename}/20221116-neuromorphic-engineering-needs-closed-loop-benchmarks.rst>`__", 18/11/22
 	3, David Haydock, "`EEG Microstates: Functional Significance and Short-Term Test-Retest Reliability\ <{filename}/20221123-eeg-microstates-functional-significance-and-short-term-test-retest-reliability.rst>`__", 25/11/22
-	4, Eleonora Bernasconi, "`--\ <#>`__", 02/12/22
+	4, Eleonora Bernasconi, "`Encoding and retrieval in a model of the hippocampal CA1 microcircuit\ <{filename}/20221128-encoding-and-retrieval-in-a-model-of-the-hippocampal-ca1-microcircuit.rst>`__", 02/12/22
 	5, Nada Yousif, "`--\ <#>`__", 09/12/22
 	6, Mohammad Tayarani-Najaran, "`--\ <#>`__", 16/12/22
 	7, Epaminondas Kapetanios , "`--\ <#>`__", 23/12/22

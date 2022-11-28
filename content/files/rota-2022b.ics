@@ -24,7 +24,8 @@ UID:2022-11-25T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eleonora Bernasconi - --
+SUMMARY:Eleonora Bernasconi - Encoding and retrieval in a model of the hip
+ pocampal CA1 microcircuit
 DTSTART;TZID=Europe/London:20221202T140000
 DTEND;TZID=Europe/London:20221202T150000
 UID:2022-12-02T00:00:00-00:01
