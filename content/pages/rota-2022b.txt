@@ -8,8 +8,5 @@
 	2, Nik Dennler, "`Neuromorphic Engineering Needs Closed-Loop Benchmarks\ <{filename}/20221116-neuromorphic-engineering-needs-closed-loop-benchmarks.rst>`__", 18/11/22
 	3, David Haydock, "`EEG Microstates: Functional Significance and Short-Term Test-Retest Reliability\ <{filename}/20221123-eeg-microstates-functional-significance-and-short-term-test-retest-reliability.rst>`__", 25/11/22
 	4, Eleonora Bernasconi, "`Encoding and retrieval in a model of the hippocampal CA1 microcircuit\ <{filename}/20221128-encoding-and-retrieval-in-a-model-of-the-hippocampal-ca1-microcircuit.rst>`__", 02/12/22
-	5, Nada Yousif, "`--\ <#>`__", 09/12/22
-	6, Mohammad Tayarani-Najaran, "`--\ <#>`__", 16/12/22
-	7, Epaminondas Kapetanios , "`--\ <#>`__", 23/12/22
-	8, Reinoud Maex, "`--\ <#>`__", 30/12/22
+	5, Mohammad Tayarani-Najaran, "`Applications of Artificial Intelligence in Battling against Covid-19: A Literature Review\ <{filename}/20221215-applications-of-artificial-intelligence-in-battling-against-covid-19-a-literature-review.rst>`__", 16/12/22
 
