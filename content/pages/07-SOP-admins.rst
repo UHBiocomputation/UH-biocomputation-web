@@ -167,8 +167,8 @@ file created in (1). An example of fully modified formula is presented below:
 
 
 Note that when a new rota is started (at the beginning of September and January),
-there are 2 steps to be done. First of all, a new CSV file should be added
-to the :code:`scripts` folder (as described above). Second of all, the newly
+there are 3 steps to be done. First, a new CSV file should be added
+to the :code:`scripts` folder (as described above). Second, the newly
 created CSV file needs to be sourced in the :code:`content/pages/05-seminars.rst`
 file. The following example shows what text should be added just below the first
 paragraph:
@@ -180,6 +180,15 @@ paragraph:
 
     .. include:: rota-2021b.txt
 
+Third, changing the starting date for the rota. This is done in the 
+file :code:`scripts/generate_rota.py`, under line 73:
+
+.. code:: python
+
+    # ===-===-===-===-===-===-===-===-===-===-===-===-
+    # TODO this should be changed to be loaded from the rota csv files
+    self.start_date = date(2023, 1, 27)
+    # ===-===-===-===-===-===-===-===-===-===-===-===-
 
 If an entry should be added to the ical file, but not to the seminar page, for
 example, a colloquium talk that will not have a corresponding abstract
