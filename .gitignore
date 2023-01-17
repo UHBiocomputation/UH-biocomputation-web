@@ -14,5 +14,8 @@ tags.*
 com-bio
 
 # Temporary files used for newsemminar command:
-new_semminar_email.txt
+new_seminar_email.txt
 seminar_file.bib
+.ipynb_checkpoints*
+*.ipynb
+.python-version
