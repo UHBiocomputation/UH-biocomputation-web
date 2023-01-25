@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Yar Muhammad - --
+SUMMARY:Yar Muhammad - Brain-Computer Interface & their Applications\, Cha
+ llenges\, Future & Our research contributions
 DTSTART;TZID=Europe/London:20230127T140000
 DTEND;TZID=Europe/London:20230127T150000
 UID:2023-01-27T00:00:00-00:01

@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Yar Muhammad, "`--\ <#>`__", 27/01/23
+	1, Yar Muhammad, "`Brain-Computer Interface & their Applications, Challenges, Future & Our research contributions\ <{filename}/20230125-brain-computer-interface-their-applications-challenges-future-our-research-contributions.rst>`__", 27/01/23
 	2, Reinoud Maex, "`--\ <#>`__", 03/02/23
 	3, Manal Helal, "`--\ <#>`__", 10/02/23
 	4, Shabnam Kadir, "`--\ <#>`__", 17/02/23
