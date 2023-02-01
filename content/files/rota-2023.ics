@@ -8,7 +8,8 @@ UID:2023-01-27T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reinoud Maex - --
+SUMMARY:Reinoud Maex - An Isotonic Model of Neuron Swelling Based on Co-Tr
+ ansport of Salt and Water
 DTSTART;TZID=Europe/London:20230203T140000
 DTEND;TZID=Europe/London:20230203T150000
 UID:2023-02-03T00:00:00-00:01
