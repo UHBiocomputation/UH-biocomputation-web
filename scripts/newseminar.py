@@ -405,7 +405,9 @@ for bib_id in bibdata.entries:
     all_references.append(produce_reference_entry(bib_entry))
 # BIB2 <<<
 
-footer_date = f"**Date:** {seminar_date} |br|" + newline
+# footer_date = f"**Date:** {seminar_date} |br|" + newline
+date_for_footer = seminar_date.strftime(" %Y/%m/%d")
+footer_date = f"**Date:** {date_for_footer} |br|" + newline
 footer_time = "**Time:** 14:00 |br|" + newline
 footer_location = "**Location**: online" + newline
 footer_html1 = ".. |br| raw:: html" + newline
@@ -423,7 +425,6 @@ elif seminar_date.day % 10 == 2:
 else:
     date_sufix = "th"
 
-print(formated_date)
 # formated_date = seminar_date.strftime("%Y/%m/%d")
 formated_date = seminar_date.strftime(f"%-d{date_sufix} %B %Y")
 seminar_time = "14:00"
