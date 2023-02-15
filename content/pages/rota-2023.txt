@@ -7,7 +7,7 @@
 	1, Yar Muhammad, "`Brain-Computer Interface & their Applications, Challenges, Future & Our research contributions\ <{filename}/20230125-brain-computer-interface-their-applications-challenges-future-our-research-contributions.rst>`__", 27/01/23
 	2, Reinoud Maex, "`An Isotonic Model of Neuron Swelling Based on Co-Transport of Salt and Water\ <{filename}/20230201-an-isotonic-model-of-neuron-swelling-based-on-co-transport-of-salt-and-water.rst>`__", 03/02/23
 	3, Manal Helal, "`miRe2e: A Full End-to-End Deep Model Based on Transformers for Prediction of Pre-miRNAs\ <{filename}/20230208-mire2e-a-full-end-to-end-deep-model-based-on-transformers-for-prediction-of-pre-mirnas.rst>`__", 10/02/23
-	4, Shabnam Kadir, "`--\ <#>`__", 17/02/23
+	4, Shabnam Kadir, "`Consciousness and Information Theory\ <{filename}/20230215-consciousness-and-information-theory.rst>`__", 17/02/23
 	5, Michael Schmuker, "`--\ <#>`__", 24/02/23
 	6, Nada Yousif, "`--\ <#>`__", 03/03/23
 	7, Epaminondas Kapetanios, "`--\ <#>`__", 10/03/23
