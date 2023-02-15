@@ -51,8 +51,13 @@ def produce_reference_entry(bib_entry, formatting="post"):
         all_authors += author_full_name
 
     # Prepare additional info about the paper
-    # TODO Change the error output for crucial keys
-    paper_reference = f" {b['year']}, {b['journal']}, "
+    journal_name = ""
+    if bib_entry.type == "misc":
+        journal_name = b["publisher"]
+    elif bib_entry.type == "journal":
+        journal_name = b["journal"]
+
+    paper_reference = f" {b['year']}, {journal_name}, "
     try:  # field may not exist for a reference
         paper_reference += f"{b['volume']}, "
     except (KeyError):
