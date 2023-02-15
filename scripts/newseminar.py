@@ -53,17 +53,27 @@ def produce_reference_entry(bib_entry, formatting="post"):
     # Prepare additional info about the paper
     journal_name = ""
     if bib_entry.type == "misc":
-        journal_name = b["publisher"]
-    elif bib_entry.type == "journal":
+        journal_name = prune_text(b["publisher"])
+    elif bib_entry.type == "article":
         journal_name = b["journal"]
+    else:
+        print(
+            "WARNING: the type of entry was not recognised, journal name will be skipped as an effect."
+        )
 
-    paper_reference = f" {b['year']}, {journal_name}, "
+    paper_reference = f"{b['year']}, "
+
+    if journal_name != "":
+        paper_reference += f"{journal_name}, "
+
     try:  # field may not exist for a reference
-        paper_reference += f"{b['volume']}, "
+        if b["volume"] != "":
+            paper_reference += f"{b['volume']}, "
     except (KeyError):
         pass
     try:  # field may not exist for a reference
-        paper_reference += f"{b['pages']}"
+        if b["pages"] != "":
+            paper_reference += f"{b['pages']}"
     except (KeyError):
         pass
 
