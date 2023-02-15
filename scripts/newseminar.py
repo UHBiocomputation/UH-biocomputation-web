@@ -25,6 +25,7 @@ def prune_text(some_text):
     some_text = some_text.replace("{", "")
     some_text = some_text.replace("}", "")
     some_text = some_text.replace("\textemdash", "-")
+    some_text = some_text.replace("\\textendash ", "- ")
     return some_text
 
 
