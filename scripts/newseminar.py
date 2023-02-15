@@ -475,6 +475,7 @@ for bib_id in bibdata.entries:
         print("Empty bib entry- will have to verify this")
     else:
         all_references_email.extend(wrap(reference_entry, width=90))
+        all_references_email.extend("\n")
 
 # For email <<<
 # ===-===-
@@ -552,6 +553,7 @@ email_text.extend(
         empty_line,
         reminder_part1,
         reminder_part2,
+        empty_line,
         empty_line,
         title_separator,
         empty_line,
