@@ -91,11 +91,11 @@ def produce_reference_entry(bib_entry, formatting="post"):
         papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
         papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
     elif formatting == "email":
-        papers_line1 = f"- {all_authors} \"{b['title']}\""
-        papers_line2 = f"  {paper_reference}, doi: {b['doi']}" + newline
+        papers_line1 = f"- {all_authors}\"{b['title']}\"" + newline
+        papers_line2 = f" {paper_reference}, {b['doi']}" + newline
     else:
         print("Unknown reference formatting, using default one")
-        papers_line1 = f"- {all_authors} \"{b['title']}\"" + newline
+        papers_line1 = f"- {all_authors}\"{b['title']}\"" + newline
         papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
 
     papers_line1 = prune_text(papers_line1)
