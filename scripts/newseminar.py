@@ -164,12 +164,15 @@ def get_next_speakers(rota_file, speaker_index):
     return speakers
 
 
-def get_speaker_line(speakers_list):
+def get_speaker_line(speakers_list, seminar_date):
+    local_date = seminar_date
     speaker_lines = []
     alphabet = list(ascii_lowercase)
 
     for index, person in enumerate(speakers_list):
-        speaker_lines.append(f"{alphabet[index]}) {person} -- somedate")
+        date_for_speaker = local_date.strftime(" %Y/%m/%d")
+        speaker_lines.append(f"{alphabet[index]}) {person} -- {date_for_speaker}")
+        local_date += timedelta(7)
 
     return speaker_lines
 
@@ -475,7 +478,7 @@ reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
 
 if ~(speaker_index is None):
     next_speakers = get_next_speakers(rota_list, speaker_index)
-    speakers_list = get_speaker_line(next_speakers)
+    speakers_list = get_speaker_line(next_speakers, seminar_date)
     reminder_part2 = "\n".join(speakers_list)
 else:
     reminder_part2 = ""
