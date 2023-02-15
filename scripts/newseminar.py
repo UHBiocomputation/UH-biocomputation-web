@@ -11,6 +11,9 @@ import argparse
 
 # import datetime
 from datetime import datetime
+from datetime import timedelta
+from datetime import date
+
 
 # from datetime import date
 from pybtex.database.input import bibtex
@@ -249,12 +252,19 @@ args = parser.parse_args()
 
 author_name = args.author[0]
 author = author_name
-seminar_date = args.date
 full_file_name = args.file_name
+slug_info = args.slug
+file_creation_date = args.date
+seminar_date = datetime.strptime(file_creation_date , '%Y/%m/%d')
+
 creation_date = datetime.now().strftime("%Y-%m-%d")
 creation_hour = datetime.now().strftime("%H:%M:%S")
 
-slug_info = args.slug
+if datetime.weekday(seminar_date) != 4:
+    today = date.today()
+    print("\n\n Searching for Friday...")
+    days_until_friday = (4-today.weekday()) % 7 
+    seminar_date  += timedelta( days_until_friday)
 
 year = str(datetime.now().year)
 # if Sept - Dec add b to file name
@@ -404,9 +414,18 @@ footer_html2 = "	<br />"
 # For website <<<
 # ===-===-
 # For email >>>
-formated_date = datetime.strptime(seminar_date, "%Y/%m/%d")
+if seminar_date.day % 10 == 1:
+    date_sufix = "st"
+elif seminar_date.day % 10 == 2:
+    date_sufix = "nd"
+elif seminar_date.day % 10 == 2:
+    date_sufix = "rd"
+else:
+    date_sufix = "th"
+
 print(formated_date)
-formated_date = formated_date.strftime("%-d %B %Y")
+# formated_date = seminar_date.strftime("%Y/%m/%d")
+formated_date = seminar_date.strftime(f"%-d{date_sufix} %B %Y")
 seminar_time = "14:00"
 
 message_subject = (
