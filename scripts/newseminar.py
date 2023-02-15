@@ -29,10 +29,10 @@ def prune_text(some_text):
     some_text = some_text.replace("}", "")
     some_text = some_text.replace("\textemdash", "-")
     some_text = some_text.replace("\\textendash ", "- ")
-    some_text = some_text.replace("''", "\"")
-    some_text = some_text.replace("'", "\"")
-    some_text = some_text.replace("``", "\"")
-    some_text = some_text.replace("`", "\"")
+    some_text = some_text.replace("''", '"')
+    # some_text = some_text.replace("'", '"')
+    some_text = some_text.replace("``", '"')
+    # some_text = some_text.replace("`", '"')
     return some_text
 
 
