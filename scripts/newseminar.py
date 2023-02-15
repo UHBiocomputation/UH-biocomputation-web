@@ -255,7 +255,7 @@ author = author_name
 full_file_name = args.file_name
 slug_info = args.slug
 file_creation_date = args.date
-seminar_date = datetime.strptime(file_creation_date , '%Y/%m/%d')
+seminar_date = datetime.strptime(file_creation_date, "%Y/%m/%d")
 
 creation_date = datetime.now().strftime("%Y-%m-%d")
 creation_hour = datetime.now().strftime("%H:%M:%S")
@@ -263,8 +263,8 @@ creation_hour = datetime.now().strftime("%H:%M:%S")
 if datetime.weekday(seminar_date) != 4:
     today = date.today()
     print("\n\n Searching for Friday...")
-    days_until_friday = (4-today.weekday()) % 7 
-    seminar_date  += timedelta( days_until_friday)
+    days_until_friday = (4 - today.weekday()) % 7
+    seminar_date += timedelta(days_until_friday)
 
 year = str(datetime.now().year)
 # if Sept - Dec add b to file name
