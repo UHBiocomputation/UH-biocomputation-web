@@ -252,32 +252,46 @@ else:
     # print("target: {}".format(target_title))
 
     for (k, bib_id) in enumerate(bibdata.entries):
-        entry_title = bibdata.entries[bib_id].fields['title'].lower()
+        entry_title = bibdata.entries[bib_id].fields["title"].lower()
         entry_title = prune_text(entry_title)
         # print("entry_title: {}".format(entry_title))
 
-        if entry_title == target_title or k == 1:
+        if entry_title == target_title:  # or k == 1:
             # if bib_id == args.citation_key:
             bib_entry = bibdata.entries[bib_id]
             break
 
 if bib_entry == "":
-    raise ValueError("For multiple entries in library, -k option (main paper citation key) has to be specified")
+    raise ValueError(
+        "For multiple entries in library, -k option (main paper citation key) has to be specified"
+    )
+else:
+    print("Selected bib entry with title: ", bib_entry.fields["title"])
 
+# ===-===-
 b = bib_entry.fields
 
 try:
-    # Use info from paper to set up variables
-    title = prune_text(b['title'])
-    paper_abstract = wrap(prune_text(b['abstract']), width=70)
-    paper_link = b['doi']
-    paper_tags = ""
-    try:
-        paper_tags = b['keywords']
-    except(KeyError):
-        pass
-except(KeyError):
-    raise KeyError("One of the following keys were missing but necessary: title, abstract, doi.")
+    title = prune_text(b["title"])
+except (KeyError):
+    raise KeyError("Following key was missing but necessary: title.")
+
+try:
+    paper_abstract = wrap(prune_text(b["abstract"]), width=90)
+except (KeyError):
+    raise KeyError("Following key was missing but necessary: abstract.")
+
+try:
+    paper_link = b["doi"]
+except (KeyError):
+    raise KeyError("Following key was missing but necessary: doi.")
+
+paper_tags = ""
+try:
+    paper_tags = b["keywords"]
+except (KeyError):
+    print("Kwywords are missing, continuing without them.")
+    pass
 
 
 # find next speaker in rota
