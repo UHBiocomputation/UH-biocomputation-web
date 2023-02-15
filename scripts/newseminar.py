@@ -8,8 +8,10 @@
 # TODO add removal of latex commands of type \command from title and abstract
 
 import argparse
+
 # import datetime
 from datetime import datetime
+
 # from datetime import date
 from pybtex.database.input import bibtex
 from textwrap import wrap
@@ -17,6 +19,7 @@ import os
 import csv
 from pathlib import Path
 from string import ascii_lowercase
+
 
 def prune_text(some_text):
     some_text = some_text.replace("{", "")
@@ -29,14 +32,13 @@ def produce_reference_entry(bib_entry, formatting="post"):
     """
     Year, journal, author, doi have to be included in the reference.
     """
-    newline = '\n'
+    newline = "\n"
     b = bib_entry.fields
 
     # TODO add check for all required keys and inform whenever they are not present
 
     # TODO this has to be refactored- variables should not be allocated within try-catch
     all_authors = ""
-    prefix = ""
 
     # try:
     # deal with multiple authors
@@ -53,20 +55,20 @@ def produce_reference_entry(bib_entry, formatting="post"):
     paper_reference = f" {b['year']}, {b['journal']}, "
     try:  # field may not exist for a reference
         paper_reference += f"{b['volume']}, "
-    except(KeyError):
+    except (KeyError):
         pass
     try:  # field may not exist for a reference
         paper_reference += f"{b['pages']}"
-    except(KeyError):
+    except (KeyError):
         pass
 
     # Check if doi link is correct
-    if not ("https" in b['doi']):
+    prefix = ""
+    if not ("https" in b["doi"]):
         prefix += "https://"
-    if not ("doi.org/" in b['doi']):
+    if not ("doi.org/" in b["doi"]):
         prefix += "doi.org/"
-
-    b['doi'] = prefix + b['doi']
+    b["doi"] = prefix + b["doi"]
 
     # Format lines according to where will it be used
     if formatting == "post":
@@ -74,7 +76,7 @@ def produce_reference_entry(bib_entry, formatting="post"):
         papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
     elif formatting == "email":
         papers_line1 = f"- {all_authors}`\"{b['title']}\""
-        papers_line2 = f"  {paper_reference}, doi: {b['doi']} " + newline
+        papers_line2 = f"  {paper_reference}, doi: {b['doi']}" + newline
     else:
         print("Unknown reference formatting, using default one")
         papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
@@ -112,7 +114,8 @@ def prepare_rota_info(rota_line, title, slug_info):
 
 
 def add_quotation(text):
-    return '\"' + text + '\"'
+    return '"' + text + '"'
+
 
 # Read file into list
 def get_rota_file(rota_data_file):
@@ -123,11 +126,12 @@ def get_rota_file(rota_data_file):
             rota_list.append(line)
     return rota_list
 
+
 def get_next_speakers(rota_file, speaker_index):
-    if len(rota_file[speaker_index::])<3:
-        last_speaker=len(rota_file)
+    if len(rota_file[speaker_index::]) < 3:
+        last_speaker = len(rota_file)
     else:
-        last_speaker = speaker_index+3
+        last_speaker = speaker_index + 3
 
     speakers_list = rota_file[speaker_index:last_speaker]
     speakers = []
@@ -135,6 +139,7 @@ def get_next_speakers(rota_file, speaker_index):
         line = a_line.split(",")
         speakers.append(line[0])
     return speakers
+
 
 def get_speaker_line(speakers_list):
     speaker_lines = []
@@ -144,6 +149,8 @@ def get_speaker_line(speakers_list):
         speaker_lines.append(f"{alphabet[index]}) {person} -- somedate")
 
     return speaker_lines
+
+
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
 parser = argparse.ArgumentParser()
@@ -153,11 +160,14 @@ parser = argparse.ArgumentParser()
 #                         action="append",
 #                         help="Title of the talk")
 
-parser.add_argument("-a", "--author",
-                        # type=String,
-                        required=True,
-                        action="append",
-                        help="Author of the talk")
+parser.add_argument(
+    "-a",
+    "--author",
+    # type=String,
+    required=True,
+    action="append",
+    help="Author of the talk",
+)
 # parser.add_argument("--abstract",
 #                         # type=String,
 #                         action="append",
@@ -172,27 +182,45 @@ parser.add_argument("-a", "--author",
 #                         # type=String,
 #                         default=[""],
 #                         help="Reference to the paper talk")
-parser.add_argument("-d", "--date",
-                        # type=String,
-                        required=True,
-                        help="Seminar date")
-parser.add_argument("-f", "--file_name",
-                        # type=String,
-                        required=True,
-                        help="Name of the file where seminar post will be written")
-parser.add_argument("-s", "--seminar_file",
-                        # type=String,
-                        required=True,
-                        help="Name of the BibTex file from which data about the paper will be exported")
-parser.add_argument("-k", "--citation_key",
-                        # type=String,
-                        help="Citation key, from which main information about the talk has to be extracted")
-parser.add_argument("-n", "--paper_name",
-                        # type=String,
-                        help="Paper name, from which main information about the talk has to be extracted")
-parser.add_argument("-g", "--slug",
-                        # type=String,
-                        help="Formated name of the file in which post content is located")
+parser.add_argument(
+    "-d",
+    "--date",
+    # type=String,
+    required=True,
+    help="Seminar date",
+)
+parser.add_argument(
+    "-f",
+    "--file_name",
+    # type=String,
+    required=True,
+    help="Name of the file where seminar post will be written",
+)
+parser.add_argument(
+    "-s",
+    "--seminar_file",
+    # type=String,
+    required=True,
+    help="Name of the BibTex file from which data about the paper will be exported",
+)
+parser.add_argument(
+    "-k",
+    "--citation_key",
+    # type=String,
+    help="Citation key, from which main information about the talk has to be extracted",
+)
+parser.add_argument(
+    "-n",
+    "--paper_name",
+    # type=String,
+    help="Paper name, from which main information about the talk has to be extracted",
+)
+parser.add_argument(
+    "-g",
+    "--slug",
+    # type=String,
+    help="Formated name of the file in which post content is located",
+)
 
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
@@ -203,15 +231,15 @@ author_name = args.author[0]
 author = author_name
 seminar_date = args.date
 full_file_name = args.file_name
-creation_date = datetime.now().strftime('%Y-%m-%d')
-creation_hour = datetime.now().strftime('%H:%M:%S')
+creation_date = datetime.now().strftime("%Y-%m-%d")
+creation_hour = datetime.now().strftime("%H:%M:%S")
 
 slug_info = args.slug
 
 year = str(datetime.now().year)
 # if Sept - Dec add b to file name
 if datetime.now().month >= 9:
-    year += 'b'
+    year += "b"
 
 rota_data_file = "scripts/rota-data-{}.csv".format(year)
 zoom_data_file = "scripts/zoom_info.txt"
@@ -277,7 +305,7 @@ except (KeyError):
     raise KeyError("Following key was missing but necessary: title.")
 
 try:
-    paper_abstract = wrap(prune_text(b["abstract"]), width=90)
+    paper_abstract = wrap(prune_text(b["abstract"]), width=70)
 except (KeyError):
     raise KeyError("Following key was missing but necessary: abstract.")
 
@@ -323,12 +351,18 @@ post_date = f":date: {creation_date} {creation_hour}" + newline
 post_author = f":author: {author_name}" + newline
 post_category = ":category: Seminar" + newline
 post_tags = f":tags: {paper_tags[:-1]}" + newline
-full_slug = full_file_name.split('.')[0]
-full_slug = full_slug.split('/')[-1]
-slug = "-".join(full_slug.split('-')[1:])
+full_slug = full_file_name.split(".")[0]
+full_slug = full_slug.split("/")[-1]
+slug = "-".join(full_slug.split("-")[1:])
 post_slug = f":slug: {slug}" + newline
-post_sumamry = f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"' + newline
-post_description = f'This week on Journal Club session {author_name} will talk about a paper "{title}".' + newline
+post_sumamry = (
+    f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"'
+    + newline
+)
+post_description = (
+    f'This week on Journal Club session {author_name} will talk about a paper "{title}".'
+    + newline
+)
 separator = "------------" + newline
 vertical_separator = "|" + newline
 papers_section = "Papers:" + newline
@@ -355,16 +389,28 @@ print(formated_date)
 formated_date = formated_date.strftime("%-d %B %Y")
 seminar_time = "14:00"
 
-message_subject = f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online" + newline
+message_subject = (
+    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online"
+    + newline
+)
 greeting = "Hello everyone," + newline
 # formated_date = date(seminar_date) + newline
 # paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
 
 # formated_date = seminar_date + newline
-paragraph1 = f'{author} will present at the journal club this Friday {formated_date} at 14:00.' + newline
+paragraph1 = (
+    f"{author} will present at the journal club this Friday {formated_date} at 14:00."
+    + newline
+)
 
-paragraph1 += f'She/He will talk about a paper "{title}". For more information, please see the abstract below.' + newline
-zoom_notification1 = "The meeting is held online on Zoom. To join, please use the following link:" + newline
+paragraph1 += (
+    f'She/He will talk about a paper "{title}". For more information, please see the abstract below.'
+    + newline
+)
+zoom_notification1 = (
+    "The meeting is held online on Zoom. To join, please use the following link:"
+    + newline
+)
 
 path = Path(zoom_data_file)
 if path.is_file():
@@ -400,7 +446,9 @@ else:
 #         next_date = data["date"]
 #         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
 
-title_separator = "================================================================" + newline
+title_separator = (
+    "================================================================" + newline
+)
 
 all_references_email = []
 for bib_id in bibdata.entries:
@@ -429,83 +477,85 @@ if False:
 # Generate texts
 # ===-===-
 # Generate post
-post_text = [post_title,
-             title_underline,
-             post_date,
-             post_author,
-             post_category,
-             post_tags,
-             post_slug,
-             post_sumamry,
-             empty_line,
-             post_description,
-             empty_line,
-             separator,
-             empty_line]
+post_text = [
+    post_title,
+    title_underline,
+    post_date,
+    post_author,
+    post_category,
+    post_tags,
+    post_slug,
+    post_sumamry,
+    empty_line,
+    post_description,
+    empty_line,
+    separator,
+    empty_line,
+]
 
 for line in paper_abstract:
     post_text.append(line + newline)
 
-post_text.extend((empty_line,
-                  vertical_separator,
-                  empty_line,
-                  papers_section,
-                  empty_line))
+post_text.extend(
+    (empty_line, vertical_separator, empty_line, papers_section, empty_line)
+)
 
 for reference in all_references:
     post_text.append(reference)
 
-post_text.extend((empty_line,
-                  empty_line,
-                  footer_date,
-                  footer_time,
-                  footer_location,
-                  empty_line,
-                  footer_html1,
-                  newline,
-                  footer_html2))
+post_text.extend(
+    (
+        empty_line,
+        empty_line,
+        footer_date,
+        footer_time,
+        footer_location,
+        empty_line,
+        footer_html1,
+        newline,
+        footer_html2,
+    )
+)
 
 # ===-===-
 # Generate email
-message_text = [message_subject,
-                empty_line,
-                greeting,
-                empty_line]
+email_text = [message_subject, empty_line, greeting, empty_line]
 
 paragraph1 = wrap(paragraph1)
 for line in paragraph1:
-    message_text.append(line + newline)
+    email_text.append(line + newline)
 
-message_text.extend((empty_line,
-                     zoom_notification1,
-                     zoom_notification2,
-                     empty_line,
-                     zoom_notification3,
-                     zoom_notification4,
-                     empty_line,
-                     reminder_part1,
-                     reminder_part2,
-                     empty_line,
-                     title_separator,
-                     empty_line,
-                     title,
-                     empty_line,
-                     empty_line,
-                     title_separator,
-                     empty_line))
+email_text.extend(
+    (
+        empty_line,
+        zoom_notification1,
+        zoom_notification2,
+        empty_line,
+        zoom_notification3,
+        zoom_notification4,
+        empty_line,
+        reminder_part1,
+        reminder_part2,
+        empty_line,
+        title_separator,
+        empty_line,
+        title,
+        empty_line,
+        empty_line,
+        title_separator,
+        empty_line,
+    )
+)
 
 for line in paper_abstract:
-    message_text.append(line + newline)
+    email_text.append(line + newline)
 
-message_text.extend((empty_line,
-                     vertical_separator,
-                     empty_line,
-                     papers_section,
-                     empty_line))
+email_text.extend(
+    (empty_line, vertical_separator, empty_line, papers_section, empty_line)
+)
 
 for reference in all_references_email:
-    message_text.append(reference)
-
+    email_text.append(reference)
 
 
 # ===-===-
@@ -513,9 +563,9 @@ for reference in all_references_email:
 
 # replace row
 
-rota_list[speaker_index] = prepare_rota_info(rota_list[speaker_index],
-                                             add_quotation(title),
-                                             add_quotation(slug_info))
+rota_list[speaker_index] = prepare_rota_info(
+    rota_list[speaker_index], add_quotation(title), add_quotation(slug_info)
+)
 
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
@@ -527,7 +577,7 @@ with open(full_file_name, "a") as seminar_file:
 # ===-===-
 # Save email
 with open("new_seminar_email.txt", "w") as email_file:
-    email_file.writelines(message_text)
+    email_file.writelines(email_text)
 
 # ===-===-
 # Change rota file
