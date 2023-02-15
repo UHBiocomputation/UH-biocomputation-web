@@ -305,7 +305,7 @@ except (KeyError):
     raise KeyError("Following key was missing but necessary: title.")
 
 try:
-    paper_abstract = wrap(prune_text(b["abstract"]), width=70)
+    paper_abstract = wrap(prune_text(b["abstract"]), width=90)
 except (KeyError):
     raise KeyError("Following key was missing but necessary: abstract.")
 
@@ -458,7 +458,7 @@ for bib_id in bibdata.entries:
     if reference_entry is None:
         print("Empty bib entry- will have to verify this")
     else:
-        all_references_email.extend(wrap(reference_entry, width=70))
+        all_references_email.extend(wrap(reference_entry, width=90))
 
 # For email <<<
 # ===-===-
