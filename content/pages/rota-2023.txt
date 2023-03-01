@@ -9,16 +9,17 @@
 	3, Manal Helal, "`miRe2e: A Full End-to-End Deep Model Based on Transformers for Prediction of Pre-miRNAs\ <{filename}/20230208-mire2e-a-full-end-to-end-deep-model-based-on-transformers-for-prediction-of-pre-mirnas.rst>`__", 10/02/23
 	4, Shabnam Kadir, "`Consciousness and Information Theory\ <{filename}/20230215-consciousness-and-information-theory.rst>`__", 17/02/23
 	5, Michael Schmuker, "`Will Graph Neural Networks Revolutionise Computational Olfaction?\ <{filename}/20230223-will-graph-neural-networks-revolutionise-computational-olfaction-.rst>`__", 24/02/23
-	6, Nada Yousif, "`--\ <#>`__", 03/03/23
+	6, Mohammad Tayarani-Najaran, "`An Evolutionary Ensemble Learning for Diagnosing COVID-19 via Cough Signals\ <{filename}/20230301-an-evolutionary-ensemble-learning-for-diagnosing-covid-19-via-cough-signals.rst>`__", 03/03/23
 	7, Epaminondas Kapetanios, "`--\ <#>`__", 10/03/23
-	8, Harpreet Singh, "`--\ <#>`__", 17/03/23
-	9, Simon McCool, "`--\ <#>`__", 24/03/23
-	10, Olga Tveretina, "`--\ <#>`__", 31/03/23
-	11, Sam Sutton, "`--\ <#>`__", 07/04/23
-	12, Maria Psarrou, "`--\ <#>`__", 14/04/23
-	13, Volker Steuber, "`--\ <#>`__", 21/04/23
-	14, Damien Drix, "`--\ <#>`__", 28/04/23
-	15, Yi Sun, "`--\ <#>`__", 05/05/23
-	16, Na Helian, "`--\ <#>`__", 12/05/23
-	17, Yaqoob Muhammad, "`--\ <#>`__", 19/05/23
+	8, Nada Yousif, "`--\ <#>`__", 17/03/23
+	9, Harpreet Singh, "`--\ <#>`__", 24/03/23
+	10, Simon McCool, "`--\ <#>`__", 31/03/23
+	11, Olga Tveretina, "`--\ <#>`__", 07/04/23
+	12, Sam Sutton, "`--\ <#>`__", 14/04/23
+	13, Maria Psarrou, "`--\ <#>`__", 21/04/23
+	14, Volker Steuber, "`--\ <#>`__", 28/04/23
+	15, Damien Drix, "`--\ <#>`__", 05/05/23
+	16, Yi Sun, "`--\ <#>`__", 12/05/23
+	17, Na Helian, "`--\ <#>`__", 19/05/23
+	18, Yaqoob Muhammad, "`--\ <#>`__", 26/05/23
 
