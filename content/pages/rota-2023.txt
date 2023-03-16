@@ -11,7 +11,7 @@
 	5, Michael Schmuker, "`Will Graph Neural Networks Revolutionise Computational Olfaction?\ <{filename}/20230223-will-graph-neural-networks-revolutionise-computational-olfaction-.rst>`__", 24/02/23
 	6, Mohammad Tayarani-Najaran, "`An Evolutionary Ensemble Learning for Diagnosing COVID-19 via Cough Signals\ <{filename}/20230301-an-evolutionary-ensemble-learning-for-diagnosing-covid-19-via-cough-signals.rst>`__", 03/03/23
 	7, --- , "`--\ <#>`__", 10/03/23
-	8, Harpreet Singh, "`--\ <#>`__", 17/03/23
+	8, Harpreet Singh, "`TBA\ <{filename}/20230316-jc-on-17th-march.rst>`__", 17/03/23
 	9, Simon McCool, "`--\ <#>`__", 24/03/23
 	10, Olga Tveretina, "`--\ <#>`__", 31/03/23
 	11, Sam Sutton, "`--\ <#>`__", 07/04/23
