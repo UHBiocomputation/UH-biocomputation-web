@@ -14,13 +14,12 @@
 	8, Harpreet Singh, "`Survey of Sentiment Analysis models leveraging transformers along with other NLP techniques to enrich word vectors for classification\ <{filename}/20230316-survey-of-sentiment-analysis-models-leveraging-transformers-along-with-other-nlp-techniques-to-enrich-word-vectors-for-classification.rst>`__", 17/03/23
 	9, --- , "`--\ <#>`__", 24/03/23
 	10, Emil Dmitruk, "`Edge-Centric Functional Network Representations of Human Cerebral Cortex Reveal Overlapping System-Level Architecture\ <{filename}/20230330-edge-centric-functional-network-representations-of-human-cerebral-cortex-reveal-overlapping-system-level-architecture.rst>`__", 31/03/23
-	11, Maria Psarrou, "`Functional Neurology of a Brain System: A 3D Olfactory Bulb Model to Process Natural Odorants\ <{filename}/20230504-functional-neurology-of-a-brain-system-a-3d-olfactory-bulb-model-to-process-natural-odorants.rst>`__", 07/04/23
-	12, Sam Sutton, "`--\ <#>`__", 14/04/23
-	13, Volker Steuber, "`--\ <#>`__", 21/04/23
-	14, Damien Drix, "`--\ <#>`__", 28/04/23
-	15, Yi Sun, "`--\ <#>`__", 05/05/23
-	16, Na Helian, "`--\ <#>`__", 12/05/23
-	17, Epaminondas Kapetanios, "`--\ <#>`__", 19/05/23
-	18, Nada Yousif, "`--\ <#>`__", 26/05/23
-	19, Yaqoob Muhammad, "`--\ <#>`__", 02/06/23
+	11, Maria Psarrou, "`Functional Neurology of a Brain System: A 3D Olfactory Bulb Model to Process Natural Odorants\ <{filename}/20230504-functional-neurology-of-a-brain-system-a-3d-olfactory-bulb-model-to-process-natural-odorants.rst>`__", 05/05/23
+	12, Volker Steuber, "`--\ <#>`__", 12/05/23
+	13, Damien Drix, "`--\ <#>`__", 19/05/23
+	14, Yi Sun, "`--\ <#>`__", 26/05/23
+	15, Na Helian, "`--\ <#>`__", 02/06/23
+	16, Epaminondas Kapetanios, "`--\ <#>`__", 09/06/23
+	17, Nada Yousif, "`--\ <#>`__", 16/06/23
+	18, Yaqoob Muhammad, "`--\ <#>`__", 23/06/23
 
