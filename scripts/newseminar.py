@@ -309,12 +309,21 @@ if len(papers_keys) == 1:
     # bib_entry = bibdata.entries[bibdata.entries.keys()[0]]
     # bib_entry = bibdata.entries[papers_keys[0]]
 else:
-    target_title = args.paper_name.lower()
-    target_title = prune_text(target_title)
+    target_title = ""
+    print(args.citation_key)
+    if args.citation_key == "":
+        target_title = args.paper_name.lower()
+        target_title = prune_text(target_title)
+    else:
+        target_key = args.citation_key
+        target_title = bibdata.entries[target_key].fields["title"].lower()
+        target_title = prune_text(target_title)
+    print(target_title)
+
     # print("target: {}".format(target_title))
 
-    for (k, bib_id) in enumerate(bibdata.entries):
-        entry_title = bibdata.entries[bib_id].fields['title'].lower()
+    for k, bib_id in enumerate(bibdata.entries):
+        entry_title = bibdata.entries[bib_id].fields["title"].lower()
         entry_title = prune_text(entry_title)
         # print("entry_title: {}".format(entry_title))
 

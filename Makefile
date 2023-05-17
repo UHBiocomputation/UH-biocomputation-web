@@ -6,6 +6,7 @@ DATEYYMMDD := $(shell date +'%Y%m%d')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= rst
 AUTHOR := Volker Steuber
+KEY := ""
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -167,7 +168,12 @@ endif
 
 newseminar:
 ifdef AUTHOR
+ifeq (K, "")
 	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)"
+else
+	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)" -k $(KEY)
+endif
+
 	${EDITOR} $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 else
 	@echo 'Variable NAME is not defined.'
