@@ -24,83 +24,83 @@ from string import ascii_lowercase
 
 
 def prune_text(some_text):
-    some_text = some_text.replace('{', '')
-    some_text = some_text.replace('}', '')
-    some_text = some_text.replace('\textemdash', '-')
-    some_text = some_text.replace('\\textendash ', '- ')
+    some_text = some_text.replace("{", "")
+    some_text = some_text.replace("}", "")
+    some_text = some_text.replace("\textemdash", "-")
+    some_text = some_text.replace("\\textendash ", "- ")
     some_text = some_text.replace("''", '"')
     # some_text = some_text.replace("'", '"')
-    some_text = some_text.replace('``', '"')
+    some_text = some_text.replace("``", '"')
     # some_text = some_text.replace("`", '"')
     return some_text
 
 
-def produce_reference_entry(bib_entry, formatting='post'):
+def produce_reference_entry(bib_entry, formatting="post"):
     """
     Year, journal, author, doi have to be included in the reference.
     """
-    newline = '\n'
+    newline = "\n"
     b = bib_entry.fields
 
     # TODO add check for all required keys and inform whenever they are not present
 
     # TODO this has to be refactored- variables should not be allocated within try-catch
-    all_authors = ''
+    all_authors = ""
 
     # try:
     # deal with multiple authors
-    for author in bib_entry.persons['author']:
-        author_full_name = ''
+    for author in bib_entry.persons["author"]:
+        author_full_name = ""
         for names in author.first_names:
-            author_full_name += f'{prune_text(names[0])}. '
+            author_full_name += f"{prune_text(names[0])}. "
         for lnames in author.last_names:
-            author_full_name += f'{prune_text(lnames)}, '
+            author_full_name += f"{prune_text(lnames)}, "
         all_authors += author_full_name
 
     # Prepare additional info about the paper
-    journal_name = ''
-    if bib_entry.type == 'misc':
-        journal_name = prune_text(b['publisher'])
-    elif bib_entry.type == 'article':
-        journal_name = b['journal']
+    journal_name = ""
+    if bib_entry.type == "misc":
+        journal_name = prune_text(b["publisher"])
+    elif bib_entry.type == "article":
+        journal_name = b["journal"]
     else:
         print(
-            'WARNING: the type of entry was not recognised, journal name will be skipped as an effect.'
+            "WARNING: the type of entry was not recognised, journal name will be skipped as an effect."
         )
 
     paper_reference = f"{b['year']}, "
 
-    if journal_name != '':
-        paper_reference += f'{journal_name}, '
+    if journal_name != "":
+        paper_reference += f"{journal_name}, "
 
     try:  # field may not exist for a reference
-        if b['volume'] != '':
+        if b["volume"] != "":
             paper_reference += f"{b['volume']}, "
-    except (KeyError):
+    except KeyError:
         pass
     try:  # field may not exist for a reference
-        if b['pages'] != '':
+        if b["pages"] != "":
             paper_reference += f"{b['pages']}"
-    except (KeyError):
+    except KeyError:
         pass
 
     # Check if doi link is correct
-    prefix = ''
-    if 'https' not in b['doi']:
-        prefix += 'https://'
-    if 'doi.org/' not in b['doi']:
-        prefix += 'doi.org/'
-    b['doi'] = prefix + b['doi']
+    prefix = ""
+    if "https" not in b["doi"]:
+        prefix += "https://"
+    if "doi.org/" not in b["doi"]:
+        prefix += "doi.org/"
+    b["doi"] = prefix + b["doi"]
 
     # Format lines according to where will it be used
-    if formatting == 'post':
+    if formatting == "post":
         papers_line1 = f"- {all_authors}`\"{b['title']}\"" + newline
         papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
-    elif formatting == 'email':
+    elif formatting == "email":
         papers_line1 = f"- {all_authors}\"{b['title']}\"" + newline
         papers_line2 = f" {paper_reference}, {b['doi']}" + newline
     else:
-        print('Unknown reference formatting, using default one')
+        print("Unknown reference formatting, using default one")
         papers_line1 = f"- {all_authors}\"{b['title']}\"" + newline
         papers_line2 = f"  <{b['doi']}>`__, {paper_reference}" + newline
 
@@ -116,23 +116,22 @@ def produce_reference_entry(bib_entry, formatting='post'):
 # ===-
 # Modify Rota file
 def find_speaker(rota_list, author):
-    for (index, line) in enumerate(rota_list):
-        line_sections = line.split(',')
+    for index, line in enumerate(rota_list):
+        line_sections = line.split(",")
 
         # Find author
         if line_sections[0] == author:
-
             # Check if the title for his talk is set (omit overwritting prevoius talks)
             if len(line_sections[2]) < 3:
                 return index
 
 
 def prepare_rota_info(rota_line, title, slug_info):
-    line_fragments = rota_line.split(',')
+    line_fragments = rota_line.split(",")
     line_fragments[1] = title
     line_fragments[2] = slug_info
 
-    return ','.join(line_fragments)
+    return ",".join(line_fragments)
 
 
 def add_quotation(text):
@@ -158,7 +157,7 @@ def get_next_speakers(rota_file, speaker_index):
     speakers_list = rota_file[speaker_index:last_speaker]
     speakers = []
     for a_line in speakers_list:
-        line = a_line.split(',')
+        line = a_line.split(",")
         speakers.append(line[0])
     return speakers
 
@@ -169,10 +168,8 @@ def get_speaker_line(speakers_list, seminar_date):
     alphabet = list(ascii_lowercase)
 
     for index, person in enumerate(speakers_list):
-        date_for_speaker = local_date.strftime(' %Y/%m/%d')
-        speaker_lines.append(
-            f'{alphabet[index]}) {person} -- {date_for_speaker}'
-        )
+        date_for_speaker = local_date.strftime(" %Y/%m/%d")
+        speaker_lines.append(f"{alphabet[index]}) {person} -- {date_for_speaker}")
         local_date += timedelta(7)
 
     return speaker_lines
@@ -188,12 +185,12 @@ parser = argparse.ArgumentParser()
 #                         help="Title of the talk")
 
 parser.add_argument(
-    '-a',
-    '--author',
+    "-a",
+    "--author",
     # type=String,
     required=True,
-    action='append',
-    help='Author of the talk',
+    action="append",
+    help="Author of the talk",
 )
 # parser.add_argument("--abstract",
 #                         # type=String,
@@ -210,43 +207,43 @@ parser.add_argument(
 #                         default=[""],
 #                         help="Reference to the paper talk")
 parser.add_argument(
-    '-d',
-    '--date',
+    "-d",
+    "--date",
     # type=String,
     required=True,
-    help='Seminar date',
+    help="Seminar date",
 )
 parser.add_argument(
-    '-f',
-    '--file_name',
+    "-f",
+    "--file_name",
     # type=String,
     required=True,
-    help='Name of the file where seminar post will be written',
+    help="Name of the file where seminar post will be written",
 )
 parser.add_argument(
-    '-s',
-    '--seminar_file',
+    "-s",
+    "--seminar_file",
     # type=String,
     required=True,
-    help='Name of the BibTex file from which data about the paper will be exported',
+    help="Name of the BibTex file from which data about the paper will be exported",
 )
 parser.add_argument(
-    '-k',
-    '--citation_key',
+    "-k",
+    "--citation_key",
     # type=String,
-    help='Citation key, from which main information about the talk has to be extracted',
+    help="Citation key, from which main information about the talk has to be extracted",
 )
 parser.add_argument(
-    '-n',
-    '--paper_name',
+    "-n",
+    "--paper_name",
     # type=String,
-    help='Paper name, from which main information about the talk has to be extracted',
+    help="Paper name, from which main information about the talk has to be extracted",
 )
 parser.add_argument(
-    '-g',
-    '--slug',
+    "-g",
+    "--slug",
     # type=String,
-    help='Formated name of the file in which post content is located',
+    help="Formated name of the file in which post content is located",
 )
 
 
@@ -259,24 +256,24 @@ author = author_name
 full_file_name = args.file_name
 slug_info = args.slug
 file_creation_date = args.date
-seminar_date = datetime.strptime(file_creation_date, '%Y/%m/%d')
+seminar_date = datetime.strptime(file_creation_date, "%Y/%m/%d")
 
-creation_date = datetime.now().strftime('%Y-%m-%d')
-creation_hour = datetime.now().strftime('%H:%M:%S')
+creation_date = datetime.now().strftime("%Y-%m-%d")
+creation_hour = datetime.now().strftime("%H:%M:%S")
 
 if datetime.weekday(seminar_date) != 4:
     today = date.today()
-    print('\n\n Searching for Friday...')
+    print("\n\n Searching for Friday...")
     days_until_friday = (4 - today.weekday()) % 7
     seminar_date += timedelta(days_until_friday)
 
 year = str(datetime.now().year)
 # if Sept - Dec add b to file name
 if datetime.now().month >= 9:
-    year += 'b'
+    year += "b"
 
-rota_data_file = 'scripts/rota-data-{}.csv'.format(year)
-zoom_data_file = 'scripts/zoom_info.txt'
+rota_data_file = "scripts/rota-data-{}.csv".format(year)
+zoom_data_file = "scripts/zoom_info.txt"
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Get rota list
@@ -286,7 +283,7 @@ rota_list = get_rota_file(rota_data_file)
 speaker_index = find_speaker(rota_list, author)
 
 if speaker_index is None:
-    print('\n!WARNING! Speaker was not found on the rota list!\n\n')
+    print("\n!WARNING! Speaker was not found on the rota list!\n\n")
     error()
 
 # ===-===-===-===-
@@ -294,14 +291,14 @@ if speaker_index is None:
 # BIB1 >>>
 parser = bibtex.Parser()
 print(args.seminar_file)
-bibdata = parser.parse_file(f'{args.seminar_file}')
+bibdata = parser.parse_file(f"{args.seminar_file}")
 
 papers_keys = bibdata.entries.keys()
 for k in papers_keys:
     print(k)
 # BIB1 <<<
 
-bib_entry = ''
+bib_entry = ""
 if len(papers_keys) == 1:
     for bib_id in bibdata.entries:
         bib_entry = bibdata.entries[bib_id]
@@ -332,36 +329,36 @@ else:
             bib_entry = bibdata.entries[bib_id]
             break
 
-if bib_entry == '':
+if bib_entry == "":
     raise ValueError(
-        'For multiple entries in library, -k option (main paper citation key) has to be specified'
+        "For multiple entries in library, -k option (main paper citation key) has to be specified"
     )
 else:
-    print('Selected bib entry with title: ', bib_entry.fields['title'])
+    print("Selected bib entry with title: ", bib_entry.fields["title"])
 
 # ===-===-
 b = bib_entry.fields
 
 try:
-    title = prune_text(b['title'])
-except (KeyError):
-    raise KeyError('Following key was missing but necessary: title.')
+    title = prune_text(b["title"])
+except KeyError:
+    raise KeyError("Following key was missing but necessary: title.")
 
 try:
-    paper_abstract = wrap(prune_text(b['abstract']), width=90)
-except (KeyError):
-    raise KeyError('Following key was missing but necessary: abstract.')
+    paper_abstract = wrap(prune_text(b["abstract"]), width=90)
+except KeyError:
+    raise KeyError("Following key was missing but necessary: abstract.")
 
 try:
-    paper_link = b['doi']
-except (KeyError):
-    raise KeyError('Following key was missing but necessary: doi.')
+    paper_link = b["doi"]
+except KeyError:
+    raise KeyError("Following key was missing but necessary: doi.")
 
-paper_tags = ''
+paper_tags = ""
 try:
-    paper_tags = b['keywords']
-except (KeyError):
-    print('Kwywords are missing, continuing without them.')
+    paper_tags = b["keywords"]
+except KeyError:
+    print("Kwywords are missing, continuing without them.")
     pass
 
 
@@ -385,19 +382,19 @@ except (KeyError):
 # Generate lines of text
 # ===-===-
 # For website >>>
-newline = '\n'
-empty_line = '\n'
+newline = "\n"
+empty_line = "\n"
 
-post_title = f'{title}' + newline
-title_underline = '#' * len(post_title) + newline
-post_date = f':date: {creation_date} {creation_hour}' + newline
-post_author = f':author: {author_name}' + newline
-post_category = ':category: Seminar' + newline
-post_tags = f':tags: {paper_tags[:-1]}' + newline
-full_slug = full_file_name.split('.')[0]
-full_slug = full_slug.split('/')[-1]
-slug = '-'.join(full_slug.split('-')[1:])
-post_slug = f':slug: {slug}' + newline
+post_title = f"{title}" + newline
+title_underline = "#" * len(post_title) + newline
+post_date = f":date: {creation_date} {creation_hour}" + newline
+post_author = f":author: {author_name}" + newline
+post_category = ":category: Seminar" + newline
+post_tags = f":tags: {paper_tags[:-1]}" + newline
+full_slug = full_file_name.split(".")[0]
+full_slug = full_slug.split("/")[-1]
+slug = "-".join(full_slug.split("-")[1:])
+post_slug = f":slug: {slug}" + newline
 post_sumamry = (
     f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"'
     + newline
@@ -406,9 +403,9 @@ post_description = (
     f'This week on Journal Club session {author_name} will talk about a paper "{title}".'
     + newline
 )
-separator = '------------' + newline
-vertical_separator = '|' + newline
-papers_section = 'Papers:' + newline
+separator = "------------" + newline
+vertical_separator = "|" + newline
+papers_section = "Papers:" + newline
 
 # BIB2 >>>
 # loop through the individual references
@@ -419,40 +416,40 @@ for bib_id in bibdata.entries:
 # BIB2 <<<
 
 # footer_date = f"**Date:** {seminar_date} |br|" + newline
-date_for_footer = seminar_date.strftime(' %Y/%m/%d')
-footer_date = f'**Date:** {date_for_footer} |br|' + newline
-footer_time = '**Time:** 14:00 |br|' + newline
-footer_location = '**Location**: online' + newline
-footer_html1 = '.. |br| raw:: html' + newline
-footer_html2 = '	<br />'
+date_for_footer = seminar_date.strftime(" %Y/%m/%d")
+footer_date = f"**Date:** {date_for_footer} |br|" + newline
+footer_time = "**Time:** 14:00 |br|" + newline
+footer_location = "**Location**: online" + newline
+footer_html1 = ".. |br| raw:: html" + newline
+footer_html2 = "	<br />"
 
 # For website <<<
 # ===-===-
 # For email >>>
 if seminar_date.day % 10 == 1:
-    date_sufix = 'st'
+    date_sufix = "st"
 elif seminar_date.day % 10 == 2:
-    date_sufix = 'nd'
+    date_sufix = "nd"
 elif seminar_date.day % 10 == 2:
-    date_sufix = 'rd'
+    date_sufix = "rd"
 else:
-    date_sufix = 'th'
+    date_sufix = "th"
 
 # formated_date = seminar_date.strftime("%Y/%m/%d")
-formated_date = seminar_date.strftime(f'%-d{date_sufix} %B %Y')
-seminar_time = '14:00'
+formated_date = seminar_date.strftime(f"%-d{date_sufix} %B %Y")
+seminar_time = "14:00"
 
 message_subject = (
-    f'[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online'
+    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online"
     + newline
 )
-greeting = 'Hello everyone,' + newline
+greeting = "Hello everyone," + newline
 # formated_date = date(seminar_date) + newline
 # paragraph1 = f'{author} will present at the journal club this Friday {formated_date.strftime("%-d %B %Y")} at 14:00.' + newline
 
 # formated_date = seminar_date + newline
 paragraph1 = (
-    f'{author} will present at the journal club this Friday {formated_date} at 14:00.'
+    f"{author} will present at the journal club this Friday {formated_date} at 14:00."
     + newline
 )
 
@@ -461,7 +458,7 @@ paragraph1 += (
     + newline
 )
 zoom_notification1 = (
-    'The meeting is held online on Zoom. To join, please use the following link:'
+    "The meeting is held online on Zoom. To join, please use the following link:"
     + newline
 )
 
@@ -478,20 +475,20 @@ if path.is_file():
     zoom_notification4 = zoom_file[3]
 
 else:
-    zoom_notification2 = 'XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX' + newline
-    zoom_notification3 = 'Meeting ID: ' + newline
-    zoom_notification4 = 'Passcode: ' + newline
+    zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
+    zoom_notification3 = "Meeting ID: " + newline
+    zoom_notification4 = "Passcode: " + newline
 
 
 # TODO Add a method for loading next speakers
-reminder_part1 = 'A reminder on next three Journal Club speakers:' + newline
+reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
 
 if ~(speaker_index is None):
     next_speakers = get_next_speakers(rota_list, speaker_index)
     speakers_list = get_speaker_line(next_speakers, seminar_date)
-    reminder_part2 = '\n'.join(speakers_list)
+    reminder_part2 = "\n".join(speakers_list)
 else:
-    reminder_part2 = ''
+    reminder_part2 = ""
 
 # if False:
 #     for (k, data) in enumerate(next_speakers):
@@ -500,20 +497,19 @@ else:
 #         reminder_part2 += f"k) {next_speaker}\t\t\t - {next_date}"
 
 title_separator = (
-    '================================================================'
-    + newline
+    "================================================================" + newline
 )
 
 all_references_email = []
 for bib_id in bibdata.entries:
     bib_entry = bibdata.entries[bib_id]
-    reference_entry = produce_reference_entry(bib_entry, formatting='email')
+    reference_entry = produce_reference_entry(bib_entry, formatting="email")
     print(reference_entry)
     if reference_entry is None:
-        print('Empty bib entry- will have to verify this')
+        print("Empty bib entry- will have to verify this")
     else:
         all_references_email.extend(wrap(reference_entry, width=90))
-        all_references_email.extend('\n')
+        all_references_email.extend("\n")
 
 # For email <<<
 # ===-===-
@@ -627,23 +623,23 @@ rota_list[speaker_index] = prepare_rota_info(
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # File creation and modification
 # Save post
-with open(full_file_name, 'a') as seminar_file:
+with open(full_file_name, "a") as seminar_file:
     seminar_file.writelines(post_text)
 
 # ===-===-
 # Save email
-with open('new_seminar_email.txt', 'w') as email_file:
+with open("new_seminar_email.txt", "w") as email_file:
     email_file.writelines(email_text)
 
 # ===-===-
 # Change rota file
 # ===-
 # Move old file for backup
-r_file_parts = rota_data_file.split('.')
-os.replace(rota_data_file, f'{r_file_parts[0]}_backup.{r_file_parts[1]}')
+r_file_parts = rota_data_file.split(".")
+os.replace(rota_data_file, f"{r_file_parts[0]}_backup.{r_file_parts[1]}")
 
 # ===-
-with open(rota_data_file, 'w') as rota_file:
+with open(rota_data_file, "w") as rota_file:
     rota_file.writelines(rota_list)
 
 # DONE: zoom link may be loaded from a local file
