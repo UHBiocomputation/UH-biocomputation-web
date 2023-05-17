@@ -116,6 +116,7 @@ class generateRota:
         with open(self.rota_data_file) as csvfile:
             data_reader = csv.reader(csvfile)
             rota_data = list(data_reader)
+        # NOTE: if you are getting an error somwhere here while making html, remove empty line from rota csv file
 
         for aline in rota_data:
             logging.debug("Processing {}".format(aline))
