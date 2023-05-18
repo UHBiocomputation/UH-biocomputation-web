@@ -37,7 +37,7 @@ Core Faculty and Research Staff
 .. _Christopher Roadknight: https://researchprofiles.herts.ac.uk/en/persons/christopher-roadknight
 
 - `Christopher Roadknight`_ |br|
-  Research Interests: tentative research interests machine learning, artificial intelligence
+  Research Interests: machine learning, artificial intelligence
 
 .. _Michael Schmuker: https://researchprofiles.herts.ac.uk/en/persons/michael-schmuker
 
