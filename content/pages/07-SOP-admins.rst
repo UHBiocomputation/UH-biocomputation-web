@@ -136,7 +136,7 @@ Updating the journal club rota
 ================================
 
 The rota is mangaged using a CSV file in the :code:`scripts` folder. The
-current file is :code:`rota-2021b.csv`. Each line in this file represents an
+current file is :code:`rota-2023.csv`. Each line in this file represents an
 entry that must be added to the ical file and the seminar page
 :code:`05-seminars.rst`. The seminar page is set up to source the generated
 rota page. The Makefile takes care of generating the rota and ical files, and
