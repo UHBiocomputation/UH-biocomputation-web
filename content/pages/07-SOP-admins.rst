@@ -154,7 +154,7 @@ the talk and should be done according to following formula:
 
     Name of presenter,"Title of talk","Location of rst post in contents
     folder",Date of event(YYYY-MM-DD),Start time in 24h format,End time in 24h
-    format,Location(0 represents default, LB252),Whether or not this entry
+    format,Location(0 represents default, online),Whether or not this entry
     should be added to the seminars page: 1 = Yes, 2 = No
 
 It is possible to add a speaker without title and abstract file (leave the both
