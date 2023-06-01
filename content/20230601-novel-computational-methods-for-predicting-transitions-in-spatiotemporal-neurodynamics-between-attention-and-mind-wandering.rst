@@ -5,7 +5,7 @@ Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurody
 :category: Seminars
 :tags: 
 :slug: novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering
-:summary: David Haydock's Journal Club session where he will talk about a paper "Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering"
+:summary: David Haydock's Journal Club session where he will talk about his work on "Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering"
 
 On this week Journal Club session David Haydock will present his work in a talk entitled "Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering".
 Please see below for the asbstract of the talk and a related paper.
