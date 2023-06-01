@@ -581,7 +581,6 @@ email_text.extend(
         empty_line,
         zoom_notification1,
         zoom_notification2,
-        empty_line,
         zoom_notification3,
         zoom_notification4,
         empty_line,
