@@ -396,7 +396,7 @@ full_slug = full_slug.split("/")[-1]
 slug = "-".join(full_slug.split("-")[1:])
 post_slug = f":slug: {slug}" + newline
 post_summary = (
-    f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"'
+    f':summary: {author_name}\'s Journal Club session where they will talk about the paper "{title}"'
     + newline
 )
 post_description = (
