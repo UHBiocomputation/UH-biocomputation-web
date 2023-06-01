@@ -400,7 +400,7 @@ post_summary = (
     + newline
 )
 post_description = (
-    f'This week on Journal Club session {author_name} will talk about a paper "{title}".'
+    f'On this week\'s Journal Club session, {author_name} will talk about the paper entitled "{title}".'
     + newline
 )
 separator = "------------" + newline
@@ -419,7 +419,7 @@ for bib_id in bibdata.entries:
 date_for_footer = seminar_date.strftime(" %Y/%m/%d")
 footer_date = f"**Date:** {date_for_footer} |br|" + newline
 footer_time = "**Time:** 14:00 |br|" + newline
-footer_location = "**Location**: online" + newline
+footer_location = "**Location**: 2J124 & online" + newline
 footer_html1 = ".. |br| raw:: html" + newline
 footer_html2 = "	<br />"
 
