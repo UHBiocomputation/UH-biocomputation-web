@@ -395,7 +395,7 @@ full_slug = full_file_name.split(".")[0]
 full_slug = full_slug.split("/")[-1]
 slug = "-".join(full_slug.split("-")[1:])
 post_slug = f":slug: {slug}" + newline
-post_sumamry = (
+post_summary = (
     f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"'
     + newline
 )
@@ -536,7 +536,7 @@ post_text = [
     post_category,
     post_tags,
     post_slug,
-    post_sumamry,
+    post_summary,
     empty_line,
     post_description,
     empty_line,
