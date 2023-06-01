@@ -2,7 +2,7 @@ A Genetic Programming-Based Convolutional Deep Learning Algorithm for Identifyin
 ##################################################################################################################
 :date: 2023-05-10 22:14:35
 :author: Mohammad Tayarani-Najaran
-:category: Seminar
+:category: Seminars
 :tags: Convolutional Neural Networks,COVID-19,Deep learning,Evolutionary algorithms,Genetic programming,Optimizatio
 :slug: a-genetic-programming-based-convolutional-deep-learning-algorithm-for-identifying-covid-19-cases-via-x-ray-images
 :summary: Mohammad Tayarani-Najaran's Journal Club session where he will talk about a paper "A Genetic Programming-Based Convolutional Deep Learning Algorithm for Identifying COVID-19 Cases via X-ray Images"

@@ -2,7 +2,7 @@ Rapid online learning and robust recall in a neuromorphic olfactory circuit
 ###########################################################################
 :date: 2021-02-04 18:51:50
 :author: Damien Drix
-:category: Seminar
+:category: Seminars
 :tags: Olfacion; Neuromorphic hardware; Plasticity;
 :slug: rapid-online-learning-and-robust-recall-in-a-neuromorphic-olfactory-circuit
 :summary: Damien Drix's Journal Club session where he will talk about a paper "Rapid online learning and robust recall in a neuromorphic olfactory circuit"

@@ -2,7 +2,7 @@ Toward a New Theory of Motor Synergies
 #######################################
 :date: 2021-06-16 11:23:40
 :author: Bente Riegler
-:category: Seminar
+:category: Seminars
 :tags: 
 :slug: toward-a-new-theory-of-motor-synergies
 :summary: Bente Riegler's Journal Club session where she will talk about a paper "Toward a New Theory of Motor Synergies"

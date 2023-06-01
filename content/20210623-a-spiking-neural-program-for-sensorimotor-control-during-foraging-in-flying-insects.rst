@@ -2,7 +2,7 @@ A Spiking Neural Program for Sensorimotor Control during Foraging in Flying Inse
 ####################################################################################
 :date: 2021-06-23 11:28:03
 :author: Shavika Rastogi
-:category: Seminar
+:category: Seminars
 :tags: artificial intelligence,mushroom body,navigation,sparse coding,Spiking neural networ
 :slug: a-spiking-neural-program-for-sensorimotor-control-during-foraging-in-flying-insects
 :summary: Shavika Rastogi's Journal Club session where she will talk about a paper "A Spiking Neural Program for Sensorimotor Control during Foraging in Flying Insects"

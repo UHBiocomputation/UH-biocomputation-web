@@ -2,7 +2,7 @@ Speech Emotion recognition using deep neural networks using Mel Frequency Cepstr
 ###############################################################################################
 :date: 2020-12-16 12:28:04
 :author: Shreyah Iyer
-:category: Seminar
+:category: Seminars
 :tags: Speech recognition; deep learning; cepstral coefficients
 :slug: speech-emotion-recognition-using-deep-neural-networks-using-mel-frequency-cepstral-coefficients
 :summary: Shreyah Iyer's Journal Club session where she will talk about a project"Speech Emotion recognition using deep neural networks using Mel Frequency Cepstral coefficients".

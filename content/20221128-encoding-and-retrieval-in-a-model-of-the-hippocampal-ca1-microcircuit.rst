@@ -2,7 +2,7 @@ Encoding and retrieval in a model of the hippocampal CA1 microcircuit
 ######################################################################
 :date: 2022-11-28 10:49:06
 :author: Eleonora Bernasconi
-:category: Seminar
+:category: Seminars
 :tags: axo-axonic cell,basket cell,bistratified cell,CA1 microcircuit model,OLM cell,pyramidal cell,STDP,storage and recal
 :slug: encoding-and-retrieval-in-a-model-of-the-hippocampal-ca1-microcircuit
 :summary: Eleonora Bernasconi's Journal Club session where he will talk about a paper "Encoding and retrieval in a model of the hippocampal CA1 microcircuit"

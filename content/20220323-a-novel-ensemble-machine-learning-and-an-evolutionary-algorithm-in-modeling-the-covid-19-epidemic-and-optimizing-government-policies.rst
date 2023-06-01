@@ -2,7 +2,7 @@ A Novel Ensemble Machine Learning and an Evolutionary Algorithm in Modeling the 
 #####################################################################################################################################
 :date: 2022-03-23 15:45:26
 :author: Mohammad Tayarani-Najaran
-:category: Seminar
+:category: Seminars
 :tags: Evolutionary Algorithm; optimization; COVID-19
 :slug: a-novel-ensemble-machine-learning-and-an-evolutionary-algorithm-in-modeling-the-covid-19-epidemic-and-optimizing-government-policies
 :summary: Mohammad Tayarani-Najaran's Journal Club session where he will talk about a paper "A Novel Ensemble Machine Learning and an Evolutionary Algorithm in Modeling the COVID-19 Epidemic and Optimizing Government Policies"

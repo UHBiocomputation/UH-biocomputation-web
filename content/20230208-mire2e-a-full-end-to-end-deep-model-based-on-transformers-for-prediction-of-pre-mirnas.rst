@@ -2,7 +2,7 @@ miRe2e: A Full End-to-End Deep Model Based on Transformers for Prediction of Pre
 ########################################################################################
 :date: 2023-02-08 13:28:44
 :author: Manal Helal
-:category: Seminar
+:category: Seminars
 :tags: miRNA, generics, machine learning, neural networks
 :slug: mire2e-a-full-end-to-end-deep-model-based-on-transformers-for-prediction-of-pre-mirnas
 :summary: Manal Helal's Journal Club session where she will talk about a paper "miRe2e: A Full End-to-End Deep Model Based on Transformers for Prediction of Pre-miRNAs"

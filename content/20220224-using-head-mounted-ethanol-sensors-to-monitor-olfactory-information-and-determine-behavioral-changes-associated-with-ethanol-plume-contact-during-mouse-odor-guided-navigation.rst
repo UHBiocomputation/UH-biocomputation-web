@@ -2,7 +2,7 @@ Using Head-Mounted Ethanol Sensors to Monitor Olfactory Information and Determin
 ###############################################################################################################################################################################
 :date: 2022-02-24 16:10:25
 :author: Michael Schmuker
-:category: Seminar
+:category: Seminars
 :tags: behavior; foraging; navigation; olfaction; sensory;
 :slug: using-head-mounted-ethanol-sensors-to-monitor-olfactory-information-and-determine-behavioral-changes-associated-with-ethanol-plume-contact-during-mouse-odor-guided-navigation
 :summary: Michael Schmuker's Journal Club session where he will talk about a paper "Using Head-Mounted Ethanol Sensors to Monitor Olfactory Information and Determine Behavioral Changes Associated with Ethanol-Plume Contact during Mouse Odor-Guided Navigation"

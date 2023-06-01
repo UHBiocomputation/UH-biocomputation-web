@@ -3,7 +3,7 @@ Feature Weighted Density-based Clustering
 
 :date: 2021-07-07 12:09:26
 :author: Na Helian
-:category: Seminar
+:category: Seminars
 :tags: clustering; DBSCAN; 
 :slug: feature-weighted-density-based-clustering
 :summary: Na Helian's Journal Club session where she will talk about her work done together with her PhD student Stiphen Chowdhury about "Feature Weighted Density-based Clustering".

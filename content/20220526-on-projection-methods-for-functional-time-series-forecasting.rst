@@ -2,7 +2,7 @@ On Projection Methods for Functional Time Series Forecasting
 #############################################################
 :date: 2022-05-26 15:31:48
 :author: Yi Sun
-:category: Seminar
+:category: Seminars
 :tags: Forecasting,Functional depth,Functional nonparametric,Functional time series,Nearest neighbor
 :slug: on-projection-methods-for-functional-time-series-forecasting
 :summary: Yi Sun's Journal Club session where she will talk about a paper "On Projection Methods for Functional Time Series Forecasting"

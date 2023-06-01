@@ -2,7 +2,7 @@ Long-Term Depression and Recognition of Parallel Fibre Patterns in a Multi-Compa
 #############################################################################################################################
 :date: 2022-06-28 14:18:39
 :author: Volker Steuber
-:category: Seminar
+:category: Seminars
 :tags: Cerebellum,Learning,LTD,Pattern recognition,Purkinje cell
 :slug: temporal-coding-and-rank-order-coding
 :summary: Volker Steuber's Journal Club session where he will talk about temporal coding and, in particular, rank order coding. Please see the papers below for more details.

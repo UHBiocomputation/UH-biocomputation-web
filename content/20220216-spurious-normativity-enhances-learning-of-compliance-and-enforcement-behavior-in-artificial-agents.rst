@@ -2,7 +2,7 @@ Spurious Normativity Enhances Learning of Compliance and Enforcement Behavior in
 ###################################################################################################
 :date: 2022-02-16 10:15:52
 :author: Stavros Anagnou
-:category: Seminar
+:category: Seminars
 :tags: multiagent reinforcement learning; norms; third-party punishment; cultural evolution; social norms
 :slug: spurious-normativity-enhances-learning-of-compliance-and-enforcement-behavior-in-artificial-agents
 :summary: Stavros Anagnou's Journal Club session where he will talk about a paper "Spurious Normativity Enhances Learning of Compliance and Enforcement Behavior in Artificial Agents"

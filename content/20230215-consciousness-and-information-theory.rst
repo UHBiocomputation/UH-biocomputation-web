@@ -2,7 +2,7 @@ Consciousness and Information Theory
 ####################################
 :date: 2023-02-15 16:34:20
 :author: Shabnam Kadir
-:category: Seminar
+:category: Seminars
 :tags: Computer architecture,Consciousness,Logic circuits,Neurons,Photodiodes,Probability distribution,Synapses,Theories of consciousnes
 :slug: from-the-phenomenology-to-the-mechanisms-of-consciousness-integrated-information-theory-3-0
 :summary: Shabnam Kadir's Journal Club session where he will talk about a paper "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0"

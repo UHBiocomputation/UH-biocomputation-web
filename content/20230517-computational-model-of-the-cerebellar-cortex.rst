@@ -2,7 +2,7 @@ Computational model of the cerebellar cortex
 ############################################
 :date: 2023-05-17 17:18:16
 :author: Eleonora Bernasconi
-:category: Seminar
+:category: Seminars
 :tags: biophysical model,cerebellum,climbing fiber,complex spikes,dendritic excitability,dendritic spikes,energy consumption,Humans,Nerve Fibers,Purkinje cell,Purkinje Cell
 :slug: computational-model-of-the-cerebellar-cortex
 :summary: Eleonora Bernasconi's Journal Club session where she will talk about a her work "Computational model of the cerebellar cortex".

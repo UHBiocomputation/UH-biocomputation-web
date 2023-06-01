@@ -2,7 +2,7 @@ Tensor Decomposition with Relational Constraints for Predicting Multiple Types o
 ################################################################################################################
 :date: 2022-05-11 13:41:48
 :author: Manal Helal
-:category: Seminar
+:category: Seminars
 :tags: tensor deocmposition; microRNA; disease prediction; optimization;
 :slug: tensor-decomposition-with-relational-constraints-for-predicting-multiple-types-of-microrna-disease-associations
 :summary: Manal Helal's Journal Club session where he will talk about a paper "Tensor Decomposition with Relational Constraints for Predicting Multiple Types of microRNA-disease Associations"

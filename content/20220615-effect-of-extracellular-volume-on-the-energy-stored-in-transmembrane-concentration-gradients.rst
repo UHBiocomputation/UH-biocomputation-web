@@ -2,7 +2,7 @@ Effect of Extracellular Volume on the Energy Stored in Transmembrane Concentrati
 #############################################################################################
 :date: 2022-06-15 19:20:06
 :author: Reinoud Maex
-:category: Seminar
+:category: Seminars
 :tags:
 :slug: effect-of-extracellular-volume-on-the-energy-stored-in-transmembrane-concentration-gradients
 :summary: Reinoud Maex's Journal Club session where he will talk about a paper "Effect of Extracellular Volume on the Energy Stored in Transmembrane Concentration Gradients"

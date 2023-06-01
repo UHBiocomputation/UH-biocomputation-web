@@ -2,7 +2,7 @@ Feasibility of Topological Data Analysis for Event-Related fMRI
 ################################################################
 :date: 2021-05-20 09:12:19
 :author: Shabnam Kadir
-:category: Seminar
+:category: Seminars
 :tags: Topological data analysis; Persistent homology; fMRI; Simulation; Event-related design; Representation
 :slug: feasibility-of-topological-data-analysis-for-event-related-fmri
 :summary: Shabnam Kadir's Journal Club session where she will talk about a paper "Feasibility of Topological Data Analysis for Event-Related fMRI"

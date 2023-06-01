@@ -2,7 +2,7 @@ Applications of Artificial Intelligence in Battling against Covid-19: A Literatu
 ##########################################################################################
 :date: 2022-12-15 07:28:49
 :author: Mohammad Tayarani-Najaran
-:category: Seminar
+:category: Seminars
 :tags: Artificial intelligence;Artificial neural networks;Convolutional neural networks;Coronavirus;Covid-19;Deep learning;Deep neural networks;Drug discovery;Epidemiology;Evolutionary algorithms;Machine learning;SARS-CoV-2;Vaccine developmen
 :slug: applications-of-artificial-intelligence-in-battling-against-covid-19-a-literature-review
 :summary: Mohammad Tayarani-Najaran's Journal Club session where he will talk about a paper "Applications of Artificial Intelligence in Battling against Covid-19: A Literature Review"

@@ -2,7 +2,7 @@ A comparison between mouse, in silico, and robot odor plume navigation reveals a
 ################################################################################################################
 :date: 2020-12-09 07:07:13
 :author: Michael Schmucker
-:category: Seminar
+:category: Seminars
 :tags: in  silico; mouse; navigation; odor plume; robot; turbulence;
 :slug: a-comparison-between-mouse-in-silico-and-robot-odor-plume-navigation-reveals-advantages-of-mouse-odor-tracking
 :summary: Michael Schmucker's Journal Club session where he will talk about a paper "A comparison between mouse, in silico, and robot odor plume navigation reveals advantages of mouse odor-tracking".

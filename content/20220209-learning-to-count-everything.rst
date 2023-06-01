@@ -2,7 +2,7 @@ Learning To Count Everything
 #############################
 :date: 2022-02-09 11:19:02
 :author: Minghua Zheng
-:category: Seminar
+:category: Seminars
 :tags: Neural networks; objects identification
 :slug: learning-to-count-everything
 :summary: Minghua Zheng's Journal Club session where he will talk about a paper "Learning To Count Everything"

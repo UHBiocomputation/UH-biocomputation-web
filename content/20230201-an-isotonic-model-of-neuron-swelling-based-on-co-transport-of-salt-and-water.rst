@@ -2,7 +2,7 @@ An Isotonic Model of Neuron Swelling Based on Co-Transport of Salt and Water
 #############################################################################
 :date: 2023-02-01 17:06:52
 :author: Reinoud Maex
-:category: Seminar
+:category: Seminars
 :tags: 
 :slug: an-isotonic-model-of-neuron-swelling-based-on-co-transport-of-salt-and-water
 :summary: Reinoud Maex's Journal Club session where he will talk about his work "An Isotonic Model of Neuron Swelling Based on Co-Transport of Salt and Water"

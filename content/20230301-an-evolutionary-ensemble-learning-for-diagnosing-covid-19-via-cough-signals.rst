@@ -2,7 +2,7 @@ An Evolutionary Ensemble Learning for Diagnosing COVID-19 via Cough Signals
 ############################################################################
 :date: 2023-03-01 15:44:29
 :author: Mohammad Tayarani-Najaran
-:category: Seminar
+:category: Seminars
 :tags: COVID-19,Evolutionary algorithms,Optimizatio
 :slug: an-evolutionary-ensemble-learning-for-diagnosing-covid-19-via-cough-signals
 :summary: Mohammad Tayarani-Najaran's Journal Club session where he will talk about a paper "An Evolutionary Ensemble Learning for Diagnosing COVID-19 via Cough Signals"

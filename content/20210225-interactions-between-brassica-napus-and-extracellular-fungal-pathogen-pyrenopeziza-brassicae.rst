@@ -2,7 +2,7 @@ Interactions between Brassica Napus and Extracellular Fungal Pathogen Pyrenopezi
 #############################################################################################
 :date: 2021-02-25 10:29
 :author: Chinthani Karandeni Dewage
-:category: Seminar
+:category: Seminars
 :tags: cultivar resistance; genetics
 :slug: interactions-between-brassica-napus-and-extracellular-fungal-pathogen-pyrenopeziza-brassicae
 :summary: Chinthani Karandeni Dewage's Journal Club session where she will talk about a paper "Interactions between Brassica Napus and Extracellular Fungal Pathogen Pyrenopeziza Brassicae"

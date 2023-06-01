@@ -2,7 +2,7 @@ Clustering Functional Data into Groups by Using Projections
 ############################################################
 :date: 2021-07-14 10:51:50
 :author: Yi Sun
-:category: Seminar
+:category: Seminars
 :tags: Asymptotically perfect clustering,Functional principal components,Haar basis,k-means,Optimal projectio
 :slug: clustering-functional-data-into-groups-by-using-projections
 :summary: Yi Sun's Journal Club session where she will talk about a paper "Clustering Functional Data into Groups by Using Projections"

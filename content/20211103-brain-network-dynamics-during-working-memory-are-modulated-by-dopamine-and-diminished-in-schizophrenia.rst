@@ -2,7 +2,7 @@ Brain Network Dynamics during Working Memory Are Modulated by Dopamine and Dimin
 #######################################################################################################
 :date: 2021-11-03 10:06:29
 :author: Emil Dmitruk
-:category: Seminar
+:category: Seminars
 :tags: dopamine,network control theory,network neuroscience,Schizophrenia,working memor
 :slug: brain-network-dynamics-during-working-memory-are-modulated-by-dopamine-and-diminished-in-schizophrenia
 :summary: Emil Dmitruk's Journal Club session where he will talk about a paper "Brain Network Dynamics during Working Memory Are Modulated by Dopamine and Diminished in Schizophrenia"

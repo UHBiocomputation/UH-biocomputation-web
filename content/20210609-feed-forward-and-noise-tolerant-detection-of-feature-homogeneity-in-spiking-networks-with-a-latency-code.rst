@@ -2,7 +2,7 @@ Feed-Forward and Noise-Tolerant Detection of Feature Homogeneity in Spiking Netw
 #########################################################################################################
 :date: 2021-06-09 19:36:12
 :author: Michael Schmuker
-:category: Seminar
+:category: Seminars
 :tags: 
 :slug: feed-forward-and-noise-tolerant-detection-of-feature-homogeneity-in-spiking-networks-with-a-latency-code
 :summary: Michael Schmuker's Journal Club session where he will talk about a paper "Feed-Forward and Noise-Tolerant Detection of Feature Homogeneity in Spiking Networks with a Latency Code"

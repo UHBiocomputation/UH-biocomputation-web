@@ -2,7 +2,7 @@ Prediction of Electrode Position inside rat brain using NeuromorphicHardware
 ############################################################################
 :date: 2020-11-18 10:58:33
 :author: Emil Dmitruk
-:category: Seminar
+:category: Seminars
 :tags: Neuromorphic Hardware; Electrode positioning; SpiNNaker;
 :slug: prediction-of-electrode-position-inside-rat-brain-using-neuromorphichardware
 :summary: Shavika Rastogi's Journal Club session where she will talk about her master thesis entitled "Prediction of Electrode Position inside rat brain using Neuromorphic Hardware".

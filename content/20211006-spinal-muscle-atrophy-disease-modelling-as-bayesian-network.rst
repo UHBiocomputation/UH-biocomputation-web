@@ -3,7 +3,7 @@ Spinal Muscle Atrophy Disease Modelling as Bayesian Network
 
 :date: 2021-10-06 12:07:55
 :author: Manal Helal
-:category: Seminar
+:category: Seminars
 :tags: genetics, Probabilistic Graphical Models, Bayesian Inference
 :slug: spinal-muscle-atrophy-disease-modelling-as-bayesian-network
 :summary: Manal Helal's Journal Club session where she will talk about her current work on "Spinal Muscle Atrophy Disease Modelling as Bayesian Network"

@@ -2,7 +2,7 @@ Will Graph Neural Networks Revolutionise Computational Olfaction?
 ##################################################################
 :date: 2023-02-23 08:57:15
 :author: Michael Schmuker
-:category: Seminar
+:category: Seminars
 :tags: Deep learning,Graph neural networks,Olfaction
 :slug: will-graph-neural-networks-revolutionise-computational-olfaction-
 :summary: Michael Schmuker's Journal Club session where he will talk about a paper "Will Graph Neural Networks Revolutionise Computational Olfaction?"

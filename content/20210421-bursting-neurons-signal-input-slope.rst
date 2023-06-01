@@ -2,7 +2,7 @@ Bursting Neurons Signal Input Slope
 ########################################
 :date: 2021-04-21 11:37
 :author: Volker Steuber
-:category: Seminar
+:category: Seminars
 :tags: biophysical model,burst,ELL,Neural coding,pyramidal cell,simulation,weakly electric fis
 :slug: bursting-neurons-signal-input-slope
 :summary: Volker Steuber's Journal Club session where he will talk about a paper "Bursting Neurons Signal Input Slope"

@@ -2,7 +2,7 @@ Explanation in Human-AI Systems
 ##################################
 :date: 2022-07-13 22:36:16
 :author: Epaminondas Kapetanios
-:category: Seminar
+:category: Seminars
 :tags: Artificial Intelligence; Machine Learning; Autonomous Systems; Theory of Explanation; Philosophy of Science
 :slug: explanation-in-human-ai-systems
 :summary: Epaminondas Kapetanios's Journal Club session where he will talk about his editorial work in the "Explanation in Human-AI Systems" journal.

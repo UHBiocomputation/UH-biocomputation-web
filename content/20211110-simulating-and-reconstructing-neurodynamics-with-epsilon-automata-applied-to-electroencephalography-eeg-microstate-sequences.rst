@@ -2,7 +2,7 @@ Simulating and Reconstructing Neurodynamics with Epsilon-Automata Applied to Ele
 ###############################################################################################################################
 :date: 2021-11-10 10:37:09
 :author: David Haydock
-:category: Seminar
+:category: Seminars
 :tags: Adaptation and Self-Organizing Systems,Computer Science,Formal Languages and Automata Theory,Neurons and Cognition,Nonlinear Sciences,Quantitative Biolog
 :slug: simulating-and-reconstructing-neurodynamics-with-epsilon-automata-applied-to-electroencephalography-eeg-microstate-sequences
 :summary: David Haydock's Journal Club session where he will talk about a paper "Simulating and Reconstructing Neurodynamics with Epsilon-Automata Applied to Electroencephalography (EEG) Microstate Sequences"

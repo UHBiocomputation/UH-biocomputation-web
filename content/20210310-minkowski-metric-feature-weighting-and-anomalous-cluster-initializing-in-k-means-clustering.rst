@@ -2,7 +2,7 @@ Minkowski Metric, Feature Weighting and Anomalous Cluster Initializing in K-Mean
 #############################################################################################
 :date: 2021-03-10 15:01
 :author: Deepak Panday
-:category: Seminar
+:category: Seminars
 :tags: Anomalous cluster,Feature weights,K-means,Minkowski metric,Noise feature
 :slug: minkowski-metric-feature-weighting-and-anomalous-cluster-initializing-in-k-means-clustering
 :summary: Deepak Panday's Journal Club session where he will talk about a paper "Minkowski Metric, Feature Weighting and Anomalous Cluster Initializing in K-Means Clustering"
