@@ -471,8 +471,8 @@ if path.is_file():
             line.strip()
             zoom_file.append(line)
     zoom_notification2 = zoom_file[0]
-    zoom_notification3 = zoom_file[2]
-    zoom_notification4 = zoom_file[3]
+    zoom_notification3 = zoom_file[1]
+    zoom_notification4 = zoom_file[2]
 
 else:
     zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
