@@ -3,8 +3,7 @@ Seminars
 :slug: 05-seminars
 :date: 2016-01-12 15:10:34
 
-The biocomputation group hosts a weekly journal club meeting. Please contact Eleonora Bernasconi at e.bernasconi AT herts.ac.uk or Ohki Katakura at o.katakura AT herts.ac.uk if you have any queries.
-Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
+The biocomputation group hosts a weekly journal club meeting. If you have any queries, please have a look at the journal club `guidelines <09-JC-guidelines.html>`_ or contact Eleonora Bernasconi at e.bernasconi AT herts.ac.uk or Ohki Katakura at o.katakura AT herts.ac.uk. Abstracts and other material related to these sessions will feature in the `news section <../blog_index.html>`_. The current rota is:
 
 January 2023 - 
 ------------------------------

@@ -24,7 +24,7 @@ Thank you and good luck with your speech :)
 For everyone
 ------------
 
-The schedule of the presentations can be found here http://biocomputation.herts.ac.uk/pages/05-seminars.html 
+The schedule of the presentations can be found `here <05-seminars.html>`_.
 I will send weekly emails to invite you to the seminars. 
 
 The journal club is currently run in hybrid mode. The presenter is always online. Attendees may either join online or meet in a dedicated room on campus to facilitate discussions: 
