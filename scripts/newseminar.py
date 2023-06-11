@@ -609,6 +609,8 @@ email_text.extend(
 for reference in all_references_email:
     email_text.append(reference)
 
+email_text.extend((empty_line, "Best regards, " + newline))
+
 # ===-===-
 # Prepare rota file
 
