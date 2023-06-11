@@ -455,7 +455,7 @@ paragraph1 = (
 )
 
 paragraph1 += (
-    f'She/He will talk about a paper "{title}". For more information, please see the abstract below.'
+    f'She/He will talk about the paper "{title}". For more information, please see the abstract below.'
     + newline
 )
 zoom_notification1 = (
