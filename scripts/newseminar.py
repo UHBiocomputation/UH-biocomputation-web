@@ -274,6 +274,7 @@ if datetime.now().month >= 9:
 
 rota_data_file = "scripts/rota-data-{}.csv".format(year)
 zoom_data_file = "scripts/zoom_info.txt"
+signature_data_file = "scripts/email_signature.txt"
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Get rota list
@@ -608,6 +609,32 @@ email_text.extend(
 for reference in all_references_email:
     email_text.append(reference)
 
+# Add signature to email
+email_txt.extend((empty_ine, "Best regards, " + new_line))
+
+path = Path(signature_data_file)
+if path.is_file():
+    # Read file into list
+    signature_file = []
+    with open(signature_data_file) as file:
+        for line in file():
+            line.strip()
+            signature_fine.append(line)
+    signature1 = signature_file[0]
+    signature2 = signature_file[1]
+    signature3 = signature_file[2]
+    signature4 = signature_file[3]
+    signature5 = signature_file[4]
+    email_text.extend(
+    (
+        empty_line,
+        signature1,
+        signature2,
+        signature3, 
+        signature4,
+        signature5
+    )
+    )
 
 # ===-===-
 # Prepare rota file
