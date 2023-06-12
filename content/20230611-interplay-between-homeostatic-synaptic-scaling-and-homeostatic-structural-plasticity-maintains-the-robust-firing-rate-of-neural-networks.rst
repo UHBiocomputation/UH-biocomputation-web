@@ -5,9 +5,12 @@ Interplay between homeostatic synaptic scaling and homeostatic structural plasti
 :category: Seminars
 :tags: 
 :slug: interplay-between-homeostatic-synaptic-scaling-and-homeostatic-structural-plasticity-maintains-the-robust-firing-rate-of-neural-networks
-:summary: Han Lu's Journal Club session where they will talk about the preprint "Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks".
+:summary: Han Lu's Journal Club session where she will talk about the preprint "Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks".
 
-On this week's Journal Club session, Han Lu will talk about the preprint entitled "Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks".
+On this week's Journal Club session, Han Lu will talk about the preprint entitled "Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks". 
+
+Han is a Postdoctoral researcher at the Institute of Anatomy and Cell Biology, University of Freiburg, Germany. Her studies focus on the homeostatic structural plasticity of neuronal connectivity in
+response to external stimulation, using both computational and experimental approaches.
 
 ------------
 
