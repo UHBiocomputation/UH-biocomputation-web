@@ -7,6 +7,7 @@ SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-
 EXT ?= rst
 AUTHOR := Volker Steuber
 KEY := ""
+TITLE := ""
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -169,9 +170,11 @@ endif
 newseminar:
 ifdef AUTHOR
 ifeq (K, "")
-	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)"
+	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)" -t "$(TITLE)"
+	echo $K $(KEY)
 else
-	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)" -k $(KEY)
+	python3 scripts/newseminar.py -a "$(AUTHOR)" -d $(shell date +'%Y/%m/%d') -f $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT) -s "scripts/seminar_file.bib" -n "${NAME}" -g "$(DATEYYMMDD)-$(SLUG).$(EXT)" -k "$(KEY)" -t "$(TITLE)"
+	echo $K $(KEY) "bis"
 endif
 
 	${EDITOR} $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)

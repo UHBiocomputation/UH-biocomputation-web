@@ -178,11 +178,11 @@ def get_speaker_line(speakers_list, seminar_date):
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
 parser = argparse.ArgumentParser()
-# parser.add_argument("-t", "--title",
-#                         # type=string,
-#                         required=True,
-#                         action="append",
-#                         help="Title of the talk")
+parser.add_argument("-t", "--title",
+                        # type=string,
+                        required=True,
+                        action="append",
+                        help="Title of the talk")
 
 parser.add_argument(
     "-a",
@@ -252,6 +252,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 author_name = args.author[0]
+title = args.title[0]
 author = author_name
 full_file_name = args.file_name
 slug_info = args.slug
@@ -341,7 +342,8 @@ else:
 b = bib_entry.fields
 
 try:
-    title = prune_text(b["title"])
+    if title == "":
+        title = prune_text(b["title"])
 except KeyError:
     raise KeyError("Following key was missing but necessary: title.")
 
