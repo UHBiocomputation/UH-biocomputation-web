@@ -20,5 +20,5 @@
 	14, Han Lu, "`Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks\ <{filename}/20230611-interplay-between-homeostatic-synaptic-scaling-and-homeostatic-structural-plasticity-maintains-the-robust-firing-rate-of-neural-networks.rst>`__", 16/06/23
 	15, Yaqoob Muhammad, "`The evolution, analysis and design of spiking neural networks for temporal pattern recognition\ <{filename}/20230619-.rst>`__", 23/06/23
 	16, Minghua Zheng, "`Few-shot Object Counting with Similarity-Aware Feature Enhancement\ <{filename}/20230627-few-shot-object-counting-with-similarity-aware-feature-enhancement.rst>`__", 30/06/23
-	17, Eleonora Bernasconi, "`--\ <#>`__", 07/07/23
+	17, Eleonora Bernasconi, "`Predicting saccades given the behavior of Purkinje cells\ <{filename}/20230704-.rst>`__", 07/07/23
 

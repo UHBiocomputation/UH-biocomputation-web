@@ -1,0 +1,52 @@
+Predicting saccades given the behavior of Purkinje cells
+#########################################################
+:date: 2023-07-04 22:47:17
+:author: Eleonora Bernasconi
+:category: Seminars
+:tags: Humans, Neurons, Animals, Guinea Pigs, Potassium Channel Blockers, 4-Aminopyridine, Eye Movements, Nystagmus, Pathologic, Feedbac
+:slug: 
+:summary: Eleonora Bernasconi's Journal Club session where she will talk about her work in the talk entitled "Predicting saccades given the behavior of Purkinje cells".
+
+On this week's Journal Club session, Eleonora Bernasconi will talk about her work in the talk entitled "Predicting saccades given the behavior of Purkinje cells".
+Please see below for the abstract of a supporting paper.
+
+------------
+
+A better understanding of the neural and functional mechanisms underlying drug-induced
+changes in pathological nystagmus is likely to improve medical treatment. A treatment
+option for downbeat nystagmus (DBN), a common form of acquired fixation nystagmus that
+often occurs with cerebellar degeneration, is low doses of the potassium channel blocker
+4-aminopyridine (4-AP). The upward ocular drift in DBN has a spontaneous and a vertical
+gaze-evoked component. Detailed analysis of the effect of 4-AP in patients showed that the
+drug consistently improved the gaze-evoked component, but had less effect in reducing the
+spontaneous drift. We show by a combination of computational modelling at the systems
+level and at the neuronal level how this differential effect can be investigated. We have
+previously postulated that DBN is caused by damage to the floccular lobe (FL). 4-AP, which
+has been shown to increase the excitability of Purkinje cells (PCs) in slice experiments,
+may thus suppress DBN by partly restoring floccular function. We simulated the effect of
+low concentrations of 4-AP on the cellular level using a multicompartment model of a PC,
+in which we changed ion channel properties to simulate damage. The transition from the
+cellular level to the systems level was achieved by constructing a population response.
+Systems level modelling predicted that the effect of 4-AP on the PCs should reduce DBN,
+but the predicted effect on the gaze-dependent component was less than is observed in
+patients. Our results suggest that the beneficial effect of 4-AP on DBN cannot be solely
+explained by its effect at the neuronal level of PCs, and suggests added effects at the
+level of the population of neurons.
+
+|
+
+Papers:
+
+- S. Glasauer, C. Rössert, `"Modelling drug modulation of nystagmus"
+  <https://doi.org/10.1016/S0079-6123(08)00675-4>`__, 2008, Progress in Brain Research, 171, 527--534
+- S. Glasauer, `"Cerebellar contribution to saccades and gaze holding: a modeling approach"
+  <https://doi.org/10.1196/annals.1303.018>`__, 2003, Annals of the New York Academy of Sciences, 1004, 206--219
+
+
+**Date:**  2023/07/07 |br|
+**Time:** 14:00 |br|
+**Location**: online
+
+.. |br| raw:: html
+
+	<br />
