@@ -223,6 +223,11 @@ PhD Students
 - `Paul Moggridge`_ |br|
   Research Interests: artificial intelligence and cloud computing
 
+.. _Shamim Ibne Shahid: https://scholar.google.com/citations?user=oxuW8DoAAAAJ&hl=en
+
+- `Shamim Ibne Shahid`_ |br|
+  Research Interests: Computer Vision, Affective Computing, Psychology
+
 .. _Deepak Panday:
 
 - `Deepak Panday`_ |br|
