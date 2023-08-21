@@ -2,7 +2,7 @@ Class-Balanced Loss Based on Effective Number of Samples
 #########################################################
 :date: 2021-06-02 11:10:58
 :author: Minghua Zheng
-:category: Seminar
+:category: Seminars
 :tags: recognition: detection; categorization; retrieval; computer vision theory; deep learning
 :slug: class-balanced-loss-based-on-effective-number-of-samples
 :summary: Minghua Zheng's Journal Club session where he will talk about a paper "Class-Balanced Loss Based on Effective Number of Samples"

@@ -2,7 +2,7 @@ Spatiotemporal Dynamics of the Brain at Rest Exploring EEG Microstates as Electr
 ##########################################################################################################################################
 :date: 2021-03-03 18:05
 :author: David Haydock
-:category: Seminar
+:category: Seminars
 :tags: BOLD fMRI; EEG; Microstates; Resting state networks; ICA;
 :slug: spatiotemporal-dynamics-of-the-brain-at-rest-exploring-eeg-microstates-as-electrophysiological-signatures-of-bold-resting-state-networks
 :summary: David Haydock's Journal Club session where he will talk about a paper "Spatiotemporal Dynamics of the Brain at Rest Exploring EEG Microstates as Electrophysiological Signatures of BOLD Resting State Networks"

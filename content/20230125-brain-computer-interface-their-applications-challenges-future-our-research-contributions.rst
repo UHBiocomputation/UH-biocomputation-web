@@ -2,7 +2,7 @@ Brain-Computer Interface & their Applications, Challenges, Future & Our research
 ##############################################################################################
 :date: 2023-01-25 15:19:27
 :author: Yar Muhammad
-:category: Seminar
+:category: Seminars
 :tags: brain–computer interface (BCI),electroencephalography (EEG), rehabilitation,systematic literature review
 :slug: brain-computer-interface-their-applications-challenges-future-our-research-contributions
 :summary: Yar Muhammad's Journal Club session where he will talk about a paper "Brain-Computer Interface & their Applications, Challenges, Future & Our research contributions"

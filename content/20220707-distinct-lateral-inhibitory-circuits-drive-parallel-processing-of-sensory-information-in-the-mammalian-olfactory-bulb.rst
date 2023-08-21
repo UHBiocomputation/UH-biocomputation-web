@@ -2,7 +2,7 @@ Distinct Lateral Inhibitory Circuits Drive Parallel Processing of Sensory Inform
 ######################################################################################################################
 :date: 2022-07-07 21:40:11
 :author: Shavika Rastogi
-:category: Seminar
+:category: Seminars
 :tags: computation,lateral inhibition,odor discrimination,olfactory bul
 :slug: distinct-lateral-inhibitory-circuits-drive-parallel-processing-of-sensory-information-in-the-mammalian-olfactory-bulb
 :summary: Shavika Rastogi's Journal Club session where he will talk about a paper "Distinct Lateral Inhibitory Circuits Drive Parallel Processing of Sensory Information in the Mammalian Olfactory Bulb"

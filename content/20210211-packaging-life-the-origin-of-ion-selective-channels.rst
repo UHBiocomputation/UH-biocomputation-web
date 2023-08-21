@@ -2,7 +2,7 @@ Packaging Life: The Origin of Ion-Selective Channels
 #######################################################
 :date: 2021-02-11 15:56:07
 :author: Reinoud Maex
-:category: Seminar
+:category: Seminars
 :tags: Ion-selective channels; Mitochondria chemodynamics
 :slug: packaging-life-the-origin-of-ion-selective-channels
 :summary: Reinoud Maex's Journal Club session where he will talk about a paper "Packaging Life: The Origin of Ion-Selective Channels"

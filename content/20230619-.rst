@@ -1,0 +1,33 @@
+The evolution, analysis and design of spiking neural networks for temporal pattern recognition
+###############################################################################################
+:date: 2023-06-19 16:27:51
+:author: Yaqoob Muhammad
+:category: Seminars
+:tags: 
+:slug: 
+:summary: Yaqoob Muhammad's Journal Club session where he will talk about his PhD thesis "The evolution, analysis and design of spiking neural networks for temporal pattern recognition".
+
+On this week's Journal Club session, Yaqoob Muhammad will talk about his recently finished PhD in the presentation entitled "The evolution, analysis and design of spiking neural networks for temporal pattern recognition".
+
+------------
+
+All sensory stimuli are temporal in structure. How a pattern of action potentials encodes
+the information received from sensory stimuli is essential for the transmission and
+interpretation of sensory information by the nervous system. Although it is clear that
+information is carried by the number or the timing of spikes, the information processing
+in the nervous system is poorly understood. One way to understand the mechanisms which
+enable SNNs to perform a computational task is to associate the structural connectivity of
+the network with the corresponding functional behavior. This work demonstrates the
+structure-function mapping of small spiking networks evolved for recognizing temporal
+patterns.
+
+|
+
+
+**Date:**  2023/06/23 |br|
+**Time:** 14:00 |br|
+**Location**: 2J124 & online
+
+.. |br| raw:: html
+
+	<br />

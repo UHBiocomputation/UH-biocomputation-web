@@ -2,7 +2,7 @@ Functional Neurology of a Brain System: A 3D Olfactory Bulb Model to Process Nat
 ##############################################################################################
 :date: 2023-05-04 11:00:52
 :author: Maria Psarrou
-:category: Seminar
+:category: Seminars
 :tags: olfaction; olfactory bulb; odorant processing
 :slug: functional-neurology-of-a-brain-system-a-3d-olfactory-bulb-model-to-process-natural-odorants
 :summary: Maria Psarrou's Journal Club session where he will talk about a paper "Functional Neurology of a Brain System: A 3D Olfactory Bulb Model to Process Natural Odorants"

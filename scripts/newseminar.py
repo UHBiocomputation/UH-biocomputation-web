@@ -178,11 +178,11 @@ def get_speaker_line(speakers_list, seminar_date):
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Argument parsing
 parser = argparse.ArgumentParser()
-# parser.add_argument("-t", "--title",
-#                         # type=string,
-#                         required=True,
-#                         action="append",
-#                         help="Title of the talk")
+parser.add_argument("-t", "--title",
+                        # type=string,
+                        required=True,
+                        action="append",
+                        help="Title of the talk")
 
 parser.add_argument(
     "-a",
@@ -252,6 +252,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 author_name = args.author[0]
+title = args.title[0]
 author = author_name
 full_file_name = args.file_name
 slug_info = args.slug
@@ -274,6 +275,7 @@ if datetime.now().month >= 9:
 
 rota_data_file = "scripts/rota-data-{}.csv".format(year)
 zoom_data_file = "scripts/zoom_info.txt"
+signature_data_file = "scripts/email_signature.txt"
 
 # ===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-
 # Get rota list
@@ -340,7 +342,8 @@ else:
 b = bib_entry.fields
 
 try:
-    title = prune_text(b["title"])
+    if title == "":
+        title = prune_text(b["title"])
 except KeyError:
     raise KeyError("Following key was missing but necessary: title.")
 
@@ -389,18 +392,18 @@ post_title = f"{title}" + newline
 title_underline = "#" * len(post_title) + newline
 post_date = f":date: {creation_date} {creation_hour}" + newline
 post_author = f":author: {author_name}" + newline
-post_category = ":category: Seminar" + newline
+post_category = ":category: Seminars" + newline
 post_tags = f":tags: {paper_tags[:-1]}" + newline
 full_slug = full_file_name.split(".")[0]
 full_slug = full_slug.split("/")[-1]
 slug = "-".join(full_slug.split("-")[1:])
 post_slug = f":slug: {slug}" + newline
-post_sumamry = (
-    f':summary: {author_name}\'s Journal Club session where he will talk about a paper "{title}"'
+post_summary = (
+    f':summary: {author_name}\'s Journal Club session where they will talk about the paper "{title}".'
     + newline
 )
 post_description = (
-    f'This week on Journal Club session {author_name} will talk about a paper "{title}".'
+    f'On this week\'s Journal Club session, {author_name} will talk about the paper entitled "{title}".'
     + newline
 )
 separator = "------------" + newline
@@ -419,7 +422,7 @@ for bib_id in bibdata.entries:
 date_for_footer = seminar_date.strftime(" %Y/%m/%d")
 footer_date = f"**Date:** {date_for_footer} |br|" + newline
 footer_time = "**Time:** 14:00 |br|" + newline
-footer_location = "**Location**: online" + newline
+footer_location = "**Location**: 2J124 & online" + newline
 footer_html1 = ".. |br| raw:: html" + newline
 footer_html2 = "	<br />"
 
@@ -440,7 +443,7 @@ formated_date = seminar_date.strftime(f"%-d{date_sufix} %B %Y")
 seminar_time = "14:00"
 
 message_subject = (
-    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online"
+    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online & 2J124"
     + newline
 )
 greeting = "Hello everyone," + newline
@@ -454,11 +457,11 @@ paragraph1 = (
 )
 
 paragraph1 += (
-    f'She/He will talk about a paper "{title}". For more information, please see the abstract below.'
+    f'She/He will talk about the paper "{title}". For more information, please see the abstract below.'
     + newline
 )
 zoom_notification1 = (
-    "The meeting is held online on Zoom. To join, please use the following link:"
+    "The meeting will be in hybrid mode - the presentation will take place on Zoom, but at the same time some of us will be gathered in room 2J124 (LRC building in College Lane campus). Please use the following link to join us online:"
     + newline
 )
 
@@ -471,8 +474,8 @@ if path.is_file():
             line.strip()
             zoom_file.append(line)
     zoom_notification2 = zoom_file[0]
-    zoom_notification3 = zoom_file[2]
-    zoom_notification4 = zoom_file[3]
+    zoom_notification3 = zoom_file[1]
+    zoom_notification4 = zoom_file[2]
 
 else:
     zoom_notification2 = "XXXXXXXXXXXXXXXXX_LINK_XXXXXXXXXXXXXXXXX" + newline
@@ -536,7 +539,7 @@ post_text = [
     post_category,
     post_tags,
     post_slug,
-    post_sumamry,
+    post_summary,
     empty_line,
     post_description,
     empty_line,
@@ -581,7 +584,6 @@ email_text.extend(
         empty_line,
         zoom_notification1,
         zoom_notification2,
-        empty_line,
         zoom_notification3,
         zoom_notification4,
         empty_line,
@@ -609,6 +611,7 @@ email_text.extend(
 for reference in all_references_email:
     email_text.append(reference)
 
+email_text.extend((empty_line, "Best regards, " + newline))
 
 # ===-===-
 # Prepare rota file

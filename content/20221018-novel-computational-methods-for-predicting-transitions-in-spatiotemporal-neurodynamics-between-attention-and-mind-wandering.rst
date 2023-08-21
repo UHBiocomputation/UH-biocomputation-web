@@ -3,7 +3,7 @@ Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurody
 
 :date: 2022-10-18 19:27:12
 :author: David Haydock
-:category: Seminar
+:category: Seminars
 :tags: Adaptation and Self-Organizing Systems,Computer Science,Formal Languages and Automata Theory,Neurons and Cognition,Nonlinear Sciences,Quantitative Biolog
 :slug: novel-computational-methods-for-predicting-transitions-in-spatiotemporal-neurodynamics-between-attention-and-mind-wandering
 :summary: David Haydock's Journal Club session where he will talk about his recent work on "Novel Computational Methods for Predicting Transitions in Spatiotemporal Neurodynamics between Attention and Mind-wandering"

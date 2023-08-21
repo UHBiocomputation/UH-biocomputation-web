@@ -3,7 +3,7 @@ Study of weak / strong multiplication in gain modulation
 
 :date: 2021-05-26 11:11:06
 :author: Muhammad Amir Khan
-:category: Seminar
+:category: Seminars
 :tags: spiking neural networks; network dynamics;
 :slug: study-of-weak-strong-multiplication-in-gain-modulation
 :summary: Aamir Khan's Journal Club session where he will talk about his work on "Study of weak / strong multiplication in gain modulation"

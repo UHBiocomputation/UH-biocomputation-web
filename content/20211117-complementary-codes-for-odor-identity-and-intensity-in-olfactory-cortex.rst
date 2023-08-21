@@ -2,7 +2,7 @@ Complementary Codes for Odor Identity and Intensity in Olfactory Cortex
 ########################################################################
 :date: 2021-11-17 10:13:44
 :author: Shavika Rastogi
-:category: Seminar
+:category: Seminars
 :tags: Complementary codes,Neural coding,Olfaction,piriform corte
 :slug: complementary-codes-for-odor-identity-and-intensity-in-olfactory-cortex
 :summary: Shavika Rastogi's Journal Club session where he will talk about a paper "Complementary Codes for Odor Identity and Intensity in Olfactory Cortex"

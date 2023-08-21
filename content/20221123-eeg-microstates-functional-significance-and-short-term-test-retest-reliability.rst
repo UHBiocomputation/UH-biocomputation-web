@@ -2,7 +2,7 @@ EEG Microstates: Functional Significance and Short-Term Test-Retest Reliability
 ################################################################################
 :date: 2022-11-23 15:25:22
 :author: David Haydock
-:category: Seminar
+:category: Seminars
 :tags: EEG,EEG microstate
 :slug: eeg-microstates-functional-significance-and-short-term-test-retest-reliability
 :summary: David Haydock's Journal Club session where he will talk about a paper "EEG Microstates: Functional Significance and Short-Term Test-Retest Reliability"

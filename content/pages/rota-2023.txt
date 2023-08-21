@@ -17,14 +17,8 @@
 	11, Maria Psarrou, "`Functional Neurology of a Brain System: A 3D Olfactory Bulb Model to Process Natural Odorants\ <{filename}/20230504-functional-neurology-of-a-brain-system-a-3d-olfactory-bulb-model-to-process-natural-odorants.rst>`__", 05/05/23
 	12, Mohammad Tayarani-Najaran, "`A Genetic Programming-Based Convolutional Deep Learning Algorithm for Identifying COVID-19 Cases via X-ray Images\ <{filename}/20230510-a-genetic-programming-based-convolutional-deep-learning-algorithm-for-identifying-covid-19-cases-via-x-ray-images.rst>`__", 12/05/23
 	13, Eleonora Bernasconi, "`Voltage- and Branch-Specific Climbing Fiber Responses in Purkinje Cells\ <{filename}/20230517-computational-model-of-the-cerebellar-cortex.rst>`__", 19/05/23
-	14, Yaqoob Muhammad, "`--\ <#>`__", 26/05/23
-	15, Mahsa Aliakbarzadeh, "`--\ <#>`__", 02/06/23
-	16, David Haydock, "`--\ <#>`__", 09/06/23
-	17, Harpreet Singh, "`--\ <#>`__", 16/06/23
-	18, Volker Steuber, "`--\ <#>`__", 23/06/23
-	19, Yi Sun, "`--\ <#>`__", 30/06/23
-	20, Na Helian, "`--\ <#>`__", 07/07/23
-	21, Epaminondas Kapetanios, "`--\ <#>`__", 14/07/23
-	22, Nada Yousif, "`--\ <#>`__", 21/07/23
-	23, Damien Drix, "`--\ <#>`__", 28/07/23
+	14, Han Lu, "`Interplay between homeostatic synaptic scaling and homeostatic structural plasticity maintains the robust firing rate of neural networks\ <{filename}/20230611-interplay-between-homeostatic-synaptic-scaling-and-homeostatic-structural-plasticity-maintains-the-robust-firing-rate-of-neural-networks.rst>`__", 16/06/23
+	15, Yaqoob Muhammad, "`The evolution, analysis and design of spiking neural networks for temporal pattern recognition\ <{filename}/20230619-.rst>`__", 23/06/23
+	16, Minghua Zheng, "`Few-shot Object Counting with Similarity-Aware Feature Enhancement\ <{filename}/20230627-few-shot-object-counting-with-similarity-aware-feature-enhancement.rst>`__", 30/06/23
+	17, Eleonora Bernasconi, "`Predicting saccades given the behavior of Purkinje cells\ <{filename}/20230704-.rst>`__", 07/07/23
 

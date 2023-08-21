@@ -2,7 +2,7 @@ Neuromorphic Engineering Needs Closed-Loop Benchmarks
 ######################################################
 :date: 2022-11-16 18:28:39
 :author: Nik Dennler
-:category: Seminar
+:category: Seminars
 :tags: Neuromorphic hardware; Closed-Loop testing
 :slug: neuromorphic-engineering-needs-closed-loop-benchmarks
 :summary: Nik Dennler's Journal Club session where he will talk about a paper "Neuromorphic Engineering Needs Closed-Loop Benchmarks"

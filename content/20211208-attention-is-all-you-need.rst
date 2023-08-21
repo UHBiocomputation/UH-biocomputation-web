@@ -2,7 +2,7 @@ Attention Is All You Need
 ##########################
 :date: 2021-12-08 11:05:28
 :author: Harpreet Singh
-:category: Seminar
+:category: Seminars
 :tags: computation and language,computer science,machine learnin
 :slug: attention-is-all-you-need
 :summary: Harpreet Singh's Journal Club session where he will talk about a paper "Attention Is All You Need"

@@ -2,7 +2,7 @@ Uncovering the Topology of Time-Varying fMRI Data Using Cubical Persistence
 ############################################################################
 :date: 2022-03-16 22:39:10
 :author: Emil Dmitruk
-:category: Seminar
+:category: Seminars
 :tags: algebraic topology,Computer Science,cubical complexes,Electrical Engineering and Systems Science,Image and Video Processing,Machine Learning,Neurons and Cognition,Statistic
 :slug: uncovering-the-topology-of-time-varying-fmri-data-using-cubical-persistence
 :summary: Emil Dmitruk's Journal Club session where he will talk about a paper "Uncovering the Topology of Time-Varying fMRI Data Using Cubical Persistence"

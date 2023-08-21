@@ -2,7 +2,7 @@ Evolving the Olfactory System with Machine Learning
 ####################################################
 :date: 2021-10-27 09:58:04
 :author: Nik Dennler
-:category: Seminar
+:category: Seminars
 :tags: machine learning,network glomeruli,olfactory syste
 :slug: evolving-the-olfactory-system-with-machine-learning
 :summary: Nik Dennler's Journal Club session where he will talk about a paper "Evolving the Olfactory System with Machine Learning"

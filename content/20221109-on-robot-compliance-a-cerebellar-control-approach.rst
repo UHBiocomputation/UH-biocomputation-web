@@ -2,7 +2,7 @@ On Robot Compliance: A Cerebellar Control Approach
 ###################################################
 :date: 2022-11-09 09:17:18
 :author: Mahsa Aliakbarzadeh
-:category: Seminar
+:category: Seminars
 :tags: Adaptive spiking control,cerebellar modeling,Cerebellum,compliant robotics,Neurons,real-time (RT) control,Robot kinematics,Robot sensing systems,spike-timing-dependent plasticity (STDP),Torque contro
 :slug: on-robot-compliance-a-cerebellar-control-approach
 :summary: Mahsa Aliakbarzadeh's Journal Club session where he will talk about a paper "On Robot Compliance: A Cerebellar Control Approach"

@@ -2,7 +2,7 @@ Synchronization through Uncorrelated Noise in Excitatory-Inhibitory Networks
 #############################################################################
 :date: 2021-12-01 10:49:09
 :author: Christoph Metzner
-:category: Seminar
+:category: Seminars
 :tags: excitatory-inhibitory networks,gamma oscilations,neural networks,pyramidal-interneuronal network gamma,synaptic nois
 :slug: synchronization-through-uncorrelated-noise-in-excitatory-inhibitory-networks
 :summary: Christoph Metzner's Journal Club session where he will talk about a paper "Synchronization through Uncorrelated Noise in Excitatory-Inhibitory Networks"

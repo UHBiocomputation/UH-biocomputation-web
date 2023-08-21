@@ -2,7 +2,7 @@ Sentiment Analysis Using BLSTM-ResNet on Textual Images
 ########################################################
 :date: 2022-05-18 23:34:35
 :author: Harpreet Singh
-:category: Seminar
+:category: Seminars
 :tags: BLSTM,ResNet,Sentiment Analysi
 :slug: sentiment-analysis-using-blstm-resnet-on-textual-images
 :summary: Harpreet Singh's Journal Club session where he will talk about a paper "Sentiment Analysis Using BLSTM-ResNet on Textual Images"

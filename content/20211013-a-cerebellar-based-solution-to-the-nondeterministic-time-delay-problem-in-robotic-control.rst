@@ -2,7 +2,7 @@ A Cerebellar-Based Solution to the Nondeterministic Time Delay Problem in Roboti
 ##########################################################################################
 :date: 2021-10-13 13:28:39
 :author: Volker Steuber
-:category: Seminar
+:category: Seminars
 :tags: cerebellum, robotic control, human-robot interaction
 :slug: a-cerebellar-based-solution-to-the-nondeterministic-time-delay-problem-in-robotic-control
 :summary: Volker Steuber's Journal Club session where he will talk about a paper "A Cerebellar-Based Solution to the Nondeterministic Time Delay Problem in Robotic Control"

@@ -2,7 +2,7 @@ Complex Dynamics in Simplified Neuronal Models: Reproducing Golgi Cell Electrore
 ############################################################################################
 :date: 2020-11-25 12:47:06
 :author: Ohki Katakura
-:category: Seminar
+:category: Seminars
 :tags: neuronal modeling; point neuron; leaky integrate-and-fire; model simplification; neuronal electroresponsiveness; Golgi cell; cerebellum
 :slug: complex-dynamics-in-simplified-neuronal-models-reproducing-golgi-cell-electroresponsiveness
 :summary: Ohki Katakura's Journal Club session where he will talk about a paper "Complex Dynamics in Simplified Neuronal Models: Reproducing Golgi Cell Electroresponsiveness".

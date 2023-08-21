@@ -2,7 +2,7 @@ Edge-Centric Functional Network Representations of Human Cerebral Cortex Reveal 
 ######################################################################################################################
 :date: 2023-03-30 11:59:36
 :author: Emil Dmitruk
-:category: Seminar
+:category: Seminars
 :tags: _tablet,Cognitive neuroscience,Network model
 :slug: edge-centric-functional-network-representations-of-human-cerebral-cortex-reveal-overlapping-system-level-architecture
 :summary: Emil Dmitruk's Journal Club session where he will talk about a paper "Edge-Centric Functional Network Representations of Human Cerebral Cortex Reveal Overlapping System-Level Architecture"

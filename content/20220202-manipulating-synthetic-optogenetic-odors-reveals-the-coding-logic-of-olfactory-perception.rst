@@ -2,7 +2,7 @@ Manipulating Synthetic Optogenetic Odors Reveals the Coding Logic of Olfactory P
 ##########################################################################################
 :date: 2022-02-02 17:57:48
 :author: Maria Psarrou
-:category: Seminar
+:category: Seminars
 :tags: Olfaction,
 :slug: manipulating-synthetic-optogenetic-odors-reveals-the-coding-logic-of-olfactory-perception
 :summary: Maria Psarrou's Journal Club session where he will talk about a paper "Manipulating Synthetic Optogenetic Odors Reveals the Coding Logic of Olfactory Perception"

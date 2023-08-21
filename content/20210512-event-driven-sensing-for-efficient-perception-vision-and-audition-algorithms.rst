@@ -2,7 +2,7 @@ Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms
 ##############################################################################
 :date: 2021-05-12 13:13:07
 :author: Nik Dennler
-:category: Seminar
+:category: Seminars
 :tags: Biosensors,Chemical sensors,Heuristic algorithms,Retina,Sensor systems,Signal processing algorithms,Voltage contro
 :slug: event-driven-sensing-for-efficient-perception-vision-and-audition-algorithms
 :summary: Nik Dennler's Journal Club session where he will talk about a paper "Event-Driven Sensing for Efficient Perception: Vision and Audition Algorithms"

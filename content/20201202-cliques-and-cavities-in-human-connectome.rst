@@ -2,7 +2,7 @@ Cliques and cavities in human connectome
 ########################################
 :date: 2020-12-02 13:11:34
 :author: Emil Dmitruk
-:category: Seminar
+:category: Seminars
 :tags: Applied topology;Persistent homology;Network neuro; applied topology; network neuroscience; persistent homology
 :slug: cliques-and-cavities-in-human-connectome
 :summary: Emil Dmitruk's Journal Club session where he will talk about a paper "Cliques and cavities in human connectome".

@@ -2,7 +2,7 @@ Boosting Ant Colony Optimization with Reptile Search Algorithm for Churn Predict
 ####################################################################################
 :date: 2022-04-27 12:02:32
 :author: Na Helian
-:category: Seminar
+:category: Seminars
 :tags: Optimization; telecommunications;
 :slug: boosting-ant-colony-optimization-with-reptile-search-algorithm-for-churn-prediction
 :summary: Na Helian's Journal Club session where he will talk about a paper "Boosting Ant Colony Optimization with Reptile Search Algorithm for Churn Prediction"

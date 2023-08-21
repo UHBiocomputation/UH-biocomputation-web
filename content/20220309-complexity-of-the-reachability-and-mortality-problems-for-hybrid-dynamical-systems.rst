@@ -3,7 +3,7 @@ Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Syste
 
 :date: 2022-03-09 10:10:59
 :author: Olga Tveretina
-:category: Seminar
+:category: Seminars
 :tags: dynamical systems; mortality problem; Restricted Hierarchical Hybrid Systems
 :slug: complexity-of-the-reachability-and-mortality-problems-for-hybrid-dynamical-systems
 :summary: Olga Tveretina's Journal Club session where she will talk about her work on "Complexity of the Reachability and Mortality Problems for Hybrid Dynamical Systems",
