@@ -37,7 +37,7 @@ Core Faculty and Research Staff
 .. _Christopher Roadknight: https://researchprofiles.herts.ac.uk/en/persons/christopher-roadknight
 
 - `Christopher Roadknight`_ |br|
-  Research Interests: tentative research interests machine learning, artificial intelligence
+  Research Interests: machine learning, artificial intelligence
 
 .. _Michael Schmuker: https://researchprofiles.herts.ac.uk/en/persons/michael-schmuker
 
@@ -222,6 +222,11 @@ PhD Students
 
 - `Paul Moggridge`_ |br|
   Research Interests: artificial intelligence and cloud computing
+
+.. _Shamim Ibne Shahid: https://scholar.google.com/citations?user=oxuW8DoAAAAJ&hl=en
+
+- `Shamim Ibne Shahid`_ |br|
+  Research Interests: Computer Vision, Affective Computing, Psychology
 
 .. _Deepak Panday:
 

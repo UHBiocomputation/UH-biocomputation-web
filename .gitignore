@@ -19,3 +19,7 @@ seminar_file.bib
 .ipynb_checkpoints*
 *.ipynb
 .python-version
+
+# poetry environment settings
+poetry.lock
+pyproject.toml
