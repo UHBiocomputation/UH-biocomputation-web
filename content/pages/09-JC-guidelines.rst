@@ -5,7 +5,7 @@ Journal Club presentation guidelines
 :status: hidden
 :slug: 09-JC-guidelines
 
-For the presenters
+For the presenter
 ------------------
 
 The time slot for the seminar is of 1 hour. Talks should be about 45 minutes long, the rest of the time is dedicated to questions.
@@ -16,8 +16,7 @@ You are encouraged to:
 * prepare a powerpoint presentation; 
 * give general background/contextualization so that everyone can understand. 
 
-The journal club is currently run in hybrid mode – the presenter is always online. 
-Please make sure to enter the meeting 5 minutes early to make sure everything works properly. 
+The journal club is currently run in hybrid mode – the presenter may give their speech online or in person. 
 
 Thank you and good luck with your speech :) 
 
@@ -25,12 +24,12 @@ For everyone
 ------------
 
 The schedule of the presentations can be found `here <05-seminars.html>`_.
-I will send weekly emails to invite you to the seminars. 
+You will receive weekly emails inviting you to the seminars. 
 
-The journal club is currently run in hybrid mode. The presenter is always online. Attendees may either join online or meet in a dedicated room on campus to facilitate discussions: 
+The journal club is currently run in hybrid mode. Attendees may either join online or meet in a dedicated room on campus to facilitate discussions: 
 
-* The online meetings will be held on Zoom. Please use the Zoom link provided in the weekly emails.
-* Look out for weekly emails where I will communicate the room number to attend on campus. 
+* The online meetings will usually be held on Zoom. To join online, please use the link provided in the weekly emails.
+* Look out for weekly emails where you can find the room number to attend on campus. 
 
 Everyone is encouraged to ask questions – it is a good time to practice this skill! 
 
