@@ -10,7 +10,7 @@
 	4, Rebecca Miko, "`Decoding the amplitude and slope of continuous signals into spikes with a spiking point neuron model\ <{filename}/20231110-decoding-the-amplitude-and-slope-of-continuous-signals-into-spikes-with-a-spiking-point-neuron-model.rst>`__", 10/11/23
 	5, Paul Moggridge, "`On Instance Weighted Clustering Ensembles\ <{filename}/20231113-on-instance-weighted-clustering-ensembles.rst>`__", 17/11/23
 	6, Pinaki Saha, "`Olfaction prediction using 3DCNN and molecular electron density.\ <{filename}/20231120-olfaction-prediction-using-3dcnn-and-molecular-electron-density-.rst>`__", 24/11/23
-	7, Manal Helal, "`--\ <#>`__", 01/12/23
+	7, Manal Helal, "`Enhancing Deep Learning Models through Tensorization: A Comprehensive Survey and Framework\ <{filename}/20231127-enhancing-deep-learning-models-through-tensorization-a-comprehensive-survey-and-framework.rst>`__", 01/12/23
 	8, Shamim Ibne Shahid, "`--\ <#>`__", 08/12/23
 	9, Mahsa Aliakbarzadeh, "`--\ <#>`__", 15/12/23
 	10, Ohki Katakura, "`--\ <#>`__", 22/12/23
