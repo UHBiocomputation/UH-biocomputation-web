@@ -484,7 +484,7 @@ else:
 
 
 # TODO Add a method for loading next speakers
-reminder_part1 = "A reminder on next three Journal Club speakers:" + newline
+reminder_part1 = "A reminder on the next three Journal Club speakers:" + newline
 
 if ~(speaker_index is None):
     next_speakers = get_next_speakers(rota_list, speaker_index)
