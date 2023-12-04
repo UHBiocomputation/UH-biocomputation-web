@@ -26,7 +26,7 @@ data augmentation.
 
 Reference:
 
-- N. Siddique, M. S. Arefin, M. A. R. Ahad, and M. A. A. Dewan, "Computer Vision and Image Analysis for Industry 4.0". CRC Press, 2023.
+- N.Siddique, M. S. Arefin, M. A. R. Ahad, and M. A. A. Dewan, "Computer Vision and Image Analysis for Industry 4.0". CRC Press, 2023.
 
 **Date:**  2023/12/08 |br|
 **Time:** 14:00 |br|
