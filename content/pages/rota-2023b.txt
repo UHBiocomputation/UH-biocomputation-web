@@ -13,6 +13,4 @@
 	7, Manal Helal, "`Enhancing Deep Learning Models through Tensorization: A Comprehensive Survey and Framework\ <{filename}/20231127-enhancing-deep-learning-models-through-tensorization-a-comprehensive-survey-and-framework.rst>`__", 01/12/23
 	8, Shamim Ibne Shahid, "`Computer Vision and Image Analysis for Industry 4.0\ <{filename}/20231204-computer-vision-and-image-analysis-for-industry-4-0.rst>`__", 08/12/23
 	9, Mahsa Aliakbarzadeh, "`Rehabilitation Robotics Using Cerebellar Controller\ <{filename}/20231211-rehabilitation-robotics-using-cerebellar-controller.rst>`__", 15/12/23
-	10, Ohki Katakura, "`--\ <#>`__", 22/12/23
-	11, Emil Dmitruk, "`--\ <#>`__", 29/12/23
 
