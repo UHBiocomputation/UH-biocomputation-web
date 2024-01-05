@@ -226,7 +226,7 @@ PhD Students
 .. _Shamim Ibne Shahid: https://scholar.google.com/citations?user=oxuW8DoAAAAJ&hl=en
 
 - `Shamim Ibne Shahid`_ |br|
-  Research Interests: Computer Vision, Affective Computing, Psychology
+  Research Interests: Computer Vision, Deep Learning, Affective Computing, Psychology
 
 .. _Deepak Panday:
 
