@@ -248,10 +248,6 @@ PhD Students
 - `Sam Sutton`_ |br|
   Research Interests: machine learning, image processing, olfaction
 
-.. _Wajih ul Islam:
-
-- `Wajih ul Islam`_ |br|
-  Research Interests: machine learning and image processing
 
 .. _Muhammad Umer:
 
@@ -626,6 +622,11 @@ Previous Group Members
 - `Katja Wegner`_ |br|
   University of Karlsruhe, Germany |br|
   Research Interests: biocomputation
+
+.. _Wajih ul Islam:
+
+- `Wajih ul Islam`_ |br|
+  Research Interests: machine learning and image processing
 
 .. |br| raw:: html
 
