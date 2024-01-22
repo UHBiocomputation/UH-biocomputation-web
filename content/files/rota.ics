@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Mohammad Tayaraninajaran - --
+SUMMARY:Mohammad Tayaraninajaran - A probabilistic meta-heuristic optimisa
+ tion algorithm for image multi-level thresholding
 DTSTART;TZID=Europe/London:20240126T140000
 DTEND;TZID=Europe/London:20240126T150000
 UID:2024-01-26T00:00:00-00:01

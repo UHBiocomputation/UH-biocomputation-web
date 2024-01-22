@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Mohammad Tayaraninajaran, "`--\ <#>`__", 26/01/24
+	1, Mohammad Tayaraninajaran, "`A probabilistic meta-heuristic optimisation algorithm for image multi-level thresholding\ <{filename}/20240122-a-probabilistic-meta-heuristic-optimisation-algorithm-for-image-multi-level-thresholding.rst>`__", 26/01/24
 	2, Simon O'Connor, "`--\ <#>`__", 02/02/24
 	3, Jim Bower, "`--\ <#>`__", 09/02/24
 	4, Epameinondas Kapetanios, "`--\ <#>`__", 16/02/24
