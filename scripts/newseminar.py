@@ -422,7 +422,7 @@ for bib_id in bibdata.entries:
 date_for_footer = seminar_date.strftime(" %Y/%m/%d")
 footer_date = f"**Date:** {date_for_footer} |br|" + newline
 footer_time = "**Time:** 14:00 |br|" + newline
-footer_location = "**Location**: 2J124 & online" + newline
+footer_location = "**Location**: C258 & online" + newline
 footer_html1 = ".. |br| raw:: html" + newline
 footer_html2 = "	<br />"
 
@@ -443,7 +443,7 @@ formated_date = seminar_date.strftime(f"%-d{date_sufix} %B %Y")
 seminar_time = "14:00"
 
 message_subject = (
-    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online & 2J124"
+    f"[Journal Club] - {author} - {title} - {formated_date} at {seminar_time} - online & C258"
     + newline
 )
 greeting = "Hello everyone," + newline
@@ -461,7 +461,7 @@ paragraph1 += (
     + newline
 )
 zoom_notification1 = (
-    "The meeting will be in hybrid mode - the presentation will take place on Zoom, but at the same time some of us will be gathered in room 2J124 (LRC building in College Lane campus). Please use the following link to join us online:"
+    "The meeting will be in hybrid mode - the presentation will take place in the room C258 (College Lane main building), but at the same time it will be streamed on Zoom. Please use the following link to join us online:"
     + newline
 )
 
