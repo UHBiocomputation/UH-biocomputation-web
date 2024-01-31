@@ -106,12 +106,6 @@ Visiting Professors
 - `Jim Bower`_ |br|
   Research Interests: computations in the cerebellum and olfactory system, simulator development, educational technology
 
-.. _Chrystopher Nehaniv: https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv
-
-- `Chrystopher Nehaniv`_ |br|
-  University of Waterloo, Canada |br|
-  Research Interests: algebraic biology, constructive biology, evolution, mathematical methods for systems biology, genetic regulatory networks, cognitive and computational neuroscience
-
 Visiting Research Fellows
 -------------------------
 
@@ -622,6 +616,12 @@ Previous Group Members
 - `Katja Wegner`_ |br|
   University of Karlsruhe, Germany |br|
   Research Interests: biocomputation
+
+.. _Chrystopher Nehaniv: https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv
+
+- `Chrystopher Nehaniv`_ |br|
+  University of Waterloo, Canada |br|
+  Research Interests: algebraic biology, constructive biology, evolution, mathematical methods for systems biology, genetic regulatory networks, cognitive and computational neuroscience
 
 .. _Wajih ul Islam:
 
