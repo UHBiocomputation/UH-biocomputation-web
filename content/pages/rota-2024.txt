@@ -8,9 +8,9 @@
 	2, Simon O'Connor, "`Does combinatorial coding hinder the understanding of structure odour relationships in human olfaction?\ <{filename}/20240128-does-combinatorial-coding-hinder-the-understanding-of-structure-odour-relationships-in-human-olfaction-.rst>`__", 02/02/24
 	3, Edward Wakelam, "`Exploitation of footballer analytics\ <{filename}/20240210-exploitation-of-footballer-analytics.rst>`__", 16/02/24
 	4, Ohki Katakura, "`--\ <#>`__", 23/02/24
-	5, Chama Bensmail, "`--\ <#>`__", 01/03/24
-	6, Udeshika Dissanayake, "`--\ <#>`__", 08/03/24
-	7, Deepak Panday, "`--\ <#>`__", 15/03/24
+	5, Deepak Panday, "`--\ <#>`__", 01/03/24
+	6, Reinoud Maex, "`--\ <#>`__", 08/03/24
+	7, Olga Tveretina, "`--\ <#>`__", 15/03/24
 	8, Maria Schilstra, "`--\ <#>`__", 22/03/24
 	9, Jim Bower, "`--\ <#>`__", 05/04/24
 	10, Na Helian, "`--\ <#>`__", 12/04/24
@@ -27,6 +27,4 @@
 	21, Nik Dennler, "`--\ <#>`__", 28/06/24
 	22, Maria Psarrou, "`--\ <#>`__", 05/07/24
 	23, Yar Muhammad, "`--\ <#>`__", 12/07/24
-	24, Reinoud Maex, "`--\ <#>`__", 19/07/24
-	25, Olga Tveretina, "`--\ <#>`__", 26/07/24
 
