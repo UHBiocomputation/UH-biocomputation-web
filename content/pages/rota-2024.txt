@@ -7,7 +7,7 @@
 	1, Mohammad Tayaraninajaran, "`A probabilistic meta-heuristic optimisation algorithm for image multi-level thresholding\ <{filename}/20240122-a-probabilistic-meta-heuristic-optimisation-algorithm-for-image-multi-level-thresholding.rst>`__", 26/01/24
 	2, Simon O'Connor, "`Does combinatorial coding hinder the understanding of structure odour relationships in human olfaction?\ <{filename}/20240128-does-combinatorial-coding-hinder-the-understanding-of-structure-odour-relationships-in-human-olfaction-.rst>`__", 02/02/24
 	3, Edward Wakelam, "`Exploitation of footballer analytics\ <{filename}/20240210-exploitation-of-footballer-analytics.rst>`__", 16/02/24
-	4, Ohki Katakura, "`--\ <#>`__", 23/02/24
+	4, Ohki Katakura, "`How the cerebellum recognises learnt and novel patterns: computational approach with a biologically detailed network model\ <{filename}/20240219-how-the-cerebellum-recognises-learnt-and-novel-patterns-computational-approach-with-a-biologically-detailed-network-model.rst>`__", 23/02/24
 	5, Deepak Panday, "`--\ <#>`__", 01/03/24
 	6, Reinoud Maex, "`--\ <#>`__", 08/03/24
 	7, Olga Tveretina, "`--\ <#>`__", 15/03/24
