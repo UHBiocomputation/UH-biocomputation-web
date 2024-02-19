@@ -2,7 +2,7 @@ Survey of Sentiment Analysis models leveraging transformers along with other NLP
 #####################################################################################################################################
 :date: 2023-03-16 15:05:02
 :author: Harpreet Singh
-:category: 
+:category: Seminars
 :tags: machine learning; natural language processing
 :slug: survey-of-sentiment-analysis-models-leveraging-transformers-along-with-other-nlp-techniques-to-enrich-word-vectors-for-classification
 :summary: Harpreet Singh's Journal Club session 
