@@ -8,7 +8,7 @@
 	2, Simon O'Connor, "`Does combinatorial coding hinder the understanding of structure odour relationships in human olfaction?\ <{filename}/20240128-does-combinatorial-coding-hinder-the-understanding-of-structure-odour-relationships-in-human-olfaction-.rst>`__", 02/02/24
 	3, Edward Wakelam, "`Exploitation of footballer analytics\ <{filename}/20240210-exploitation-of-footballer-analytics.rst>`__", 16/02/24
 	4, Ohki Katakura, "`How the cerebellum recognises learnt and novel patterns: computational approach with a biologically detailed network model\ <{filename}/20240219-how-the-cerebellum-recognises-learnt-and-novel-patterns-computational-approach-with-a-biologically-detailed-network-model.rst>`__", 23/02/24
-	5, Deepak Panday, "`--\ <#>`__", 01/03/24
+	5, Deepak Panday, "`CEPS: An Open Access MATLAB Graphical User Interface (GUI) for the Analysis of Complexity and Entropy in Physiological Signals\ <{filename}/20240226-ceps-an-open-access-matlab-graphical-user-interface-gui-for-the-analysis-of-complexity-and-entropy-in-physiological-signals.rst>`__", 01/03/24
 	6, Reinoud Maex, "`--\ <#>`__", 08/03/24
 	7, Olga Tveretina, "`--\ <#>`__", 15/03/24
 	8, Maria Schilstra, "`--\ <#>`__", 22/03/24
