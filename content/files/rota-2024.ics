@@ -31,16 +31,15 @@ UID:2024-02-23T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepak Panday - CEPS: An Open Access MATLAB Graphical User Interfa
- ce (GUI) for the Analysis of Complexity and Entropy in Physiological Signa
- ls
+SUMMARY:Reinoud Maex - An analytical model of the energy of ion mixing in 
+ the brain
 DTSTART;TZID=Europe/London:20240301T140000
 DTEND;TZID=Europe/London:20240301T150000
 UID:2024-03-01T00:00:00-00:01
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reinoud Maex - --
+SUMMARY:Deepak Panday - --
 DTSTART;TZID=Europe/London:20240308T140000
 DTEND;TZID=Europe/London:20240308T150000
 UID:2024-03-08T00:00:00-00:01
