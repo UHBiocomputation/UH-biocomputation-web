@@ -9,7 +9,7 @@
 	3, Edward Wakelam, "`Exploitation of footballer analytics\ <{filename}/20240210-exploitation-of-footballer-analytics.rst>`__", 16/02/24
 	4, Ohki Katakura, "`How the cerebellum recognises learnt and novel patterns: computational approach with a biologically detailed network model\ <{filename}/20240219-how-the-cerebellum-recognises-learnt-and-novel-patterns-computational-approach-with-a-biologically-detailed-network-model.rst>`__", 23/02/24
 	5, Reinoud Maex, "`An analytical model of the energy of ion mixing in the brain\ <{filename}/20240228-an-analytical-model-of-the-energy-of-ion-mixing-in-the-brain.rst>`__", 01/03/24
-	6, Deepak Panday, "`--\ <#>`__", 08/03/24
+	6, Deepak Panday, "`CEPS: An Open Access MATLAB Graphical User Interface (GUI) for the Analysis of Complexity and Entropy in Physiological Signals\ <{filename}/20240302-.rst>`__", 08/03/24
 	7, Olga Tveretina, "`--\ <#>`__", 15/03/24
 	8, Maria Schilstra, "`--\ <#>`__", 22/03/24
 	9, Jim Bower, "`--\ <#>`__", 05/04/24
