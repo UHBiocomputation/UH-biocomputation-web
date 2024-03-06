@@ -212,6 +212,14 @@ PhD Students
 - `Rebecca Miko`_ |br|
   Research Interests: computational neuroscience, robotics and olfaction
 
+  
+
+.. _Rupa Patel:
+
+- `Rupa Patel`_ |br|
+  Research Interests: Big Data Analytics and Artificial Intelligence (AI)
+
+
 .. _Paul Moggridge: https://uk.linkedin.com/in/pmmoggridge
 
 - `Paul Moggridge`_ |br|
