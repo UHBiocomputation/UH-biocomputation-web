@@ -10,20 +10,20 @@
 	4, Ohki Katakura, "`How the cerebellum recognises learnt and novel patterns: computational approach with a biologically detailed network model\ <{filename}/20240219-how-the-cerebellum-recognises-learnt-and-novel-patterns-computational-approach-with-a-biologically-detailed-network-model.rst>`__", 23/02/24
 	5, Reinoud Maex, "`An analytical model of the energy of ion mixing in the brain\ <{filename}/20240228-an-analytical-model-of-the-energy-of-ion-mixing-in-the-brain.rst>`__", 01/03/24
 	6, Deepak Panday, "`CEPS: An Open Access MATLAB Graphical User Interface (GUI) for the Analysis of Complexity and Entropy in Physiological Signals\ <{filename}/20240302-.rst>`__", 08/03/24
-	7, Yar Muhammad, "`--\ <#>`__", 22/03/24
-	8, Jim Bower, "`--\ <#>`__", 05/04/24
-	9, Na Helian, "`--\ <#>`__", 12/04/24
-	10, Olga Tveretina, "`--\ <#>`__", 19/04/24
-	11, Nada Yousif, "`--\ <#>`__", 26/04/24
-	12, Shabnam Kadir, "`--\ <#>`__", 03/05/24
-	13, Bente Riegler, "`--\ <#>`__", 10/05/24
-	14, Agnes Bonivart, "`--\ <#>`__", 17/05/24
-	15, Volker Steuber, "`--\ <#>`__", 24/05/24
-	16, Yi Sun, "`--\ <#>`__", 31/05/24
-	17, Simon McCool, "`--\ <#>`__", 07/06/24
-	18, Epameinondas Kapetanios, "`--\ <#>`__", 14/06/24
-	19, Emil Dmitruk, "`--\ <#>`__", 21/06/24
-	20, Sam Sutton, "`--\ <#>`__", 28/06/24
-	21, Nik Dennler, "`--\ <#>`__", 05/07/24
-	22, Maria Psarrou, "`--\ <#>`__", 12/07/24
+	7, Jim Bower, "`--\ <#>`__", 05/04/24
+	8, Na Helian, "`--\ <#>`__", 12/04/24
+	9, Olga Tveretina, "`--\ <#>`__", 19/04/24
+	10, Nada Yousif, "`--\ <#>`__", 26/04/24
+	11, Shabnam Kadir, "`--\ <#>`__", 03/05/24
+	12, Bente Riegler, "`--\ <#>`__", 10/05/24
+	13, Agnes Bonivart, "`--\ <#>`__", 17/05/24
+	14, Volker Steuber, "`--\ <#>`__", 24/05/24
+	15, Yi Sun, "`--\ <#>`__", 31/05/24
+	16, Simon McCool, "`--\ <#>`__", 07/06/24
+	17, Epameinondas Kapetanios, "`--\ <#>`__", 14/06/24
+	18, Emil Dmitruk, "`--\ <#>`__", 21/06/24
+	19, Sam Sutton, "`--\ <#>`__", 28/06/24
+	20, Nik Dennler, "`--\ <#>`__", 05/07/24
+	21, Maria Psarrou, "`--\ <#>`__", 12/07/24
+	22, Yar Muhammad, "`--\ <#>`__", 19/07/24
 
