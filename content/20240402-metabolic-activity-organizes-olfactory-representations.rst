@@ -34,6 +34,8 @@ Papers:
   <https://doi.org/10.1016/j.neuron.2021.09.010>`__, 2021, Neuron, 109, 3879--3892.e5
 - W. Qian, J. Wei, B. Sanchez-Lengeling, B. Lee, Y. Luo, M. Vlot, K. Dechering, J. Peng, R. Gerkin, A. Wiltschko, `"Metabolic activity organizes olfactory representations"
   <https://doi.org/10.7554/eLife.82502>`__, 2023, eLife, 12, e82502
+- B. K. Lee et al., `"A Principal Odor Map Unifies Diverse Tasks in Human Olfactory Perception"
+  <https://www.biorxiv.org/content/10.1101/2022.09.01.504602v4>`__, 2022, bioRxiv, 504602
 
 
 **Date:**  2024/04/05 |br|
