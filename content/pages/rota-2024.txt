@@ -11,7 +11,7 @@
 	5, Reinoud Maex, "`An analytical model of the energy of ion mixing in the brain\ <{filename}/20240228-an-analytical-model-of-the-energy-of-ion-mixing-in-the-brain.rst>`__", 01/03/24
 	6, Deepak Panday, "`CEPS: An Open Access MATLAB Graphical User Interface (GUI) for the Analysis of Complexity and Entropy in Physiological Signals\ <{filename}/20240302-.rst>`__", 08/03/24
 	7, Jim Bower, "`Metabolic activity organizes olfactory representations\ <{filename}/20240402-metabolic-activity-organizes-olfactory-representations.rst>`__", 05/04/24
-	8, Na Helian, "`--\ <#>`__", 12/04/24
+	8, Na Helian, "`Attention in Neural Networks\ <{filename}/20240408-attention-in-neural-networks.rst>`__", 12/04/24
 	9, Olga Tveretina, "`--\ <#>`__", 19/04/24
 	10, Nada Yousif, "`--\ <#>`__", 26/04/24
 	11, Shabnam Kadir, "`--\ <#>`__", 03/05/24
