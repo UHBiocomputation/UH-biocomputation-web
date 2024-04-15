@@ -90,12 +90,18 @@ Research Fellows
 .. _Pinaki Saha:
 
 - `Pinaki Saha`_ |br|
+  Research Interests: Olfaction, Machine learning, Cheminformatics
   
 
 .. _Sam Sutton: https://uk.linkedin.com/in/samuel-sutton-582a00b5
 
 - `Sam Sutton`_ |br|
   Research Interests: machine learning, image processing, olfaction
+
+.. _Tariq Hilmi: https://www.linkedin.com/in/tariq-hilmi-795745140/
+
+- `Tariq Hilmi`_ |br|
+  Research Interests: Computational Neuroscience, Olfaction, Gas Plumes
 
 
 Visiting Professors
