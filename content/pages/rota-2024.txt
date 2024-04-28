@@ -14,16 +14,16 @@
 	8, Na Helian, "`Attention in Neural Networks\ <{filename}/20240408-attention-in-neural-networks.rst>`__", 12/04/24
 	9, Olga Tveretina, "`Complexity of Reachability and Mortality for Low-dimensional Dynamical Systems\ <{filename}/20240414-complexity-of-reachability-and-mortality-for-low-dimensional-dynamical-systems.rst>`__", 19/04/24
 	10, Nada Yousif, "`A 3D atlas-based model for visualising brain nuclei targeted by high-intensity focused ultrasound in the treatment of tremor\ <{filename}/20240420-a-3d-atlas-based-model-for-visualising-brain-nuclei-targeted-by-high-intensity-focused-ultrasound-in-the-treatment-of-tremor.rst>`__", 26/04/24
-	11, Shabnam Kadir, "`--\ <#>`__", 03/05/24
-	12, Bente Riegler, "`--\ <#>`__", 10/05/24
-	13, Agnes Bonivart, "`--\ <#>`__", 17/05/24
-	14, Volker Steuber, "`--\ <#>`__", 24/05/24
-	15, Yi Sun, "`--\ <#>`__", 31/05/24
-	16, Simon McCool, "`--\ <#>`__", 07/06/24
-	17, Epameinondas Kapetanios, "`--\ <#>`__", 14/06/24
-	18, Emil Dmitruk, "`--\ <#>`__", 21/06/24
-	19, Sam Sutton, "`--\ <#>`__", 28/06/24
-	20, Nik Dennler, "`--\ <#>`__", 05/07/24
-	21, Maria Psarrou, "`--\ <#>`__", 12/07/24
-	22, Yar Muhammad, "`--\ <#>`__", 19/07/24
+	11, Bente Riegler, "`--\ <#>`__", 10/05/24
+	12, Agnes Bonivart, "`--\ <#>`__", 17/05/24
+	13, Volker Steuber, "`--\ <#>`__", 24/05/24
+	14, Yi Sun, "`--\ <#>`__", 31/05/24
+	15, Simon McCool, "`--\ <#>`__", 07/06/24
+	16, Epameinondas Kapetanios, "`--\ <#>`__", 14/06/24
+	17, Shabnam Kadir, "`--\ <#>`__", 21/06/24
+	18, Emil Dmitruk, "`--\ <#>`__", 28/06/24
+	19, Sam Sutton, "`--\ <#>`__", 05/07/24
+	20, Nik Dennler, "`--\ <#>`__", 12/07/24
+	21, Maria Psarrou, "`--\ <#>`__", 19/07/24
+	22, Yar Muhammad, "`--\ <#>`__", 26/07/24
 
