@@ -1,0 +1,36 @@
+Transforming Data into Knowledge: How to Build Knowledge Graphs
+################################################################
+:date: 2024-05-28 20:00:35
+:author: Yi Sun
+:category: Seminars
+:tags: 
+:slug: 
+:summary: Yi Sun's Journal Club session where she will talk about "Transforming Data into Knowledge: How to Build Knowledge Graphs".
+
+On this week's Journal Club session, Yi Sun will talk about her work in the presentation entitled "Transforming Data into Knowledge: How to Build Knowledge Graphs".
+
+------------
+
+In our recent KTP project, we need to build a knowledge graph. In my presentation, I will
+outline a general procedure for constructing a knowledge graph based on the following
+references:
+
+|
+
+Papers:
+
+- P. Chandak, K. Huang, M. Zitnik, `"Building a knowledge graph to enable precision medicine"
+  <https://doi.org/10.1038/s41597-023-01960-3>`__, 2023, Scientific Data, 10, 67
+- M. Bravo, H. Luis, J. Reyes, `"Methodology for ontology design and construction"
+  <https://doi.org/10.22201/fca.24488410e.2020.2368>`__, 2019, Contaduría y Administración, 64, 134
+- G. Tamašauskaitė, P. Groth, `"Defining a Knowledge Graph Development Process Through a Systematic Review"
+  <https://doi.org/10.1145/3522586>`__, 2023, ACM Transactions on Software Engineering and Methodology, 32, 27:1--27:40 
+
+
+**Date:**  2024/05/31 |br|
+**Time:** 14:00 |br|
+**Location**: C258 & online
+
+.. |br| raw:: html
+
+	<br />
