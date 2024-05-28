@@ -403,7 +403,7 @@ post_summary = (
     + newline
 )
 post_description = (
-    f'On this week\'s Journal Club session, {author_name} will talk about his work in the presentation entitled "{title}".'
+    f'On this week\'s Journal Club session, {author_name} will talk about their work in the presentation entitled "{title}".'
     + newline
 )
 separator = "------------" + newline
