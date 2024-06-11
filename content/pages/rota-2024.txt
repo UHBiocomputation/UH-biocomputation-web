@@ -15,12 +15,10 @@
 	9, Olga Tveretina, "`Complexity of Reachability and Mortality for Low-dimensional Dynamical Systems\ <{filename}/20240414-complexity-of-reachability-and-mortality-for-low-dimensional-dynamical-systems.rst>`__", 19/04/24
 	10, Nada Yousif, "`A 3D atlas-based model for visualising brain nuclei targeted by high-intensity focused ultrasound in the treatment of tremor\ <{filename}/20240420-a-3d-atlas-based-model-for-visualising-brain-nuclei-targeted-by-high-intensity-focused-ultrasound-in-the-treatment-of-tremor.rst>`__", 26/04/24
 	11, Yi Sun, "`Transforming Data into Knowledge: How to Build Knowledge Graphs\ <{filename}/20240528-.rst>`__", 31/05/24
-	12, Simon McCool, "`--\ <#>`__", 07/06/24
-	13, Epameinondas Kapetanios, "`--\ <#>`__", 14/06/24
-	14, Shabnam Kadir, "`--\ <#>`__", 21/06/24
-	15, Sam Sutton, "`--\ <#>`__", 28/06/24
-	16, Emil Dmitruk, "`--\ <#>`__", 05/07/24
-	17, Nik Dennler, "`--\ <#>`__", 12/07/24
-	18, Maria Psarrou, "`--\ <#>`__", 19/07/24
-	19, Yar Muhammad, "`--\ <#>`__", 26/07/24
+	12, Shabnam Kadir, "`--\ <#>`__", 14/06/24
+	13, Sam Sutton, "`--\ <#>`__", 21/06/24
+	14, Emil Dmitruk, "`--\ <#>`__", 28/06/24
+	15, Nik Dennler, "`--\ <#>`__", 05/07/24
+	16, Maria Psarrou, "`--\ <#>`__", 12/07/24
+	17, Yar Muhammad, "`--\ <#>`__", 19/07/24
 
