@@ -17,6 +17,4 @@
 	11, Yi Sun, "`Transforming Data into Knowledge: How to Build Knowledge Graphs\ <{filename}/20240528-.rst>`__", 31/05/24
 	12, Shabnam Kadir, "`Visual experience, topology, and the perception of art\ <{filename}/20240611-visual-experience-topology-and-the-perception-of-art.rst>`__", 14/06/24
 	13, Emil Dmitruk, "`Topological Data Analysis Reveals Brain Connectivity Differences between Schizophrenia Subjects and Healthy Controls\ <{filename}/20240702-topological-data-analysis-reveals-brain-connectivity-differences-between-schizophrenia-subjects-and-healthy-controls.rst>`__", 05/07/24
-	14, Yar Muhammad, "`--\ <#>`__", 12/07/24
-	15, Nik Dennler, "`--\ <#>`__", 19/07/24
 
