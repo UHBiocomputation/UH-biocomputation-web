@@ -103,6 +103,10 @@ Research Fellows
 - `Tariq Hilmi`_ |br|
   Research Interests: Computational Neuroscience, Olfaction, Gas Plumes
 
+.. _Caroline McMillan: https://www.linkedin.com/in/caroline-mcmillan
+
+- `Caroline McMillan`_ |br|
+  Research Interests: Soft robotics, neurotechnology, AI, biocomputing, digital media and multisensory design.
 
 Visiting Professors
 -------------------

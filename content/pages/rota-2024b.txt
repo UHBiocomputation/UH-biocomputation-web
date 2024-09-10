@@ -1,0 +1,22 @@
+
+.. csv-table::
+	:header: **#**, **Name**, **Title**, **Date**
+	:widths: 5, 35, 85, 10
+	:quote: "
+
+	1, Mohammad Tayaraninajaran, "`A probabilistic meta-heuristic optimisation algorithm for image multi-level thresholding\ <{filename}/20240122-a-probabilistic-meta-heuristic-optimisation-algorithm-for-image-multi-level-thresholding.rst>`__", 26/01/24
+	2, Simon O'Connor, "`Does combinatorial coding hinder the understanding of structure odour relationships in human olfaction?\ <{filename}/20240128-does-combinatorial-coding-hinder-the-understanding-of-structure-odour-relationships-in-human-olfaction-.rst>`__", 02/02/24
+	3, Edward Wakelam, "`Exploitation of footballer analytics\ <{filename}/20240210-exploitation-of-footballer-analytics.rst>`__", 16/02/24
+	4, Ohki Katakura, "`How the cerebellum recognises learnt and novel patterns: computational approach with a biologically detailed network model\ <{filename}/20240219-how-the-cerebellum-recognises-learnt-and-novel-patterns-computational-approach-with-a-biologically-detailed-network-model.rst>`__", 23/02/24
+	5, Reinoud Maex, "`An analytical model of the energy of ion mixing in the brain\ <{filename}/20240228-an-analytical-model-of-the-energy-of-ion-mixing-in-the-brain.rst>`__", 01/03/24
+	6, Deepak Panday, "`CEPS: An Open Access MATLAB Graphical User Interface (GUI) for the Analysis of Complexity and Entropy in Physiological Signals\ <{filename}/20240302-.rst>`__", 08/03/24
+	7, Jim Bower, "`Metabolic activity organizes olfactory representations\ <{filename}/20240402-metabolic-activity-organizes-olfactory-representations.rst>`__", 05/04/24
+	8, Na Helian, "`Attention in Neural Networks\ <{filename}/20240408-attention-in-neural-networks.rst>`__", 12/04/24
+	9, Olga Tveretina, "`Complexity of Reachability and Mortality for Low-dimensional Dynamical Systems\ <{filename}/20240414-complexity-of-reachability-and-mortality-for-low-dimensional-dynamical-systems.rst>`__", 19/04/24
+	10, Nada Yousif, "`A 3D atlas-based model for visualising brain nuclei targeted by high-intensity focused ultrasound in the treatment of tremor\ <{filename}/20240420-a-3d-atlas-based-model-for-visualising-brain-nuclei-targeted-by-high-intensity-focused-ultrasound-in-the-treatment-of-tremor.rst>`__", 26/04/24
+	11, Yi Sun, "`Transforming Data into Knowledge: How to Build Knowledge Graphs\ <{filename}/20240528-.rst>`__", 31/05/24
+	12, Shabnam Kadir, "`Visual experience, topology, and the perception of art\ <{filename}/20240611-visual-experience-topology-and-the-perception-of-art.rst>`__", 14/06/24
+	13, Emil Dmitruk, "`--\ <#>`__", 05/07/24
+	14, Yar Muhammad, "`--\ <#>`__", 12/07/24
+	15, Nik Dennler, "`--\ <#>`__", 19/07/24
+
