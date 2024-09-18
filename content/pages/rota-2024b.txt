@@ -1,0 +1,19 @@
+
+.. csv-table::
+	:header: **#**, **Name**, **Title**, **Date**
+	:widths: 5, 35, 85, 10
+	:quote: "
+
+	1, Tariq Hilmi, "`--\ <#>`__", 04/10/24
+	2, Deepak Panday, "`--\ <#>`__", 11/10/24
+	3, Nik Dennler, "`--\ <#>`__", 18/10/24
+	4, Reinoud Maex, "`--\ <#>`__", 25/10/24
+	5, Yar Muhammad, "`--\ <#>`__", 01/11/24
+	6, Nada Yousif, "`--\ <#>`__", 08/11/24
+	7, Maria Psarrou, "`--\ <#>`__", 15/11/24
+	8, Julia Goncharenko, "`--\ <#>`__", 22/11/24
+	9, Mohammad Tayaraninajaran, "`--\ <#>`__", 29/11/24
+	10, Christopher Roadknight, "`--\ <#>`__", 06/12/24
+	11, Sam Sutton, "`--\ <#>`__", 13/12/24
+	12, Volker Steuber, "`--\ <#>`__", 20/12/24
+
