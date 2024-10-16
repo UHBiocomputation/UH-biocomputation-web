@@ -461,7 +461,7 @@ paragraph1 += (
     + newline
 )
 zoom_notification1 = (
-    "The meeting will be in hybrid mode - the presentation will take place in room SP4024A (College Lane main building), but at the same time it will be streamed on Zoom. Please use the following link to join us online:"
+    "The meeting will be in hybrid mode - the presentation will take place in room SP4024A (College Lane main building), but at the same time it will be streamed on TEAMS. Please use the following link to join us online:"
     + newline
 )
 
