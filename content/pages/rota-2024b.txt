@@ -5,12 +5,11 @@
 	:quote: "
 
 	1, Reinoud Maex, "`A mechanism for ATP homeostasis based on activity-dependent synthesis and release of neurotransmitter\ <{filename}/20241016-a-mechanism-for-atp-homeostasis-based-on-activity-dependent-synthesis-and-release-of-neurotransmitter.rst>`__", 25/10/24
-	2, Yar Muhammad, "`--\ <#>`__", 01/11/24
-	3, Christopher Roadknight, "`--\ <#>`__", 08/11/24
-	4, Maria Psarrou, "`--\ <#>`__", 15/11/24
-	5, Julia Goncharenko, "`--\ <#>`__", 22/11/24
-	6, Mohammad Tayaraninajaran, "`--\ <#>`__", 29/11/24
-	7, Nada Yousif, "`--\ <#>`__", 06/12/24
-	8, Sam Sutton, "`--\ <#>`__", 13/12/24
-	9, Volker Steuber, "`--\ <#>`__", 20/12/24
+	2, Maria Psarrou, "`--\ <#>`__", 08/11/24
+	3, Julia Goncharenko, "`--\ <#>`__", 15/11/24
+	4, Mohammad Tayaraninajaran, "`--\ <#>`__", 22/11/24
+	5, Nada Yousif, "`--\ <#>`__", 29/11/24
+	6, Sam Sutton, "`--\ <#>`__", 06/12/24
+	7, Volker Steuber, "`--\ <#>`__", 13/12/24
+	8, Shamim Ibne Shahid, "`--\ <#>`__", 20/12/24
 
