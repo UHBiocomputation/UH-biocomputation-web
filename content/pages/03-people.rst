@@ -34,10 +34,6 @@ Core Faculty and Research Staff
 - `Yar Muhammad`_ |br|
   Research Interests: Brain Computer Interface (BCI) for health domain, Artificial Intelligence (AI), Machine Learning
 
-.. _Christopher Roadknight: https://researchprofiles.herts.ac.uk/en/persons/christopher-roadknight
-
-- `Christopher Roadknight`_ |br|
-  Research Interests: machine learning, artificial intelligence
 
 .. _Michael Schmuker: https://researchprofiles.herts.ac.uk/en/persons/michael-schmuker
 
@@ -350,6 +346,11 @@ Previous Group Members
 - `Irina Abnizova`_ |br|
   Wellcome Trust Sanger Institute |br|
   Research Interests: Biostatistics
+
+.. _Christopher Roadknight:  
+
+- `Christopher Roadknight`_ |br|
+  Research Interests: machine learning, artificial intelligence
 
 .. _Parimala Alva:
 

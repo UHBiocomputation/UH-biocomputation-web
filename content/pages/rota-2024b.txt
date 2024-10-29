@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Reinoud Maex, "`A mechanism for ATP homeostasis based on activity-dependent synthesis and release of neurotransmitter\ <{filename}/20241016-a-mechanism-for-atp-homeostasis-based-on-activity-dependent-synthesis-and-release-of-neurotransmitter.rst>`__", 25/10/24
+	1, Reinoud Maex, "`A mechanism for ATP homeostasis based on activity-dependent synthesis and release of neurotransmitter\ <{filename}/20241016-a-mechanism-for-atp-homeostasis-based-on-activity-dependent-synthesis-and-release-of-neurotransmitter.rst>`__", 18/10/24
 	2, Maria Psarrou, "`--\ <#>`__", 08/11/24
 	3, Julia Goncharenko, "`--\ <#>`__", 15/11/24
 	4, Mohammad Tayaraninajaran, "`--\ <#>`__", 22/11/24
