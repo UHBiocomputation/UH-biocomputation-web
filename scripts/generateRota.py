@@ -69,7 +69,7 @@ class generateRota:
 
         # ===-===-===-===-===-===-===-===-===-===-===-===-
         # TODO this should be changed to be loaded from the rota csv files
-        self.start_date = date(2024, 10, 18)
+        self.start_date = date(2024, 10, 25)
         # ===-===-===-===-===-===-===-===-===-===-===-===-
 
         # defaults
