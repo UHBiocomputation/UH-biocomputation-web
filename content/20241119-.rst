@@ -1,0 +1,54 @@
+An ensemble learning algorithm for optimization of spark ignition engine performance fuelled with methane/hydrogen blends
+##########################################################################################################################
+:date: 2024-11-19 12:41:37
+:author: Mohammad Tayaraninajaran
+:category: Seminars
+:tags: Ensemble learning, Evolutionary algorithms, Hydrogen, Methane, Spark ignition engine, Surrogate model
+:slug: 
+:summary: Mohammad Tayaraninajaran's Journal Club session where he will talk about "An ensemble learning algorithm for optimization of spark ignition engine performance fuelled with methane/hydrogen blends".
+
+On this week's Journal Club session, Mohammad Tayaraninajaran will talk about his paper "An ensemble learning algorithm for optimization of spark ignition engine performance fuelled with methane/hydrogen blends".
+
+------------
+
+The increasing global demand for sustainable and cleaner transportation has led to
+extensive research on alternative fuels for Internal Combustion (IC) engines. One
+promising option is the utilization of methane/hydrogen blends in Spark-Ignition (SI)
+engines due to their potential to reduce Green House Gas (GHG) emissions and improve
+engine performance. However, the optimal operation of such an engine is challenging due to
+the interdependence of multiple conflicting objectives, including Brake Mean Effective
+Pressure (BMEP), Brake Specific Fuel Consumption (BSFC), and nitrogen oxide (NOx)
+emissions. This paper proposes an evolutionary optimization algorithm that employs a
+surrogate model as a fitness function to optimize methane/hydrogen SI engine performance
+and emissions. To create the surrogate model, we propose a novel ensemble learning
+algorithm that consists of several base learners. This paper employs ten different
+learning algorithms diversified via the Wagging method to create a pool of base-learner
+algorithms. This paper proposes a combinatorial evolutionary pruning algorithm to select
+an optimal subset of learning algorithms from a pool of base learners for the final
+ensemble algorithm. Once the base learners are designed, they are incorporated into an
+ensemble, where their outputs are aggregated using a weighted voting scheme. The weights
+of these base learners are optimized through a gradient descent algorithm. However, when
+optimizing a problem using surrogate models, the fitness function is subject to
+approximation uncertainty. To address this issue, this paper introduces an uncertainty
+reduction algorithm that performs averaging within a sphere around each solution.
+Experiments are performed to compare the proposed ensemble learning algorithm to the
+classical learning algorithms and state-of-the-art ensemble algorithms. Also, the proposed
+smoothing algorithm is compared with the state-of-the-art evolutionary algorithms.
+Experimental studies suggest that the proposed algorithms outperform the existing
+algorithms.
+
+|
+
+Papers:
+
+- M. Tayarani-N., A. Paykani, `"An ensemble learning algorithm for optimization of spark ignition engine performance fuelled with methane/hydrogen blends"
+  <https://doi.org/10.1016/j.asoc.2024.112468>`__, 2024, Applied Soft Computing, 112468
+
+
+**Date:**  2024/11/22 |br|
+**Time:** 14:00 |br|
+**Location**: SP4024A & online
+
+.. |br| raw:: html
+
+	<br />
