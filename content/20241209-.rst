@@ -1,0 +1,38 @@
+Optimising burst based deep brain stimulation in a population model of Parkinson's disease and Tremor
+######################################################################################################
+:date: 2024-12-09 12:44:07
+:author: Nada Yousif
+:category: Seminars
+:tags: 
+:slug: 
+:summary: Nada Yousif's Journal Club session where she will talk about "Optimising burst based deep brain stimulation in a population model of Parkinson's disease and Tremor".
+
+On this week's Journal Club session, Nada Yousif will talk about her work in the presentation entitled "Optimising burst based deep brain stimulation in a population model of Parkinson's disease and Tremor".
+
+------------
+
+Deep brain stimulation (DBS) is a therapy used to treat several neurological conditions
+such as Parkinson’s disease (PD) and essential tremor (ET), based on the implantation of
+electrodes into specific brain targets. Despite its success, the electrical stimulus has
+remained as a regular frequency square pulse for decades. Recently, there have been
+proposals that phase-locking, coordinated reset or irregular stimulation patterns may be
+more effective at desynchronising the pathological neural activity. Here we consider our
+population level model of the thalamocortical-basal ganglia network, which generates
+pathological oscillatory activity in the beta band (\textasciitilde20 Hz) associated with
+PD and the tremor band (\textasciitilde4 Hz) associated with ET. We stimulate the model
+with regular, irregular and phase-dependent bursts of DBS, and use an optimisation
+technique to find the best stimulation parameters in each case. Our results show that
+bursts can be as or more effective at suppressing pathological oscillations compared to
+continuous DBS, allowing exploration of stimulation mechanisms to formulate testable
+predictions regarding DBS.
+
+|
+
+
+**Date:**  2024/12/13 |br|
+**Time:** 14:00 |br|
+**Location**: Online
+
+.. |br| raw:: html
+
+	<br />
