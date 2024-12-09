@@ -7,5 +7,4 @@
 	1, Reinoud Maex, "`A mechanism for ATP homeostasis based on activity-dependent synthesis and release of neurotransmitter\ <{filename}/20241016-a-mechanism-for-atp-homeostasis-based-on-activity-dependent-synthesis-and-release-of-neurotransmitter.rst>`__", 25/10/24
 	2, Mohammad Tayaraninajaran, "`An ensemble learning algorithm for optimization of spark ignition engine performance fuelled with methane/hydrogen blends\ <{filename}/20241119-.rst>`__", 22/11/24
 	3, Nada Yousif, "`Optimising burst based deep brain stimulation in a population model of Parkinson's disease and Tremor\ <{filename}/20241209-.rst>`__", 13/12/24
-	4, Volker Steuber, "`--\ <#>`__", 20/12/24
 
