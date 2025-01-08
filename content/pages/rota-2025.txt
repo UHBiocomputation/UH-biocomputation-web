@@ -1,0 +1,30 @@
+
+.. csv-table::
+	:header: **#**, **Name**, **Title**, **Date**
+	:widths: 5, 35, 85, 10
+	:quote: "
+
+	1, Shamim Ibne Shahid, "`--\ <#>`__", 31/01/25
+	2, Julia Goncharenko, "`--\ <#>`__", 07/02/25
+	3, Mohammad Yaqoob, "`--\ <#>`__", 14/02/25
+	4, Sam Sutton, "`--\ <#>`__", 21/02/25
+	5, Harpreet Singh, "`--\ <#>`__", 28/02/25
+	6, Shabnam Kadir, "`--\ <#>`__", 07/03/25
+	7, Tariq Hilmi, "`--\ <#>`__", 14/03/25
+	8, Caroline McMillan, "`--\ <#>`__", 21/03/25
+	9, Maria Psarrou, "`--\ <#>`__", 28/03/25
+	10, Yi Sun, "`--\ <#>`__", 04/04/25
+	11, Yar Muhammad, "`--\ <#>`__", 11/04/25
+	12, Na Helian, "`--\ <#>`__", 18/04/25
+	13, Anna Dumitriu, "`--\ <#>`__", 25/04/25
+	14, Manal Helal, "`--\ <#>`__", 02/05/25
+	15, Deepak Panday, "`--\ <#>`__", 09/05/25
+	16, Eleonora Bernasconi, "`--\ <#>`__", 16/05/25
+	17, Volker Steuber, "`--\ <#>`__", 23/05/25
+	18, Paul Moggridge, "`--\ <#>`__", 30/05/25
+	19, Pinaki Saha, "`--\ <#>`__", 06/06/25
+	20, Olga Tveretina, "`--\ <#>`__", 13/06/25
+	21, Agnes Bonivart, "`--\ <#>`__", 20/06/25
+	22, Mahsa Aliakbarzadeh, "`--\ <#>`__", 27/06/25
+	23, Emil Dmitruk, "`--\ <#>`__", 04/07/25
+
