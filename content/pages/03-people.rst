@@ -264,11 +264,6 @@ PhD Students
 
 .. His last name requires a different character - can't use the standard linking way for it
 
-.. _Minghua Zheng:
-
-- `Minghua Zheng`_ |br|
-  Research Interests: Cloud computing, computer vision and deep learning
-
 Affiliated Faculty
 ------------------
 
@@ -646,6 +641,11 @@ Previous Group Members
 
 - `Wajih ul Islam`_ |br|
   Research Interests: machine learning and image processing
+
+.. _Minghua Zheng:
+
+- `Minghua Zheng`_ |br|
+  Research Interests: Cloud computing, computer vision and deep learning
 
 .. |br| raw:: html
 
