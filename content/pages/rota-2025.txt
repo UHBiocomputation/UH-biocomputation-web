@@ -4,26 +4,25 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Sam Sutton, "`--\ <#>`__", 21/02/25
-	2, Caroline McMillan, "`--\ <#>`__", 28/02/25
-	3, Harpreet Singh, "`--\ <#>`__", 07/03/25
-	4, Shabnam Kadir, "`--\ <#>`__", 14/03/25
-	5, Tariq Hilmi, "`--\ <#>`__", 21/03/25
-	6, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
-	7, Maria Psarrou, "`--\ <#>`__", 04/04/25
-	8, Yi Sun, "`--\ <#>`__", 11/04/25
-	9, Yar Muhammad, "`--\ <#>`__", 18/04/25
-	10, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
-	11, Na Helian, "`--\ <#>`__", 02/05/25
-	12, Anna Dumitriu, "`--\ <#>`__", 09/05/25
-	13, Manal Helal, "`--\ <#>`__", 16/05/25
-	14, Deepak Panday, "`--\ <#>`__", 23/05/25
-	15, Eleonora Bernasconi, "`--\ <#>`__", 30/05/25
-	16, Volker Steuber, "`--\ <#>`__", 06/06/25
-	17, Paul Moggridge, "`--\ <#>`__", 13/06/25
-	18, Pinaki Saha, "`--\ <#>`__", 20/06/25
-	19, Olga Tveretina, "`--\ <#>`__", 27/06/25
-	20, Agnes Bonivart, "`--\ <#>`__", 04/07/25
-	21, Mahsa Aliakbarzadeh, "`--\ <#>`__", 11/07/25
-	22, Emil Dmitruk, "`--\ <#>`__", 18/07/25
+	1, Caroline McMillan, "`--\ <#>`__", 28/02/25
+	2, Harpreet Singh, "`--\ <#>`__", 07/03/25
+	3, Shabnam Kadir, "`--\ <#>`__", 14/03/25
+	4, Tariq Hilmi, "`--\ <#>`__", 21/03/25
+	5, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
+	6, Maria Psarrou, "`--\ <#>`__", 04/04/25
+	7, Yi Sun, "`--\ <#>`__", 11/04/25
+	8, Yar Muhammad, "`--\ <#>`__", 18/04/25
+	9, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
+	10, Na Helian, "`--\ <#>`__", 02/05/25
+	11, Anna Dumitriu, "`--\ <#>`__", 09/05/25
+	12, Manal Helal, "`--\ <#>`__", 16/05/25
+	13, Deepak Panday, "`--\ <#>`__", 23/05/25
+	14, Eleonora Bernasconi, "`--\ <#>`__", 30/05/25
+	15, Volker Steuber, "`--\ <#>`__", 06/06/25
+	16, Paul Moggridge, "`--\ <#>`__", 13/06/25
+	17, Pinaki Saha, "`--\ <#>`__", 20/06/25
+	18, Olga Tveretina, "`--\ <#>`__", 27/06/25
+	19, Agnes Bonivart, "`--\ <#>`__", 04/07/25
+	20, Mahsa Aliakbarzadeh, "`--\ <#>`__", 11/07/25
+	21, Emil Dmitruk, "`--\ <#>`__", 18/07/25
 
