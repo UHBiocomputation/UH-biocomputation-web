@@ -1,13 +1,13 @@
-Exploring Convergence Wearable Computing Development
-#####################################################
+Exploring Convergence in Wearable Computing Development
+#######################################################
 :date: 2025-02-26 11:37:04
 :author: Caroline McMillan
 :category: Seminars
 :tags: 
-:slug: exploring-convergence-wearable-computing-development
-:summary: Caroline McMillan's Journal Club session where she will talk about "Exploring Convergence Wearable Computing Development".
+:slug: exploring-convergence-in-wearable-computing-development
+:summary: Caroline McMillan's Journal Club session where she will talk about "Exploring Convergence in Wearable Computing Development".
 
-On this week's Journal Club session, Caroline McMillan will talk about her work in the presentation entitled "Exploring Convergence Wearable Computing Development".
+On this week's Journal Club session, Caroline McMillan will talk about her work in the presentation entitled "Exploring Convergence in Wearable Computing Development".
 
 ------------
 

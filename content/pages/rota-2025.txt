@@ -4,7 +4,7 @@
 	:widths: 5, 35, 85, 10
 	:quote: "
 
-	1, Caroline McMillan, "`Exploring Convergence Wearable Computing Development\ <{filename}/20250226-exploring-convergence-wearable-computing-development.rst>`__", 28/02/25
+	1, Caroline McMillan, "`Exploring Convergence in Wearable Computing Development\ <{filename}/20250226-exploring-convergence-wearable-computing-development.rst>`__", 28/02/25
 	2, Harpreet Singh, "`--\ <#>`__", 07/03/25
 	3, Shabnam Kadir, "`--\ <#>`__", 14/03/25
 	4, Tariq Hilmi, "`--\ <#>`__", 21/03/25

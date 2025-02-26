@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Caroline McMillan - Exploring Convergence Wearable Computing Devel
- opment
+SUMMARY:Caroline McMillan - Exploring Convergence in Wearable Computing De
+ velopment
 DTSTART;TZID=Europe/London:20250228T140000
 DTEND;TZID=Europe/London:20250228T150000
 UID:2025-02-28T00:00:00-00:01
