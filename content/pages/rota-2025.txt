@@ -5,24 +5,23 @@
 	:quote: "
 
 	1, Caroline McMillan, "`Exploring Convergence in Wearable Computing Development\ <{filename}/20250226-exploring-convergence-wearable-computing-development.rst>`__", 28/02/25
-	2, Harpreet Singh, "`--\ <#>`__", 07/03/25
-	3, Shabnam Kadir, "`--\ <#>`__", 14/03/25
-	4, Tariq Hilmi, "`--\ <#>`__", 21/03/25
-	5, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
-	6, Maria Psarrou, "`--\ <#>`__", 04/04/25
-	7, Yi Sun, "`--\ <#>`__", 11/04/25
-	8, Yar Muhammad, "`--\ <#>`__", 18/04/25
-	9, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
-	10, Na Helian, "`--\ <#>`__", 02/05/25
-	11, Anna Dumitriu, "`--\ <#>`__", 09/05/25
-	12, Manal Helal, "`--\ <#>`__", 16/05/25
-	13, Deepak Panday, "`--\ <#>`__", 23/05/25
-	14, Eleonora Bernasconi, "`--\ <#>`__", 30/05/25
-	15, Volker Steuber, "`--\ <#>`__", 06/06/25
-	16, Paul Moggridge, "`--\ <#>`__", 13/06/25
-	17, Pinaki Saha, "`--\ <#>`__", 20/06/25
-	18, Olga Tveretina, "`--\ <#>`__", 27/06/25
-	19, Agnes Bonivart, "`--\ <#>`__", 04/07/25
-	20, Mahsa Aliakbarzadeh, "`--\ <#>`__", 11/07/25
-	21, Emil Dmitruk, "`--\ <#>`__", 18/07/25
+	2, Shabnam Kadir, "`--\ <#>`__", 14/03/25
+	3, Tariq Hilmi, "`--\ <#>`__", 21/03/25
+	4, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
+	5, Maria Psarrou, "`--\ <#>`__", 04/04/25
+	6, Yi Sun, "`--\ <#>`__", 11/04/25
+	7, Yar Muhammad, "`--\ <#>`__", 18/04/25
+	8, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
+	9, Na Helian, "`--\ <#>`__", 02/05/25
+	10, Anna Dumitriu, "`--\ <#>`__", 09/05/25
+	11, Manal Helal, "`--\ <#>`__", 16/05/25
+	12, Deepak Panday, "`--\ <#>`__", 23/05/25
+	13, Eleonora Bernasconi, "`--\ <#>`__", 30/05/25
+	14, Volker Steuber, "`--\ <#>`__", 06/06/25
+	15, Paul Moggridge, "`--\ <#>`__", 13/06/25
+	16, Pinaki Saha, "`--\ <#>`__", 20/06/25
+	17, Olga Tveretina, "`--\ <#>`__", 27/06/25
+	18, Agnes Bonivart, "`--\ <#>`__", 04/07/25
+	19, Mahsa Aliakbarzadeh, "`--\ <#>`__", 11/07/25
+	20, Emil Dmitruk, "`--\ <#>`__", 18/07/25
 
