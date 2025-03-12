@@ -5,7 +5,7 @@
 	:quote: "
 
 	1, Caroline McMillan, "`Exploring Convergence in Wearable Computing Development\ <{filename}/20250226-exploring-convergence-wearable-computing-development.rst>`__", 28/02/25
-	2, Shabnam Kadir, "`--\ <#>`__", 14/03/25
+	2, Shabnam Kadir, "`Combinatorial threshold linear networks and how dynamics can be ascertained via graph motifs in the connectivity matrix.\ <{filename}/20250312-combinatorial-threshold-linear-networks-and-how-dynamics-can-be-ascertained-via-graph-motifs-in-the-connectivity-matrix-.rst>`__", 14/03/25
 	3, Tariq Hilmi, "`--\ <#>`__", 21/03/25
 	4, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
 	5, Maria Psarrou, "`--\ <#>`__", 04/04/25
