@@ -6,7 +6,7 @@
 
 	1, Caroline McMillan, "`Exploring Convergence in Wearable Computing Development\ <{filename}/20250226-exploring-convergence-wearable-computing-development.rst>`__", 28/02/25
 	2, Shabnam Kadir, "`Combinatorial threshold linear networks and how dynamics can be ascertained via graph motifs in the connectivity matrix.\ <{filename}/20250312-combinatorial-threshold-linear-networks-and-how-dynamics-can-be-ascertained-via-graph-motifs-in-the-connectivity-matrix-.rst>`__", 14/03/25
-	3, Shamim Ibne Shahid, "`--\ <#>`__", 28/03/25
+	3, Shamim Ibne Shahid, "`Detecting Anxiety via Machine Learning Algorithms: A Literature Review\ <{filename}/20250325-detecting-anxiety-via-machine-learning-algorithms-a-literature-review.rst>`__", 28/03/25
 	4, Maria Psarrou, "`--\ <#>`__", 04/04/25
 	5, Yi Sun, "`--\ <#>`__", 11/04/25
 	6, Yar Muhammad, "`--\ <#>`__", 18/04/25
