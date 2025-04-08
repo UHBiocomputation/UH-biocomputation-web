@@ -8,17 +8,17 @@
 	2, Shabnam Kadir, "`Combinatorial threshold linear networks and how dynamics can be ascertained via graph motifs in the connectivity matrix.\ <{filename}/20250312-combinatorial-threshold-linear-networks-and-how-dynamics-can-be-ascertained-via-graph-motifs-in-the-connectivity-matrix-.rst>`__", 14/03/25
 	3, Shamim Ibne Shahid, "`Detecting Anxiety via Machine Learning Algorithms: A Literature Review\ <{filename}/20250325-detecting-anxiety-via-machine-learning-algorithms-a-literature-review.rst>`__", 28/03/25
 	4, Xinge Tong, "`Exploring the Use of Online Reviews in the Development of Video Game\ <{filename}/20250408-exploring-the-use-of-online-reviews-in-the-development-of-video-game.rst>`__", 11/04/25
-	5, Mohammad Yaqoob, "`--\ <#>`__", 18/04/25
-	6, Na Helian, "`--\ <#>`__", 25/04/25
-	7, Anna Dumitriu, "`--\ <#>`__", 02/05/25
-	8, Manal Helal, "`--\ <#>`__", 09/05/25
-	9, Deepak Panday, "`--\ <#>`__", 16/05/25
-	10, Maria Psarrou, "`--\ <#>`__", 23/05/25
-	11, Eleonora Bernasconi, "`--\ <#>`__", 30/05/25
-	12, Volker Steuber, "`--\ <#>`__", 06/06/25
-	13, Paul Moggridge, "`--\ <#>`__", 13/06/25
-	14, Pinaki Saha, "`--\ <#>`__", 20/06/25
-	15, Olga Tveretina, "`--\ <#>`__", 27/06/25
-	16, Agnes Bonivart, "`--\ <#>`__", 04/07/25
-	17, Mahsa Aliakbarzadeh, "`--\ <#>`__", 11/07/25
+	5, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
+	6, Na Helian, "`--\ <#>`__", 02/05/25
+	7, Anna Dumitriu, "`--\ <#>`__", 09/05/25
+	8, Manal Helal, "`--\ <#>`__", 16/05/25
+	9, Deepak Panday, "`--\ <#>`__", 23/05/25
+	10, Maria Psarrou, "`--\ <#>`__", 30/05/25
+	11, Eleonora Bernasconi, "`--\ <#>`__", 06/06/25
+	12, Volker Steuber, "`--\ <#>`__", 13/06/25
+	13, Paul Moggridge, "`--\ <#>`__", 20/06/25
+	14, Pinaki Saha, "`--\ <#>`__", 27/06/25
+	15, Olga Tveretina, "`--\ <#>`__", 04/07/25
+	16, Agnes Bonivart, "`--\ <#>`__", 11/07/25
+	17, Mahsa Aliakbarzadeh, "`--\ <#>`__", 18/07/25
 
