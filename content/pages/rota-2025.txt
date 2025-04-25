@@ -8,7 +8,7 @@
 	2, Shabnam Kadir, "`Combinatorial threshold linear networks and how dynamics can be ascertained via graph motifs in the connectivity matrix.\ <{filename}/20250312-combinatorial-threshold-linear-networks-and-how-dynamics-can-be-ascertained-via-graph-motifs-in-the-connectivity-matrix-.rst>`__", 14/03/25
 	3, Shamim Ibne Shahid, "`Detecting Anxiety via Machine Learning Algorithms: A Literature Review\ <{filename}/20250325-detecting-anxiety-via-machine-learning-algorithms-a-literature-review.rst>`__", 28/03/25
 	4, Xinge Tong, "`Exploring the Use of Online Reviews in the Development of Video Game\ <{filename}/20250408-exploring-the-use-of-online-reviews-in-the-development-of-video-game.rst>`__", 11/04/25
-	5, Mohammad Yaqoob, "`--\ <#>`__", 25/04/25
+	5, Muhammad Yaqoob, "`Understanding structure-function mapping in small spiking neural networks.\ <{filename}/20250425-understanding-structure-function-mapping-in-small-spiking-neural-networks-.rst>`__", 25/04/25
 	6, Anna Dumitriu, "`--\ <#>`__", 09/05/25
 	7, Manal Helal, "`--\ <#>`__", 16/05/25
 	8, Deepak Panday, "`--\ <#>`__", 23/05/25
