@@ -153,6 +153,11 @@ PhD Students
 - `Mahsa Aliakbarzadeh`_ |br|
   Research Interests: cerebellar computation, robotics and medical applications
 
+.. _Dileepa Joseph Jayamanne:
+
+- `Dileepa Joseph Jayamanne`_ |br|
+  Research Interests: Deep Learning for Computer Vision in Biocomputation, Machine Learning for Video Analysis and Image Processing, Data Science for Pattern Discovery and Decision Support
+
 .. _Shadiya Alingal Meethal:
 
 - `Shadiya Alingal Meethal`_ (with `Adaptive Systems`_) |br|
