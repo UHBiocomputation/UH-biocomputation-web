@@ -69,7 +69,7 @@ class generateRota:
 
         # ===-===-===-===-===-===-===-===-===-===-===-===-
         # TODO this should be changed to be loaded from the rota csv files
-        self.start_date = date(2025, 2, 28)
+        self.start_date = date(2026, 10, 4)
         # ===-===-===-===-===-===-===-===-===-===-===-===-
 
         # defaults
@@ -259,6 +259,17 @@ class generateRota:
             logging.critical("Error creating RST file")
             sys.exit(-1)
 
+        # A csv-table with a header but no data rows crashes docutils
+        # ("requires content; none supplied") when included into a page.
+        # Emit a placeholder paragraph instead when the rota is empty.
+        rows = [data for data in self.all_events if data[7] == "1"]
+        if not rows:
+            print("No sessions scheduled yet.", file=rst_file)
+            print(file=rst_file)
+            rst_file.close()
+            logging.info("RST file written (empty rota): {}".format(self.rota_rst))
+            return
+
         print(textwrap.dedent(self.table_header), file=rst_file)
         for data in self.all_events:
             name, talk_title, title_blog, rota_date, start_time, end_time, location, to_post = data
@@ -269,7 +280,7 @@ class generateRota:
                     print('\t{}, {}, "`{} {}`__", {}'.format("--", name, talk_title, title_blog, rota_date.strftime("%d/%m/%y")), file=rst_file)
                 else:
                     print(
-                        '\t{}, {}, "`{}\ {}`__", {}'.format(
+                        '\t{}, {}, "`{}\\ {}`__", {}'.format(
                             # TODO replace with f string
                             counter,
                             name,
